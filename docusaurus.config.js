@@ -18,7 +18,7 @@ const config = {
   url: 'https://funblocks.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -42,7 +42,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // routeBasePath: '/', // 默认 `/docs`，改成 `/` 让它成为首页
+          routeBasePath: '/', // 默认 `/docs`，改成 `/` 让它成为首页
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
