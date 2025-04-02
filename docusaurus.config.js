@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'FunBlocks AI',
   tagline: 'You ultimate AI workspace for creativity and productivity',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.png',
 
   // Set the production url of your site here
   url: 'https://funblocks.net',
@@ -80,14 +80,14 @@ const config = {
         title: 'FunBlocks',
         logo: {
           alt: 'FunBlocks Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           // {

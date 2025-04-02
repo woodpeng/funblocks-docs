@@ -2,46 +2,47 @@
 sidebar_position: 1
 ---
 
-# FunBlocks Intro
+# FunBlocks AI
 
-Let's discover **Docusaurus in less than 5 minutes**.
+***Your All-in-One AI Platform for Smarter Work & Study!***
 
-## Getting Started
+**Boost your creativity and productivity with FunBlocks AI Workspace, an integrated, AI-powered platform designed to streamline how you think, create, and manage knowledge.**
 
-Get started by **creating a new site**.
+Stop switching between different apps for mind mapping, writing, presentations, and research. FunBlocks brings everything together in one smart workspace, supercharged with AI.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## What is FunBlocks AI Workspace?
 
-### What you'll need
+It's a single platform combining essential tools, all enhanced with artificial intelligence (powered by leading models like GPT-4, Claude, Gemini, and DeepSeek) to help you work smarter, not harder.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Meet the Core Tools:
 
-## Generate a new site
+* **FunBlocks AIFlow: AI Mind Mapping & Whiteboard**  
+  * Brainstorm visually on an infinite canvas. Get AI suggestions to expand your thinking, create multi-level mind maps automatically, and group related ideas. Perfect for exploring topics and understanding complex information.  
+* **FunBlocks AI Writer: AI Document Editor & Notes**  
+  * Write documents, take notes, and build your personal knowledge base with an easy-to-use block editor (similar to Notion). Get help from an AI writing assistant for drafting, summarizing, and formatting content quickly.  
+* **FunBlocks AI Slides: AI Presentation Maker**  
+  * Create professional-looking presentations fast. Focus on your content using simple Markdown, and let AI help generate slides with just one click. Easily turn your mind maps from AIFlow into engaging presentations.  
+* **FunBlocks AI Extension: Smart Browser Assistant**  
+  * Enhance your web Browse on Chrome and Edge. Get AI-powered summaries of web pages, writing improvements, and research assistance without leaving your browser.
 
-Generate a new Docusaurus site using the **classic template**.
+## Why Choose FunBlocks? 
 
-The classic template will automatically be added to your project after you run the command:
+Key Advantages:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+* **All-in-One Convenience:** Access tools for brainstorming, writing, presenting, and researching within a single, integrated platform. No more context switching\!  
+* **Powerful Visualization:** Turn abstract ideas into clear, visual formats. Use AI-driven mind maps and whiteboards to explore connections and gain new perspectives.  
+* **AI-Enhanced Workflow:** Leverage built-in AI to generate ideas, overcome writer's block, summarize information, create content, and improve productivity across all tasks.  
+* **Full Process Support:** FunBlocks supports your entire journey – from the first spark of an idea, through visual exploration and content creation, to producing polished outputs and building a lasting knowledge base.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Who Is It For?
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+FunBlocks AI Workspace is ideal for:
 
-## Start your site
+* **Students:** Organizing notes, researching topics, writing papers, and creating presentations.  
+* **Professionals:** Brainstorming strategies, managing projects, drafting reports, and collaborating effectively.  
+* **Researchers:** Exploring complex subjects, organizing findings, and communicating insights.  
+* **Anyone** looking to boost their thinking, learning, and creative output with integrated AI tools.
 
-Run the development server:
+**Get started with FunBlocks AI Workspace and unlock a smarter way to work and learn.**
 
-```bash
-cd my-website
-npm run start
-```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
