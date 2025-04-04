@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -18,7 +18,7 @@ const config = {
   url: 'https://funblocks.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -31,9 +31,21 @@ const config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en'],
+  // },
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'cn'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      cn: {
+        label: '中文',
+      },
+    },
   },
 
   presets: [
@@ -42,7 +54,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/', // 让 docs 成为 /docs/ 下的根路径
+          // routeBasePath: '/', // 让 docs 成为 /docs/ 下的根路径
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -83,17 +95,27 @@ const config = {
           src: 'img/icon.png',
         },
         items: [
+          { to: '/#aiflow', label: 'AIFlow', position: 'left' },
+          { to: '/#tools', label: 'Quick Start', position: 'left' },
+          { to: '/#usecases', label: 'Use Cases', position: 'left' },
+          { to: '/#workspace', label: 'Workspace', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+
           // {
           //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
+          //   // label: () => <div>abc</div>,
           //   position: 'right',
+
           // },
         ],
       },

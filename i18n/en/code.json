@@ -1,0 +1,455 @@
+{
+  "homepage.head.title": {
+    "message": "FunBlocks AI - Your AI-powered workspace for enhanced creativity and productivity through innovative whiteboarding, mind mapping, slide creation, and document tools"
+  },
+  "homepage.nav.home": {
+    "message": "FunBlocks AI"
+  },
+  "homepage.nav.aiflow": {
+    "message": "AIFlow"
+  },
+  "homepage.nav.tools": {
+    "message": "Quick Start"
+  },
+  "homepage.nav.useCases": {
+    "message": "Use Cases"
+  },
+  "homepage.nav.workspace": {
+    "message": "Workspace"
+  },
+  "homepage.nav.pricing": {
+    "message": "Pricing"
+  },
+  "homepage.nav.trial": {
+    "message": "Free Trial"
+  },
+  "homepage.hero.title": {
+    "message": "Explore, Think and Create with AI"
+  },
+  "homepage.hero.subtitle": {
+    "message": "An AI-driven platform that enhances thinking and productivity through visualization. Effortlessly convert intricate concepts into engaging visual mind maps, dynamic slides, and informative infographics."
+  },
+  "homepage.hero.trial": {
+    "message": "Free Trial Now"
+  },
+  "homepage.hero.learnMore": {
+    "message": "Learn More"
+  },
+  "homepage.beyond.title": {
+    "message": "Beyond ChatGPT"
+  },
+  "homepage.beyond.description": {
+    "message": "Text chatbox is not the only way to interact with AI. Visualize your thoughts and AI's output in formats that truly enhance your cognitive process."
+  },
+  "homepage.beyond.visualize.title": {
+    "message": "Visualize Complex Thinking"
+  },
+  "homepage.beyond.visualize.description": {
+    "message": "Transform linear conversations into multidimensional mind maps that reveal connections, patterns, and insights that text alone cannot convey."
+  },
+  "homepage.beyond.accelerate.title": {
+    "message": "Accelerate Creativity and Innovation"
+  },
+  "homepage.beyond.accelerate.description": {
+    "message": "Combine AI's vast knowledge with visual thinking techniques to break through creative barriers and generate breakthrough ideas."
+  },
+  "homepage.beyond.streamline.title": {
+    "message": "Enhance Your Productivity"
+  },
+  "homepage.beyond.streamline.description": {
+    "message": "Transform complex information into structured visual outputs that can be instantly converted into professional deliverables."
+  },
+  "homepage.features.visualize.title": {
+    "message": "Visualize Complex Thinking"
+  },
+  "homepage.features.visualize.description": {
+    "message": "Traditional AI chatbots limit thinking to a linear conversation. FunBlocks AIFlow expands your cognitive horizon with multidimensional mind maps on an infinite canvas."
+  },
+  "homepage.features.visualize.point1": {
+    "message": "Explore any topic from multiple angles simultaneously, revealing insights that linear thinking misses"
+  },
+  "homepage.features.visualize.point2": {
+    "message": "Dive infinitely deeper into any subtopic while maintaining the full context, creating comprehensive knowledge structures"
+  },
+  "homepage.features.visualize.point3": {
+    "message": "Let AI generate an entire exploration space with related topics and questions you hadn't considered"
+  },
+  "homepage.features.visualize.point4": {
+    "message": "Refine your thinking with AI-optimized questions that target the core of complex problems"
+  },
+  "homepage.features.accelerate.title": {
+    "message": "Accelerate Creativity and Innovation"
+  },
+  "homepage.features.accelerate.description": {
+    "message": "Move beyond the creative limitations of text-based AI interactions. FunBlocks AIFlow combines AI insights with powerful visual frameworks to spark genuine innovation."
+  },
+  "homepage.features.accelerate.point1": {
+    "message": "Integrate AI's vast knowledge with visual brainstorming to generate connections human minds might not naturally make"
+  },
+  "homepage.features.accelerate.point2": {
+    "message": "Deconstruct complex problems visually to identify root causes and hidden opportunities"
+  },
+  "homepage.features.accelerate.point3": {
+    "message": "Apply classic thinking models (like SCAMPER, Six Thinking Hats, and First Principles) directly in your mind maps with AI assistance"
+  },
+  "homepage.features.accelerate.point4": {
+    "message": "Overcome creative blocks by visually expanding idea spaces in multiple directions simultaneously"
+  },
+  "homepage.features.streamline.title": {
+    "message": "Enhance Your Productivity"
+  },
+  "homepage.features.streamline.description": {
+    "message": "Transform the way you work with information. FunBlocks AIFlow turns complex knowledge work into a visual, collaborative process with immediate, tangible outputs."
+  },
+  "homepage.features.streamline.point1": {
+    "message": "Instantly break down overwhelming projects into manageable visual components with AI assistance"
+  },
+  "homepage.features.streamline.point2": {
+    "message": "Interact with AI through an intuitive visual interface that matches how your brain naturally processes complex information"
+  },
+  "homepage.features.streamline.point3": {
+    "message": "Collaborate with AI to explore multiple solution paths simultaneously, identifying the optimal approach faster"
+  },
+  "homepage.features.streamline.point4": {
+    "message": "Convert your visual thinking directly into professional deliverables—slides, infographics, documents—with a single click"
+  },
+  "homepage.tools.title": {
+    "message": "Innovative AI Tools Designed for Various Scenarios"
+  },
+  "homepage.tools.description": {
+    "message": "FunBlocks AIFlow is a comprehensive creativity and productivity platform with specialized tools designed for specific cognitive challenges."
+  },
+  "homepage.tools.tools_list": {
+    "message": "AI Tools"
+  },
+  "homepage.tools.tool1.title": {
+    "message": "AI Mind Map Generator"
+  },
+  "homepage.tools.tool1.description": {
+    "message": "Easily convert documents, books, and movies into mind maps to help you clarify complex ideas quickly."
+  },
+  "homepage.tools.tool2.title": {
+    "message": "AI Brainstorming"
+  },
+  "homepage.tools.tool2.description": {
+    "message": "Combine AI with classic thinking models to brainstorm on specific topics or problems, sparking creativity and innovative solutions."
+  },
+  "homepage.tools.tool3.title": {
+    "message": "AI Critical Thinking"
+  },
+  "homepage.tools.tool3.description": {
+    "message": "Enhance your critical thinking skills, gaining insights from multiple perspectives through questioning, analysis, and reflection."
+  },
+  "homepage.tools.tool4.title": {
+    "message": "AI Slides Generator"
+  },
+  "homepage.tools.tool4.description": {
+    "message": "Quickly create professional slides and presentations on any topic, making it easy to prepare for your presentations."
+  },
+  "homepage.tools.tool5.title": {
+    "message": "AI Infographics Generator"
+  },
+  "homepage.tools.tool5.description": {
+    "message": "Automatically generate infographics and knowledge cards from input text, helping you convey information visually."
+  },
+  "homepage.tools.tool6.title": {
+    "message": "AI Art Insight"
+  },
+  "homepage.tools.tool6.description": {
+    "message": "Gain deeper artistic analysis and appreciation by taking photos during your travels and museum visits."
+  },
+  "homepage.tools.tool7.title": {
+    "message": "AI Education Tool"
+  },
+  "homepage.tools.tool7.description": {
+    "message": "Break down topics into progressive cognitive levels based on Bloom's educational theories to enhance learning efficiency and teaching effectiveness."
+  },
+  "homepage.tools.tool8.title": {
+    "message": "AI Psychological Insights"
+  },
+  "homepage.tools.tool8.description": {
+    "message": "Receive psychological counseling and dream interpretation services anytime, helping you better understand your inner world."
+  },
+  "homepage.tools.tool9.title": {
+    "message": "AI Image Generator"
+  },
+  "homepage.tools.tool9.description": {
+    "message": "Generate personalized avatars and images in your desired style with a single click."
+  },
+  "homepage.multiModel.title": {
+    "message": "All Leading AI Models in One Place"
+  },
+  "homepage.multiModel.description": {
+    "message": "FunBlocks AI supports all mainstream large language models, giving you the freedom to choose the best AI for your specific needs."
+  },
+  "homepage.multiModel.advantage": {
+    "message": "Boosting productivity without switching between platforms or purchasing multiple subscriptions."
+  },
+  "homepage.multiModel.benefit": {
+    "message": "You can also use your own LLM API key (such as GPT, Claude, Gemini, or any OpenAI-compatible API) to access to all features of FunBlocks AI for FREE!"
+  },
+  "homepage.workspace.title": {
+    "message": "FunBlocks: All-in-one AI Workspace"
+  },
+  "homepage.workspace.description": {
+    "message": "Beyond AIFlow, FunBlocks serves as an all-in-one AI workspace designed to meet all your work and learning requirements, offering seamlessly integrated tools for writing, presenting, brainstorming, browsing and research."
+  },
+  "homepage.workspace.writer.title": {
+    "message": "AI Writer"
+  },
+  "homepage.workspace.writer.description": {
+    "message": "Experience Notion-style Block Editor with AI-powered writing assistance. Create beautiful documents, notes, and content with intelligent suggestions and formatting."
+  },
+  "homepage.workspace.slides.title": {
+    "message": "AI Slides"
+  },
+  "homepage.workspace.slides.description": {
+    "message": "Generate professional presentations with a single click based on any topic. Fully supports Markdown formatting for easy writing and editing of slide content."
+  },
+  "homepage.workspace.aiflow.title": {
+    "message": "AIFlow"
+  },
+  "homepage.workspace.aiflow.description": {
+    "message": "Unleash creativity with AI-powered whiteboard and mind mapping tools. Visualize complex ideas, brainstorm with AI assistance, and organize your thoughts effectively."
+  },
+  "homepage.workspace.extension.title": {
+    "message": "AI Browser Extension"
+  },
+  "homepage.workspace.extension.description": {
+    "message": "Enhance your browsing experience with an intelligent extension that assists with reading and writing on any webpage. Summarize content, draft responses, and research efficiently."
+  },
+  "homepage.useCases.title": {
+    "message": "Use Cases"
+  },
+  "homepage.useCases.description": {
+    "message": "FunBlocks AIFlow adapts to diverse knowledge work scenarios, enhancing your thinking process from exploration to execution."
+  },
+  "homepage.useCases.learning.title": {
+    "message": "Topic-Based Learning"
+  },
+  "homepage.useCases.learning.description": {
+    "message": "Build comprehensive knowledge systems and discover cross-disciplinary connections. Transform books, lectures, and resources into interactive visual mind maps."
+  },
+  "homepage.useCases.strategy.title": {
+    "message": "Work Plan Strategy"
+  },
+  "homepage.useCases.strategy.description": {
+    "message": "Develop strategic work plans by visually mapping goals, breaking down complex initiatives, and generating solution paths with AI guidance."
+  },
+  "homepage.useCases.analysis.title": {
+    "message": "Content Analysis"
+  },
+  "homepage.useCases.analysis.description": {
+    "message": "Deeply analyze films, books, and artworks through mind mapping, extracting profound insights and constructing a comprehensive knowledge system and framework of thought."
+  },
+  "homepage.useCases.problem.title": {
+    "message": "Problem Analysis"
+  },
+  "homepage.useCases.problem.description": {
+    "message": "Visualize complex problems from multiple angles, identify root causes, and discover innovative solutions through structured AI-assisted exploration."
+  },
+  "homepage.useCases.content.title": {
+    "message": "Content Generation"
+  },
+  "homepage.useCases.content.description": {
+    "message": "Transform brainstorming mind maps into polished documents, professional slides, compelling images, and informative infographics with a single click, streamlining your workflow."
+  },
+  "homepage.useCases.thinking.title": {
+    "message": "Thinking Enhancement"
+  },
+  "homepage.useCases.thinking.description": {
+    "message": "Progressively improve your critical and creative thinking abilities through AI-guided mind mapping. Develop advanced cognitive skills through regular use of structured thinking frameworks."
+  },
+  "homepage.testimonials.title": {
+    "message": "What Our Users Say"
+  },
+  "homepage.testimonials.description": {
+    "message": "Discover how FunBlocks AI is transforming the way professionals, students, and teams work, learn, and create."
+  },
+  "homepage.testimonials.user1.name": {
+    "message": "Sarah J."
+  },
+  "homepage.testimonials.user1.role": {
+    "message": "Education Consultant"
+  },
+  "homepage.testimonials.user1.text": {
+    "message": "\"FunBlocks AI has revolutionized how I create educational content. The mind mapping features help me organize complex topics visually, and being able to convert those maps directly into presentation slides saves me hours of work. My students love the clear, visually engaging materials I now produce.\""
+  },
+  "homepage.testimonials.user2.name": {
+    "message": "Michael T."
+  },
+  "homepage.testimonials.user2.role": {
+    "message": "Product Manager"
+  },
+  "homepage.testimonials.user2.text": {
+    "message": "\"I've tried numerous productivity tools, but FunBlocks AI stands out. The combination of AI-powered mind mapping and the ability to generate professional documents in seconds has dramatically improved our team's workflow. The most impressive part? I've noticed my own critical thinking skills improving with regular use.\""
+  },
+  "homepage.testimonials.user3.name": {
+    "message": "Tobias O."
+  },
+  "homepage.testimonials.user3.role": {
+    "message": "Teacher"
+  },
+  "homepage.testimonials.user3.text": {
+    "message": "\"My productivity as a teacher has reached new heights with FunBlocks AI Flow! This incredible tool has become my go-to assistant, helping me dive deeper into content and deliver clearer, more engaging lessons for my students. I’m so impressed with its capabilities that I’ve decided to share it with my fellow educators during a webinar I’m hosting next week. FunBlocks AI Flow is an absolute powerhouse—it’s a game-changer for any teacher looking to enhance their teaching and streamline their workflow!\""
+  },
+  "homepage.testimonials.user4.name": {
+    "message": "Lin W."
+  },
+  "homepage.testimonials.user4.role": {
+    "message": "Grad Student"
+  },
+  "homepage.testimonials.user4.text": {
+    "message": "\"As a research student, organizing complex information is crucial. FunBlocks AI helps me structure my research visually and generate comprehensive literature reviews. The AI assistance has opened my eyes to connections between concepts I might have missed. It’s like having a research partner who never sleeps!\""
+  },
+  "homepage.testimonials.user5.name": {
+    "message": "Emily R."
+  },
+  "homepage.testimonials.user5.role": {
+    "message": "Marketing Manager"
+  },
+  "homepage.testimonials.user5.text": {
+    "message": "\"Using FunBlocks AIFlow for brainstorming has helped me break through mental barriers and generate breakthrough ideas, leading to innovative solutions for our marketing strategies. The mind map generator, especially, is an absolute must-have for any creative professional!\""
+  },
+  "homepage.testimonials.user6.name": {
+    "message": "Alex P."
+  },
+  "homepage.testimonials.user6.role": {
+    "message": "Student"
+  },
+  "homepage.testimonials.user6.text": {
+    "message": "\"As a student, FunBlocks AI has significantly enhanced my learning capabilities. It aids in thematic learning, allowing me to explore and delve deeper into subjects, ultimately improving my critical thinking skills.\""
+  },
+  "homepage.cta.title": {
+    "message": "Ready to Embark on a Knowledge Adventure?"
+  },
+  "homepage.cta.subtitle": {
+    "message": "Join FunBlocks AI and unleash your limitless cognitive potential!"
+  },
+  "homepage.cta.button": {
+    "message": "Start Your Free Trial Now"
+  },
+  "homepage.faq.title": {
+    "message": "Frequently Asked Questions"
+  },
+  "homepage.faq.q0": {
+    "message": "What is FunBlocks?"
+  },
+  "homepage.faq.a0": {
+    "message": "FunBlocks is an AI-driven knowledge learning and productivity platform that offers an all-in-one AI workspace. Users can leverage the AI assistant to write documents and notes, conduct mind mapping and whiteboard brainstorming, engage in topic-based learning, and create slides in Markdown format with a single click to generate infographics. Additionally, FunBlocks provides a browser extension to assist users with AI-powered writing and reading on any webpage."
+  },
+  "homepage.faq.q01": {
+    "message": "Why does the homepage emphasize FunBlocks AIFlow?"
+  },
+  "homepage.faq.a01": {
+    "message": "FunBlocks AIFlow innovatively stimulates the creativity of large language models through a visual AI whiteboard and mind mapping, enabling users to brainstorm collaboratively with AI. Users can convert mind maps into tangible work outputs, such as slides and proposal documents, with one click, and these outputs are automatically saved in the FunBlocks workspace for easy modification and optimization later. Therefore, positioning FunBlocks AIFlow as the entry point allows users to experience the powerful capabilities of the FunBlocks platform in enhancing learning, creation, and work efficiency earlier on."
+  },
+  "homepage.faq.q1": {
+    "message": "What is FunBlocks AIFlow?"
+  },
+  "homepage.faq.a1": {
+    "message": "FunBlocks AIFlow is an AI-driven visual thinking platform that helps you transform complex ideas into mind maps, slides, and infographics. It combines the power of AI with visual thinking techniques to enhance your cognitive processes and productivity."
+  },
+  "homepage.faq.q2": {
+    "message": "How does AIFlow differ from ChatGPT?"
+  },
+  "homepage.faq.a2": {
+    "message": "ChatGPT provides linear text conversations, while AIFlow offers a visual and multidimensional workspace. You can explore ideas in multiple directions simultaneously, maintain context through visual hierarchies, and instantly convert your thoughts into professional deliverables."
+  },
+  "homepage.faq.q3": {
+    "message": "What can I create with AIFlow?"
+  },
+  "homepage.faq.a3": {
+    "message": "With AIFlow, you can create mind maps, presentation slides, infographics, strategic plans, knowledge maps, and visual analyses of complex topics. The platform supports various thinking frameworks and allows you to convert your visual creations into different formats."
+  },
+  "homepage.faq.q4": {
+    "message": "What other products does FunBlocks offer besides AIFlow?"
+  },
+  "homepage.faq.a4": {
+    "message": "FunBlocks provides a comprehensive suite of AI tools and a workspace designed to enhance productivity and spark creativity. It integrates AI-powered mind mapping, document writing, and slide generation features to create a holistic knowledge work environment.\n\nKey products include:\nFunBlocks AI Flow: An AI-driven mind mapping tool for creativity and knowledge exploration.\nFunBlocks AI Writer: An AI-powered Notion-style block editor that offers an AI writing assistant for document creation.\nFunBlocks AI Slides: An AI-driven slide generation tool that creates slides with one click, providing content writing and presentation guidance.\nFunBlocks Browser Extension: An efficiency-boosting browser extension that supports AI writing, reading, email replies, and more.\nFunBlocks AI Tools: Professionally designed AI tools for instant access, providing solutions for specific use cases, including AI graphics, AI mind maps, AI brainstorming, AI slides, AI decision analyzers, AI task planners, and AI YouTube summarizers.\nAI Assistant: A customizable AI assistant that supports custom prompts and integrates with AI Flow, AI Slides, AI Writer, and the browser extension."
+  },
+  "homepage.faq.q5": {
+    "message": "Is FunBlocks suitable for team collaboration?"
+  },
+  "homepage.faq.a5": {
+    "message": "Yes, FunBlocks is suitable for both individual and team use. Teams can collaborate in shared workspaces for brainstorming, document writing, and more, while maintaining a shared knowledge base with the assistance of AI."
+  },
+  "homepage.faq.q6": {
+    "message": "Do I need technical skills to use FunBlocks AI?"
+  },
+  "homepage.faq.a6": {
+    "message": "No technical skills are required. FunBlocks AI features an intuitive interface that allows you to easily start creating boards or documents and use the AI assistant for learning and creation."
+  },
+  "homepage.faq.q7": {
+    "message": "Which industries or roles can benefit from FunBlocks AI?"
+  },
+  "homepage.faq.a7": {
+    "message": "FunBlocks AI is valuable for educators, students, business professionals, researchers, writers, and anyone engaged in knowledge work. It is particularly suitable for strategic planning, content creation, learning, problem-solving, and decision-making."
+  },
+  "homepage.faq.q8": {
+    "message": "Is AIFlow just another AI mind mapping tool? How does it differ from regular AI mind mapping tools?"
+  },
+  "homepage.faq.a8": {
+    "message": "While AIFlow does include AI-assisted mind mapping features, it offers much more than that. Compared to regular AI mind mapping tools (like Xmind, FreeMind, MindMeister, etc.), AIFlow provides a more comprehensive and powerful feature set:\n1. Boundless whiteboard: Not limited to tree structures, allowing free layout and connection of ideas.\n2. Diverse node types: Supports images, notes, task lists, etc., each with dedicated AI assistants.\n3. One-click content generation: Quickly transform mind maps into articles, plans, and other practical content.\n4. Proactive AI inspiration: AI can actively guide you in exploring relevant topics and critical thinking related to your themes and questions, sparking innovative ideas.\n5. Customizable AI prompts: Allows you to create AI assistants tailored to specific tasks without programming knowledge.\nThese features make AIFlow a more comprehensive tool for creativity and productivity, suitable for various scenarios such as learning, work, and creation."
+  },
+  "homepage.faq.q9": {
+    "message": "What advantages does AIFlow offer in assisting thinking?"
+  },
+  "homepage.faq.a9": {
+    "message": "AIFlow has multiple advantages in aiding thought processes:\n1. Multidimensional analysis: Helps you examine problems from multiple angles through mind maps and AI suggestions.\n2. Breaking thought limitations: AI can provide unexpected insights, helping you break free from conventional thinking patterns.\n3. Knowledge connections: AI can help you establish links between different fields, fostering innovative thinking.\n4. Application of classic thinking models: AIFlow supports various classic thinking models, helping you think within clear and efficient frameworks.\n5. Problem decomposition: Assists you in breaking down complex problems into manageable parts for gradual resolution.\n6. Knowledge exploration: Input a topic, and AI can guide you in exploring related fields, expanding your knowledge base.\nThese features make AIFlow a powerful tool for enhancing your analytical and innovative capabilities."
+  },
+  "homepage.faq.q10": {
+    "message": "What advantages does using FunBlocks AIFlow for brainstorming offer?"
+  },
+  "homepage.faq.a10": {
+    "message": "FunBlocks AIFlow simplifies the brainstorming process using AI technology, enabling rapid generation of comprehensive mind maps that help you easily gather a wealth of ideas and creativity. Its flexible interactive interface allows you to explore more ideas from different angles with the AI assistant. Additionally, AIFlow incorporates classic thinking models (such as Six Thinking Hats, McKinsey Method, SCAMPER, SWOT Analysis, perspective shifting, reverse thinking, Business Model Canvas, and Value Proposition Canvas), fully leveraging the capabilities of large language models to help you generate novel ideas."
+  },
+  "homepage.faq.q11": {
+    "message": "Does a paid membership for FunBlocks AI apply to all FunBlocks AI products and services?"
+  },
+  "homepage.faq.a11": {
+    "message": "Yes, unless otherwise specified, the permissions and AI access quotas granted by a paid membership for FunBlocks AI apply to all products and services on the platform."
+  },
+  "homepage.faq.q12": {
+    "message": "If I use my own API Key (such as ChatGPT, Claude, Gemini, Groq, etc.), do I still need to pay for FunBlocks AI services?"
+  },
+  "homepage.faq.a12": {
+    "message": "No, you do not. If you use your own API Key, you only need to pay the service provider. FunBlocks AI does not charge additional fees and is not subject to daily free access quotas."
+  },
+  "homepage.faq.q14": {
+    "message": "What types of creative work is FunBlocks AIFlow suitable for?"
+  },
+  "homepage.faq.a14": {
+    "message": "FunBlocks AIFlow is particularly suitable for tasks that require multi-angle thinking and creative exploration, such as brainstorming, topic research, and content planning. It combines the powerful understanding and reasoning capabilities of AI to facilitate multi-threaded interactions in an infinite canvas space, helping users delve deeper into exploration and expand their thinking."
+  },
+  "homepage.faq.q15": {
+    "message": "Why does FunBlocks AI support all major large language models?"
+  },
+  "homepage.faq.a15": {
+    "message": "FunBlocks AI is committed to providing users with flexible choices and the best experience. By supporting all major large language models, we meet your diverse needs, ensuring you can choose the most suitable AI model based on personal preferences and workflows, thereby enhancing work efficiency and creativity."
+  },
+  "homepage.faq.q16": {
+    "message": "Can I try FunBlocks AI for free?"
+  },
+  "homepage.faq.a16": {
+    "message": "Yes, FunBlocks AI offers a free trial. New users will receive 30 free AI service accesses upon registration, along with an additional 10 free accesses daily, allowing you to fully experience the transformative assistance of FunBlocks AI in learning and work. Additionally, FunBlocks AI has a reward mechanism where you and your friends can receive extra free usage credits by inviting friends to register."
+  },
+  "homepage.faq.q17": {
+    "message": "How can I earn free usage credits by inviting friends?"
+  },
+  "homepage.faq.a17": {
+    "message": "You can invite friends in two ways. First, share the invitation link, and your friend will receive a reward upon registering through the link. Second, share the FunBlocks AI browser extension or content generated by AI Flow; if users click to read and register, you will also receive an invitation reward."
+  },
+  "homepage.faq.q18": {
+    "message": "How can I cancel my subscription plan?"
+  },
+  "homepage.faq.a18": {
+    "message": "You can find the \"Upgrade AI Membership\" and \"Upgrade FunBlocks\" sections in the settings. If you have subscribed to a membership plan, there will be a Cancel button in the corresponding description area that you can click to unsubscribe."
+  },
+  "homepage.faq.q19": {
+    "message": "Is my data safe on the FunBlocks platform?"
+  },
+  "homepage.faq.a19": {
+    "message": "We prioritize data security and privacy. All data is encrypted, and we follow industry best practices to protect it. You have complete control over your content and can manage sharing permissions."
+  }
+}

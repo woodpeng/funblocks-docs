@@ -1,0 +1,455 @@
+{
+  "homepage.head.title": {
+    "message": "FunBlocks AI - AI驱动的工作空间，通过创新的白板、思维导图、幻灯片创建和文档工具提升创造力和生产力。"
+  },
+  "homepage.nav.home": {
+    "message": "FunBlocks AI"
+  },
+  "homepage.nav.aiflow": {
+    "message": "AIFlow"
+  },
+  "homepage.nav.tools": {
+    "message": "快速开始"
+  },
+  "homepage.nav.useCases": {
+    "message": "使用案例"
+  },
+  "homepage.nav.workspace": {
+    "message": "工作空间"
+  },
+  "homepage.nav.pricing": {
+    "message": "定价"
+  },
+  "homepage.nav.trial": {
+    "message": "免费试用"
+  },
+  "homepage.hero.title": {
+    "message": "与AI共同探索、思考与创造"
+  },
+  "homepage.hero.subtitle": {
+    "message": "一个通过可视化增强思维和生产力的AI平台。轻松将复杂概念转化为引人入胜的视觉思维导图、动态幻灯片和信息丰富的信息图表。"
+  },
+  "homepage.hero.trial": {
+    "message": "立即免费试用"
+  },
+  "homepage.hero.learnMore": {
+    "message": "了解更多"
+  },
+  "homepage.beyond.title": {
+    "message": "超越ChatGPT"
+  },
+  "homepage.beyond.description": {
+    "message": "文本聊天框并不是与AI互动的唯一方式。以真正增强您的认知过程的格式可视化您的想法和AI的输出。"
+  },
+  "homepage.beyond.visualize.title": {
+    "message": "复杂思维可视化"
+  },
+  "homepage.beyond.visualize.description": {
+    "message": "将线性对话转化为多维思维导图，揭示文本无法传达的连接、模式和洞察。"
+  },
+  "homepage.beyond.accelerate.title": {
+    "message": "提升创造力，助力创新"
+  },
+  "homepage.beyond.accelerate.description": {
+    "message": "结合AI的广泛知识与视觉思维技术，突破创造性障碍，产生突破性想法。"
+  },
+  "homepage.beyond.streamline.title": {
+    "message": "变革学习与工作效率"
+  },
+  "homepage.beyond.streamline.description": {
+    "message": "将复杂信息转化为结构化的视觉输出，可以立即转换为专业交付物。"
+  },
+  "homepage.features.visualize.title": {
+    "message": "复杂思维可视化"
+  },
+  "homepage.features.visualize.description": {
+    "message": "传统的AI聊天机器人将思维限制在线性对话中。FunBlocks AIFlow通过无限画布上的多维思维导图扩展您的认知视野。"
+  },
+  "homepage.features.visualize.point1": {
+    "message": "从多个角度同时探索任何主题，揭示线性思维所遗漏的洞察"
+  },
+  "homepage.features.visualize.point2": {
+    "message": "在保持完整上下文的同时，无限深入任何子主题，创建全面的知识结构"
+  },
+  "homepage.features.visualize.point3": {
+    "message": "让AI生成一个完整的探索空间，包含您未曾考虑的相关主题和问题"
+  },
+  "homepage.features.visualize.point4": {
+    "message": "通过AI优化的问题来精炼您的思维，针对复杂问题的核心"
+  },
+  "homepage.features.accelerate.title": {
+    "message": "提升创造力，助力创新"
+  },
+  "homepage.features.accelerate.description": {
+    "message": "超越基于文本的AI互动的创造性限制。FunBlocks AIFlow结合AI洞察与强大的视觉框架，激发真正的创新。"
+  },
+  "homepage.features.accelerate.point1": {
+    "message": "将AI的广泛知识与视觉头脑风暴相结合，生成人类思维可能无法自然产生的连接"
+  },
+  "homepage.features.accelerate.point2": {
+    "message": "通过视觉方式分解复杂问题，以识别根本原因和隐藏机会"
+  },
+  "homepage.features.accelerate.point3": {
+    "message": "在思维导图中直接应用经典思维模型（如SCAMPER、六顶思考帽和第一原则），并获得AI的帮助"
+  },
+  "homepage.features.accelerate.point4": {
+    "message": "通过在多个方向上视觉扩展思维空间来克服创造性障碍"
+  },
+  "homepage.features.streamline.title": {
+    "message": "变革学习与工作效率"
+  },
+  "homepage.features.streamline.description": {
+    "message": "改变您处理信息的方式。FunBlocks AIFlow将复杂的知识工作转变为视觉化、协作的过程，产生即时、可触及的输出。"
+  },
+  "homepage.features.streamline.point1": {
+    "message": "在AI的帮助下，立即将压倒性的项目分解为可管理的视觉组件"
+  },
+  "homepage.features.streamline.point2": {
+    "message": "通过直观的视觉界面与AI互动，匹配您大脑自然处理复杂信息的方式"
+  },
+  "homepage.features.streamline.point3": {
+    "message": "与AI合作，同时探索多条解决路径，更快识别最佳方法"
+  },
+  "homepage.features.streamline.point4": {
+    "message": "将您的视觉思维直接转化为专业交付物——幻灯片、信息图表、文档——只需点击一下"
+  },
+  "homepage.tools.title": {
+    "message": "专为多种场景设计的创新AI工具"
+  },
+  "homepage.tools.description": {
+    "message": "FunBlocks AIFlow是一个全面的创造力和生产力平台，拥有专门为特定认知挑战设计的工具。"
+  },
+  "homepage.tools.tools_list": {
+    "message": "AI 工具列表"
+  },
+  "homepage.tools.tool1.title": {
+    "message": "AI思维导图生成器"
+  },
+  "homepage.tools.tool1.description": {
+    "message": "轻松将文档、书籍和电影转化为思维导图，帮助您快速理清复杂思路。"
+  },
+  "homepage.tools.tool2.title": {
+    "message": "AI头脑风暴"
+  },
+  "homepage.tools.tool2.description": {
+    "message": "通过结合AI与经典思维模型，针对特定主题或问题进行头脑风暴，激发创意和创新解决方案。"
+  },
+  "homepage.tools.tool3.title": {
+    "message": "AI批判性思维"
+  },
+  "homepage.tools.tool3.description": {
+    "message": "提升您的批判性思维能力，帮助您在提问、分析和反思中获得多角度的洞察。"
+  },
+  "homepage.tools.tool4.title": {
+    "message": "AI幻灯片生成器"
+  },
+  "homepage.tools.tool4.description": {
+    "message": "根据任意主题快速生成专业幻灯片和演讲方案，助您轻松准备演示。"
+  },
+  "homepage.tools.tool5.title": {
+    "message": "AI信息图生成器"
+  },
+  "homepage.tools.tool5.description": {
+    "message": "根据输入的文本自动生成信息图和知识卡片，帮助您以视觉方式传达信息。"
+  },
+  "homepage.tools.tool6.title": {
+    "message": "AI艺术洞察"
+  },
+  "homepage.tools.tool6.description": {
+    "message": "通过拍摄旅游和博物馆的照片，获得更深入的艺术分析和欣赏体验。"
+  },
+  "homepage.tools.tool7.title": {
+    "message": "AI教育工具"
+  },
+  "homepage.tools.tool7.description": {
+    "message": "结合Bloom等教育理论，将主题分解为渐进式认知层次，提升学习效率和教学效果。"
+  },
+  "homepage.tools.tool8.title": {
+    "message": "AI心理洞察"
+  },
+  "homepage.tools.tool8.description": {
+    "message": "随时提供心理咨询和解梦服务，帮助您更好地理解自己的内心世界。"
+  },
+  "homepage.tools.tool9.title": {
+    "message": "AI图像生成器"
+  },
+  "homepage.tools.tool9.description": {
+    "message": "AI一键生成您所需风格的头像和图像，满足您的个性化需求。"
+  },
+  "homepage.multiModel.title": {
+    "message": "All Leading AI Models in One Place"
+  },
+  "homepage.multiModel.description": {
+    "message": "FunBlocks AI支持所有主流大语言模型，使用户可以自由选择最适合自己的AI模型。"
+  },
+  "homepage.multiModel.advantage": {
+    "message": "在一个地方访问所有行业领先的AI模型，无需在不同平台之间切换或购买多个订阅，有效提升您的工作效率。"
+  },
+  "homepage.multiModel.benefit": {
+    "message": "您还可以使用自己的LLM API Key（如GPT、Claude、Gemini或任何兼容OpenAI的API）免费访问FunBlocks AI的所有功能！"
+  },
+  "homepage.workspace.title": {
+    "message": "FunBlocks: 全能型 AI 工作空间"
+  },
+  "homepage.workspace.description": {
+    "message": "除了AIFlow，FunBlocks还作为一个全能型AI工作空间，旨在满足您所有的工作和学习需求，提供无缝集成的写作、演示、头脑风暴、浏览和研究工具。"
+  },
+  "homepage.workspace.writer.title": {
+    "message": "AI Writer"
+  },
+  "homepage.workspace.writer.description": {
+    "message": "体验Notion式的页面与AI写作助手。创建精美的文档、笔记和内容，获得智能建议和格式化支持。"
+  },
+  "homepage.workspace.slides.title": {
+    "message": "AI Slides"
+  },
+  "homepage.workspace.slides.description": {
+    "message": "根据任何主题一键生成专业演示文稿。完全支持Markdown格式，轻松编写和编辑幻灯片内容。"
+  },
+  "homepage.workspace.aiflow.title": {
+    "message": "AIFlow"
+  },
+  "homepage.workspace.aiflow.description": {
+    "message": "通过AI驱动的白板和思维导图工具释放创造力。可视化复杂想法，借助AI进行头脑风暴，有效组织思维。"
+  },
+  "homepage.workspace.extension.title": {
+    "message": "AI Browser Extension"
+  },
+  "homepage.workspace.extension.description": {
+    "message": "增强您的浏览体验，通过智能扩展在任何网页上辅助阅读和写作。总结内容，起草回复，高效研究。"
+  },
+  "homepage.useCases.title": {
+    "message": "使用案例"
+  },
+  "homepage.useCases.description": {
+    "message": "FunBlocks AIFlow适应多种知识工作场景，增强您的思维过程，从探索到执行。"
+  },
+  "homepage.useCases.learning.title": {
+    "message": "基于主题的学习"
+  },
+  "homepage.useCases.learning.description": {
+    "message": "用思维导图构建全面的知识系统，发现跨学科的联系。将书籍、讲座和资源转化为互动的视觉知识地图。"
+  },
+  "homepage.useCases.strategy.title": {
+    "message": "工作计划策略"
+  },
+  "homepage.useCases.strategy.description": {
+    "message": "通过可视化映射目标、分解复杂计划和生成解决路径来制定战略工作计划，获得AI指导。"
+  },
+  "homepage.useCases.analysis.title": {
+    "message": "内容分析"
+  },
+  "homepage.useCases.analysis.description": {
+    "message": "通过思维导图深入分析电影、书籍和艺术作品中的叙事、主题及角色关系，提炼出深刻的洞察，构建全面的知识体系和思维框架。"
+  },
+  "homepage.useCases.problem.title": {
+    "message": "问题分析"
+  },
+  "homepage.useCases.problem.description": {
+    "message": "从多个角度可视化复杂问题，识别根本原因，并通过结构化的AI辅助探索发现创新解决方案。"
+  },
+  "homepage.useCases.content.title": {
+    "message": "内容生成"
+  },
+  "homepage.useCases.content.description": {
+    "message": "将头脑风暴的思维导图一键转化为精美文档、专业幻灯片、引人入胜的图片和信息丰富的信息图表，简化工作流程。"
+  },
+  "homepage.useCases.thinking.title": {
+    "message": "思维能力提升"
+  },
+  "homepage.useCases.thinking.description": {
+    "message": "通过AI引导的思维导图，逐步提升批判性思维和创造性思维能力。通过定期使用结构化思维框架，培养高级认知技能。"
+  },
+  "homepage.testimonials.title": {
+    "message": "用户反馈"
+  },
+  "homepage.testimonials.description": {
+    "message": "了解FunBlocks AI如何改变专业人士、学生和团队的工作、学习和创作方式。"
+  },
+  "homepage.testimonials.user1.name": {
+    "message": "Sarah J."
+  },
+  "homepage.testimonials.user1.role": {
+    "message": "教育顾问"
+  },
+  "homepage.testimonials.user1.text": {
+    "message": "\"FunBlocks AI彻底改变了我创建教育内容的方式。思维导图功能帮助我直观地组织复杂主题，能够将这些导图直接转换为演示幻灯片，为我节省了大量工作时间。我的学生喜欢我现在制作的清晰、视觉上吸引人的材料。\""
+  },
+  "homepage.testimonials.user2.name": {
+    "message": "Michael T."
+  },
+  "homepage.testimonials.user2.role": {
+    "message": "产品经理"
+  },
+  "homepage.testimonials.user2.text": {
+    "message": "\"我尝试过许多生产力工具，但FunBlocks AI脱颖而出。AI驱动的思维导图与能够在几秒钟内生成专业文档的能力相结合，显著改善了我们团队的工作流程。最令人印象深刻的部分？我注意到我自己的批判性思维技能也随着定期使用而提高。\""
+  },
+  "homepage.testimonials.user3.name": {
+    "message": "Tobias O."
+  },
+  "homepage.testimonials.user3.role": {
+    "message": "教师"
+  },
+  "homepage.testimonials.user3.text": {
+    "message": "\"作为一名教师，我的工作效率通过FunBlocks AI Flow达到了新的高度！这个令人难以置信的工具已成为我的得力助手，帮助我更深入地理解内容，并为我的学生提供更清晰、更吸引人的课程。我对它的能力印象深刻，以至于决定在下周我主持的网络研讨会上与我的同事们分享。FunBlocks AI Flow绝对是一个强大的工具——对于任何希望提升教学效果和简化工作流程的教师来说，它都是一个游戏规则的改变者！\""
+  },
+  "homepage.testimonials.user4.name": {
+    "message": "Lin W."
+  },
+  "homepage.testimonials.user4.role": {
+    "message": "研究生"
+  },
+  "homepage.testimonials.user4.text": {
+    "message": "\"作为一名研究生，组织复杂信息至关重要。FunBlocks AI帮助我以可视化方式构建研究内容，并生成全面的文献综述。AI辅助让我看到了我可能错过的概念之间的联系。就像有一个永不睡觉的研究伙伴！\""
+  },
+  "homepage.testimonials.user5.name": {
+    "message": "Emily R."
+  },
+  "homepage.testimonials.user5.role": {
+    "message": "市场经理"
+  },
+  "homepage.testimonials.user5.text": {
+    "message": "\"使用FunBlocks AIFlow进行头脑风暴帮助我突破了心理障碍，产生了突破性的想法，为我们的营销策略带来了创新解决方案。\""
+  },
+  "homepage.testimonials.user6.name": {
+    "message": "Alex P."
+  },
+  "homepage.testimonials.user6.role": {
+    "message": "学生"
+  },
+  "homepage.testimonials.user6.text": {
+    "message": "\"作为一名学生，FunBlocks AI显著增强了我的学习能力。它有助于主题学习，使我能够更深入地探索和研究学科，最终提高了我的批判性思维能力。\""
+  },
+  "homepage.cta.title": {
+    "message": "准备好开始知识冒险了吗？"
+  },
+  "homepage.cta.subtitle": {
+    "message": "加入FunBlocks AI，释放您无限的认知潜力！"
+  },
+  "homepage.cta.button": {
+    "message": "立即开始您的免费试用"
+  },
+  "homepage.faq.title": {
+    "message": "常见问题"
+  },
+  "homepage.faq.q0": {
+    "message": "什么是FunBlocks？"
+  },
+  "homepage.faq.a0": {
+    "message": "FunBlocks是一个AI驱动的知识学习与生产力平台，提供一站式AI工作空间。用户可以利用AI助手撰写文档和笔记，进行思维导图和白板头脑风暴，进行主题学习，还能以Markdown格式创建幻灯片并一键生成信息图。此外，FunBlocks还提供浏览器插件，帮助用户在任何网页上进行AI辅助的写作和阅读。"
+  },
+  "homepage.faq.q01": {
+    "message": "为什么主页着重介绍FunBlocks AIFlow？"
+  },
+  "homepage.faq.a01": {
+    "message": "FunBlocks AIFlow通过视觉化的AI白板和思维导图，创新性地激发了大语言模型的创造力，使用户能够与AI共同进行头脑风暴。用户可以一键将思维导图转化为实际的工作成果，如幻灯片和方案文档，这些成果会自动保存到FunBlocks工作空间中，便于后续修改和优化。因此，将FunBlocks AIFlow作为入口，可以让用户更早地体验到FunBlocks平台在提升学习、创作和工作效率方面的强大能力。"
+  },
+  "homepage.faq.q1": {
+    "message": "FunBlocks AIFlow是什么？"
+  },
+  "homepage.faq.a1": {
+    "message": "FunBlocks AIFlow是一个AI驱动的视觉思维平台，帮助您将复杂的想法转化为思维导图、幻灯片和信息图表。它将AI的力量与视觉思维技术相结合，提升您的认知过程和生产力。"
+  },
+  "homepage.faq.q2": {
+    "message": "AIFlow与ChatGPT有什么不同？"
+  },
+  "homepage.faq.a2": {
+    "message": "ChatGPT提供线性文本对话，而AIFlow提供视觉化、多维度的工作空间。您可以同时在多个方向探索想法，通过视觉层次保持上下文，并即时将您的想法转化为专业交付物。"
+  },
+  "homepage.faq.q3": {
+    "message": "我可以用AIFlow创建什么？"
+  },
+  "homepage.faq.a3": {
+    "message": "使用AIFlow，您可以创建思维导图、演示幻灯片、信息图表、战略规划、知识地图和复杂主题的视觉分析。平台支持各种思维框架，并可以将您的视觉作品转换为不同格式。"
+  },
+  "homepage.faq.q4": {
+    "message": "除了AIFlow，FunBlocks还有哪些产品？"
+  },
+  "homepage.faq.a4": {
+    "message": "FunBlocks提供了一站式AI工具集和工作平台，旨在提升生产力、激发创造力。它集成了 AI 赋能的思维导图、文档编写和幻灯片生成功能，打造全方位知识工作空间。\n\n主要产品包括:\nFunBlocks AI Flow: AI 驱动的思维导图工具，用于激发创造力、探索知识。\nFunBlocks AI Writer: AI 驱动的 Notion 风格块编辑器，提供 AI 写作助手，辅助文档编写。\nFunBlocks AI Slides: AI 驱动的幻灯片生成工具，一键创建幻灯片，提供内容撰写和演示指导。\nFunBlocks 浏览器扩展: 提升效率的浏览器扩展，支持 AI 写作、阅读、邮件回复等功能。\nFunBlocks AI Tools: 即时访问的专业 AI 工具，针对特定用例提供解决方案，包括 AI 图形、AI 思维导图、AI 集思广益、AI 幻灯片、AI 决策分析器、AI 任务计划器、AI YouTube 摘要器等。\nAI Assistant: 可定制的 AI 助手，支持自定义提示，集成 AI Flow、AI Slides、AI Writer 和浏览器扩展。"
+  },
+  "homepage.faq.q5": {
+    "message": "FunBlocks适合团队协作吗？"
+  },
+  "homepage.faq.a5": {
+    "message": "是的，FunBlocks既适合个人使用也适合团队使用。团队可以在共享的工作空间上协作，一起头脑风暴，文档写作等，并在AI的协助下维护共享知识库。"
+  },
+  "homepage.faq.q6": {
+    "message": "使用FunBlocks AI需要技术技能吗？"
+  },
+  "homepage.faq.a6": {
+    "message": "不需要技术技能。FunBlocks AI具有直观的界面，让您轻松开始创建白板或文档，并使用AI助手进行学习和创作。"
+  },
+  "homepage.faq.q7": {
+    "message": "哪些行业或角色可以从FunBlocks AI中受益？"
+  },
+  "homepage.faq.a7": {
+    "message": "FunBlocks AI对教育工作者、学生、商业专业人士、研究人员、作家以及任何从事知识工作的人都很有价值。它特别适用于战略规划、内容创作、学习、问题解决和决策制定。"
+  },
+  "homepage.faq.q8": {
+    "message": "AIFlow是又一个AI Mindmap工具吗？和普通AI MindMap工具有什么区别？"
+  },
+  "homepage.faq.a8": {
+    "message": "虽然AIFlow确实包含了AI辅助的思维导图功能，但它远不止于此。与普通的AI MindMap工具（如Xmind、FreeMind、MindMeister等）相比，AIFlow提供了更加综合和强大的功能集：\n1. 无边界白板：不仅限于树状结构，还可以自由布局和连接想法。\n2. 多样化节点类型：支持图片、笔记、任务列表等，每种类型都有专门的AI助手。\n3. 一键生成内容：可以将思维导图快速转化为文章、计划等实用内容。\n4. AI主动式启发思考：AI可以主动针对你的主题和问题引导你进行相关探索和批判性思考，激发创新思维。\n5. 自定义AI提示：允许您创建针对特定任务的AI助手，无需编程知识。\n这些特性使AIFlow成为一个更全面的创意和生产力工具，适用于学习、工作和创作等多种场景。"
+  },
+  "homepage.faq.q9": {
+    "message": "在帮助思考方面，AIFlow有什么优势？"
+  },
+  "homepage.faq.a9": {
+    "message": "AIFlow在辅助思考方面具有多重优势：\n1. 多维度分析：通过思维导图和AI建议，帮助您从多个角度审视问题。\n2. 突破思维局限：AI可以提供意想不到的见解，帮助您跳出固有思维模式。\n3. 知识关联：AI可以帮助您在不同领域之间建立联系，促进创新思维。\n4. 经典思维模型运用：AIFlow支持多种经典思维模型，帮助你以清晰和高效的思维框架进行思考。\n5. 问题分解：帮助您将复杂问题分解为可管理的小部分，便于逐步解决。\n6. 知识探索：输入一个主题，AI可以引导您探索相关领域，拓展知识面。\n这些特性使AIFlow成为一个强大的思考辅助工具，能够显著增强您的分析和创新能力。"
+  },
+  "homepage.faq.q10": {
+    "message": "使用FunBlocks AIFlow进行头脑风暴有什么优势？"
+  },
+  "homepage.faq.a10": {
+    "message": "FunBlocks AIFlow利用AI技术简化头脑风暴过程，能够快速生成全面的思维导图，帮助你轻松获取丰富的创意和想法。其灵活的交互界面让你可以通过AI助手从不同角度探索更多思路。此外，AIFlow结合了经典思维模型（如六顶思考帽、麦肯锡方法、SCAMPER、SWOT分析、转换视角、逆向思维、商业模型画布和价值主张画布），充分发挥了大语言模型的能力，助你获得新颖的创意。"
+  },
+  "homepage.faq.q11": {
+    "message": "FunBlocks AI的付费会员是否适用于所有FunBlocks AI产品和服务？"
+  },
+  "homepage.faq.a11": {
+    "message": "是的，除非另有说明，FunBlocks AI的付费会员享有的权限和AI访问额度适用于平台上的所有产品和服务。"
+  },
+  "homepage.faq.q12": {
+    "message": "如果我使用自己的API Key（如ChatGPT、Claude、Gemini、Groq等），还需要为FunBlocks AI服务支付费用吗？"
+  },
+  "homepage.faq.a12": {
+    "message": "不需要。如果您使用自己的API Key，您只需向服务提供商支付费用。FunBlocks AI不会收取额外费用，也不受每日免费访问配额的限制。"
+  },
+  "homepage.faq.q14": {
+    "message": "FunBlocks AIFlow适合什么类型的创意工作？"
+  },
+  "homepage.faq.a14": {
+    "message": "FunBlocks AIFlow非常适合需要多角度思考和创意探索的任务，如头脑风暴、主题研究和内容策划。它结合了AI的强大理解力和推理能力，在无限画布空间中进行多线程互动，帮助用户深入探索并拓展思维。"
+  },
+  "homepage.faq.q15": {
+    "message": "为什么FunBlocks AI支持所有主流大语言模型？"
+  },
+  "homepage.faq.a15": {
+    "message": "FunBlocks AI致力于为用户提供灵活的选择和最佳体验。通过支持所有主流大语言模型，我们满足您的不同需求，确保您可以根据个人偏好和工作流程灵活选择最合适的AI模型，从而提升工作效率和创造力。"
+  },
+  "homepage.faq.q16": {
+    "message": "可以免费试用FunBlocks AI吗？"
+  },
+  "homepage.faq.a16": {
+    "message": "是的，FunBlocks AI提供免费试用。新用户注册后将获得30次免费AI服务访问，并每天额外赠送10次免费访问，让您充分体验FunBlocks AI在学习和工作中的变革与帮助。此外，FunBlocks AI还设有奖励机制，邀请好友注册后，您和好友均可获得额外的免费使用额度。"
+  },
+  "homepage.faq.q17": {
+    "message": "如何通过邀请好友获得免费使用额度奖励呢？"
+  },
+  "homepage.faq.a17": {
+    "message": "您可以通过两种方式邀请好友。第一，分享邀请链接，好友通过链接注册后即可获得奖励。第二，分享FunBlocks AI浏览器插件或AI Flow生成的内容，用户点击阅读后注册，您也将获得邀请奖励。"
+  },
+  "homepage.faq.q18": {
+    "message": "如何取消订阅的Plan？"
+  },
+  "homepage.faq.a18": {
+    "message": "您可以在设置中找到\"升级 AI 会员\"和\"升级 FunBlocks\"栏目。如果您订阅了某个会员计划，在相应的介绍栏中会有Cancel按钮，点击即可退订。"
+  },
+  "homepage.faq.q19": {
+    "message": "我在FunBlocks平台上的数据安全吗？"
+  },
+  "homepage.faq.a19": {
+    "message": "我们优先考虑数据安全和隐私。所有数据都经过加密，我们遵循行业最佳实践来保护数据。您可以完全控制您的内容并管理共享权限。"
+  }
+}

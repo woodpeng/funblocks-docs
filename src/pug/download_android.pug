@@ -1,0 +1,72 @@
+doctype html
+html(lang='en')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', content='')
+        meta(name='author', content='')
+
+        title FunBlocks
+
+        // Favicon
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.png')
+
+        // Font Awesome icons (free version)
+        //- script(src='https://use.fontawesome.com/releases/v5.13.0/js/all.js', crossorigin='anonymous')
+
+        //- // Google fonts
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700', rel='stylesheet')
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic', rel='stylesheet', type='text/css')
+
+        // Third party plugin CSS
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+
+        script. 
+            function gotoMarket() {
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if(wechat) {
+                    document.getElementById('JweixinTip').style.display='block';
+                }
+            }
+
+    body#page-top
+
+        section#download.page-section.bg-dark.text-white
+            .container.text-center
+                h2.mb-4 方块笔记，FunBlocks安卓版, 免费下载!
+                h4.mb-4 小米手机用户:
+                a.btn.btn-primary.btn-xl(id='gotoMarketId' href='market://details?id=com.funblocks.reader' onclick='gotoMarket()') 点击跳转应用商店!
+
+                h4.mb-4.mt-4 其他手机用户可以到“应用宝”下载，或点击以下按钮直接下载：
+                a.btn.btn-light.btn-xl(href='https://www.funblocks.cn/assets/download/app-arm64-v8a-release.apk') 点击下载!
+
+                div.wxtip(id="JweixinTip")
+                    p.wxtip-txt 点击右上角，选择在浏览器中打开
+
+        // Footer
+        footer.bg-light.py-5
+            .container
+                .small.text-center.text-muted Copyright © 2022 - FunBlocks
+
+        // Bootstrap core JS
+        //- script(src='js/jquery-3.4.1.min.js')
+        //- script(src='js/bootstrap.bundle-4.5.3.min.js')
+
+        // Third party plugin JS
+        //- script(src='js/jquery.easing-1.4.2.min.js')
+        //- script(src='js/jquery.magnific-popup-1.1.0.min.js')
+
+
+        // Core theme JS
+        script(src='js/scripts.js')
+
+        script. 
+            document.getElementById('JweixinTip').onclick=function(){
+                    this.style.display='none';
+            }

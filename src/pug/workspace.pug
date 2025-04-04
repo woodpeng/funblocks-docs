@@ -1,0 +1,1167 @@
+doctype html
+html(lang='en')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', lang='zh-CN', content='你的All-in-One AI助手，集成思维导图、文档编辑、幻灯片制作等功能。提升学习效率，优化工作流程，激发创意灵感。同时提供浏览器AI助手插件，随时随地让AI为你的知识工作赋能！')
+        meta(name='description', lang='en', content='FunBlocks: Your all-in-one AI assistant for mind mapping, document creation, and slide design. Boost productivity, spark creativity, and streamline workflows. Get the browser extension today!')
+        
+        meta(name='keywords', content='funblocks, ai work platform, ai productivity, gpt language model, ai brainstorming, mind mapping, creative thinking, ai slide creation, markdown slides, ai writing assistant, ai reading assistant, chrome extension, edge extension, ai workspace, ai collaboration, notion workspace, Notion AI, ai documents, ai slides, ai mind maps, ai copilot')
+        meta(name='author', content='FunBlocks')
+
+        title.page-title(data-i18n='head.title') FunBlocks AI - Boost Your Productivity with AI-Powered Mind Mapping, Document Creation, and Slides
+
+        // Favicon
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.png')
+
+        // Font Awesome icons (free version)
+        //- script(src='https://use.fontawesome.com/releases/v5.13.0/js/all.js', crossorigin='anonymous')
+
+        //- // Google fonts
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700', rel='stylesheet')
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic', rel='stylesheet', type='text/css')
+
+        //- // Third party plugin CSS
+        //- link(href='css/magnific-popup-1.1.0.min.css', type='css' rel='stylesheet')
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+        link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css")
+
+        script(async src="https://www.googletagmanager.com/gtag/js?id=G-RYTCZEQK0W")
+
+        script(src="https://accounts.google.com/gsi/client" async defer)
+
+        script.
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-RYTCZEQK0W');
+
+            function isCNDomain() {
+                //- return !window.location.hostname.includes('net');
+                return window.location.hostname.includes('.cn');
+            }
+
+            function getDomain() {
+                if(!window.location.hostname.includes('funblocks')) {
+                    return 'funblocks.net';
+                }
+                return window.location.hostname.replace('www.', '');
+            }
+
+            function openUrl(url) {
+                let newTab = window.open();
+                newTab.location.href = url;
+            }
+
+            function toPlayground() {
+                let lng = getLanguage();
+                //- openUrl(`https://api.xslides.net/editor.html?hid=demo_${lng}&warzone=playground&lng=${lng}`);
+                openUrl(`https://service.${getDomain()}/editor.html?hid=xslides_demo_${lng}&warzone=playground&lng=${lng}&newEntrance=true`);
+            }
+
+            function toFlowPlayground() {
+                let lng = getLanguage();
+                //- openUrl(`https://api.xslides.net/editor.html?hid=demo_${lng}&warzone=playground&lng=${lng}`);
+                openUrl(`https://app.funblocks.net/#/aiflow?hid=welcome_to_aiflow_${lng}&lng=${lng}`);
+            }
+
+            function toSeminar() {
+                let lng = getLanguage();
+                openUrl(`https://service.${getDomain()}/seminar.html?hid=xslides_demo_${lng}`);
+            }
+
+            function toIntro() {
+                let lng = getLanguage();
+                openUrl(`https://service.${getDomain()}/present.html?hid=xslides_demo_${lng}`);
+            }
+
+            function toApp() {
+                const iOS_phone = !!navigator.platform && /iPhone|iPod/.test(navigator.platform);
+
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const android = !!userAgent && /Android/.test(userAgent);
+
+                let url = `https://app.${getDomain()}/`;
+
+                //- if (iOS_phone) {
+                //-     const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+                //-     if(wechat) {
+                //-         iosLoginClicked();
+                //-         return;
+                //-     } else {
+                //-         url = 'https://apps.apple.com/cn/app/%E6%96%B9%E5%9D%97%E7%AC%94%E8%AE%B0-%E5%8D%B3%E6%97%B6%E7%AC%94%E8%AE%B0-%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB/id1640254686';
+                //-     }
+
+                //-     return window.open(url);
+                //- } else 
+                //- if (android) {
+                //-     //- let lng = getLanguage();
+                //-     //- alert(lng==='en'?'The mobile phone has not been adapted yet, please log in and use it on a PC or tablet.':'暂未对手机进行适配，请在电脑或平板上登录使用。');
+                //-     //- return;
+                //-     url = '/download_android.html';
+                //-     return window.open(url);
+                //- }
+
+                if(iOS_phone || android) {
+                    url = `https://app.${getDomain()}/#/login?source=extension`;
+                }
+
+                //- let url = 'https://webapp.xslides.net/index.html';
+                //- console.log('language.......', navigator.language)
+                //- if(navigator.language.toLowerCase()=='zh-cn'){
+                //-     url = 'https://xslides.e-du.top/index.html';
+                //- }
+                openUrl(url);
+            }
+
+            function toPlans() {
+               
+                let url = `https://app.${getDomain()}/#/aiplans`;
+
+                openUrl(url);
+            }
+
+            function iosQrcodeClicked() {
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if(wechat) {
+                    document.getElementById('JweixinTip').style.display='block';
+                }
+            }
+
+            function iosLoginClicked() {
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if(wechat) {
+                    document.getElementById('JweixinTip2').style.display='block';
+                }
+            }
+
+            function getBrowser() {
+                const userAgent = navigator.userAgent;
+
+                if (userAgent.includes("Edg")) {
+                    return 'Edge'
+                } else if (userAgent.includes("Chrome")) {
+                    return 'Chrome'
+                }  
+
+                return 'Browser'
+            }
+
+            function downloadExtension() {
+                const browser = getBrowser();
+                if (browser == 'Edge') {
+                    window.open("https://microsoftedge.microsoft.com/addons/detail/funblocks-ai-your-ultim/lmmlojdklhcdiefaniakpkhhdmamnigk", '_blank');
+                } else if (browser == "Chrome") {
+                    window.open("https://chrome.google.com/webstore/detail/coodnehmocjfaandkbeknihiagfccoid", '_blank');
+                } else {
+                    alert("We only support Chrome and Edge browsers. It is recommended to use Chrome for the best experience.");
+                }
+            }
+
+        script.
+            function handleCredentialResponse(response) {
+                window.open('https://app.funblocks.net/#/login?g_login_token='+response.credential, '_blank')
+                //- window.open('http://localhost:3000/#/aiflow?token='+response.credential, '_blank')
+            }
+        script.
+            window.onload = function () {
+                if(isCNDomain()) return;
+
+                google.accounts.id.initialize({
+                    client_id: '988058218123-enpfsi0n6fo9jqa2aqfr6s37t16loth8.apps.googleusercontent.com',
+                    callback: handleCredentialResponse,
+                    //- auto_select: true
+                });
+                //- const statusElement = document.getElementById('login-status');
+                fetch(`https://service.${getDomain()}/users/info`, { 
+                //- fetch(`http://localhost:50058/users/info`, { 
+                    credentials: 'include' 
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if(data?.data?._id) return;
+
+                    google.accounts.id.prompt();
+                })
+                .catch(error => {
+                    console.error('Error checking auth status', error);
+                    google.accounts.id.prompt();
+                    //- statusElement.textContent = 'Error checking login status';
+                });
+
+                
+                //- google.accounts.id.renderButton(
+                //-     document.getElementById('googleSignInDiv'),
+                //-     { theme: 'outline', size: 'large' }
+                //- );
+            };
+
+    body#page-top
+
+        // Navigation
+        nav#mainNav.navbar.navbar-expand-lg.navbar-light.fixed-top
+            .container
+                a.navbar-brand.js-scroll-trigger(href='#page-top' data-i18n='nav.home') FunBlocks - Your AI Assistant
+                button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
+                    span.navbar-toggler-icon
+                #navbarResponsive.collapse.navbar-collapse
+                    ul.navbar-nav.ml-auto.mr-4.my-2.my-lg-0.align-items-center
+                        li.nav-item 
+                            select.nav-link.js-scroll-trigger(id="languageSelector" onChange="changeLng(this)" style="background-color: transparent; border: 0px; border-radius: 5px; cursor: pointer")
+                                option(value='en') English
+                                option(value="cn") 中文
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#flow' data-i18n='nav.flow') AI Flow
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#xslides' data-i18n='nav.xslides') Slides
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#aiwriter' data-i18n='nav.aiwriter') Writer
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#allInOne' data-i18n='nav.allInOne') Workspace
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#anywhere' data-i18n='nav.extension') AI Extension
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#aitools' data-i18n='nav.aitools') AI Tools
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#faq' data-i18n='nav.faq') FAQ
+                        li.nav-item
+                            a.nav-link(onclick="toPlans()" data-i18n='nav.pricing' style="cursor: pointer") Pricing
+                a#loginBtn.btn.btn-primary.btn-xl.text-white.js-scroll-trigger(onclick="toApp()" data-i18n='nav.login') Login
+                //- #googleSignInDiv
+                            
+
+        // Masthead
+        header.masthead
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                .d-flex.flex-column.flex-md-row.justify-content-center.align-items-center.mb-5
+                    a.mb-3.mb-md-0.me-md-4.mr-2.ml-2(href="https://www.producthunt.com/posts/funblocks-aiflow?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-funblocks&#0045;aiflow" target="_blank")
+                        img.img-fluid(src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=486382&theme=neutral&period=daily" alt="FunBlocks&#0032;AIFlow - An&#0032;AI&#0045;powered&#0032;whiteboard&#0032;and&#0032;mind&#0032;map&#0032;tool | Product Hunt" style="max-width: 250px; height: auto;")
+                    a.mr-2.ml-2(href="https://www.producthunt.com/posts/funblocks-aiflow?embed=true&utm_source=badge-top-post-topic-badge&utm_medium=badge&utm_souce=badge-funblocks&#0045;aiflow" target="_blank")
+                        img.img-fluid(src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=486382&theme=neutral&period=weekly&topic_id=204" alt="FunBlocks&#0032;AIFlow - An&#0032;AI&#0045;powered&#0032;whiteboard&#0032;and&#0032;mind&#0032;map&#0032;tool | Product Hunt" style="max-width: 250px; height: auto;")
+                
+                h1.text-center.mt-0.mb-5(data-i18n='vision.title') Maximize Your Productivity with the Comprehensive All-in-One AI Workspace
+                //- ul
+                //-     li(data-i18n='vision.goal_1' style="font-size: 1.2rem") 🚀 Boost productivity at work and study
+                //-     li(data-i18n='vision.goal_2' style="font-size: 1.2rem") 🔍 Enhance critical thinking
+                //-     li(data-i18n='vision.goal_3' style="font-size: 1.2rem") 💡 Spark creative inspiration
+                h3.text-center.mb-4(data-i18n='vision.sub_title_1') Brainstorm, create, and present with ease
+                h4.text-center.mb-4(data-i18n='vision.sub_title_2') Get AI-powered mind mapping, document writing, and slide generation – all in one place
+                //- ul
+                //-     li(data-i18n='vision.transformer_1' style="font-size: 1.2rem") Seamless Integrated Browser Extension
+                //-     li(data-i18n='vision.transformer_2' style="font-size: 1.2rem") AI-Powered Editors (Flow, Slides, Doc/Page)
+                //-     li(data-i18n='vision.transformer_3' style="font-size: 1.2rem") Collaborative Workspace/Knowledge Hub
+
+        section#flow.page-section(style="background-color: azure;")
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center(data-i18n='flow.title') FunBlocks AI Flow - Unleash Boundless Creativity with AI Brainstorming
+                //- .container.d-flex.flex-column.justify-content-center.align-items-center.mt-0.mb-2
+                h4.mb-3.text-center(data-i18n='flow.desc') AI-powered mind mapping to unlock your creative potential and embark on infinite knowledge exploration.
+                a.btn.btn-primary.btn-xl.mb-3(onclick="toFlowPlayground()" style='color: white;' data-i18n='flow.tryit') Try it now
+                .col-lg-8.portfolio-box(href='assets/img/portfolio/fullsize/aiflow_benefits.png')
+                    img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/aiflow_benefits.png" alt="FunBlocks AIFlow, a better way to brainstorming and mind mapping with AI than ChatGPT")
+                a.nav-link.mt-3(href="/aiflow.html"  style="font-size: 1.2rem" data-i18n='flow.more') Learn more about AI Flow
+
+        section#aiwriter.page-section(style="background-color: skyblue;")
+            .container.text-center.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='aiwriter.title') FunBlocks AI Writer - AI-Powered Notion-Style Block Editor
+                hr.divider.my-4
+                .container.d-flex.flex-column.justify-content-center.align-items-center
+                    h3.text-center.mt-0(data-i18n='aiwriter.subtitle') No More Writing Alone, with Your AI Copilot
+                    p(data-i18n='aiwriter.desc' style="font-size: 1.4rem; color: #666") Simply set the direction, and let AI handle the rest
+                .col-lg-8.portfolio-box(href='assets/img/portfolio/fullsize/aiwriter.png')
+                    img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/aiwriter.png" alt="FunBlocks AI Writing Assistant - Online AI Content Generator, optimizing or rephrasing text with AI")
+
+        section#xslides.page-section.bg-info
+            .container.text-center.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='xslides.title') FunBlocks AI Slides - Create Slides with One Click
+                hr.divider.my-4
+                h3(data-i18n='xslides.desc') Unlock your presentation potential with AI-powered slides
+                p(data-i18n='xslides.desc1' style="font-size: 1.4rem; color: #666") Designed for professionals who seek excellence in content and efficiency
+                .col-lg-8.portfolio-box(href='assets/img/portfolio/fullsize/slides.png')
+                    img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides.png" alt="FunBlocks AI Slides - AI PPT/Presentation")
+                a.nav-link.mt-3(href="/slides.html"  style="font-size: 1.2rem" data-i18n='xslides.more') Click to view the AI Slides product introduction
+
+        section#anywhere.page-section(style="background-color: lightskyblue;")
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='anywhere.title') FunBlocks Browser Extension
+                h4.text-center.mt-0.mb-5(data-i18n='anywhere.subtitle') Boost Efficiency by 10x: Email Replies, Writing, Reading, Social Interactions...
+                .row
+                    .col-sm-12.col-lg-6.text-center.mb-4.mb-lg-0
+                        .order-1.mb-3
+                            h3(data-i18n='anywhere.ai_writing') AI Writing
+                            p(data-i18n='anywhere.ai_writing_desc') Summon the AI writing assistant in any webpage input box or editor
+                        img.img-fluid.shadow-lg.order-2(id='ai_writing'  style="width: 80%" alt="AI Writing Assistant - Online AI Content Generator, optimizing or rephrasing text with AI on any web page")
+                    
+                    .col-sm-12.col-lg-6.text-center
+                        .order-1.order-lg-2.mb-3.mb-lg-0
+                            h3(data-i18n='anywhere.ai_reading') AI Reading
+                            p(data-i18n='anywhere.ai_reading_desc') Have the AI assistant help you read content in any language on any webpage
+                        img.img-fluid.shadow-lg.order-2.order-lg-1.mb-3(id='ai_reading' style="width: 80%" alt="AI Reading Assistant - summarize and highlight Key Information in any page")
+                    
+                        .d-flex.flex-column.mt-3(style="row-gap: 16px")
+                            col-sm.d-flex.flex-column.justify-content-start.text-left
+                                p(data-i18n='anywhere.notes' style="font-size: 1rem") FunBlocks AI extension provides contextual support for different website applications in widget form, offering quick operations such as:
+                                ul
+                                    li(data-i18n='anywhere.notes_1' style="font-size: 1rem") AI writing assistant button in editing boxes
+                                    li(data-i18n='anywhere.notes_2' style="font-size: 1rem") AI reply button for email
+                                    li(data-i18n='anywhere.notes_3' style="font-size: 1rem") One-click YouTube video summarization
+                                    li ...... 
+                a#getExtensionBtn.btn.btn-primary.btn-lg.text-white.d-flex.flex-row.align-items-center.mt-4(onclick="downloadExtension()" data-i18n='anywhere.getExtension' style="border-radius: 28px; border: none; width:fit-content; column-gap: 8px; padding-left: 20px; padding-right: 20px") Add for free to {{browser}}                            
+                a.nav-link.mt-2(href='/welcome_extension.html' data-i18n='anywhere.to_extension_guide' style="font-size: 1.2rem") How to use the installed extension?
+
+        section#allInOne.page-section(style="background-color: #84C1FF")
+            .container
+                h2.text-center.mt-0.mb-5(data-i18n='allInOne.title') All-in-One Knowledge Workspace
+                .row
+                    .col-sm.d-flex.align-items-center
+                       .d-flex.flex-column.mb-2(style="row-gap: 26px")
+                            h5(data-i18n='allInOne.desc') Comprehensive support for knowledge work
+                            ul 
+                                li(data-i18n='allInOne.li0' style="font-size: 1.1rem") Multiple page types (documents, slides, mindmaps) to create personal or team shared knowledge spaces
+                                li(data-i18n='allInOne.li1' style="font-size: 1.1rem") AI assistant within the space or as a standalone browser extension for all websites
+                                li(data-i18n='allInOne.li2' style="font-size: 1.1rem") Work 10 times faster while accumulating knowledge
+                                li(data-i18n='allInOne.li3' style="font-size: 1.1rem") More knowledge accumulation, more powerful AI assistant
+                            h5(data-i18n='allInOne.workspace') Join FunBlocks to learn and work with AI copilot!
+                    .col-sm.text-center(style="flex-grow:2")
+                        img.img-fluid.mb-1(id="all_in_one"  alt="All-in-one AI Workspace, beyond Notion, collabration with AI agents") 
+         
+        section#aitools.page-section(style="background-color: #F0F8FF;")
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='aitools.title') FunBlocks AI Tools
+                h4.text-center.mt-3.mb-5(data-i18n='aitools.subtitle') Fun, Informative, Extraordinary
+                .row
+                    .col-sm-12.col-lg-8.text-center
+                        img.img-fluid.shadow-lg(id='ai_tools' src="assets/img/portfolio/fullsize/ai_tools.png" alt="FunBlocks AI Tools - To facilitate quick access, we've developed targeted AI tools based on specific use cases, providing more focused solutions")
+                    .col-sm-12.col-lg-4.mb-lg-0
+                        h3.mt-3.mb-3(data-i18n='aitools.list_title') Key Features:
+                        ul.text-left.list-unstyled
+                            li.mb-2
+                                i.fas.fa-check-circle.mr-2.text-success
+                                span(data-i18n='aitools.list_item1') Specialized Solutions: Each tool is designed for a specific use case, offering tailored functionality for unique tasks
+                            li.mb-2
+                                i.fas.fa-check-circle.mr-2.text-success
+                                span(data-i18n='aitools.list_item2') Integrated Visuals: Our tools prioritize visual representation of information, making complex data easier to understand
+                            li.mb-2
+                                i.fas.fa-check-circle.mr-2.text-success
+                                span(data-i18n='aitools.list_item3') One-Click Operations: Access powerful AI capabilities with simplified, user-friendly interfaces
+                            li.mb-2
+                                i.fas.fa-check-circle.mr-2.text-success
+                                span(data-i18n='aitools.list_item4') Comprehensive Suite: Includes AI Graphics, AI Mindmap, AI Brainstorming, AI Slides, AI Decision Analyzer, AI Task Planner, AI YouTube Summarizer
+                            li.mb-2
+                                i.fas.fa-check-circle.mr-2.text-success
+                                span(data-i18n='aitools.list_item5') In-depth Creation: Generated works can be imported into FunBlocks AIFlow with one click for further editing and exploration
+                .mt-4.d-flex.justify-content-center.align-items-center
+                    a.btn.btn-primary.btn.js-scroll-trigger(href=`https://funblocks.net/aitools` data-i18n='aitools.try_button' target="_blank") Try Now
+
+        section#personalized.page-section.text-white(style="background-color: steelblue")
+            .container
+                h2.text-center.mt-0.mb-3(data-i18n='personalized.title' style="color: white") Ultimate Personalized AI Assistant
+                h5.text-center.mb-5(data-i18n='personalized.subtitle' style="font-size: 1.4rem; color: #ddd") Custom AI Solutions for Your Workflow
+                .row.mb-4
+                    .col-lg.text-center(style="flex-grow:2")
+                        img.img-fluid(id='ai_personalize' alt="Unleash productivity and creativity with self defined llm prompt for your workflow")
+                    .col-sm.d-flex.flex-column.justify-content-center(style="margin-top: 1em")
+                        h5(data-i18n='personalized.desc') Transform Your AI Experience with FunBlocks AI
+                        ul(style="font-size: 1rem;")
+                            li(data-i18n='personalized.li1') Custom Prompts: Tailor applications to your needs and industry
+                            li(data-i18n='personalized.li2') Context-Aware Integration: Automatic context feeding makes powerful prompt development easy and boosts workflow efficiency
+                            li(data-i18n='personalized.li3') Ecosystem Integration: Use custom prompts across AI Flow, AI Slides, AI Writer, and Browser Extension
+                            li(data-i18n='personalized.li4') Community Sharing: Connect with others and share innovative prompts
+
+        
+        section#user-feedback.page-section(style="background-color: #F0FFF0")
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='feedbacks.title') User Feedbacks
+                .col
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-4.text-right.mb-2.mt-3.order-2.order-lg-1
+                            h3.mb-2(data-i18n='feedbacks.user1.name') Fiona
+                            p.text-muted.mb-0(data-i18n='feedbacks.user1.career') Marketing Manager
+                        .col-lg-8.order-1.order-lg-2
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user1.feedback') As a marketing manager, creativity is my bread and butter. Since I started using FunBlocks AI Flow, my productivity has skyrocketed. Before product strategy meetings, I use it to organize market analyses, and the AI even provides timely insights, ensuring my proposals always hit the mark. Recently, when launching a new product, I used it for brainstorming – the ideas just kept flowing, which beats staring at PowerPoint slides for hours. During cross-department communications, a single mind map speaks volumes, making discussions more focused. My boss even asked if I've been secretly taking extra courses! Well, I guess you could say I've found the ultimate work partner.
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-8
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user2.feedback') FunBlocks AI has been a game-changer for me as a student. The AI writing assistant helps me draft essays and assignments faster, while the reading assistant helps me comprehend complex texts. The one-click YouTube video summaries are a lifesaver when I need to quickly grasp the essence of a lecture. It's like having a study buddy that's always ready to help!
+                        .col-lg-4.mt-3.mb-2
+                            h3.mb-2(data-i18n='feedbacks.user2.name') Alex
+                            p.text-muted.mb-0(data-i18n='feedbacks.user2.career') Student
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-4.text-right.mb-2.mt-3.order-2.order-lg-1
+                            h3.mb-2(data-i18n='feedbacks.user3.name') Maria
+                            p.text-muted.mb-0(data-i18n='feedbacks.user3.career') Content Creator
+                        .col-lg-8.order-1.order-lg-2
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user3.feedback') As a content creator, FunBlocks AI Flow has been instrumental in my brainstorming sessions. The AI-powered mind mapping tool helps me explore ideas from different angles, making my creative process much smoother. It feels like having a creative partner who is always ready to assist, making the content creation process much more enjoyable.
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-8
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user4.feedback') Learning new languages has become much easier with FunBlocks AI. The AI reading assistant helps me understand texts in different languages, and the writing AI support helps me practice and improve my writing skills. It's like having a tutor available 24/7, helping me progress faster and with more confidence.
+                        .col-lg-4.mt-3.mb-2
+                            h3.mb-2(data-i18n='feedbacks.user4.name') Yuki
+                            p.text-muted.mb-0(data-i18n='feedbacks.user4.career') Language Learner
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-4.text-right.mb-2.mt-3.order-2.order-lg-1
+                            h3.mb-2(data-i18n='feedbacks.user5.name') Raj
+                            p.text-muted.mb-0(data-i18n='feedbacks.user5.career') Researcher
+                        .col-lg-8.order-1.order-lg-2
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user5.feedback') FunBlocks AI has transformed the way I conduct research. The reading assistant not only summarizes articles but also highlights key points and biases, helping me critically evaluate sources. FunBlocks also offers AI Slides. With just one click, AI can generate slides for you. It supports simple text formatting (Markdown) and comes with an AI assistant, making it easy and fun to brainstorm presentation ideas and create elegant slideshows. Say goodbye to tedious PowerPoint work! FunBlocks is an essential tool for anyone involved in research.
+
+        section#why-choose.page-section(style="background-color: rgb(255, 239, 255)")
+            .container.py-5
+                h2.text-center.mb-3(data-i18n='whyChoose.title') Why Choose FunBlocks AI?
+                p.text-center.mb-4(data-i18n='whyChoose.subtitle' style="font-size: 1.4rem; color: #666") Innovative AI-Powered Solutions for Enhanced Critical Thinking, Creativity, and Productivity
+                .row.row-cols-1.row-cols-md-2.g-4
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                h3.mb-2(data-i18n='whyChoose.workflow.name') All-in-One AI Workflow
+                                p.text-muted.mb-0(data-i18n='whyChoose.workflow.description') From gathering information to generating ideas and presenting results, FunBlocks AI supports you every step of the way, boosting your work efficiency across the board.
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                h3.mb-2(data-i18n='whyChoose.aiAssistant.name') AI Assistant by Your Side
+                                p.text-muted.mb-0(data-i18n='whyChoose.aiAssistant.description') With an AI assistant accompanying you at every stage, you'll work more efficiently and unlock new levels of creativity, making your tasks easier and more productive.
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                h3.mb-2(data-i18n='whyChoose.customization.name') Personalized Experience
+                                p.text-muted.mb-0(data-i18n='whyChoose.customization.description') You can create or choose Prompts from the marketplace to craft an AI assistant that's perfectly tailored to your needs. FunBlocks AI offers a unique, personalized AI experience for every user.
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                h3.mb-2(data-i18n='whyChoose.ecosystem.name') Seamless Collaboration Ecosystem
+                                p.text-muted.mb-0(data-i18n='whyChoose.ecosystem.description') All products work together seamlessly to provide a smooth, unified user experience. In the FunBlocks AI ecosystem, your ideas can flow freely and thrive.
+            .text-center.mt-0
+                h3.text-xl.text-gray-700.mb-4(data-i18n='cta.subtitle') Join FunBlocks AI to unlock your creative potential and redefine your work and study efficiency!
+                a.btn.btn-primary.btn-lg.text-white(onclick="toApp()" data-i18n='cta.button' style="border: none") Start Your Free Trial Now
+
+
+        section#faq.page-section(style="background-color: lightskyblue")
+            .container
+                h2.text-center.mt-0.mb-5(data-i18n='faq.title') 
+                each q in ['q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'q10', 'q11', 'q12', 'q13', 'q14', 'q15', 'q16', 'q17', 'q18']
+                    .faq-item
+                        .faq-question(onclick="toggleItem(this.parentNode)")
+                            span(data-i18n=`faq.${q}`)
+                            .faq-arrow &#9654;
+                        .faq-answer(data-i18n=`faq.a${q.slice(1)}`)
+
+        #imageModal.modal
+            span.close(style="color:gray") &times;
+            img#modalImage.modal-image(src='', alt='')
+            .zoom-indicator Click to zoom
+
+        script.
+            function toggleItem(element) {
+                const answer = element.querySelector('.faq-answer');
+                const arrow = element.querySelector('.faq-arrow');
+                if (answer.style.display === 'block') {
+                    answer.style.display = 'none';
+                    arrow.innerHTML = '&#9654;';
+                } else {
+                    answer.style.display = 'block';
+                    arrow.innerHTML = '&#9660;';
+                }
+            }
+
+
+        // Footer
+        footer#footer.bg-white.py-5
+            .container
+                .row(style="row-gap: 2rem")
+                    .col-sm.text-center.d-flex.flex-column
+                        .text-mute FunBlocks AI Products
+                        a(href='/') FunBlocks AI
+                        a(href='/welcome_extension.html') FunBlocks AI Extension
+                        a(href='/aiflow.html') FunBlocks AI Flow
+                        a(href='/slides.html') FunBlocks AI Slides
+                        a(href='https://funblocks.net/aitools') FunBlocks AI Tools
+                    .col-sm.text-center.d-flex.flex-column
+                        .text-mute Get More from FunBlocks AI
+                        a(href='https://blog.funblocks.net') Boost Your Productivity
+                        a(href='https://app.funblocks.net/shares') FunBlocks AI Generated Content
+                    .col-sm.text-center.d-flex.flex-column
+                        .text-mute FunBlocks AI Tools
+                        a(href='https://funblocks.net/aitools/slides') AI Slides
+                        a(href='https://funblocks.net/aitools/mindmap') AI Mindmap
+                        a(href='https://funblocks.net/aitools/brainstorming') AI Brainstorming
+                        a(href='https://funblocks.net/aitools/decision') AI Decision Analyzer
+                        a(href='https://funblocks.net/aitools/planner') AI Planner
+                        a(href='https://funblocks.net/aitools/youtube') AI Youtube Summarizer
+                        a(href='https://funblocks.net/aitools/graphics') AI Infographics
+                    .col-sm.text-center.d-flex.flex-column
+                        .text-mute Resources
+                        a(href='https://openai.com') OpenAI ChatGPT 
+                        a(href='https://www.anthropic.com/') Anthropic Claude 
+                        a(href='https://gemini.google.com/') Google Gemini 
+                        a(href='https://www.groq.com') Groq
+                    .col-sm.text-center.d-flex.flex-column
+                        .text-mute Contact Us
+                        a(href='https://discord.gg/XtdZFBy4uR', target='_blank') Join our Discord
+
+                #orgInfo.small.text-center.text-muted(style="display: none") Copyright © 2024 - FunBlocks.net
+
+        // Bootstrap core JS
+        script(src='js/jquery-3.4.1.min.js')
+        script(src='js/bootstrap.bundle-4.5.3.min.js')
+
+        // Third party plugin JS
+        script(src='js/jquery.easing-1.4.2.min.js')
+        script(src='js/jquery.magnific-popup-1.1.0.min.js')
+
+        // Core theme JS
+        script(src='js/scripts.js')
+        script(src="js/i18next-2.0.22.min.js") 
+        script(src="js/loc-i18next.min.js")
+        script. 
+            window.onload = function() {
+                const modal = document.getElementById('imageModal');
+                const modalImg = document.getElementById("modalImage");
+                const closeBtn = document.querySelector(".close");
+                const zoomIndicator = document.querySelector(".zoom-indicator");
+                const portfolioBoxes = document.querySelectorAll('.portfolio-box');
+                
+                let isZoomed = false;
+
+                portfolioBoxes.forEach(box => {
+                    box.onclick = function() {
+                    modal.style.display = "flex";
+                    modalImg.src = this.querySelector('img').src;
+                    isZoomed = false;
+                    modalImg.classList.remove('zoomed');
+                    zoomIndicator.style.display = 'block';
+                    }
+                });
+                
+                modalImg.onclick = function() {
+                    if (isZoomed) {
+                        this.classList.remove('zoomed');
+                        zoomIndicator.style.display = 'block';
+                    } else {
+                        this.classList.add('zoomed');
+                        zoomIndicator.style.display = 'none';
+                    }
+                    isZoomed = !isZoomed;
+                }
+                
+                closeBtn.onclick = function() {
+                    modal.style.display = "none";
+                }
+                
+                window.onclick = function(event) {
+                    if (event.target == modal) {
+                        modal.style.display = "none";
+                    }
+                }
+
+                document.addEventListener('keydown', function(event) {
+                    if (event.key === "Escape") {
+                        modal.style.display = "none";
+                    }
+                });
+            }
+        script(src="js/i18nextBrowserLanguageDetector.min.js") 
+        script. 
+            i18next.use(i18nextBrowserLanguageDetector).init({
+                //- lng: 'en', // evtl. use language-detector https://github.com/i18next/i18next-browser-languageDetector
+                fallbackLng: getLanguage(),
+                resources: { // evtl. load via xhr https://github.com/i18next/i18next-xhr-backend
+                    en: {
+                        translation: {
+                            head: {
+                                title: 'FunBlocks AI - Boost Your Productivity with AI-Powered Mind Mapping, Document Creation, and Slides'
+                            },
+
+                            "nav": {
+                                "home": "FunBlocks - Your AI Assistant",
+                                "extension": "Extension",
+                                "flow": "AIFlow",
+                                "xslides": "Slides",
+                                "aiwriter": "Writer",
+                                "allInOne": "Workspace",
+                                "personalized": "Personalized",
+                                "faq": "FAQ",
+                                "aitools": "AI Tools",
+                                "pricing": "Pricing",
+                                "login": "Login"
+                            },
+                            "vision": {
+                                "title": "Maximize Your Productivity with the Comprehensive All-in-One AI Workspace",
+                                "goal_1": "🚀 Boost productivity at work and study",
+                                "goal_2": "🔍 Enhance critical thinking",
+                                "goal_3": "💡 Spark creative inspiration",
+                                "sub_title_1": "Brainstorm, create, and present with ease.",
+                                "sub_title_2": "Get AI-powered mind mapping, document writing, and slide generation – all in one place.",
+                                "transformer_1": "Seamless Integrated Browser Extension",
+                                "transformer_2": "AI-Powered Editors (Flow, Slides, Doc/Page)",
+                                "transformer_3": "AI Collaborative Workspace/Knowledge Base",
+                            },
+                            "anywhere": {
+                                "title": "FunBlocks Browser Extension",
+                                "subtitle": "Boost Efficiency by 10x: Email Replies, Writing, Reading, Social Interactions...",
+                                "desc": "The FunBlocks AI browser extension supports AI reading and contextual AI writing on all websites.",
+                                "getExtension": "Add for free to {{browser}}",
+                                "notes": "FunBlocks AI extension provides contextual support for different website applications in widget form, offering quick operations such as:",
+                                "notes_1": "AI writing assistant button in editing boxes",
+                                "notes_2": "AI reply button for email",
+                                "notes_3": "One-click YouTube video summarization",
+                                "speedup": "Enable 10x acceleration with a single click!",
+                                "ai_writing": "AI Writing",
+                                "ai_writing_desc": "Summon the AI writing assistant in any webpage input box or editor",
+                                "ai_reading": "AI Reading",
+                                "ai_reading_desc": "Have the AI assistant help you read content in any language on any webpage",
+                                "to_extension_guide": "How to use the installed extension?",
+                            },
+                            "aitools": {
+                                "title": "FunBlocks AI Tools",
+                                "subtitle": "Instant access to specialized AI tools designed for specific use cases, delivering precise and targeted solutions",
+                                "list_title": "Key Features:",
+                                "list_item1": "Specialized Solutions: Each tool is designed for a specific use case, offering tailored functionality for unique tasks",
+                                "list_item2": "Integrated Visuals: Our tools prioritize visual representation of information, making complex data easier to understand",
+                                "list_item3": "One-Click Operations: Access powerful AI capabilities with simplified, user-friendly interfaces",
+                                "list_item4": "Comprehensive Suite: Includes AI Graphics, AI Mindmap, AI Brainstorming, AI Slides, AI Decision Analyzer, AI Task Planner, AI YouTube Summarizer",
+                                "list_item5": "In-depth Creation: Generated works can be imported into FunBlocks AIFlow with one click for further editing and exploration",
+                                "try_button": "Try Now",
+                            },
+                            "flow": {
+                                "title": "FunBlocks AI Flow - Unleash Boundless Creativity with AI Brainstorming",
+                                "desc": "AI-powered mind mapping to unlock your creative potential and embark on infinite knowledge exploration.",
+                                "tryit": "Try it now",
+                                "more": "Click to view the AI Flow product introduction"
+                            },
+                            aiwriter: {
+                                title: "FunBlocks AI Writer - AI-Powered Notion-Style Block Editor",
+                                subtitle: "No More Writing Alone, with Your AI Copilot",
+                                desc: "Simply set the direction, and let AI handle the rest"
+                            },
+                            xslides: {
+                                "title": "FunBlocks AI Slides - Create Slides with One Click",
+                                "desc": "Unlock your presentation potential with AI-powered slides",
+                                "desc1": "Crafting in-depth speech content with you and offering expert presentation guidance",
+
+                                intro: 'Introduction',
+                                tryit: 'Playground',
+                                more: "Click to know more about FunBlocks AI Slides"
+                            },
+                            "reading": {
+                                "title": "Efficient, In-depth Reading Assistant - Broaden Perspectives",
+                                "desc": "LLMs possess divergent thinking, aiding us in critical reading and thinking, breaking through information constraints.",
+                                "li1": "Generate summaries and outlines",
+                                "li2": "Identify fallacies and biases",
+                                "li3": "Consider opposing viewpoints",
+                                "li4": "Acquire relevant knowledge",
+                                "li5": "Brainstorm ideas"
+                            },
+                            "memo": {
+                                "title": "Memo - Enhance AI Assistant's Memory",
+                                "desc": "FunBlocks Memo serves as the memory for the AI assistant.",
+                                "save": "Save to Memo: ",
+                                "ai_generated": "Excellent content generated by AI",
+                                "webclip": "Inspiring content encountered while browsing",
+                                "thought": "Your thoughts and ideas",
+                                "knowledgebase": "Build a dedicated knowledge base for your AI assistant",
+                            },
+                            "allInOne": {
+                                "title": "All-in-One Knowledge Workspace",
+                                "desc": "Comprehensive support for knowledge work",
+                                "li0": "Multiple page types (documents, slides, mindmaps) to create personal or team shared knowledge spaces",
+                                "li1": "AI assistant within the space or as a standalone browser extension for all websites",
+                                "li2": "Work 10 times faster while accumulating knowledge",
+                                "li3": "More knowledge accumulation, more powerful AI assistant",
+                                "workspace": "Join FunBlocks to learn and work with AI copilot!"
+                            },
+                            "personalized": {
+                                "title": "Ultimate Personalized AI Assistant",
+                                "subtitle": "Custom AI Solutions for Your Workflow",
+                                "desc": "Transform Your AI Experience with FunBlocks AI",
+                                "li1": "Custom Prompts: Tailor applications to your needs and industry",
+                                "li2": "Context-Aware Integration: Automatic context feeding makes powerful prompt development easy and boosts workflow efficiency",
+                                "li3": "Ecosystem Integration: Use custom prompts across AI Flow, AI Slides, AI Writer, and Browser Extension",
+                                "li4": "Community Sharing: Connect with others and share innovative prompts"
+                            },
+                            "feedbacks": {
+                                "title": "User Feedbacks",
+                                "user1": {
+                                    "name": "Fiona",
+                                    "career": "Marketing Manager",
+                                    "feedback": "As a marketing manager, creativity is my bread and butter. Since I started using FunBlocks AI Flow, my productivity has skyrocketed. Before product strategy meetings, I use it to organize market analyses, and the AI even provides timely insights, ensuring my proposals always hit the mark. Recently, when launching a new product, I used it for brainstorming – the ideas just kept flowing, which beats staring at PowerPoint slides for hours. During cross-department communications, a single mind map speaks volumes, making discussions more focused. My boss even asked if I've been secretly taking extra courses! Well, I guess you could say I've found the ultimate work partner."
+                                },
+                                "user2": {
+                                    "name": "Alex",
+                                    "career": "Student",
+                                    "feedback": "FunBlocks AI has been a game-changer for me as a student. The AI writing assistant helps me draft essays and assignments faster, while the reading assistant helps me comprehend complex texts. The one-click YouTube video summaries are a lifesaver when I need to quickly grasp the essence of a lecture. It's like having a study buddy that's always ready to help!"
+                                },
+                                "user3": {
+                                    "name": "Maria",
+                                    "career": "Content Creator",
+                                    "feedback": "As a content creator, FunBlocks AI Flow has been instrumental in my brainstorming sessions. The AI-powered mind mapping tool helps me explore ideas from different angles, making my creative process much smoother. It feels like having a creative partner who is always ready to assist, making the content creation process much more enjoyable."
+                                },
+                                "user4": {
+                                    "name": "Yuki",
+                                    "career": "Language Learner",
+                                    "feedback": "Learning new languages has become much easier with FunBlocks AI. The AI reading assistant helps me understand texts in different languages, and the writing AI support helps me practice and improve my writing skills. It's like having a tutor available 24/7, helping me progress faster and with more confidence."
+                                },
+                                "user5": {
+                                    "name": "Raj",
+                                    "career": "Researcher",
+                                    "feedback": "FunBlocks AI has transformed the way I conduct research. The reading assistant not only summarizes articles but also highlights key points and biases, helping me critically evaluate sources. FunBlocks also offers AI Slides. With just one click, AI can generate slides for you. It supports simple text formatting (Markdown) and comes with an AI assistant, making it easy and fun to brainstorm presentation ideas and create elegant slideshows. Say goodbye to tedious PowerPoint work! FunBlocks is an essential tool for anyone involved in research."
+                                }
+                            },
+                            "whyChoose": {
+                                "title": "Why Choose FunBlocks AI?",
+                                "subtitle": "Innovative AI-Powered Solutions for Enhanced Critical Thinking, Creativity, and Productivity",
+                                "workflow": {
+                                    "name": "All-in-One AI Workflow",
+                                    "description": "From gathering information to generating ideas and presenting results, FunBlocks AI supports you every step of the way, boosting your work efficiency across the board."
+                                },
+                                "aiAssistant": {
+                                    "name": "AI Assistant by Your Side",
+                                    "description": "With an AI assistant accompanying you at every stage, you'll work more efficiently and unlock new levels of creativity, making your tasks easier and more productive."
+                                },
+                                "customization": {
+                                    "name": "Personalized AI Experience",
+                                    "description": "You can create or choose Prompts from the marketplace to craft an AI assistant that's perfectly tailored to your needs. FunBlocks AI offers a unique, personalized AI experience for every user."
+                                },
+                                "ecosystem": {
+                                    "name": "Seamless Collaboration Ecosystem",
+                                    "description": "All products work together seamlessly to provide a smooth, unified user experience. In the FunBlocks AI ecosystem, your ideas can flow freely and thrive."
+                                }
+                            },
+                            "cta": {
+                                "subtitle": "Join FunBlocks AI to unlock your creative potential and redefine your work and study efficiency!",
+                                "button": "Start Your Free Trial Now"
+                            },
+                            "faq": {
+                                "title": "Frequently Asked Questions",
+                                "q1": "Q: As a new user, which product should I start with?",
+                                "a1": "A: We recommend starting with the FunBlocks AI Extension. This browser extension seamlessly integrates into your daily work and study routines, supporting web reading and contextual writing optimization. It helps you with intelligent writing and translation on any website, boosting your productivity.",
+                                
+                                "q2": "Q: Is FunBlocks AI Slides intended to replace PowerPoint?",
+                                "a2": "A: No, FunBlocks AI Slides is not intended to replace traditional tools like PPT or Keynote. It is designed for efficient presentations and in-depth thinking, combining AI with Markdown format to generate clean, effective slides with one click, allowing users to focus more on content rather than formatting.",
+                                
+                                "q3": "Q: I am already using ChatGPT. Why do I need FunBlocks AI?",
+                                "a3": "A: FunBlocks AI is more than just a chatbot. Our products are deeply integrated into your workflow, automatically fetching task context and optimizing prompts to directly apply the generated content to your tasks. Additionally, FunBlocks AI Flow supports multi-angle, multi-threaded visual interactions that inspire creativity and deep thinking, providing a unique experience that ChatGPT alone cannot offer.",
+                                
+                                "q4": "Q: If I use my own API Key (such as ChatGPT, Claude, Gemini, Groq), do I still need to pay for FunBlocks AI services?",
+                                "a4": "A: No, if you use your own API Key, you only need to pay the service provider. FunBlocks AI does not charge additional fees and is not limited by daily free access quotas.",
+                                
+                                "q5": "Q: Can I use the AI assistant without an LLM API Key?",
+                                "a5": "A: Yes. After registering for FunBlocks, you will receive 40 free AI service accesses, with an additional 10 free accesses each day. You can also join the FunBlocks AI membership for unlimited AI services.",
+                                
+                                "q6": "Q: How does FunBlocks AI compare to Notion?",
+                                "a6": "A: FunBlocks AI focuses on AI-assisted workflows. It supports Notion-style block editing and integrates with a browser extension that covers all web applications. Users can customize AI prompts and use applications from the AI app store. Additionally, FunBlocks AI is compatible with all major third-party large language models (such as ChatGPT, Claude, Gemini, Groq), providing a 10x efficiency boost in your workflow.",
+                                
+                                "q7": "Q: What type of creative work is FunBlocks AI Flow suitable for?",
+                                "a7": "A: FunBlocks AI Flow is ideal for tasks that require multi-angle thinking and creative exploration, such as brainstorming, thematic research, and content planning. It leverages AI's powerful understanding and reasoning abilities in an infinite canvas space, enabling multi-threaded interactions to help users explore and expand their thinking.",
+                                
+                                "q8": "Q: How does FunBlocks AI Extension enhance my work efficiency?",
+                                "a8": "A: The FunBlocks AI Extension integrates the AI assistant into all web applications, supporting features like one-click email replies, content generation, and webpage summaries. This integrated experience significantly reduces task switching time compared to using ChatGPT alone and adapts automatically to different application scenarios, saving you time and effort.",
+                                
+                                "q9": "Q: Is the multi-product setup of FunBlocks AI complex to learn?",
+                                "a9": "A: FunBlocks AI products are designed to simplify the user experience, with each product optimized for specific scenarios. They can be used independently or in conjunction. For beginners, we recommend starting with the browser extension, which offers easy installation and immediate productivity gains across all websites.",
+                                
+                                "q10": "Q: What unique features does FunBlocks AI Workspace offer?",
+                                "a10": "A: FunBlocks AI Workspace is a comprehensive knowledge work space where you can create various types of pages (such as documents, slides, and mind maps). As your knowledge accumulates, the AI assistant becomes more powerful, helping you achieve greater efficiency in your work.",
+                                
+                                "q11": "Q: How can I personalize my FunBlocks AI assistant?",
+                                "a11": "A: FunBlocks AI offers several customization options. You can select from mainstream large language models, build AI prompt applications according to your needs, and choose from the app marketplace to enhance the AI assistant's capabilities.",
+
+                                "q12": "Q: Why does FunBlocks AI support all major large language models (llm)?",
+                                "a12": "A: FunBlocks AI is committed to providing users with flexible choices and the best experience. By supporting all major llms, we meet the diverse needs of users, ensuring you can select the most suitable tools based on your personal preferences and workflow, thereby enhancing your work efficiency and creativity.",
+
+                                "q13": "Q: Is FunBlocks AI suitable for students?",
+                                "a13": "A: Yes, FunBlocks AI is highly suitable for students. It offers various features to help students improve their learning efficiency. For instance, with FunBlocks AI Flow, you can explore problems or topics in depth with the guidance of mind maps and AI assistants. Additionally, the writing assistant can provide feedback on essays, enhancing writing skills and abilities.",
+
+                                "q14": "Q: Is FunBlocks AI suitable for workplace use?",
+                                "a14": "A: Absolutely, FunBlocks AI is very suitable for workplace use. It provides multiple features to help professionals increase their work efficiency. For example, with the FunBlocks AI browser extension, you can edit text on any webpage, and the AI writing assistant can help draft, polish, correct errors, and translate, significantly boosting writing efficiency. Moreover, FunBlocks AI Flow can assist you in project exploration and task breakdown, simplifying complex work, and generate creative and effective solutions.",
+
+                                "q15": "Q: Is FunBlocks AI suitable for lifelong learners?",
+                                "a15": "A: Yes, FunBlocks AI is highly suitable for **lifelong learners**. In an age of information overload, almost everyone needs to enhance their **thinking skills** and **learning abilities**. FunBlocks AI meets this need through various features, providing comprehensive tools for **critical reading** and **thinking**. It helps users discern information, gain a more holistic perspective, and improve their cognitive abilities. Particularly, FunBlocks AI Flow, combined with mind mapping and whiteboard solutions, facilitates smoother and more creative thinking, fully unleashing and enhancing one's **thinking capabilities**.",
+
+                                "q16": "Q: Can I use FunBlocks AI for free?",
+                                "a16": "A: Yes, FunBlocks AI offers a free usage option. New users will receive 30 free AI service accesses upon registration, along with an additional 10 free accesses daily, ensuring you can experience the powerful features of the AI assistant. Additionally, FunBlocks AI has a rewards mechanism; by inviting friends to register, both you and your friends can receive free usage credits.",
+
+                                "q17": "Q: How can I earn free usage credits by inviting friends?",
+                                "a17": "A: You can invite friends in two ways. First, share the invitation link; when your friend registers through the link, they will receive a reward. Second, share content generated by the FunBlocks AI browser extension or AI Flow; if users click to read and register, you will also receive an invitation reward.",
+
+                                "q18": "Q: How to cancel a subscribed plan?",
+                                "a18": "A: You can find the 'Upgrade AI' and 'Upgrade FunBlocks' sections in the settings. If you are subscribed to a membership plan, there will be a Cancel button in the corresponding description area; click it to unsubscribe."
+                            }
+                        }
+                    },
+                    cn: {
+                        translation: {
+                            head: {
+                                title: 'FunBlocks - 学生党与打工人的全能效率提升利器'
+                            },
+                            
+                           "nav": {
+                                "home": "FunBlocks - 你的全能AI助手",
+                                "extension": "浏览器插件",
+                                "flow": "AI思维导图",
+                                "xslides": "幻灯片",
+                                "aiwriter": "文档",
+                                "allInOne": "工作空间",
+                                "personalized": "私人定制",
+                                "aitools": "AI工具集",
+                                "faq": "常见问题",
+                                "pricing": "会员方案",
+                                "login": "登录"
+                            },
+                            "vision": {
+                                "title": "在“一站式”AI工作空间中释放您的生产力",
+                                "goal_1": "🚀 提高工作和学习的效率",
+                                "goal_2": "🔍 增强批判性思维",
+                                "goal_3": "💡 激发创造性灵感",
+                                "sub_title_1": "轻松进行头脑风暴、创作和展示。",
+                                "sub_title_2": "在一个地方获取AI驱动的思维导图、文档写作和幻灯片生成。",
+                                "transformer_1": "随时可用的浏览器插件",
+                                "transformer_2": "有AI助手的文档工具（思维导图、幻灯片、文档/网页）",
+                                "transformer_3": "可协作的工作空间/知识库",
+                            },
+                            "anywhere": {
+                                "title": "FunBlocks浏览器插件",
+                                "subtitle": "提升10倍效率：回复邮件、写作、阅读、社交互动...",
+                                "desc": "FunBlocks AI浏览器插件支持在所有网站上进行AI阅读和情境化AI写作。",
+                                "getExtension": "免费添加到 {{browser}}",
+                                "notes": "FunBlocks AI插件还为不同网站应用提供了场景化支持，以Widget形式展现在相应位置，提供快捷操作，如:",
+                                "notes_1": "编辑框AI写作助手按钮",
+                                "notes_2": "回复邮件按钮",
+                                "notes_3": "一键YouTube视频总结",
+                                "speedup": "一键开启10倍加速！",
+                                "ai_writing": "AI写作",
+                                "ai_writing_desc": "在任何网页输入框或编辑器中，都可以召唤AI写作助手",
+                                "ai_reading": "AI阅读",
+                                "ai_reading_desc": "在任何网页中，都可以让AI助手帮助你阅读任意语言内容",
+                                "to_extension_guide": "Extension已安装，如何使用？",
+                            },
+                            "aitools": {
+                                "title": "FunBlocks AI Tools",
+                                "subtitle": "即时访问专为特定场景和需求设计的专业AI工具，提供精准和有针对性的解决方案",
+                                "list_title": "主要特点:",
+                                "list_item1": "专业解决方案：每个工具都针对特定用例设计，提供独特任务的定制功能",
+                                "list_item2": "集成视觉效果：我们的工具优先考虑信息的视觉表示，使复杂数据更易于理解",
+                                "list_item3": "一键操作：通过简化、用户友好的界面访问强大的AI功能",
+                                "list_item4": "综合套件：包括AI图形、AI思维导图、AI头脑风暴、AI幻灯片、AI决策分析器、AI任务规划器、AI YouTube总结器",
+                                "list_item5": "深入创作：生成的作品可一键导入FunBlocks AIFlow，继续编辑和探索",
+                                "try_button": "立即尝试",
+                            },
+                            "flow": {
+                                "title": "FunBlocks AI Flow - 激发无限创意的AI头脑风暴",
+                                "desc": "AI驱动的思维导图，释放创意潜能，开启无限知识探索。",
+                                "tryit": "立即尝试",
+                                "more": "点击查看 AI Flow 产品介绍",
+                            },
+                            aiwriter: {
+                                title: "FunBlocks AI Writer - AI驱动的Notion风格文档编辑器",
+                                subtitle: "与AI结伴，写作不再孤单",
+                                desc: "只需确定写作方向，其余交给AI完成"
+                            },
+                            xslides: {
+                                title: `FunBlocks AI Slides - AI一键制作PPT和课件`,
+                                "desc": "利用AI和Markdown，让幻灯片制作变得轻松高效",
+                                "desc1": "AI 幻灯片助手，助你打造深度演讲内容，提供专业演讲指导",
+                                tryit: '立即尝试',
+                                intro: '详细介绍',
+                                "more": "点击查看 AI Slides 产品介绍",
+                            },
+                            "reading" : {
+                                "title": "高效、深度阅读助手 - 拓展视角",
+                                "desc": "语言大模型拥有开放性思维，助力我们进行批判性阅读和思考，打破信息局限",
+                                "li1": "生成摘要和大纲",
+                                "li2": "找出谬误和偏见",
+                                "li3": "反方观点",
+                                "li4": "了解相关知识",
+                                "li5": "头脑风暴",
+                            },
+                            "memo": {
+                                "title": "Memo，为AI助手增加记忆",
+                                "desc": "FunBlocks Memo可以作为AI助手的记忆体",
+                                "save": "随时收集： ",
+                                "ai_generated": "AI生成的精彩内容",
+                                "webclip": "浏览网页时遇到的启发性内容",
+                                "thought": "你的所思所想",
+                                "knowledgebase": "为AI助手构建专属的知识库",
+                            },
+                            "allInOne": {
+                                "title": "一站式AI知识工作空间",
+                                "desc": "全场景支持知识工作",
+                                "li0": "多种页面类型（文档、幻灯片、思维导图），创建个人或团队共享知识空间",
+                                "li1": "AI助手，支持空间内协作，或作为独立浏览器插件使用",
+                                "li2": "10倍加速工作，积累知识",
+                                "li3": "更多知识积累，更强大的AI助手",
+                                "workspace": "加入FunBlocks，与AI一起学习和工作！"
+                            },
+                            "personalized": {
+                                "title": "全能个性化AI助手",
+                                "subtitle": "为您的工作流量身定制的解决方案",
+                                "desc": "用FunBlocks AI改变您的AI体验",
+                                "li1": "Prompt应用开发: 根据您的需求和行业量身定制应用",
+                                "li2": "上下文感知集成: 自动上下文传递使Prompt应用开发变得简单，并大幅提升工作流效率",
+                                "li3": "生态系统集成: 在AI Flow、AI Slides、AI Writer和浏览器扩展中使用自定义应用",
+                                "li4": "社区共享: 与他人连接并分享创新应用"
+                            },
+                            "feedbacks": {
+                                "title": "用户反馈",
+                                "user1": {
+                                    "name": "Fiona",
+                                    "career": "市场经理",
+                                    "feedback": "作为一名市场经理，创意是我的核心技能。自从我开始使用FunBlocks AI Flow以来，我的工作效率大幅提升。在产品策略会议之前，我用它来组织市场分析，AI甚至提供及时的见解，确保我的提案总是击中要点。最近，在推出新产品时，我用它进行头脑风暴——创意源源不断，这比盯着PPT幻灯片几个小时有趣多了。在跨部门沟通中，一张思维导图可以传达很多信息，使讨论更加集中。我的老板甚至问我是不是偷偷上了额外的课程！我想我找到了一个终极工作伙伴。"
+                                },
+                                "user2": {
+                                    "name": "Alex",
+                                    "career": "学生",
+                                    "feedback": "FunBlocks AI对我作为学生来说是一个革命性的工具。AI写作助手帮助我更快地起草论文和作业，而阅读助手则帮助我理解复杂的文本。当我需要快速掌握讲座的要点时，一键式的YouTube视频摘要就是救星。这就像有一个随时准备帮忙的学习伙伴！"
+                                },
+                                "user3": {
+                                    "name": "Maria",
+                                    "career": "内容创作者",
+                                    "feedback": "作为一名内容创作者，FunBlocks AI Flow在我的头脑风暴会议中发挥了重要作用。AI驱动的思维导图工具帮助我从不同角度探索创意，使我的创作过程更加顺畅。这感觉就像有一个随时准备协助的创意伙伴，使内容创作过程更加愉快。"
+                                },
+                                "user4": {
+                                    "name": "Yuki",
+                                    "career": "语言学习者",
+                                    "feedback": "学习新语言变得更容易了，有了FunBlocks AI。AI阅读助手帮助我理解不同语言的文本，写作AI支持则帮助我练习和提高写作技巧。这就像有一个全天候在线的导师，帮助我更快地进步，并且更有信心。"
+                                },
+                                "user5": {
+                                    "name": "Raj",
+                                    "career": "研究人员",
+                                    "feedback": "FunBlocks AI彻底改变了我进行研究的方式。阅读助手不仅总结了文章，还突出关键点和偏见，帮助我批判性地评估资料来源。FunBlocks还提供AI Slides功能。只需一键点击,AI就能为您生成幻灯片。它支持简单的 Markdown 文本格式,并配有AI助手,让您轻松愉快地构思演讲内容并创建精美的幻灯片。告别繁琐的PPT制作过程!。FunBlocks 是任何从事研究的人必备的工具。"
+                                }
+                            },
+                            "whyChoose": {
+                                "title": "为什么选择FunBlocks AI？",
+                                "subtitle": "创新的AI驱动解决方案，提升批判性思维、创造力和生产力",
+                                "workflow": {
+                                    "name": "一站式AI工作流",
+                                    "description": "从信息收集到创意生成，再到成果展示，FunBlocks AI 提供全程支持，全面提升您的工作效率。"
+                                },
+                                "aiAssistant": {
+                                    "name": "AI助手陪伴",
+                                    "description": "每个环节都有AI助手相伴，既提升效率，又激发创意，让您的工作更轻松。"
+                                },
+                                "customization": {
+                                    "name": "个性化AI体验",
+                                    "description": "您可以自由编写或选择市场上的Prompt，打造专属于您的智能助手。FunBlocks AI为您定制独特的AI体验。"
+                                },
+                                "ecosystem": {
+                                    "name": "无缝协作生态",
+                                    "description": "各产品无缝衔接，提供流畅的用户体验。在FunBlocks AI生态中，您的创意自由流动。"
+                                }
+                            },
+                            "cta": {
+                                "subtitle": "加入FunBlocks AI，释放创造力，重新定义您的工作与学习效率！",
+                                "button": "立即免费试用"
+                            },
+                            "faq": {
+                                "title": "常见问题及回答",
+                                "q1": "Q: 作为新用户，我该先从哪个产品入手体验？",
+                                "a1": "A: 推荐先安装FunBlocks AI Extension，这款浏览器扩展能无缝嵌入您的日常工作和学习中，支持网页阅读和上下文写作优化。它能够帮您在任意网站上进行智能写作和翻译，提升您的工作效率。",
+
+                                "q2": "Q: FunBlocks AI Slides是要替代PPT吗？",
+                                "a2": "A: 不，FunBlocks AI Slides并非传统的PPT、Keynotes等工具。它是专为高效演示和深度思考而设计，结合了AI与Markdown格式，实现了一键生成简洁、高效的幻灯片，帮助用户更专注于内容本身，而非格式编辑。",
+
+                                "q3": "Q: 我已经在使用ChatGPT，为什么还需要FunBlocks AI？",
+                                "a3": "A: FunBlocks AI不仅仅是一个聊天机器人。我们的产品深度集成在您的工作流程中，自动获取任务上下文并优化提示词，使生成的内容直接应用到您的任务中。同时，FunBlocks AI Flow还支持多角度、多线程的视觉化交互，激发创意与深度思考，是ChatGPT无法提供的独特体验。",
+
+                                "q4": "Q: 如果我使用自己的API Key（如ChatGPT、Claude、Gemini、Groq等），还需要为FunBlocks AI服务支付费用吗？",
+                                "a4": "A: 不需要。如果您使用自己的API Key，您只需向服务提供商支付费用。FunBlocks AI不会收取额外费用，也不受每日免费访问配额的限制。",
+
+                                "q5": "Q: 我可以在不使用LLM API Key的情况下使用AI助手吗？",
+                                "a5": "A: 可以。在注册FunBlocks后，您将获得30次免费AI服务访问，每天还会额外赠送10次免费访问。您也可以加入FunBlocks AI会员，享受无限制的AI服务。",
+
+                                "q6": "Q: FunBlocks AI是否能与Notion媲美？",
+                                "a6": "A: FunBlocks AI专注于AI辅助的工作流，不仅支持Notion风格的块编辑，还集成了浏览器插件，覆盖所有网页应用。用户可以自定义AI提示词，并使用AI应用商店中的应用程序。此外，FunBlocks AI兼容所有主要第三方大语言模型（如ChatGPT、Claude、Gemini、Groq），在您的工作流中实现10倍的效率提升。",
+
+                                "q7": "Q: FunBlocks AI Flow适合什么类型的创意工作？",
+                                "a7": "A: FunBlocks AI Flow非常适合需要多角度思考和创意探索的任务，如头脑风暴、主题研究和内容策划。它结合了AI的强大理解力和推理能力，在无限画布空间中进行多线程互动，帮助用户深入探索并拓展思维。",
+
+                                "q8": "Q: FunBlocks AI Extension如何提升我的工作效率？",
+                                "a8": "A: FunBlocks AI Extension将AI助手融入所有网页应用，支持一键邮件回复、内容生成和网页摘要等功能。与单独使用ChatGPT相比，这种集成式体验大大减少了任务切换时间，并自动适应不同应用场景，为您节省时间和精力。",
+
+                                "q9": "Q: FunBlocks AI的多产品组合是否复杂难学？",
+                                "a9": "A: FunBlocks AI的产品设计是为了简化用户体验，每个产品都针对特定场景进行优化，既可以独立使用，也可以互相协同。对于初学者，我们建议从浏览器扩展开始，只需一键安装，即可在所有网站上享受AI带来的效率提升。",
+
+                                "q10": "Q: FunBlocks AI Workspace提供了哪些独特功能？",
+                                "a10": "A: FunBlocks AI Workspace是一个全面支持知识工作的空间，您可以创建多种页面类型（如文档、幻灯片、思维导图）。随着您的知识积累，AI助手会变得更加强大，帮助您在工作中获得更高的效率。",
+                                
+                                "q11": "Q: 如何个性化我的FunBlocks AI助手？",
+                                "a11": "A: FunBlocks AI提供多种个性化选项，您可以选择主流的大语言模型，构建符合您需求的AI提示应用，并从应用市场中挑选所需的应用程序，以增强AI助手的功能。",
+
+                                "q12": "Q: 为什么FunBlocks AI支持所有主流大语言模型？",
+                                "a12": "A: FunBlocks AI致力于为用户提供灵活的选择和最佳体验。通过支持所有主流大语言模型，我们满足不同用户的需求，确保您可以根据个人偏好和工作流程选择最合适的工具，从而提升工作效率和创造力。",
+
+                                "q13": "Q: FunBlocks AI适合学生使用吗？",
+                                "a13": "A: 是的，FunBlocks AI非常适合学生。它提供多种功能，帮助学生提高学习效率。例如，使用FunBlocks AI Flow，您可以在思维导图和AI助手的引导下，深入探索问题或主题。此外，写作助手可以对作文进行批改，提供反馈，提升写作技巧和能力。",
+
+                                "q14": "Q: FunBlocks AI适合职场办公使用吗？",
+                                "a14": "A: 是的，FunBlocks AI非常适合职场使用。它提供多种功能，帮助职场人士提高工作效率。例如，使用FunBlocks AI浏览器插件，您可以在任意网页中进行文本编辑，AI写作助手可以帮助撰写草稿、润色文本、改正错误和翻译，大幅提升写作效率。同时，FunBlocks AI Flow可以帮助您进行项目方案探索和任务分解，让复杂工作变得简单。",
+
+                                "q15": "Q: FunBlocks AI适合终身学习者使用吗？",
+                                "a15": "A: 是的，FunBlocks AI非常适合**终身学习者**。在信息爆炸的时代，几乎每个人都需要提升思维能力和学习能力。FunBlocks AI通过多种功能满足这一需求，提供全方位的批判性阅读和思考工具，帮助用户辨别信息，获得更全面的认知视角，提升思维能力。特别是 FunBlocks AI Flow，结合思维导图、白板和AI的解决方案，使用户的思考更加流畅和富有创意，充分发挥和提升思考能力。",
+
+                                "q16": "Q: 我可以免费使用FunBlocks AI吗？",
+                                "a16": "A: 是的，FunBlocks AI提供免费使用选项。新用户注册后将获得30次免费AI服务访问，每天还会额外赠送10次免费访问，确保您能够体验到AI助手的强大功能。此外，FunBlocks AI还设有奖励机制，邀请好友注册，您和好友都能获得免费使用额度。",
+
+                                "q17": "Q: 如何通过邀请好友获得免费使用额度奖励呢？",
+                                "a17": "A: 您可以通过两种方式邀请好友。第一，分享邀请链接，好友通过链接注册后即可获得奖励。第二，分享FunBlocks AI浏览器插件或AI Flow生成的内容，用户点击阅读后注册，您也将获得邀请奖励。",
+
+                                "q18": "Q: 如何取消订阅的Plan？",
+                                "a18": "A: 您可以在设置中找到“升级 AI 会员”和“升级 FunBlocks”栏目。如果您订阅了某个会员计划，在相应的介绍栏中会有Cancel按钮，点击即可退订。"
+                            }
+                        }
+                    }
+                }
+            }, function(err, t) {
+                updateContent();
+            });
+
+            function updateContent() {
+                localize = locI18next.init(i18next);
+
+                localize('head')
+                localize('.masthead');
+                localize('#mainNav');
+                localize('#flow');
+                localize('#aiwriter');
+                localize('#xslides');
+                localize('#anywhere');
+                localize('#aitools');
+                localize('#reading');
+                localize('#allInOne');
+                localize('#memo');
+                localize('#personalized');
+                localize('#user-feedback');
+                localize('#why-choose');
+                localize('#faq');
+
+                loadImgs();
+                //- loadAppQrcodes();
+
+                let browser = getBrowser();
+                let getExtensionBtnTitle = i18next.t("anywhere.getExtension", { browser });
+                let innerHtml;
+                if(browser == 'Chrome') {
+                    innerHtml = '<img src="assets/img/portfolio/fullsize/icon_chrome.png" width="28" height="28">' + getExtensionBtnTitle;
+                } else if (browser == 'Edge') {
+                    innerHtml = '<img src="assets/img/portfolio/fullsize/icon_edge.png" width="28" height="28">' + getExtensionBtnTitle;
+                } else {
+                    innerHtml = getExtensionBtnTitle;
+                }
+                document.getElementById("getExtensionBtn").innerHTML = innerHtml;
+            }
+
+            function changeLng(selectObj) {
+                const selectedLang = selectObj.value;
+                console.log('selected language', selectedLang)
+                i18next.changeLanguage(selectedLang, (t) => {
+                    updateContent();
+                });
+            }
+
+            function getLanguage() {
+                let language = i18next.language || window.localStorage.i18nextLng || navigator.language || window.navigator.language;
+                const selector = document.getElementById('languageSelector');
+                const option = Array.from(selector.options).find(option => {
+                    return language.toLowerCase().includes(option.value);
+                });
+
+                return option? option.value: 'en';
+            }
+
+            function initLanguageSelector() {
+                const selector = document.getElementById('languageSelector');
+                
+                selector.value = getLanguage();
+            }
+
+            function loadImgs() {
+                let lng = getLanguage();
+
+                //- document.getElementById('welcomeImg').src = `assets/img/portfolio/fullsize/ai_writer_assistant_${lng}.png`;
+
+                document.getElementById('ai_reading').src = `assets/img/portfolio/fullsize/ai_reading_${lng}.png`;
+                document.getElementById('ai_writing').src = `assets/img/portfolio/fullsize/ai_writing_${lng}.png`;
+                //- document.getElementById('critical_reading').src = `assets/img/portfolio/fullsize/critical_reading_${lng}.png`;
+                
+                //- document.getElementById('xEditorImg').src = `assets/img/portfolio/fullsize/slides.png`;
+
+                //- document.getElementById('aiAssistantVideo').src = `assets/img/ai_writer_assistant_${lng}.mp4`;
+
+                //- document.getElementById('ai_memo').src = `assets/img/portfolio/fullsize/ai_memo_${lng}.png`;
+                document.getElementById('all_in_one').src = `assets/img/portfolio/fullsize/all_in_one_${lng}.png`;
+                document.getElementById('ai_personalize').src = `assets/img/portfolio/fullsize/personalize_${lng}.png`;
+
+                //- document.getElementById('flow_demo_frame').src = `https://app.funblocks.net/#/aiflow?hid=welcome_to_aiflow_${lng}`;
+
+                //- document.getElementById('ai_dev_a').href = `assets/img/portfolio/fullsize/ai_dev_${lng}.png`;
+                //- document.getElementById('ai_use_a').href = `assets/img/portfolio/fullsize/ai_use_${lng}.png`;
+
+                document.getElementById('ai_tools').src = `assets/img/portfolio/fullsize/ai_tools.png`;
+            }
+
+            function loadAppQrcodes() {
+                const iOS = !!navigator.platform && /iPad|iPhone|iPod|Mac/.test(navigator.platform);
+
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const android = !!userAgent && /Android/.test(userAgent);
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if (iOS) {
+                    // Just replace `https://` with `itms://` on your app's AppStore link.
+                    document.getElementById('iosApplink').href = "https://apps.apple.com/cn/app/%E6%96%B9%E5%9D%97%E7%AC%94%E8%AE%B0-%E5%8D%B3%E6%97%B6%E7%AC%94%E8%AE%B0-%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB/id1640254686";
+                    
+                } else if(android) {
+                    document.getElementById('androidApplink').href = "/download_android.html";
+                }
+            }
+
+            initLanguageSelector();
+
+            document.addEventListener('DOMContentLoaded', function() {
+                const faqAnswers = document.querySelectorAll('.faq-answer');
+                faqAnswers.forEach(answer => {
+                    const text = answer.textContent;
+                    answer.innerHTML = ''; // Clear the current content
+                    text.split('\n').forEach(paragraph => {
+                        if (paragraph.trim()) {
+                            const p = document.createElement('p');
+                            p.textContent = paragraph.trim();
+                            answer.appendChild(p);
+                        }
+                    });
+                });
+            });
+
+            //- if(isCNDomain()) {
+            //-     document.getElementById('ril').style.display = 'block';
+
+            //-     document.getElementById('header_app').style.display = 'block';
+            //-     document.getElementById('orgInfo').style.display = 'block';
+            //- }
+
+            //- document.getElementById('JweixinTip').style.display = 'none'
+            //- document.getElementById('JweixinTip').onclick = function() {
+            //-         this.style.display='none';
+            //- }

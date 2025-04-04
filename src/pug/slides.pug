@@ -1,0 +1,1012 @@
+doctype html
+html(lang='en')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', lang='zh-CN', content='告别枯燥的PPT制作！FunBlocks AI Slides 采用AI驱动，结合Markdown语法，帮助你快速制作出内容丰富、设计优雅的演示文稿。')
+        meta(name='description', lang='en', content=`Create stunning, content-focused presentations effortlessly with FunBlocks AI Slides. Our AI-powered tool combines Markdown simplicity with intelligent design for maximum impact. Ideal for busy professionals.`)
+        
+        meta(name='keywords', content='AI slides, AI PPT, AIPPT, AI writing assistant, AI assistant, Markdown slides, presentation tool, AI presentation, efficient presentations, content-focused, AI-powered, productivity tool, time-saving, professional presentations')
+        meta(name='author', content='FunBlocks')
+
+        title.page-title(data-i18n='head.title') FunBlocks AI Slides: Efficient AI Presentation Tool | Designed for Content-Focused Professionals
+
+        // Favicon
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.png')
+
+        // Font Awesome icons (free version)
+        //- script(src='https://use.fontawesome.com/releases/v5.13.0/js/all.js', crossorigin='anonymous')
+
+        //- // Google fonts
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700', rel='stylesheet')
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic', rel='stylesheet', type='text/css')
+
+        //- // Third party plugin CSS
+        //- link(href='css/magnific-popup-1.1.0.min.css', type='css' rel='stylesheet')
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+
+        script(async src="https://www.googletagmanager.com/gtag/js?id=G-RYTCZEQK0W")
+
+        script(src="https://accounts.google.com/gsi/client" async defer)
+
+        script.
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-RYTCZEQK0W');
+
+            function isCNDomain() {
+                //- return !window.location.hostname.includes('net');
+                return window.location.hostname.includes('cn');
+            }
+
+            function getDomain() {
+                if(!window.location.hostname.includes('funblocks')) {
+                    return 'funblocks.net';
+                }
+                return window.location.hostname.replace('www.', '');
+            }
+
+            function openUrl(url) {
+                let newTab = window.open();
+                newTab.location.href = url;
+            }
+
+            function toApp() {
+                const iOS_phone = !!navigator.platform && /iPhone|iPod/.test(navigator.platform);
+
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const android = !!userAgent && /Android/.test(userAgent);
+
+                let url = `https://app.${getDomain()}/#/login?source=slides`;
+
+                //- let url = 'https://webapp.xslides.net/index.html';
+                //- console.log('language.......', navigator.language)
+                //- if(navigator.language.toLowerCase()=='zh-cn'){
+                //-     url = 'https://xslides.e-du.top/index.html';
+                //- }
+                openUrl(url);
+            }
+
+            function toDemo() {
+                //- https://service.funblocks.net/present.html?hid=xslides_demo_en
+                let url = `https://service.${getDomain()}/present.html?hid=xslides_demo_en`;
+
+                //- let url = 'https://webapp.xslides.net/index.html';
+                //- console.log('language.......', navigator.language)
+                //- if(navigator.language.toLowerCase()=='zh-cn'){
+                //-     url = 'https://xslides.e-du.top/index.html';
+                //- }
+                openUrl(url);
+            }
+
+            function toPlans() {
+               
+                let url = `https://app.${getDomain()}/#/aiplans?source=slides`;
+
+                openUrl(url);
+            }
+
+
+            function getBrowser() {
+                const userAgent = navigator.userAgent;
+
+                if (userAgent.includes("Edg")) {
+                    return 'Edge'
+                } else if (userAgent.includes("Chrome")) {
+                    return 'Chrome'
+                }  
+
+                return 'Browser'
+            }
+
+            function toggleItem(item) {
+                item.classList.toggle('open');
+            }
+        
+        script.
+            function handleCredentialResponse(response) {
+                window.open('https://app.funblocks.net/#/login?source=flow&g_login_token='+response.credential, '_blank')
+                //- window.open('https://app.funblocks.net/#/aiflow?token='+response.credential, '_blank')
+                //- window.open('http://localhost:3000/#/aiflow?token='+response.credential, '_blank')
+            }
+        script.
+            window.onload = function () {
+                if(isCNDomain()) return;
+
+                google.accounts.id.initialize({
+                    client_id: '988058218123-enpfsi0n6fo9jqa2aqfr6s37t16loth8.apps.googleusercontent.com',
+                    callback: handleCredentialResponse,
+                    //- auto_select: true
+                });
+                //- const statusElement = document.getElementById('login-status');
+                fetch(`https://service.${getDomain()}/users/info`, { 
+                //- fetch(`http://localhost:50058/users/info`, { 
+                    credentials: 'include' 
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if(data?.data?._id) return;
+
+                    google.accounts.id.prompt();
+                })
+                .catch(error => {
+                    console.error('Error checking auth status', error);
+                    google.accounts.id.prompt();
+                    //- statusElement.textContent = 'Error checking login status';
+                });
+
+                
+                //- google.accounts.id.renderButton(
+                //-     document.getElementById('googleSignInDiv'),
+                //-     { theme: 'outline', size: 'large' }
+                //- );
+            };
+
+    body#page-top
+        // Navigation
+        nav#mainNav.navbar.navbar-expand-lg.navbar-light.fixed-top
+            .container
+                a.navbar-brand.js-scroll-trigger(href='#page-top' data-i18n='nav.home') FunBlocks AI Slides
+                button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
+                    span.navbar-toggler-icon
+                #navbarResponsive.collapse.navbar-collapse
+                    ul.navbar-nav.ml-auto.mr-4.my-2.my-lg-0.align-items-center
+                        li.nav-item 
+                            select#languageSelector.nav-link.js-scroll-trigger(onChange="changeLng(this)" style="background-color: transparent; border: 0px; border-radius: 5px; cursor: pointer")
+                                option(value='en') English
+                                option(value="cn") 中文
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#intro' data-i18n='nav.intro') Product Overview
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#features' data-i18n='nav.features') Key Features
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#ai-assistant' data-i18n='nav.ai-assistant') AI Assistant
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#use-cases' data-i18n='nav.use-cases') Use Cases
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#faq' data-i18n='nav.faq') FAQ
+                        li.nav-item
+                            a.nav-link(onclick="toPlans()" data-i18n='nav.pricing' style="cursor: pointer") Pricing Plans
+                a#loginBtn.btn.btn-primary.btn-xl.text-white.js-scroll-trigger(onclick="toApp()" data-i18n='nav.cta') Try Now
+
+        // Masthead
+        header.masthead
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h1.mt-0.mb-3.text-center(data-i18n='masthead.title') Create Smarter, Present Better
+                h2.mt-0.mb-5(data-i18n='masthead.subtitle') Unlock your presentation potential with AI-powered slides
+                h3.mt-0.mb-2(data-i18n='masthead.target') Designed for professionals who seek excellence in content and efficiency
+                a.btn.btn-primary.btn-xl.text-white.mt-4(onclick="toApp()" data-i18n='masthead.cta') Try for Free
+
+        // Intro
+        section#intro.page-section
+            .container
+                h2.text-center.mt-0.mb-5(data-i18n='intro.title') AI Slides: Ignite your ideas with AI-powered inspiration and effortless slide creation
+                .row.d-flex.align-items-center
+                    .col-lg-4(style="display: grid").mt-3
+                        .text-center.mb-3
+                                i.fas.fa-4x.fa-gem.text-primary
+                                h3.mb-2(data-i18n='intro.point1') Markdown Writing
+                                p.text-muted.mb-0(data-i18n='intro.desc1') Craft professional slides instantly with intuitive Markdown syntax
+                        .text-center.mb-3
+                                i.fas.fa-4x.fa-laptop-code.text-primary
+                                h3.mb-2(data-i18n='intro.point2') Minimalist Aesthetics
+                                p.text-muted.mb-0(data-i18n='intro.desc2') Focus on content creation, leave behind tedious formatting
+                        .text-center.mb-3
+                                i.fas.fa-4x.fa-globe.text-primary
+                                h3.mb-2(data-i18n='intro.point3') Powered by AI
+                                p.text-muted.mb-0(data-i18n='intro.desc3') Smart generation and optimization, creativity at your fingertips
+                        .text-center.mb-3
+                                i.fas.fa-4x.fa-heart.text-primary
+                                h3.mb-2(data-i18n='intro.point4') Ecosystem Integration
+                                p.text-muted.mb-0(data-i18n='intro.desc4') Seamlessly connect with FunBlocks documents and AIFlow, converting various content into stunning slides with a single click
+                        .text-center.mb-3
+                                i.fas.fa-4x.fa-heart.text-primary
+                                h3.mb-2(data-i18n='intro.point5') Cloud Collaboration
+                                p.text-muted.mb-0(data-i18n='intro.desc5') Create, present, and share online, anytime, anywhere
+                    .col-lg-8.portfolio-box(href='assets/img/portfolio/fullsize/slides.png')
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides.png" alt="AI Slides: Effortless slide creation with Markdown, AI, and cloud collaboration")
+
+        // Features
+        section#features.page-section(style="background-color: #F0FFF0")
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='features.title') Key Features
+                .col
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1.order-lg-2
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_markdown.png" alt="Markdown writing feature for efficient slide creation")
+                    .col-lg-4.text-right.mt-3.mb-2.order-2.order-lg-1
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item1.name') Markdown Writing
+                        p.text-muted.mb-0(data-i18n='features.item1.description') Efficiently create slides by simply inputting text, enjoying the focus and speed of full keyboard operation.
+
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_slash_menu.png" alt="Slash command menu for easy and smooth editing experience")
+                    .col-lg-4.text-left.mt-3.mb-2.order-2
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item2.name') Slash Command Menu
+                        p.text-muted.mb-0(data-i18n='features.item2.description') While editing, just type '/' to bring up the editing menu, making your work easy and smooth, similar to the Notion experience.
+
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1.order-lg-2
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides.png" alt="AI-powered content generation for high-quality slide creation")
+                    .col-lg-4.text-right.mt-3.mb-2.order-2.order-lg-1
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item3.name') AI-Powered Content Generation
+                        p.text-muted.mb-0(data-i18n='features.item3.description') Intelligently generate high-quality slide content based on your topic or enhance existing content to improve presentation impact.
+
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_notes.png" alt="AI-generated speaker notes for effective presentation delivery")
+                    .col-lg-4.text-left.mt-3.mb-2.order-2
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item4.name') Speaker Notes
+                        p.text-muted.mb-0(data-i18n='features.item4.description') AI-generated speech notes help presenters convey their messages more effectively.
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1.order-lg-2
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_math.png" alt="KaTeX typesetting and code block highlighting for academic and professional presentations")
+                    .col-lg-4.text-right.mt-3.mb-2.order-2.order-lg-1
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item5.name') Academic and Professional Support
+                        p.text-muted.mb-0(data-i18n='features.item5.description') Supports KaTeX typesetting (a subset of LaTeX) and code block highlighting to meet academic and professional needs.
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_presentation.png" alt="Online sharing and presentation feature for hassle-free collaboration")
+                    .col-lg-4.text-left.mt-3.mb-2.order-2
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item6.name') Online Sharing and Presentation
+                        p.text-muted.mb-0(data-i18n='features.item6.description') One-click sharing and online presentations, eliminating the hassle of version inconsistencies.
+
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1.order-lg-2
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_themes.png" alt="Multiple theme options for professional and versatile presentations")
+                    .col-lg-4.text-right.mt-3.mb-2.order-2.order-lg-1
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item7.name') Multiple Theme Options
+                        p.text-muted.mb-0(data-i18n='features.item7.description') Choose from a variety of simple yet professional themes to suit different scenarios, keeping your content in the spotlight.
+                .row.mt-5.d-flex.flex-column.flex-lg-row.justify-content-center.align-items-center
+                    .col-lg-8.order-1
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/slides_presentation_view.png" alt="Presenter view with timer, next slide preview, and speaker notes")
+                    .col-lg-4.text-left.mt-3.mb-2.order-2
+                        i.fas.fa-4x.fa-chalkboard.text-primary
+                        h3.mb-2(data-i18n='features.item8.name') Presenter View
+                        p.text-muted.mb-0(data-i18n='features.item8.description') Includes a timer, next slide preview, and speaker notes. Press 'S' to try it out.
+
+                .row.mt-5
+                    .col-12.text-center.text-white
+                        a.btn.btn-primary(data-i18n='features.more' onclick="toDemo()" style="border: none") Click to explore more features and demos
+                
+
+        section#ai-assistant.page-section(style="background-color: rgb(255, 239, 255)")
+            .container.py-5
+                h2.text-center.mb-3(data-i18n='ai-assistant.title') AI Assistant: Your Intelligent Slide Creation Partner
+                h4.text-center.mb-5(data-i18n='ai-assistant.desc') Collaborate with AI to generate slides, optimize content, and refine your delivery for a truly impactful presentation
+                .row.row-cols-1.row-cols-md-2.g-4
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                i.fas.fa-4x.fa-chalkboard.text-primary.mb-4
+                                h3.mb-2(data-i18n='ai-assistant.item1.name') One-Click Slide Generation
+                                p.text-muted.mb-0(data-i18n='ai-assistant.item1.description') Simply input a topic, and the AI assistant generates a complete set of slides with rich content and structure
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                i.fas.fa-4x.fa-chalkboard.text-primary.mb-4
+                                h3.mb-2(data-i18n='ai-assistant.item2.name') Content Optimization and Refinement
+                                p.text-muted.mb-0(data-i18n='ai-assistant.item2.description') AI text enhancement for clearer, more concise expression, highlighting core information
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                i.fas.fa-4x.fa-chalkboard.text-primary.mb-4
+                                h3.mb-2(data-i18n='ai-assistant.item3.name') Creative Perspectives and Suggestions
+                                p.text-muted.mb-0(data-i18n='ai-assistant.item3.description') Provide novel perspectives and angles for your presentation, enhancing persuasiveness
+                    .col.mb-4
+                        .card.h-100.shadow-lg
+                            .card-body
+                                i.fas.fa-4x.fa-chalkboard.text-primary.mb-4
+                                h3.mb-2(data-i18n='ai-assistant.item4.name') Speech Script Generation
+                                p.text-muted.mb-0(data-i18n='ai-assistant.item4.description') Creates high-quality, persuasive speeches customized to each topic and includes tips for effective delivery
+                    
+        // Use Cases
+        section#use-cases.page-section.bg-light
+            .container
+                h2.text-center.mt-0.mb-4(data-i18n='use-cases.title') Use Cases
+                .row
+                    .col-lg-4(style="display: grid")
+                        .text-center.mb-3
+                            i.fas.fa-4x.fa-book.text-primary.mb-4
+                            h3.mb-2(data-i18n='use-cases.case1') Academic Reports
+                            p.text-muted.mb-0(data-i18n='use-cases.desc1') Present research findings and academic viewpoints clearly and concisely, making complex content easier for audiences to understand
+                        .text-center.mb-3
+                            i.fas.fa-4x.fa-tasks.text-primary.mb-4
+                            h3.mb-2(data-i18n='use-cases.case2') Business Presentations
+                            p.text-muted.mb-0(data-i18n='use-cases.desc2') Quickly create professional business reports and proposals, improving work efficiency
+                        .text-center.mb-3
+                            i.fas.fa-4x.fa-pen-fancy.text-primary.mb-4
+                            h3.mb-2(data-i18n='use-cases.case3') Course Teaching
+                            p.text-muted.mb-0(data-i18n='use-cases.desc3') Easily create engaging teaching slides to enhance student engagement
+                        .text-center.mb-3
+                            i.fas.fa-4x.fa-chart-pie.text-primary.mb-4
+                            h3.mb-2(data-i18n='use-cases.case4') Personal Sharing
+                            p.text-muted.mb-0(data-i18n='use-cases.desc4') Create attractive presentations for personal ideas and stories
+                        .text-center.mb-3
+                            i.fas.fa-4x.fa-chart-pie.text-primary.mb-4
+                            h3.mb-2(data-i18n='use-cases.case5') Team Sharing
+                            p.text-muted.mb-0(data-i18n='use-cases.desc5') Efficiently share information, keep teams synchronized, and improve collaboration efficiency
+                        .text-center.mb-3
+                            i.fas.fa-4x.fa-chart-pie.text-primary.mb-4
+                            h3.mb-2(data-i18n='use-cases.case6') Quick Briefings
+                            p.text-muted.mb-0(data-i18n='use-cases.desc6') Ideal for scenarios requiring rapid creation of concise and power points without spending extensive time on complex designs
+                    .col-lg-8.d-flex.flex-column.justify-content-center.align-items-center.portfolio-box(href='assets/img/portfolio/fullsize/aiflow_slides_generation.png')
+                        img.img-fluid.shadow-lg(src="assets/img/portfolio/fullsize/aiflow_slides_generation.png" alt="AI-powered slide generation process with AIFlow brainstorming and mindmap exploration")
+
+        section#user-feedback.page-section(style="background-color: #F0FFF0")
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h2.text-center.mt-0(data-i18n='feedbacks.title') User Feedback
+                .col
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-4.text-right.mt-3.mb-2.order-lg-1.order-2
+                            i.fas.fa-4x.fa-user-tie.text-primary
+                            h3.mb-2(data-i18n='feedbacks.user1.name') Sarah
+                            p.text-muted.mb-0(data-i18n='feedbacks.user1.career') Company Employee
+                        .col-lg-8.order-lg-2.order-1
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user1.feedback') As an ordinary company employee, FunBlocks AI Slides' AI assistant has completely transformed how I prepare work reports. It helps me generate and optimize slides, making my content clearer and more logical. What surprised me the most is how the AI assistant expanded my thinking, making my proposals more innovative and practical, which has helped me stand out in front of my superiors. Additionally, it provides presentation guidance that has significantly improved my communication skills. Now, I express my ideas with greater confidence within the team, and this progress has greatly benefited my career development. AI Slides is not just a tool; it's more like a booster for my professional growth.
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-8.order-lg-1.order-1
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user2.feedback') As a mid-level manager, I report on business and work progress weekly. AIFlow simplifies this process, helping me quickly distill core content into concise presentations. It also generates speaker notes, making my reports more organized. Previously, I spent a lot of time organizing materials, but now I can complete a professional report in a short time. AIFlow greatly improves my work efficiency and is an invaluable tool for professionals.
+                        .col-lg-4.mt-3.mb-2.order-lg-2.order-2
+                            i.fas.fa-4x.fa-chalkboard-teacher.text-primary
+                            h3.mb-2(data-i18n='feedbacks.user2.name') Alex
+                            p.text-muted.mb-0(data-i18n='feedbacks.user2.career') Mid-level Corporate Manager
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-4.text-right.mt-3.mb-2.order-lg-1.order-2
+                            i.fas.fa-4x.fa-chart-line.text-primary
+                            h3.mb-2(data-i18n='feedbacks.user3.name') Martin
+                            p.text-muted.mb-0(data-i18n='feedbacks.user3.career') University Professor
+                        .col-lg-8.order-lg-2.order-1
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user3.feedback') FunBlocks AI Slides is one of the best teaching tools I've used. As a computer science professor, I often need to create complex slides with code and technical concepts. This tool's Markdown support allows me to easily insert code, while the AI assistant helps transform complex content into explanations students can easily understand. Most impressively, it can automatically generate complete slides based on course outlines, allowing me to focus more on teaching itself. FunBlocks AI Slides is an indispensable tool for educators.
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-8.order-lg-1.order-1
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user4.feedback') In marketing, speed and creativity are equally important. FunBlocks AI Slides perfectly meets both needs. Its AI assistant is like my personal creative consultant, always providing new inspiration when I need it. On the FunBlocks platform, I usually start with AIFlow for brainstorming, getting new ideas and solutions, then quickly generate slides. This workflow is both efficient and creative. FunBlocks is a must-have tool for marketing strategists.
+                        .col-lg-4.mt-3.mb-2.order-lg-2.order-2
+                            i.fas.fa-4x.fa-chart-line.text-primary
+                            h3.mb-2(data-i18n='feedbacks.user4.name') Mike
+                            p.text-muted.mb-0(data-i18n='feedbacks.user4.career') Marketing Strategy Manager
+
+                    .row.mt-5.d-flex.flex-row.justify-content-center.align-items-center
+                        .col-lg-4.text-right.mt-3.mb-2.order-lg-1.order-2
+                            i.fas.fa-4x.fa-user-graduate.text-primary
+                            h3.mb-2(data-i18n='feedbacks.user5.name') Emily
+                            p.text-muted.mb-0(data-i18n='feedbacks.user5.career') Graduate Student
+                        .col-lg-8.order-lg-2.order-1
+                            .card.shadow-lg
+                                .card-body
+                                    p.card-text(data-i18n='feedbacks.user5.feedback') As a graduate student, I often need to prepare academic reports and defenses. FunBlocks AI Slides makes this much easier. It supports Markdown, allowing easy insertion of complex mathematical formulas and citations, while the AI assistant
+
+        // Call to Action
+        section#cta.page-section(style="background-color: rgb(255, 251, 236)")
+            .container.text-center
+                h2.mb-4(data-i18n='cta.title') Ready to experience the innovative AI slides?
+                h4.mb-4(data-i18n='cta.subtitle') Join FunBlocks AI Slides and create outstanding presentations with ease!
+                a.btn.btn-primary.btn-xl.text-white(onclick="toApp()" data-i18n='cta.button' style="border: none") Start Your Free Trial Now
+
+
+        section#faq.page-section(style="background-color: lightskyblue")
+            .container
+                h2.text-center.mt-0.mb-5(data-i18n='faq.title') 
+                each q in ['q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'q10', 'q11', 'q12', 'q13', 'q14', 'q15', 'q16', 'q17', 'q18']
+                    .faq-item
+                        .faq-question(onclick="toggleItem(this.parentNode)")
+                            span(data-i18n=`faq.${q}`)
+                            .faq-arrow &#9654;
+                        .faq-answer(data-i18n=`faq.a${q.slice(1)}`)
+
+        script.
+            function toggleItem(element) {
+                const answer = element.querySelector('.faq-answer');
+                const arrow = element.querySelector('.faq-arrow');
+                if (answer.style.display === 'block') {
+                    answer.style.display = 'none';
+                    arrow.innerHTML = '&#9654;';
+                } else {
+                    answer.style.display = 'block';
+                    arrow.innerHTML = '&#9660;';
+                }
+            }
+
+        // Footer
+        footer#footer.bg-white.py-5
+            .container
+                .row(style="row-gap: 2rem")
+                        .col-sm.text-center.d-flex.flex-column
+                            .text-mute FunBlocks AI Products
+                            a(href='/workspace.html') FunBlocks AI Workspace
+                            a(href='/welcome_extension.html') FunBlocks AI Extension
+                            a(href='/aiflow.html') FunBlocks AI Flow
+                            a(href='https://funblocks.net/aitools') FunBlocks AI Tools
+                            a(href='/') FunBlocks
+                        .col-sm.text-center.d-flex.flex-column
+                            .text-mute FunBlocks AI Tools
+                            a(href='https://funblocks.net/aitools/slides') AI Slides
+                            a(href='https://funblocks.net/aitools/mindmap') AI Mindmap
+                            a(href='https://funblocks.net/aitools/brainstorming') AI Brainstorming
+                            a(href='https://funblocks.net/aitools/decision') AI Decision Analyzer
+                            a(href='https://funblocks.net/aitools/planner') AI Planner
+                            a(href='https://funblocks.net/aitools/youtube') AI Youtube Summarizer
+                            a(href='https://funblocks.net/aitools/graphics') AI Infographics
+
+                        .col-sm.text-center.d-flex.flex-column
+                            .text-mute Get More from FunBlocks AI
+                            a(href='https://blog.funblocks.net') Boost Your Productivity
+                            a(href='https://app.funblocks.net/shares') FunBlocks AI Generated Content
+
+                        .col-sm.text-center.d-flex.flex-column
+                            .text-mute Resources
+                            a(href='https://openai.com') OpenAI ChatGPT 
+                            a(href='https://www.anthropic.com/') Anthropic Claude 
+                            a(href='https://gemini.google.com/') Google Gemini 
+                            a(href='https://www.groq.com') Groq
+                            
+                        .col-sm.text-center.d-flex.flex-column
+                            .text-mute Contact Us
+                            a(href='https://discord.gg/XtdZFBy4uR', target='_blank') Join our Discord
+        //- #imageModal.modal
+        //-     .modal-content
+        //-         span.close &times;
+        //-         img#modalImage.modal-image(src='', alt='')
+     
+        #imageModal.modal
+            span.close &times;
+            img#modalImage.modal-image(src='', alt='')
+            .zoom-indicator Click to zoom
+
+        // Bootstrap core JS
+        script(src='js/jquery-3.4.1.min.js')
+        script(src='js/bootstrap.bundle-4.5.3.min.js')
+
+        // Third party plugin JS
+        script(src='js/jquery.easing-1.4.2.min.js')
+        script(src='js/jquery.magnific-popup-1.1.0.min.js')
+
+        // Core theme JS
+        script(src='js/scripts.js')
+        script(src="js/i18next-2.0.22.min.js") 
+        script(src="js/loc-i18next.min.js")
+        script(src="js/i18nextBrowserLanguageDetector.min.js") 
+        script. 
+            window.onload = function() {
+                const modal = document.getElementById('imageModal');
+                const modalImg = document.getElementById("modalImage");
+                const closeBtn = document.querySelector(".close");
+                const zoomIndicator = document.querySelector(".zoom-indicator");
+                const portfolioBoxes = document.querySelectorAll('.portfolio-box');
+                
+                let isZoomed = false;
+
+                portfolioBoxes.forEach(box => {
+                    box.onclick = function() {
+                    modal.style.display = "flex";
+                    modalImg.src = this.querySelector('img').src;
+                    isZoomed = false;
+                    modalImg.classList.remove('zoomed');
+                    zoomIndicator.style.display = 'block';
+                    }
+                });
+                
+                modalImg.onclick = function() {
+                    if (isZoomed) {
+                        this.classList.remove('zoomed');
+                        zoomIndicator.style.display = 'block';
+                    } else {
+                        this.classList.add('zoomed');
+                        zoomIndicator.style.display = 'none';
+                    }
+                    isZoomed = !isZoomed;
+                }
+                
+                closeBtn.onclick = function() {
+                    modal.style.display = "none";
+                }
+                
+                window.onclick = function(event) {
+                    if (event.target == modal) {
+                        modal.style.display = "none";
+                    }
+                }
+
+                document.addEventListener('keydown', function(event) {
+                    if (event.key === "Escape") {
+                        modal.style.display = "none";
+                    }
+                });
+            }
+        script. 
+            i18next.use(i18nextBrowserLanguageDetector).init({
+                //- lng: 'en', // evtl. use language-detector https://github.com/i18next/i18next-browser-languageDetector
+                fallbackLng: getLanguage(),
+                resources: { // evtl. load via xhr https://github.com/i18next/i18next-xhr-backend
+                    en:{
+                        "translation": {
+                            "head": {
+                                "title": "FunBlocks AI Slides: Efficient AI Presentation Tool | Designed for Content-Focused Professionals",
+                                "meta": {
+                                    "description": "FunBlocks AI Slides - An intelligent presentation tool powered by AI and Markdown. Focus on content delivery for more efficient and impactful presentations. Ideal for efficiency-driven professionals.",
+                                    "keywords": "AI Slides, AI PPT, AI Presentation, Markdown Slides, Efficient Presentations, Smart Slides, AIFlow"
+                                }
+                            },
+                            "nav": {
+                                "home": "FunBlocks AI Slides",
+                                "intro": "Product Overview",
+                                "features": "Key Features",
+                                "faq": "FAQ",
+                                "ai-assistant": "AI Assistant",
+                                "use-cases": "Use Cases",
+                                "cta": "Try Now",
+                                "pricing": "Pricing Plans"
+                            },
+                            "masthead": {
+                                "title": "Create Smarter, Present Better",
+                                "subtitle": "Unlock your presentation potential with AI-powered slides",
+                                "target": "Designed for professionals who seek excellence in content and efficiency",
+                                "cta": "Try for Free"
+                            },
+                            "intro": {
+                                "title": "AI Slides: Ignite your ideas with AI-powered inspiration and effortless slide creation",
+                                "point1": "Markdown Writing",
+                                "desc1": "Craft professional slides instantly with intuitive Markdown syntax",
+                                "point2": "Minimalist Aesthetics",
+                                "desc2": "Focus on content creation, leave behind tedious formatting",
+                                "point3": "Powered by AI",
+                                "desc3": "Intelligently generate and optimize content, spark creative ideas, and offer presentation guidance",
+                                "point4": "Ecosystem Integration",
+                                "desc4": "Seamlessly connect with FunBlocks documents and AIFlow, converting various content into stunning slides with a single click",
+                                "point5": "Cloud Collaboration",
+                                "desc5": "Create, present, and share online, anytime, anywhere",
+                            },
+                            "features": {
+                                "title": "Key Features",
+                                "item1": {
+                                    "name": "Markdown Writing",
+                                    "description": "Efficiently create slides by simply inputting text, enjoying the focus and speed of full keyboard operation."
+                                },
+                                "item2": {
+                                    "name": "Slash Command Menu",
+                                    "description": "While editing, just type '/' to bring up the editing menu, making your work easy and smooth, similar to the Notion experience."
+                                },
+                                "item3": {
+                                    "name": "AI-Powered Content Generation",
+                                    "description": "Intelligently generate high-quality slide content based on your topic or enhance existing content to improve presentation impact."
+                                },
+                                "item4": {
+                                    "name": "Speaker Notes",
+                                    "description": "AI-generated speech notes help presenters convey their messages more effectively."
+                                },
+                                "item5": {
+                                    "name": "Academic and Professional Support",
+                                    "description": "Supports KaTeX typesetting (a subset of LaTeX) and code block highlighting to meet academic and professional needs."
+                                },
+                                "item6": {
+                                    "name": "Online Sharing and Presentation",
+                                    "description": "One-click sharing and online presentations, eliminating the hassle of version inconsistencies."
+                                },
+                                "item7": {
+                                    "name": "Multiple Theme Options",
+                                    "description": "Choose from a variety of simple yet professional themes to suit different scenarios, keeping your content in the spotlight."
+                                },
+                                "item8": {
+                                    "name": "Presenter View",
+                                    "description": "Includes a timer, next slide preview, and speaker notes. Press 'S' to try it out."
+                                },
+                                "more": "Click to explore more features and demos"
+                            },
+
+                            "ai-assistant": {
+                                "title": "AI Assistant: Your Partner in Crafting and Delivering Powerful Presentations",
+                                "desc": "Collaborate with AI to generate slides, optimize content, and refine your delivery for a truly impactful presentation",
+                                "item1": {
+                                    "name": "One-Click Slide Generation",
+                                    "description": "Simply input a topic, and the AI assistant generates a complete set of slides with rich content and structure"
+                                },
+                                "item2": {
+                                    "name": "Content Optimization and Refinement",
+                                    "description": "AI text enhancement for clearer, more concise expression, highlighting core information"
+                                },
+                                "item3": {
+                                    "name": "Creative Perspectives and Suggestions",
+                                    "description": "Provide novel perspectives and angles for your presentation, enhancing persuasiveness"
+                                },
+                                "item4": {
+                                    "name": "Speech Script Generation",
+                                    "description": "Creates high-quality, persuasive speeches customized to each topic and includes tips for effective delivery"
+                                }
+                            },
+                            "use-cases": {
+                                "case1": "Academic Reports",
+                                "desc1": "Present research findings and academic viewpoints clearly and concisely, making complex content easier for audiences to understand",
+                                "case2": "Business Presentations",
+                                "desc2": "Quickly create professional business reports and proposals, enhancing work efficiency and providing presentation guidance",
+                                "case3": "Course Teaching",
+                                "desc3": "Easily create engaging teaching slides to enhance student engagement",
+                                "case4": "Personal Sharing",
+                                "desc4": "Craft compelling presentations and speeches for personal ideas and stories, improving presentation skills",
+                                "case5": "Team Sharing",
+                                "desc5": "Efficiently share information, keep teams synchronized, and improve collaboration efficiency",
+                                "case6": "Quick Briefings",
+                                "desc6": "Ideal for scenarios requiring rapid creation of concise and power points without spending extensive time on complex designs"
+                            },
+                            "feedbacks": {
+                                "title": "User Feedback",
+                                "user1": {
+                                    "name": "Sarah",
+                                    "career": "Company Employee",
+                                    "feedback": "As an ordinary company employee, FunBlocks AI Slides' AI assistant has completely transformed how I prepare work reports. It helps me generate and optimize slides, making my content clearer and more logical. What surprised me the most is how the AI assistant expanded my thinking, making my proposals more innovative and practical, which has helped me stand out in front of my superiors. Additionally, it provides presentation guidance that has significantly improved my communication skills. Now, I express my ideas with greater confidence within the team, and this progress has greatly benefited my career development. AI Slides is not just a tool; it's more like a booster for my professional growth."
+                                },
+                                "user2": {
+                                    "name": "Alex",
+                                    "career": "Mid-level Corporate Manager",
+                                    "feedback": "As a mid-level manager, I report on business and work progress weekly. AIFlow simplifies this process, helping me quickly distill core content into concise presentations. It also generates speaker notes, making my reports more organized. Previously, I spent a lot of time organizing materials, but now I can complete a professional report in a short time. AIFlow greatly improves my work efficiency and is an invaluable tool for professionals."
+                                },
+                                "user3": {
+                                    "name": "Martin",
+                                    "career": "University Professor",
+                                    "feedback": "FunBlocks AI Slides is one of the best teaching tools I've used. As a computer science professor, I often need to create complex slides with code and technical concepts. This tool's Markdown support allows me to easily insert code, while the AI assistant helps transform complex content into explanations students can easily understand. Most impressively, it can automatically generate complete slides based on course outlines, allowing me to focus more on teaching itself. FunBlocks AI Slides is an indispensable tool for educators."
+                                },
+                                "user4": {
+                                    "name": "Mike",
+                                    "career": "Marketing Strategy Manager",
+                                    "feedback": "In marketing, speed and creativity are equally important. FunBlocks AI Slides perfectly meets both needs. Its AI assistant is like my personal creative consultant, always providing new inspiration when I need it. On the FunBlocks platform, I usually start with AIFlow for brainstorming, getting new ideas and solutions, then quickly generate slides. This workflow is both efficient and creative. FunBlocks is a must-have tool for marketing strategists."
+                                },
+                                "user5": {
+                                    "name": "Emily",
+                                    "career": "Graduate Student",
+                                    "feedback": "As a graduate student, I often need to prepare academic reports and defenses. FunBlocks AI Slides makes this much easier. It supports Markdown, allowing easy insertion of complex mathematical formulas and citations, while the AI assistant optimizes my expression, making my presentations clearer and more persuasive. The minimalist design style lets me focus on the content itself rather than wasting time on formatting. FunBlocks AI Slides is definitely a powerful tool for every student and scholar, making your academic work twice as efficient."
+                                }
+                            },
+                            "cta": {
+                                "title": "Ready to experience the innovative AI slides?",
+                                "subtitle": "Join FunBlocks AI Slides and create outstanding presentations with ease!",
+                                "button": "Start Your Free Trial Now"
+                            },
+                            "faq": {
+                                "title": "Frequently Asked Questions",
+                                "q1": "Q: I'm not familiar with Markdown syntax. Can I still use FunBlocks AI Slides?",
+                                "a1": "A: Absolutely! FunBlocks AI Slides provides a simple Markdown guide to help you get started quickly. When editing, just type '/' to bring up the editing menu, similar to how it works in Notion—it's super convenient. Plus, our AI assistant can help you generate and optimize content, so you don't need to worry about syntax. We want you to focus on your content, not the tools.",
+                                "q2": "Q: How does FunBlocks AI Slides improve my work efficiency?",
+                                "a2": "A: FunBlocks AI Slides helps you save significant time by simplifying the slide creation process. Features like AI content generation, one-click theme application, and full keyboard operation are all designed to help you complete high-quality presentations faster. You can devote more energy to the content itself rather than spending a lot of time on formatting.",
+                                "q3": "Q: Who is FunBlocks AI Slides suitable for?",
+                                "a3": "A: FunBlocks AI Slides is especially suitable for professionals who value efficiency and prioritize content quality over form. Whether you're an academic, educator, business manager, or freelancer, if you want to quickly create high-quality, professional presentations, FunBlocks AI Slides is your ideal choice.",
+                                "q4": "Q: Do presentations made with FunBlocks AI Slides look too simple?",
+                                "a4": "A: Not at all. While we emphasize simplicity and efficiency, the themes and designs provided by FunBlocks AI Slides are carefully selected to ensure they are both professional and aesthetically pleasing. Our philosophy is 'content is king,' helping you convey core information through clear, powerful presentations, rather than relying on flashy but potentially distracting design elements.",
+                                "q5": "Q: How does FunBlocks AI Slides protect my data and privacy?",
+                                "a5": "A: We take user data security and privacy very seriously. All data is encrypted in storage, and we do not use your content for other purposes. The use of AI features also follows strict privacy protection guidelines. You can use FunBlocks AI Slides with peace of mind, focusing on creating excellent presentation content.",
+                                "q6": "Q: What advantages does FunBlocks AI Slides have compared to traditional PPT software?",
+                                "a6": "A: FunBlocks AI Slides focuses on improving efficiency and content quality. Key advantages include: \n1. Quick creation based on Markdown; \n2. AI-assisted content generation and optimization; \n3. Minimalist design, reducing time spent on formatting; \n4. Online collaboration and sharing; \n5. Seamless integration with the FunBlocks ecosystem. \nThese features allow you to create high-quality presentations faster, rather than getting bogged down in complex design details.",
+                                "q7": "Q: Can I import existing PPTs into FunBlocks AI Slides?",
+                                "a7": "A: Currently, FunBlocks AI Slides doesn't directly support importing traditional PPT files. However, our AI assistant can help you quickly rebuild existing content. Simply paste the main content of your PPT into our editor, and AI will help you reorganize and optimize the content, creating a new, more efficient version of your presentation.",
+                                "q8": "Q: Is it true that Amazon does not allow the use of PPT for internal meetings?",
+                                "a8": "A: Yes, it's true. Founder Jeff Bezos believes that PPT is too brief and can cause key details to be overlooked, which hinders information transfer and decision-making. Therefore, the company prohibits its use and instead uses a '6-page document.' \nHowever, FunBlocks AI Slides addresses this issue with AI enhanced Speaker Notes, allowing the AI assistant to generate detailed speaking content as speaker notes, which helps both the speaker and provides sufficient detail for the audience.",
+                                "q9": "Q: Are there copyright issues with AI-generated content?",
+                                "a9": "A: The AI-generated content in FunBlocks AI Slides is original content based on the keywords and topics you provide. The copyright of this content belongs to you. However, we recommend that you still review the AI-generated content to ensure its accuracy and applicability. For any quotes or specific data, we suggest you provide appropriate citations and verification.",
+                                "q10": "Q: Is FunBlocks AI Slides suitable for creating complex tech or data presentations?",
+                                "a10": "A: Absolutely. While FunBlocks AI Slides emphasizes simplicity, it fully supports complex tech and data presentations. You can easily insert code blocks, mathematical formulas, charts, and images. Our AI assistant can also help explain complex concepts, making your presentation easier for audiences to understand.",
+                                "q11": "Q: Can I customize the themes and styles in FunBlocks AI Slides?",
+                                "a11": "A: Yes, FunBlocks AI Slides offers multiple preset themes and also supports customization. You can adjust colors, fonts, and layouts to match your brand style. But remember, our design philosophy is to keep things simple and let the content be the star.",
+                                "q12": "Q: How does FunBlocks AI Slides handle images and multimedia content?",
+                                "a12": "A: While FunBlocks AI Slides is primarily text-based, it fully supports the insertion of images, videos, and other multimedia content. You can add these elements through simple Markdown syntax or slash-menu operations. The AI assistant can also help you select or generate image suggestions related to your content.",
+                                "q13": "Q: Can I use FunBlocks AI Slides offline?",
+                                "a13": "A: FunBlocks AI Slides is primarily an online tool, but we support downloading presentations as PDF versions.",
+                                "q14": "Q: Does FunBlocks AI Slides support presenter mode and timing functions?",
+                                "a14": "A: Yes, FunBlocks AI Slides provides a professional presenter mode. You can view the next slide, speaker notes, and use the built-in timer to control your presentation pace. These features are optimized to ensure you remain professional and composed during your presentation.",
+                                "q15": "Q: How do I start using FunBlocks AI Slides? Is it beginner-friendly?",
+                                "a15": "A: FunBlocks AI Slides is very welcoming to beginners! We provide detailed beginner guides and interactive tutorials to help you get started quickly. From the moment you start using it, our AI assistant will guide you throughout the process, answering questions and providing suggestions. You'll find that creating your first professional presentation is simpler and quicker than you imagined.",
+                                "q16": "Q: Can I use FunBlocks AI Slides for free?",
+                                "a16": "A: Yes, FunBlocks AI offers a free usage option. New users will receive 30 free AI service accesses upon registration, along with an additional 10 free accesses daily, ensuring you can experience the powerful features of the AI assistant. Additionally, FunBlocks AI has a rewards mechanism; by inviting friends to register, both you and your friends can receive free usage credits.",
+
+                                "q17": "Q: How can I earn free usage credits by inviting friends?",
+                                "a17": "A: You can invite friends in two ways. First, share the invitation link; when your friend registers through the link, they will receive a reward. Second, share content generated by the FunBlocks AI browser extension or AI Flow; if users click to read and register, you will also receive an invitation reward.",
+
+                                "q18": "Q: How to cancel a subscribed plan?",
+                                "a18": "A: You can find the 'Upgrade AI' section in the settings. If you are subscribed to a membership plan, there will be a Cancel button in the corresponding description area; click it to unsubscribe."
+                            }
+                        }
+                    },
+
+                    cn:{    
+                        "translation": {
+                            "head": {
+                                "title": "FunBlocks AI Slides: 高效AI幻灯片工具 | 为注重内容的高效人士打造",
+                                "meta": {
+                                    "description": "FunBlocks AI Slides - 基于AI和Markdown的智能幻灯片工具，专注内容传达，让演示更高效、更出色。适合注重效率的专业人士。",
+                                    "keywords": "AI幻灯片, AI PPT, AI演示文稿, Markdown幻灯片, 高效演示, 智能幻灯片, AIFlow"
+                                }
+                            },
+                            "nav": {
+                                "home": "FunBlocks AI Slides",
+                                "intro": "产品简介",
+                                "features": "核心功能",
+                                "faq": "常见问题",
+                                "use-cases": "应用场景",
+                                "ai-assistant": "AI助手",
+                                "faq": "常见问题",
+                                "cta": "立即体验",
+                                "pricing": "会员方案"
+                            },
+                            "masthead": {
+                                "title": "更智能地创作，更出色地呈现",
+                                "subtitle": "利用AI，让幻灯片制作和演讲变得轻松高效",
+                                "target": "为追求卓越内容和高效工作的专业人士量身打造",
+                                "cta": "免费体验"
+                            },
+                            "intro": {
+                                "title": "AI幻灯片：用AI点燃灵感，轻松创建幻灯片",
+                                "point1": "Markdown书写",
+                                "desc1": "用直观的Markdown语法,瞬间构建专业幻灯片",
+                                "point2": "极简美学",
+                                "desc2": "专注内容创作,告别繁琐排版",
+                                "point3": "AI 助手加持",
+                                "desc3": "智能生成与优化内容，激发创意灵感，并提供演讲技巧指导",
+                                "point4": "生态系统整合",
+                                "desc4": "与FunBlocks文档、AIFlow无缝衔接,一键转化各类内容为精美幻灯片",
+                                "point5": "云端协作",
+                                "desc5": "随时随地，在线创作、演示、分享",
+                            },
+                            "features": {
+                                "title": "核心功能",
+                                "item1": {
+                                    "name": "Markdown写作",
+                                    "description": "输入文本即可高效制作幻灯片，体验全键盘操作的高效与专注。"
+                                },
+                                "item2": {
+                                    "name": "斜杠编辑菜单",
+                                    "description": "编辑时，只需输入'/'即可调出编辑菜单，操作便捷，体验如Notion般顺畅。"
+                                },
+                                "item3": {
+                                    "name": "AI驱动内容生成",
+                                    "description": "根据主题智能生成优质幻灯片内容，或优化现有内容，提升演示效果。"
+                                },
+                                "item4": {
+                                    "name": "演讲者笔记",
+                                    "description": "AI生成演讲稿，帮助演讲者更好地传达信息。"
+                                },
+                                "item5": {
+                                    "name": "学术与专业支持",
+                                    "description": "支持KaTeX排版（LaTeX的子集）与代码块高亮，满足学术与专业需求。"
+                                },
+                                "item6": {
+                                    "name": "在线分享与演示",
+                                    "description": "一键分享，在线演示，告别版本不一致的烦恼。"
+                                },
+                                "item7": {
+                                    "name": "多主题选择",
+                                    "description": "提供多款简约专业的主题，适应不同场景需求，让内容始终保持焦点。"
+                                },
+                                "item8": {
+                                    "name": "演讲者视图",
+                                    "description": "包含计时器、下一张幻灯片预览和演讲稿。按S键试用。"
+                                },
+                                "more": "点击查看更多功能与演示"
+                            },
+                            "ai-assistant": {
+                                "title": "AI助手：与你共创精彩演讲的合作伙伴",
+                                "desc": "与AI协作，生成幻灯片，优化内容，提升演讲表现，助你打造深入人心的演讲",
+                                "item1": {
+                                    "name": "一键生成完整Slides",
+                                    "description": "只需输入主题，AI助手即可生成结构完整、内容丰富的整套幻灯片"
+                                },
+                                "item2": {
+                                    "name": "内容优化与润色",
+                                    "description": "AI文本优化，使表达更加清晰简洁，突出核心信息"
+                                },
+                                "item3": {
+                                    "name": "创意建议",
+                                    "description": "为您的演示提供新颖的观点和角度，增强说服力"
+                                },
+                                "item4": {
+                                    "name": "智能演讲稿生成",
+                                    "description": "根据每页主题，生成专业、有说服力的演讲内容，并提供演讲指导"
+                                },
+                            },
+                            "use-cases": {
+                                "case1": "学术汇报",
+                                "desc1": "简洁明了地呈现研究成果和学术观点，让听众更容易理解复杂内容",
+                                "case2": "商业演示",
+                                "desc2": "快速制作专业的商业报告和策划案，提高工作效率，并提供演讲指导",
+                                "case3": "课程教学",
+                                "desc3": "轻松创建引人入胜的教学幻灯片，提升学生参与度",
+                                "case4": "个人分享",
+                                "desc4": "为个人想法和故事制作富有吸引力的演示和演讲稿，改进演讲技巧",
+                                "case5": "团队分享",
+                                "desc5": "高效分享信息，保持团队同步，提升协作效率",
+                                "case6": "快速汇报",
+                                "desc6": "适合需要快速制作简洁有力演示的场景，无需花费大量时间在复杂设计上"
+                            },
+                            "feedbacks": {
+                                "title": "用户反馈",
+                                "user1": {
+                                    "name": "Sarah",
+                                    "career": "公司职员",
+                                    "feedback": "作为一名普通公司职员，FunBlocks AI Slides的AI助手彻底改变了我准备工作汇报的方式。它能帮我生成和优化了幻灯片，让我的内容更加清晰有逻辑。最让我惊喜的是，AI助手开拓了我的思路，使我的方案更加新颖和实用，这让我在领导面前脱颖而出。另外，它还提供了演讲指导，极大地提升了我的表达能力。现在，我在团队中更有自信地表达自己的想法，这种进步对我的职业发展帮助巨大。AI Slides不仅是一个工具，更像是我职场成长的助推器。"
+                                },
+                                "user2": {
+                                    "name": "Alex",
+                                    "career": "公司中层管理者",
+                                    "feedback": "作为一名公司中层管理者，我每周都要汇报业务和工作进展。AI Slides简化了这个过程，帮助我快速提炼出核心内容，形成简洁的展示。同时，它还能生成演讲稿，让我的汇报更有条理。以前我需要花很多时间整理材料，现在只需要短时间就能完成一份专业的汇报。AIFlow大大提升了我的工作效率，是职场人士的得力助手。"
+                                },
+                                "user3": {
+                                    "name": "Martin",
+                                    "career": "大学教授",
+                                    "feedback": "FunBlocks AI Slides是我使用过的最优秀的教学工具之一。作为计算机科学教授，我经常需要创建复杂的幻灯片，包含代码和技术概念。这个工具的Markdown支持让我轻松插入代码，而AI助手则帮助我将复杂的内容转化为学生易于理解的解释。最令人惊喜的是，它可以根据课程大纲自动生成完整的幻灯片，让我可以更专注于教学本身。FunBlocks AI Slides是教育工作者不可或缺的工具。"
+                                },
+                                "user4": {
+                                    "name": "Mike",
+                                    "career": "市场策划经理",
+                                    "feedback": "在市场营销领域，速度和创意缺一不可。FunBlocks AI Slides完美满足了这两个需求。它的AI助手就像是我的私人创意顾问，总能在我需要的时候提供新的灵感。在FunBlocks平台上，我通常先用AIFlow进行头脑风暴，获得新的想法和方案，然后快速生成幻灯片，这种工作流程既高效又富有创意。FunBlocks是市场策划人员的必备工具。"
+                                },
+                                "user5": {
+                                    "name": "Emily",
+                                    "career": "研究生",
+                                    "feedback": "作为一名研究生，我经常需要准备学术报告和答辩。FunBlocks AI Slides让这一切变得更加简单。它支持Markdown，能够轻松插入复杂的数学公式和引用，而AI助手则优化了我的表达，使我的演示更加清晰、有说服力。简洁的设计风格让我能专注于内容本身，而不是浪费时间在格式上。FunBlocks AI Slides绝对是每个学生和学者的得力工具，能让你的学术工作事半功倍。"
+                                }
+                            },
+                            "cta": {
+                                "title": "准备好体验全新的 AI 幻灯片了吗？",
+                                "subtitle": "加入FunBlocks AI Slides，轻松创建出色幻灯片！",
+                                "button": "立即开始免费试用"
+                            },
+                            "faq": {
+                                "title": "常见问题",
+                                "q1": "Q: 我不熟悉Markdown语法，可以用FunBlocks AI Slides吗？",
+                                "a1": "A: 当然可以！FunBlocks AI Slides提供简单的Markdown指南，让您快速上手。编辑时，输入'/'即可调出编辑菜单，类似于Notion的操作体验，非常方便。此外，我们的AI助手会帮您生成和优化内容，您无需担心语法问题。我们希望您专注于内容，而不是工具的使用。",
+                                "q2": "Q: FunBlocks AI Slides如何提高我的工作效率？",
+                                "a2": "A: 通过简化幻灯片制作流程，FunBlocks AI Slides帮助您节省大量时间。AI内容生成、一键主题应用、全键盘操作等功能都旨在让您更快地完成高质量演示。您可以将更多精力投入到内容本身，而不是花费大量时间在格式调整上。",
+                                "q3": "Q: FunBlocks AI Slides适合哪些用户？",
+                                "a3": "A: FunBlocks AI Slides特别适合注重效率、重视内容质量大于形式的专业人士。无论您是学者、教育工作者、企业管理者还是自由职业者，只要您希望快速制作出高质量、专业的演示文稿，FunBlocks AI Slides都是您的理想之选。",
+                                "q4": "Q: 使用FunBlocks AI Slides制作的幻灯片是否看起来过于简单？",
+                                "a4": "A: 不会。虽然我们强调简洁和效率，但FunBlocks AI Slides提供的主题和设计都经过精心挑选，确保既专业又美观。我们的理念是'内容为王'，帮助您通过清晰、有力的演示传达核心信息，而不是依赖华丽但可能分散注意力的设计元素。",
+                                "q5": "Q: FunBlocks AI Slides如何保护我的数据和隐私？",
+                                "a5": "A: 我们非常重视用户的数据安全和隐私。所有数据都经过加密存储，且我们不会将您的内容用于其他目的。AI功能的使用也遵循严格的隐私保护准则。您可以放心使用FunBlocks AI Slides，专注于创作优秀的演示内容。",
+                                "q6": "Q: FunBlocks AI Slides与传统PPT软件相比有什么优势？",
+                                "a6": "A: FunBlocks AI Slides专注于提高效率和内容质量。主要优势包括：1. 基于Markdown的快速创作；2. AI辅助内容生成和优化；3. 极简设计，减少格式调整时间；4. 在线协作和分享；5. 与FunBlocks生态系统的无缝集成。这些特性让您能够更快地创建高质量演示，而不是纠结于复杂的设计细节。",
+                                "q7": "Q: 我可以导入现有的PPT到FunBlocks AI Slides吗？",
+                                "a7": "A: 目前，FunBlocks AI Slides不直接支持导入传统PPT文件。但是，我们的AI助手可以帮助您快速重建现有内容。只需将PPT的主要内容粘贴到我们的编辑器中，AI就能帮助您重组和优化内容，创建出新的、更高效的演示版本。",
+                                "q8": "Q: 听说亚马逊内部不允许用PPT开会，是真的吗？",
+                                "a8": "A: 是的。创始人贝索斯认为PPT太简略，容易忽略关键信息，不利于信息传达和决策，所以在公司内部禁止使用，改用“6页文档”。但FunBlocks AI Slides通过增强演讲者备注解决了这个问题，AI助手可以写出详细的演讲内容作为备注，既帮演讲者，也能为听众提供足够的细节信息。",
+                                "q9": "Q: 使用AI生成的内容会有版权问题吗？",
+                                "a9": "A: FunBlocks AI Slides的AI生成内容是基于您提供的关键词和主题，生成的是原创内容。这些内容的版权归属于您。但我们建议您仍然审核AI生成的内容，确保其准确性和适用性。对于任何引用或特定数据，我们建议您进行适当的引用和核实。",
+                                "q10": "Q: FunBlocks AI Slides适合制作复杂的科技或数据演示吗？",
+                                "a10": "A: 绝对适合。尽管FunBlocks AI Slides强调简洁，但它完全支持复杂的科技和数据演示。您可以轻松插入代码块、数学公式、图表和图片。我们的AI助手还可以帮助解释复杂概念，使您的演示更容易被观众理解。",
+                                "q11": "Q: 我能自定义FunBlocks AI Slides的主题和样式吗？",
+                                "a11": "A: 是的，FunBlocks AI Slides提供了多种预设主题，同时也支持自定义。您可以调整颜色、字体和布局来匹配您的品牌风格。但请记住，我们的设计理念是保持简洁，让内容成为主角。",
+                                "q12": "Q: FunBlocks AI Slides如何处理图片和多媒体内容？",
+                                "a12": "A: 虽然FunBlocks AI Slides主要基于文本，但它完全支持图片、视频和其他多媒体内容的插入。您可以通过简单的Markdown语法或Slash菜单添加这些元素。AI助手还可以帮助您选择或生成与内容相关的图片建议。",
+                                "q13": "Q: 离线时可以使用FunBlocks AI Slides吗？",
+                                "a13": "A: FunBlocks AI Slides主要是一个在线工具，但我们支持下载为PDF版本。",
+                                "q14": "Q: FunBlocks AI Slides是否支持演示者模式和计时功能？",
+                                "a14": "A: 是的，FunBlocks AI Slides提供专业的演示者模式。您可以查看下一张幻灯片、演讲者注释，并使用内置计时器控制演讲节奏。这些功能都经过优化，确保您在演示时既专业又从容。",
+                                "q15": "Q: 如何开始使用FunBlocks AI Slides？新手友好吗？",
+                                "a15": "FunBlocks AI Slides非常欢迎新手！我们提供了详细的新手指南和交互式教程，帮助您快速上手。从开始使用的那一刻起，我们的AI助手就会全程指导您，解答疑问，提供建议。您会发现，创建第一份专业演示文稿比想象中更简单快捷。",
+
+                                "q16": "Q: 我可以免费使用FunBlocks AI吗？",
+                                "a16": "A: 是的，FunBlocks AI提供免费使用选项。新用户注册后将获得30次免费AI服务访问，每天还会额外赠送10次免费访问，确保您能够体验到AI助手的强大功能。此外，FunBlocks AI还设有奖励机制，邀请好友注册，您和好友都能获得免费使用额度。",
+
+                                "q17": "Q: 如何通过邀请好友获得免费使用额度奖励呢？",
+                                "a17": "A: 您可以通过两种方式邀请好友。第一，分享邀请链接，好友通过链接注册后即可获得奖励。第二，分享FunBlocks AI浏览器插件或AI Flow生成的内容，用户点击阅读后注册，您也将获得邀请奖励。",
+
+                                "q18": "Q: 如何取消订阅的Plan？",
+                                "a18": "A: 您可以在设置中找到“升级 AI 会员”栏目。如果您订阅了某个会员计划，在相应的介绍栏中会有Cancel按钮，点击即可退订。"
+                            }
+                        }
+                    }
+                }
+            }, function(err, t) {
+                updateContent();
+            });
+
+            function updateContent() {
+                localize = locI18next.init(i18next);
+
+                localize('head')
+                localize('#mainNav');
+                localize('.masthead');
+                localize('#intro');
+                localize('#features');
+                localize('#ai-assistant');
+                localize('#use-cases');
+                localize('#user-feedback');
+                //- localize('#share-assets');
+                //- localize('#custom-ai');
+                localize('#faq');
+                localize('#cta');
+
+                updateMetaTags();
+                loadImgs();
+
+                let browser = getBrowser();
+                let getExtensionBtnTitle = i18next.t("anywhere.getExtension", { browser });
+                let innerHtml;
+                if(browser == 'Chrome') {
+                    innerHtml = '<img src="assets/img/portfolio/fullsize/icon_chrome.png" width="28" height="28">' + getExtensionBtnTitle;
+                } else if (browser == 'Edge') {
+                    innerHtml = '<img src="assets/img/portfolio/fullsize/icon_edge.png" width="28" height="28">' + getExtensionBtnTitle;
+                } else {
+                    innerHtml = getExtensionBtnTitle;
+                }
+                //- document.getElementById("getExtensionNow").innerHTML = innerHtml;
+                //- document.getElementById("getExtensionBtn").innerHTML = innerHtml;
+            }
+
+            function updateMetaTags() {
+                //- const descriptionMeta = document.querySelector('meta[name="description"]');
+                //- if (descriptionMeta) {
+                //-     descriptionMeta.setAttribute('content', i18next.t('head.meta.description'));
+                //- }
+
+                const keywordsMeta = document.querySelector('meta[name="keywords"]');
+                if (keywordsMeta) {
+                    keywordsMeta.setAttribute('content', i18next.t('head.meta.keywords'));
+                }
+            }
+
+            function changeLng(selectObj) {
+                const selectedLang = selectObj.value;
+                console.log('selected language', selectedLang)
+                i18next.changeLanguage(selectedLang, (t) => {
+                    updateContent();
+                });
+            }
+
+            function getLanguage() {
+                let language = i18next.language || window.localStorage.i18nextLng || navigator.language || window.navigator.language;
+                const selector = document.getElementById('languageSelector');
+                const option = Array.from(selector.options).find(option => {
+                    return language.toLowerCase().includes(option.value);
+                });
+
+                return option? option.value: 'en';
+            }
+
+            function initLanguageSelector() {
+                const selector = document.getElementById('languageSelector');
+                
+                selector.value = getLanguage();
+            }
+
+            function loadImgs() {
+                let lng = getLanguage();
+            }
+
+            initLanguageSelector();
+
+            document.addEventListener('DOMContentLoaded', function() {
+                const faqAnswers = document.querySelectorAll('.faq-answer');
+                faqAnswers.forEach(answer => {
+                    const text = answer.textContent;
+                    answer.innerHTML = ''; // Clear the current content
+                    text.split('\n').forEach(paragraph => {
+                        if (paragraph.trim()) {
+                            const p = document.createElement('p');
+                            p.textContent = paragraph.trim();
+                            answer.appendChild(p);
+                        }
+                    });
+                });
+            });
+
+            

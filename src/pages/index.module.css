@@ -3,21 +3,604 @@
  * and scoped locally.
  */
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+:root {
+  --primary: #4A6FFF;
+  --primary-dark: #3A5BDF;
+  --secondary: #FF6B6B;
+  --dark: #333333;
+  --light: #FFFFFF;
+  --gray: #F5F7FA;
+  --text: #333333;
+  --text-light: #555555;
+}
+
+/* Main Navigation */
+.mainNav {
+  padding: 0.5rem 0;
+  background-color: var(--light);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.navLinks {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.navLinks a {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.navLinks a:hover {
+  color: var(--primary);
+}
+
+.languageSelector {
+  background-color: transparent;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Hero Section */
+.hero {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #f5f7ff 0%, #e0e6ff 100%);
   position: relative;
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+.heroContent {
+  max-width: 650px;
+  z-index: 10;
+  position: relative;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.heroSubtitle {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+  color: var(--text-light);
+}
+
+.heroButtons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.heroImage {
+  position: absolute;
+  right: -5%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 55%;
+  max-width: 700px;
+  border-radius: 10px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  z-index: 5;
+}
+
+/* Button Styles */
+.btn {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  background-color: var(--primary);
+  color: white;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.btn:hover {
+  background-color: var(--primary-dark);
+}
+
+.btnSecondary {
+  background-color: var(--light);
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.btnSecondary:hover {
+  background-color: var(--primary);
+  color: white;
+}
+
+.btnSm {
+  padding: 0.4rem 2rem;
+}
+
+/* Beyond ChatGPT Section */
+.beyondChatgpt {
+  padding: 6rem 0;
+  background-color: rgb(207, 238, 235);
+}
+
+.sectionTitle {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.sectionDescription {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 3rem;
+  font-size: 1.1rem;
+  color: var(--text-light);
+}
+
+.twoColumnGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.benefitsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.benefitCard {
+  padding: 2rem;
+  padding-bottom: 1rem;
+  background-color: var(--light);
+  border-radius: 10px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.benefitCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.cardTitle {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #3498db;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cardTitle h4 {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.cardTitle a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.benefitIcon {
+  font-size: 2.5rem;
+  color: var(--primary);
+}
+
+.toolsSection {
+  padding: 6rem 0;
+  background-color: rgb(248, 245, 234);
+}
+
+/* Feature Sections */
+.featureSection {
+  padding: 6rem 0;
+  background-color: var(--gray);
+}
+
+.featureSection:nth-child(even) {
+  background-color: var(--light);
+}
+
+.featureGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.featureContent {
+  max-width: 500px;
+}
+
+.featureContent h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.featureContent p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  color: var(--text-light);
+}
+
+.featureList {
+  list-style-type: none;
+  margin-top: 1.5rem;
+  padding-left: 0;
+}
+
+.featureList li {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  line-height: 1.5;
+  font-size: 1.1rem;
+  color: var(--text-light);
+}
+
+.featureList li:before {
+  content: "•";
+  color: var(--primary);
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.featureImage {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  background-color: white;
+}
+
+.fullWidthImage {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Tools List */
+.toolsList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.toolItem {
+  background-color: white;
+  border-radius: 8px;
+  padding: 12px 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.toolItem:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.toolTitle {
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #2c3e50;
+}
+
+.toolDescription {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Multi-Model Section */
+.multiModelAdvantage {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modelLogosContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+  margin-bottom: 2rem;
+  background-color: #ebedf3;
+  width: fit-content;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.modelLogoItem {
+  text-align: center;
+}
+
+.modelLogo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.modelName {
+  font-weight: 500;
+  margin: 0;
+}
+
+.advantageText {
+  text-align: center;
+  font-size: 1.1rem;
+  color: var(--text-light);
+}
+
+/* Use Cases Section */
+.useCases {
+  padding: 6rem 0;
+  background-color: azure;
+}
+
+.useCasesGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 3rem;
+}
+
+.useCaseCard {
+  background-color: var(--light);
+  padding: 1rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  border-radius: 10px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  height: 100%;
+}
+
+.useCaseCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.useCaseIcon {
+  color: var(--primary);
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+}
+
+/* Workspace Section */
+.workspaceSection {
+  padding: 6rem 0;
+  background-color: aliceblue;
+
+}
+
+/* Testimonials Section */
+.testimonialsSection {
+  padding: 6rem 0;
+  background-color: #f8f9ff;
+}
+
+.testimonialCard {
+  background-color: white;
+  border-radius: 10px;
+  padding: 2rem;
+  padding-bottom: 1rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  height: 100%;
+}
+
+.testimonialHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.testimonialAvatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e0e6ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.testimonialAvatar span {
+  font-size: 1.5rem;
+}
+
+.testimonialInfo h4 {
+  margin: 0;
+}
+
+.testimonialInfo p {
+  margin: 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* CTA Section */
+.ctaSection {
+  padding: 6rem 0;
+  background: linear-gradient(135deg, var(--primary) 0%, #304EFF 100%);
+  color: var(--light);
+  text-align: center;
+}
+
+.ctaSection h2,
+.ctaSection p {
+  color: var(--light);
+}
+
+.ctaButtons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.ctaBtn {
+  background-color: white;
+  color: var(--primary);
+}
+
+.ctaBtn:hover {
+  background-color: var(--gray);
+}
+/* Image Modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 10000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.modalImage {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: zoom-in;
+  transition: transform 0.3s ease;
+}
+
+.close {
+  color: #fff;
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.zoomIndicator {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .heroImage {
+    width: 45%;
+    right: 0;
   }
 }
 
-.buttons {
+@media (max-width: 768px) {
+  .toolsList {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .hero h1 {
+    font-size: 2.8rem;
+  }
+
+  .featureContent h2,
+  .sectionTitle {
+    font-size: 2rem;
+  }
+
+  .hero {
+    padding: 5rem 0 10rem;
+  }
+
+  .heroImage {
+    position: absolute;
+    right: 50%;
+    top: auto;
+    bottom: -6rem;
+    transform: translateX(50%);
+    width: 80%;
+  }
+
+  .featureGrid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .featureContent {
+    max-width: 100%;
+  }
+
+  .benefitsContainer, .twoColumnGrid, .useCasesGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero h1 {
+    font-size: 2.3rem;
+  }
+
+  .navLinks {
+    display: none;
+  }
+
+  .hero {
+    padding: 4rem 0 10rem;
+  }
+}
+
+.pageSection {
+  padding: 40px 0;
+  min-height: calc(100vh - 3.5rem);
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }

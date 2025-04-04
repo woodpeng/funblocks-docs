@@ -1,0 +1,278 @@
+doctype html
+html(lang='en')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', content='')
+        meta(name='author', content='')
+
+        title.page-title xSlides
+
+        // Favicon
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.png')
+
+        // Font Awesome icons (free version)
+        script(src='https://use.fontawesome.com/releases/v5.13.0/js/all.js', crossorigin='anonymous')
+
+        // Google fonts
+        link(href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700', rel='stylesheet')
+        link(href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic', rel='stylesheet', type='text/css')
+
+        // Third party plugin CSS
+        //- link(href='css/magnific-popup-1.1.0.min.css', type='css' rel='stylesheet')
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+
+        script.
+            function openUrl(url) {
+                let newTab = window.open();
+                newTab.location.href = url;
+            }
+
+            function toPlayground() {
+                let lng = getLanguage();
+                //- openUrl(`https://api.xslides.net/editor.html?hid=demo_${lng}&warzone=playground&lng=${lng}`);
+                openUrl(`https://xservice.e-du.top/editor.html?hid=demo_${lng}&warzone=playground&lng=${lng}`);
+            }
+
+            function toApp() {
+                //- let url = 'https://webapp.xslides.net/index.html';
+                let url = 'https://xapp.e-du.top/index.html';
+                //- console.log('language.......', navigator.language)
+                //- if(navigator.language.toLowerCase()=='zh-cn'){
+                //-     url = 'https://xslides.e-du.top/index.html';
+                //- }
+                openUrl(url);
+            }
+
+    body#page-top
+
+        // Navigation
+        nav#mainNav.navbar.navbar-expand-lg.navbar-light.fixed-top.py-3
+            .container
+                a.navbar-brand.js-scroll-trigger(href='#page-top' data-i18n='nav.home') xSlides - Super Slides
+                button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
+                    span.navbar-toggler-icon
+                #navbarResponsive.collapse.navbar-collapse
+                    ul.navbar-nav.ml-auto.mr-4.my-2.my-lg-0
+                        li.nav-item 
+                            select.nav-link.js-scroll-trigger(id="languageSelector" onChange="changeLng(this)" style="background-color: transparent; border: 0px; border-radius: 5px")
+                                option(value='en') English
+                                option(value="cn") 中文
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#writing' data-i18n='nav.write') 写作
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#reading' data-i18n='nav.read') 阅读
+                        //- li.nav-item
+                        //-     a.nav-link.js-scroll-trigger(href='#download') 下载手机App
+                        
+                a.btn.btn-outline.js-scroll-trigger(onclick="toApp()" data-i18n='nav.login') Login
+                            
+
+        // Masthead
+        header.masthead
+            .container.w-100.h-100.justify-content-center.align-items-center
+                iframe#demoframe(style='width:100%; height: 100%; border:0')
+
+        section#writing.page-section.bg-secondary.text-white
+            .container.text-center
+                h2.text-center.mt-0(data-i18n='writing.title')  “写”幻灯片
+                hr.divider.my-4
+                .container.d-flex.flex-wrap.justify-content-center.align-items-center
+                    h3(data-i18n='writing.note') 左：Markdown编辑器；右：xSlides预览  
+                    a.btn.btn-outline(onclick="toPlayground()" style='color: blue;font-size: 1.4em' data-i18n='writing.tryit') 试试
+                img.img-fluid.shadow-lg(id='editorImg', alt='')   
+
+        section#reading.page-section
+            .container
+                h2.text-center.mt-0(data-i18n='reading.title') 多“媒体”阅读
+                hr.divider.my-4
+                .row
+                    .col-sm.text-center
+                        .mt-5
+                            h3.mt-4(data-i18n='reading.preview') 浏览
+                            p.text-muted.mb-0(data-i18n='reading.preview_detail') 展示幻灯片以及Note内容 
+                            a#preview.portfolio-box
+                                img#previewImg.img-fluid.shadow-lg.border.border-gray(alt='')   
+                    .col-sm.text-center
+                        .mt-5
+                            h3.mt-4(data-i18n='reading.present') 幻灯片
+                            p.text-muted.mb-0(data-i18n='reading.present_detail') 作为幻灯片进行演示、演讲
+                            a#present.portfolio-box
+                                img#presentImg.img-fluid.shadow-lg.border.border-gray(alt='')
+                    .col-sm.text-center
+                        .mt-5
+                            h3.mt-4(data-i18n='reading.video') 智能“视频”
+                            p.text-muted.mb-0(data-i18n='reading.video_detail') 人工智能讲解幻灯片
+                            a#video.portfolio-box
+                                img#videoImg.img-fluid.shadow-lg.border.border-gray(alt='')
+                    .col-sm.text-center
+                        .mt-5
+                            h3.mt-4(data-i18n='reading.article') 阅读文章
+                            p.text-muted.mb-0(data-i18n='reading.article_detail') 作为完整文章进行阅读
+                            a#article.portfolio-box
+                                img#articleImg.img-fluid.shadow-lg.border.border-gray(alt='')
+                        
+                            
+        //- // Call to action
+        //- section#download.page-section.bg-dark.text-white
+        //-     .container.text-center
+        //-         h2.mb-4  手机App
+        //-         h3 在应用商店里搜索“千竹荧光笔”，或“稍后阅读”，找到千竹荧光笔，认准如下应用图标
+        //-         .row
+        //-             .col-sm.text-center
+        //-                 .mt-5
+        //-                     img.img-fluid.shadow-lg(src='assets/img/portfolio/fullsize/ic_launcher.png', alt='')    
+
+
+        // Footer
+        footer.bg-light.py-5
+            .container
+                .small.text-center.text-muted Copyright © 2021 - xSlides
+
+        // Bootstrap core JS
+        script(src='js/jquery-3.4.1.min.js')
+        script(src='js/bootstrap.bundle-4.5.3.min.js')
+
+        // Third party plugin JS
+        script(src='js/jquery.easing-1.4.2.min.js')
+        script(src='js/jquery.magnific-popup-1.1.0.min.js')
+
+        // Core theme JS
+        script(src='js/scripts.js')
+        script(src="js/i18next-2.0.22.min.js") 
+        script(src="js/loc-i18next.min.js")
+        script(src="js/i18nextBrowserLanguageDetector.min.js") 
+        script. 
+            i18next.use(i18nextBrowserLanguageDetector).init({
+                //- lng: 'en', // evtl. use language-detector https://github.com/i18next/i18next-browser-languageDetector
+                fallbackLng: getLanguage(),
+                resources: { // evtl. load via xhr https://github.com/i18next/i18next-xhr-backend
+                    en: {
+                        translation: {
+                            input: {
+                                placeholder: "A translated placeholder"
+                            },
+                            nav: {
+                                home: "xSlide - SuperSlide",
+                                write: 'Writing',
+                                read: 'Reading',
+                                login: 'Login'
+                            },
+                            writing: {
+                                title: `Write Slides with ONLY Keyboard`,
+                                note: 'Markdown Editor & Preview',
+                                tryit: 'Try it now!'
+                            },
+                            reading: {
+                                title: `Read Slides in Rich Media`,
+                                preview: 'Read Slides',
+                                preview_detail: 'Read slides with speaker notes',
+                                present: 'Presentation',
+                                present_detail: 'As keynotes in meetings',
+                                video: `Video`,
+                                video_detail: `Presentation by AI speaker`,
+                                article: 'Article',
+                                article_detail: 'Read detailed article'
+                            }
+                        }
+                    },
+                    cn: {
+                        translation: {
+                            input: {
+                                placeholder: "A translated placeholder"
+                            },
+                            nav: {
+                                home: 'xSlide - 超级文档',
+                                write: '写作',
+                                read: '阅读',
+                                login: '登录'
+                            },
+                            writing: {
+                                title: `“写”幻灯片`,
+                                note: '左：Markdown编辑器；右：xSlides预览',
+                                tryit: '试试'
+                            },
+                            reading: {
+                                title: `多“媒体”阅读`,
+                                preview: '预览',
+                                preview_detail: '展示幻灯片以及Note内容',
+                                present: '幻灯片',
+                                present_detail: '作为幻灯片进行演示、演讲',
+                                video: `智能“视频”`,
+                                video_detail: `人工智能讲解幻灯片`,
+                                article: '阅读文章',
+                                article_detail: '作为完整文章进行阅读'
+                            }
+                        }
+                    }
+                }
+            }, function(err, t) {
+                updateContent();
+            });
+
+            function updateContent() {
+                localize = locI18next.init(i18next);
+
+                localize('#mainNav');
+                localize('#writing');
+                localize('#reading');
+
+                setupDemoFrame();
+                loadImgs();
+            }
+
+            function changeLng(selectObj) {
+                const selectedLang = selectObj.value;
+                console.log('selected language', selectedLang)
+                i18next.changeLanguage(selectedLang, (t) => {
+                    updateContent();
+                });
+            }
+
+            function getLanguage() {
+                let language = i18next.language || window.localStorage.i18nextLng || navigator.language || window.navigator.language;
+                const selector = document.getElementById('languageSelector');
+                const option = Array.from(selector.options).find(option => {
+                    return language.toLowerCase().includes(option.value);
+                });
+
+                return option? option.value: 'en';
+            }
+
+            function initLanguageSelector() {
+                const selector = document.getElementById('languageSelector');
+                
+                selector.value = getLanguage();
+            }
+
+            function setupDemoFrame() {
+                let lng = getLanguage();
+                //- document.getElementById('demoframe').src = `https://api.xslides.net/present.html?hid=demo_${lng}`;
+                document.getElementById('demoframe').src = `https://xservice.e-du.top/present.html?hid=demo_${lng}`;
+                //- document.getElementById('demoframe').src = `http://localhost:50058/present.html?hid=demo`;
+            }
+
+            function loadImgs() {
+                let lng = getLanguage();
+                document.getElementById('editorImg').src = `assets/img/portfolio/fullsize/pcweb_${lng}-s.jpg`;
+
+                document.getElementById('previewImg').src = `assets/img/portfolio/fullsize/view_${lng}-s.jpg`;
+                document.getElementById('preview').href = `assets/img/portfolio/fullsize/view_${lng}.png`;
+
+                document.getElementById('presentImg').src = `assets/img/portfolio/fullsize/viewing_${lng}-s.jpg`;
+                document.getElementById('present').href = `assets/img/portfolio/fullsize/viewing_${lng}.png`;
+
+                document.getElementById('videoImg').src = `assets/img/portfolio/fullsize/watching_${lng}-s.jpg`;
+                document.getElementById('video').href = `assets/img/portfolio/fullsize/watching_${lng}.png`;
+
+                document.getElementById('articleImg').src = `assets/img/portfolio/fullsize/article_${lng}-s.jpg`;
+                document.getElementById('article').href = `assets/img/portfolio/fullsize/article_${lng}.png`;
+            }
+
+            initLanguageSelector();
+            setupDemoFrame();
+            loadImgs();

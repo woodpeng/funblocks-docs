@@ -1,0 +1,600 @@
+doctype html
+html(lang='en')
+
+    head
+
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', lang='zh-CN', content='FunBlocks是一款提高写作和学习效率的AI工具。它以编辑器为界面，让你与AI助手协同工作。此外，FunBlocks还是一个零代码AI应用开发平台，只需编写提示即可创建个性化的AI应用，让你轻松掌握最新的AI技术。FunBlocks的AI应用可以帮助你完成各种任务，包括文章摘要、知识学习、头脑风暴、续写文章、文本优化、大纲制作、邮件和社交媒体推广文章的撰写等。此外，它还提供笔记、文档、幻灯片等多种功能，使用户能够在线创建、编辑文件，并将它们组织成页面、目录、项目等形式，构建在线知识工作空间。')
+        meta(name='description', lang='en', content=`FunBlocks is an AI tool designed to enhance writing and learning efficiency. It features an editor-based interface that allows you to collaborate with an AI assistant. Additionally, FunBlocks serves as a no-code AI application development platform, enabling you to effortlessly create personalized AI applications by simply crafting prompts, granting you easy access to the latest AI technologies. FunBlocks' AI applications assist you in completing a variety of tasks, including summarizing articles, facilitating knowledge acquisition, brainstorming, generating text continuations, optimizing content, creating outlines, and composing emails and social media promotional content, among others. Furthermore, it offers a range of functions such as note-taking, document creation, and slide presentations, allowing users to collaboratively create and organize files online, shaping an interactive knowledge workspace.`)
+        
+        meta(name='keywords', content='笔记,知识管理,ChatGPT,LLM,GPT,AIGC,AI, Generative AI,人工智能,写作,稍后阅读,在线文档,幻灯片,PPT,语音合成,视频,方块,工作空间')
+        meta(name='author', content='FunBlocks')
+
+        title.page-title(data-i18n='head.title') FunBlocks--知行互动方块空间，在这里和AI一起学习、写作
+
+        // Favicon
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.png')
+
+        // Font Awesome icons (free version)
+        //- script(src='https://use.fontawesome.com/releases/v5.13.0/js/all.js', crossorigin='anonymous')
+
+        //- // Google fonts
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700', rel='stylesheet')
+        //- link(href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic', rel='stylesheet', type='text/css')
+
+        //- // Third party plugin CSS
+        link(href='css/magnific-popup-1.1.0.min.css', type='css' rel='stylesheet')
+
+        // Core theme CSS (includes Bootstrap)
+        link(href='css/styles.css', rel='stylesheet')
+
+        script.
+            function isCNDomain() {
+                return !window.location.hostname.includes('net');
+            }
+
+            function getDomain() {
+                if(!window.location.hostname.includes('funblocks')) {
+                    return 'funblocks.cn';
+                }
+                return window.location.hostname.replace('www.', '');
+            }
+
+            function openUrl(url) {
+                let newTab = window.open();
+                newTab.location.href = url;
+            }
+
+            function toPlayground() {
+                let lng = getLanguage();
+                //- openUrl(`https://api.xslides.net/editor.html?hid=demo_${lng}&warzone=playground&lng=${lng}`);
+                openUrl(`https://service.${getDomain()}/editor.html?hid=xslides_demo_${lng}&warzone=playground&lng=${lng}&newEntrance=true`);
+            }
+
+            function toSeminar() {
+                let lng = getLanguage();
+                openUrl(`https://service.${getDomain()}/seminar.html?hid=xslides_demo_${lng}`);
+            }
+
+            function toIntro() {
+                let lng = getLanguage();
+                openUrl(`https://service.${getDomain()}/present.html?hid=xslides_demo_${lng}`);
+            }
+
+            function toApp() {
+                const iOS_phone = !!navigator.platform && /iPhone|iPod/.test(navigator.platform);
+
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const android = !!userAgent && /Android/.test(userAgent);
+
+                let url = `https://app.${getDomain()}/`;
+
+                if (iOS_phone) {
+                    const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+                    if(wechat) {
+                        iosLoginClicked();
+                        return;
+                    } else {
+                        url = 'https://apps.apple.com/cn/app/%E6%96%B9%E5%9D%97%E7%AC%94%E8%AE%B0-%E5%8D%B3%E6%97%B6%E7%AC%94%E8%AE%B0-%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB/id1640254686';
+                    }
+
+                    return window.open(url);
+                } else if (android) {
+                    //- let lng = getLanguage();
+                    //- alert(lng==='en'?'The mobile phone has not been adapted yet, please log in and use it on a PC or tablet.':'暂未对手机进行适配，请在电脑或平板上登录使用。');
+                    //- return;
+                    url = '/download_android.html';
+                    return window.open(url);
+                }
+
+                //- let url = 'https://webapp.xslides.net/index.html';
+                //- console.log('language.......', navigator.language)
+                //- if(navigator.language.toLowerCase()=='zh-cn'){
+                //-     url = 'https://xslides.e-du.top/index.html';
+                //- }
+                openUrl(url);
+            }
+
+            function iosQrcodeClicked() {
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if(wechat) {
+                    document.getElementById('JweixinTip').style.display='block';
+                }
+            }
+
+            function iosLoginClicked() {
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if(wechat) {
+                    document.getElementById('JweixinTip2').style.display='block';
+                }
+            }
+
+
+    body#page-top
+
+        // Navigation
+        nav#mainNav.navbar.navbar-expand-lg.navbar-light.fixed-top.py-3
+            .container
+                a.navbar-brand.js-scroll-trigger(href='#page-top' data-i18n='nav.home') FunBlocks - 构建个人和团队工作空间
+                button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarResponsive', aria-controls='navbarResponsive', aria-expanded='false', aria-label='Toggle navigation')
+                    span.navbar-toggler-icon
+                #navbarResponsive.collapse.navbar-collapse
+                    ul.navbar-nav.ml-auto.mr-4.my-2.my-lg-0
+                        li.nav-item 
+                            select.nav-link.js-scroll-trigger(id="languageSelector" onChange="changeLng(this)" style="background-color: transparent; border: 0px; border-radius: 5px")
+                                option(value='en') English
+                                option(value="cn") 中文
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#intro' data-i18n='nav.intro')
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#workspace' data-i18n='nav.workspace') 
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#aiwriter' data-i18n='nav.aiwriter')
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#xslides' data-i18n='nav.xslides') 
+                        li.nav-item
+                            a.nav-link.js-scroll-trigger(href='#aimaker' data-i18n='nav.aimaker') 
+                        li#header_app.nav-item(style="display:none")
+                            a.nav-link.js-scroll-trigger(href='#ril' data-i18n='nav.read') 
+                        //- li.nav-item
+                        //-     a.nav-link.js-scroll-trigger(href='#download') 下载手机App
+                        
+                a.btn.btn-outline.js-scroll-trigger(onclick="toApp()" data-i18n='nav.login')
+                            
+
+        // Masthead
+        header.masthead
+            .container.d-flex.flex-column.w-100.h-100.justify-content-center.align-items-center
+                h1.text-center.mt-0.mb-4(data-i18n='vision.title') 
+                h3(data-i18n='vision.subtitle') 
+                h4(data-i18n='vision.desc') 
+                img.mt-4.img-fluid.shadow-lg(id='welcomeImg' style="max-width: 80%") 
+                     
+        
+        section#intro.page-section(style="background-color: azure;")
+            .container.text-center
+                h3.text-center.mt-0(data-i18n='masthead.sub_1_0') 
+                text-center.mt-3(data-i18n='masthead.sub_1_1') 
+                h3.text-center.mt-3(data-i18n='masthead.sub_1_2') 
+
+                h3.text-center.mt-5(data-i18n='masthead.sub_2_0') 
+                text-center.mt-3(data-i18n='masthead.sub_2_1') 
+                h3.text-center.mt-3(data-i18n='masthead.sub_2_2') 
+                
+
+                hr.divider.my-4.mt-5
+                h1.text-center.mt-5(data-i18n='masthead.title') 
+                h5.text-center.mt-5(data-i18n='masthead.sub_2') 
+                h5.text-center.mt-4(data-i18n='masthead.sub_3') 
+                h5.text-center.mt-4(data-i18n='masthead.sub_4') 
+                a.btn.btn-primary.btn-lg.text-white.mt-5(onclick="toApp()" data-i18n='masthead.login') Login
+                //- iframe#introframe(style='width:100%; height: 100%; border:0')
+        section#aimaker.page-section.text-white(style="background-color: steelblue")
+            .container.text-center
+                h2.text-center.mt-0(data-i18n='aimaker.title') 
+                hr.divider.my-4
+                .container.d-flex.flex-column.justify-content-center.align-items-center
+                    h4(data-i18n='aimaker.subtitle_1') 
+                    h4(data-i18n='aimaker.subtitle_2') 
+                .div.d-flex.flex-row(style="column-gap: 30px")
+                    .div.mt-3.mb-2
+                            img.img-fluid.shadow-lg(id='ai_dev_img')    
+                    .div.mt-3.mb-2
+                            img.img-fluid.shadow-lg(id='ai_use_img')    
+                            p(data-i18n='aimaker.note_1' style="text-align:left; margin-top: 30px; font-size: 18px") 
+                            p(data-i18n='aimaker.note_2' style="text-align:left; margin-top: 5px; font-size: 18px") 
+        section#workspace.page-section.bg-light
+            .container.text-center
+                h2.text-center.mt-0(data-i18n='workspace.title') 
+                hr.divider.my-4
+                .container.d-flex.flex-column.justify-content-center.align-items-center
+                    h3(data-i18n='workspace.subtitle') 
+                    h4(data-i18n='workspace.desc') 
+                img.mt-4.img-fluid.shadow-lg(id='docEditorImg' src='assets/img/portfolio/fullsize/funblocks_en.png', alt='')   
+        section#aiwriter.page-section.text-white(style="background-color: skyblue")
+            .container.text-center
+                h2.text-center.mt-0(data-i18n='aiwriter.title') 
+                hr.divider.my-4
+                .container.d-flex.flex-column.justify-content-center.align-items-center
+                    h3.text-center.mt-0(data-i18n='aiwriter.subtitle') 
+                    h4(data-i18n='aiwriter.desc') 
+                video(id='aiAssistantVideo' controls style="width:720px; margin-top: 20px") 
+        section#xslides.page-section.bg-info.text-white
+            .container.text-center
+                h2.text-center.mt-0(data-i18n='xslides.title')  制作PPT、课件和视频可以如此简单
+                hr.divider.my-4
+                .container.d-flex.flex-column.justify-content-center.align-items-center
+                    //- h3(data-i18n='xslides.subtitle') “写”幻灯片，输出视频
+                    h4(data-i18n='xslides.desc') 
+                    h4(data-i18n='xslides.desc1') 
+                    .container.d-flex.flex-row.justify-content-center.align-items-center.mb-2
+                        a.btn.btn-primary.btn-lg.text-white(onclick="toApp()" data-i18n='masthead.login') Login
+                        //- a.btn.btn-primary.btn-lg.text-white(onclick="toIntro()" data-i18n='xslides.intro' style="margin-left: 20px") 试试
+                        //- a.btn.btn-success.btn-lg.text-white(onclick="toPlayground()" data-i18n='xslides.playground' style="margin-left: 20px") 试试
+                        //- a.btn.btn-dark.btn-lg.text-white(onclick="toSeminar()" data-i18n='xslides.seminar' style="margin-left: 20px") 试试
+                img.img-fluid.shadow-lg(id='xEditorImg')   
+        section#ril.page-section.bg-light(style="display:none")
+            .container.text-center
+                h2.text-center.mt-0(data-i18n='reading.title')  
+                hr.divider.my-4
+                .container.d-flex.flex-column.justify-content-center.align-items-center
+                    h4(data-i18n='reading.sub_0') 
+                    h4(data-i18n='reading.sub_1') 
+                    h4(data-i18n='reading.sub_2') 
+
+                .row
+                    .col-sm.text-center
+                        .mt-3.mb-2
+                            h4.text-muted.mt-4(data-i18n='reading.ask_ai') 和先哲对谈
+                            a.portfolio-box(href='assets/img/portfolio/fullsize/ask_ai.jpeg')
+                                img.img-fluid.shadow-lg(style="width: 200px" src='assets/img/portfolio/thumbnails/ask_ai.jpeg', alt='')    
+                            p.text-muted.mb-3.mt-2(data-i18n='reading.ask_ai_detail') 迅速记下转瞬即逝的想法
+                    .col-sm.text-center
+                        .mt-3.mb-2
+                            h4.text-muted.mt-4(data-i18n='reading.instant_note') 即时笔记
+                            a.portfolio-box(href='assets/img/portfolio/fullsize/instanote-ai.jpeg')
+                                img.img-fluid.shadow-lg(style="width: 200px" src='assets/img/portfolio/thumbnails/instanote-ai.jpeg', alt='')    
+                            p.text-muted.mb-3.mt-2(data-i18n='reading.instant_note_detail') 迅速记下转瞬即逝的想法
+                    .col-sm.text-center
+                        .mt-3.mb-2
+                            h4.text-muted.mt-4(data-i18n='reading.ai_writing') AI作文
+                            a.portfolio-box(href='assets/img/portfolio/fullsize/ai_writing.jpeg')
+                                img.img-fluid.shadow-lg(style="width: 200px" src='assets/img/portfolio/thumbnails/ai_writing.jpeg', alt='')
+                            p.text-muted.mb-3.mt-2(data-i18n='reading.ai_writing_detail') 与AI交互写作
+                    .col-sm.text-center
+                        .mt-3.mb-2
+                            h4.text-muted.mt-4(data-i18n='reading.ai_reading') AI阅读理解
+                            a.portfolio-box(href='assets/img/portfolio/fullsize/article-ai.jpeg')
+                                img.img-fluid.shadow-lg(style="width: 200px" src='assets/img/portfolio/thumbnails/article-ai.jpeg', alt='')
+                            p.text-muted.mb-3.mt-2(data-i18n='reading.ai_reading_detail') 开拓视野，走出信息茧房  
+                    .col-sm.text-center
+                        .mt-3.mb-2
+                            h4.text-muted.mt-4(data-i18n='reading.download') 手机App
+                            a.portfolio-box(id='iosApplink' href='assets/img/ios_app.png' onclick='iosQrcodeClicked()')
+                                img.img-fluid.shadow-lg(style="width: 200px" src='assets/img/ios_app.png', alt='')
+                            a.portfolio-box(id='androidApplink' href='assets/img/android_app.png')
+                                img.mt-4.img-fluid.shadow-lg(style="width: 200px" src='assets/img/android_app.png', alt='')
+                            p.text-muted.mb-3.mt-2(data-i18n='reading.download_detail') 下载手机App          
+
+                h5.mt-1(data-i18n='reading.desc_0') 文章内容经过采集、重排版，阅读更高效，并可由人工智能进行朗读
+                h5.mt-1(data-i18n='reading.desc_1') 文章内容经过采集、重排版，阅读更高效，并可由人工智能进行朗读
+                h5(data-i18n='reading.desc_2') 长按文本，即可整句“剪报”，阅读完即形成FunBlocks笔记文档，作为知识“方块”融入您的知识空间    
+                            
+        //- // Call to action
+        //- section#download.page-section.bg-dark.text-white
+        //-     .container.text-center
+        //-         h2.mb-4  手机App
+        //-         h3 在应用商店里搜索“千竹荧光笔”，或“稍后阅读”，找到千竹荧光笔，认准如下应用图标
+        //-         .row
+        //-             .col-sm.text-center
+        //-                 .mt-5
+        //-                     img.img-fluid.shadow-lg(src='assets/img/portfolio/fullsize/ic_launcher.png', alt='')    
+
+        div.wxtip(id="JweixinTip")
+                    p.wxtip-txt 长按图片，识别二维码。<br>或点击右上角，选择在浏览器中打开
+        div.wxtip(id="JweixinTip2")
+                    p.wxtip-txt 点击右上角，选择在浏览器中打开
+
+
+        // Footer
+        footer#footer.bg-white.py-5(style="display: none")
+            .container
+                .small.text-center.text-muted Copyright © 2022 - FunBlocks.cn (知行互动)， <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022004981号-1</a>
+
+        // Bootstrap core JS
+        script(src='js/jquery-3.4.1.min.js')
+        script(src='js/bootstrap.bundle-4.5.3.min.js')
+
+        // Third party plugin JS
+        script(src='js/jquery.easing-1.4.2.min.js')
+        script(src='js/jquery.magnific-popup-1.1.0.min.js')
+
+        // Core theme JS
+        script(src='js/scripts.js')
+        script(src="js/i18next-2.0.22.min.js") 
+        script(src="js/loc-i18next.min.js")
+        script(src="js/i18nextBrowserLanguageDetector.min.js") 
+        script. 
+            i18next.use(i18nextBrowserLanguageDetector).init({
+                //- lng: 'en', // evtl. use language-detector https://github.com/i18next/i18next-browser-languageDetector
+                fallbackLng: getLanguage(),
+                resources: { // evtl. load via xhr https://github.com/i18next/i18next-xhr-backend
+                    en: {
+                        translation: {
+                            head: {
+                                title: 'FunBlocks - More AI than Notion'
+                            },
+                            vision: {
+                                title: 'Editor based AI applications platform',
+                                subtitle: 'The right way to learn and work with AI',
+                                desc: ''
+                            },
+                            masthead: {
+                                prod: 'FunBlocks',
+                                title : "Using Notion?",
+                                sub_1_0: 'If you are using:',
+                                sub_1_1: 'Evernotes, Google Docs, Pocket, PPT, Office, Wiki ...',
+                                sub_1_2: 'Then, FunBlocks will be the best choice in the "AI era"!',
+                                sub_2_0: 'If you need to write:',
+                                sub_2_1: 'Weekly report, brainstorming, essay, social posts, press release, sales mail, keynotes, PPT ...',
+                                sub_2_2: 'FunBlocks AI can help you do it easily!',
+                                sub_2: "FunBlocks not only matches Notion's superb user experience but also empowers you with a personalized AI application platform, elevating your possibilities to new heights;",
+                                sub_3: "With FunBlocks AI, you can effortlessly create your own AI applications using prompts, and explore a diverse selection of top-notch applications in the AI app store;",
+                                sub_4: "FunBlocks even lets you tap into other LLM APIs directly, unlocking the full potential of FunBlocks AI for free",
+                                login: 'Start now'
+                            },
+                            nav: {
+                                home: "FunBlocks - More AI than Notion",
+                                intro: 'All-in-one',
+                                workspace: 'Workspace',
+                                database: 'MutliView Database',
+                                aiwriter: 'AIWriter',
+                                xslides: 'xSlides',
+                                aimaker: 'AI App Store',
+                                read: 'App',
+                                login: 'Login'
+                            },
+                            workspace: {
+                                title: 'All-in-one Workspace',
+                                subtitle: 'Create web pages as easy as editing documents, form a digital workspace for you',
+                                desc: 'Pages, Notes, Slides, Wikis and more',
+                            },
+                             database: {
+                                title: 'Multi-View Database',
+                                subtitle: 'Database + View = Application',
+                                desc: 'Build your own information system without writing code',
+                            },
+                            aiwriter: {
+                                title: 'AI Interactive Writing',
+                                subtitle: 'No longer work alone',
+                                desc: 'Just guide the direction and AI will do the rest',
+                            },
+                            xslides: {
+                                title: `One-click production of PPT, courseware with AI`,
+                                subtitle: `“Write” PPT with text`,
+                                desc: 'Write slides in text, no longer waste time on PPT typesetting',
+                                desc1: 'AI to help, expand and improve ideas. Writing is new way of learning!',
+                                intro: 'Introduction',
+                                tryit: 'Playground',
+                                playground: 'Write Slides',
+                                seminar: 'Seminar'
+                            },
+                            aimaker: {
+                                title: 'Develop AI applications with zero code',
+                                subtitle_1: 'An AI application platform centered around an editor interface and workspace;',
+                                subtitle_2: 'You can develop AI applications without coding skills and unleash your creativity!',
+                                note_1: `Unlike Notion AI, FunBlocks empowers you to harness AI's content generation capabilities to the fullest by providing AI application development capabilities.`,
+                                note_2: 'Not only can you use the AI apps you create, but you can also share them within your workspace or make them available to all users in the app store.',
+                            },
+                            reading: {
+                                title: `AI knowledge assistant`,
+                                sub_0: 'AI note assistant, expand your thinking',
+                                sub_1: 'AI writing assistant, helping you create at any time',
+                                sub_2: 'AI reading assistant, out of the information cocoon',
+
+                                desc_0: 'Instant Notes is a super easy way to record instant ideas and prepare for your knowledge creation',
+                                desc_1: 'The content of the article is collected and re-typed for more efficient reading, and can be read aloud by artificial intelligence',
+                                desc_2: `Press and hold the text to get the whole sentence "newspaper clipping". After reading, it will form a FunBlocks note document, which will be integrated into your knowledge space as knowledge "blocks"`,
+                                
+                                instant_note: 'Instant Note',
+                                instant_note_detail: 'Catch up your fleeting thoughts, and have AI assistant to help',
+                                ask_ai: 'AI Assistant',
+                                ask_ai_detail: 'Talk to sages and special characters at any time',
+                                ai_writing: 'AI Writing',
+                                ai_writing_detail: 'Writing becomes fun and rewarding',
+                                ai_reading: 'AI Reading',
+                                ai_reading_detail: 'Expand your thinking and get out of the information cocoon',
+
+                                download: `Mobile App`,
+                                download_detail: `Download App`,
+                            }
+                        }
+                    },
+                    cn: {
+                        translation: {
+                            head: {
+                                title: 'FunBlocks--知行互动方块空间，在这里和AI一起学习、写作'
+                            },
+                            vision: {
+                                title: '以文档为入口的AI应用平台',
+                                subtitle: 'AIGC时代，与AI一起学习与工作的正确途径',
+                                desc: ''
+                            },
+                            masthead: {
+                                prod: '',
+                                title : "在使用Notion?",
+                                sub_1_0: '如果你正在或准备使用：',
+                                sub_1_1: '印象笔记、有道云笔记、腾讯文档、钉钉文档、稍后阅读、PPT、Office、WPS、Wiki ...',
+                                sub_1_2: '那么，FunBlocks将是“AI时代”最好的选择！',
+                                sub_2_0: '如果你要写：',
+                                sub_2_1: '工作周报、头脑风暴、论文、公众号文章、小红书文案、新闻稿、销售邮件、演讲PPT、课件 ...',
+                                sub_2_2: 'FunBlocks AI助手可以帮你轻松完成！',
+                                sub_2: "FunBlocks提供可与Notion相媲美的用户体验，同时还提供可个性化定制的AI平台；",
+                                sub_3: "借助FunBlocks AI，你可以轻松创建自己的AI应用，还可以在AI应用市场找到各种高质量的应用；",
+                                sub_4: "FunBlocks还允许你直接使用第三方LLM API，免费享受强大的FunBlocks AI应用及功能",
+                                login: '立即尝试'
+                            },
+                            nav: {
+                                home: 'FunBlocks - AI时代的知识工具',
+                                intro: '一站式',
+                                workspace: '工作空间',
+                                database: '多视图表格',
+                                aiwriter: 'AI写作',
+                                xslides: '超级幻灯片',
+                                aimaker: '开发AI应用',
+                                read: '手机App',
+                                login: '登录'
+                            },
+                            workspace: {
+                                title: '有AI助手的知识空间',
+                                subtitle: '像写文档一样写网页，构建专属空间，沉淀知识资产',
+                                desc: '读文章、记笔记、写文档、幻灯片、Wiki ... 都有AI相助！',
+                            },
+                            database: {
+                                title: '多视图表格',
+                                subtitle: '数据 + 视图 = 信息系统',
+                                desc: '不用写代码也可构建自己的信息系统',
+                            },
+                            aiwriter: {
+                                title: 'AI互动式写作',
+                                subtitle: '不再孤军奋战',
+                                desc: '只需把握方向，AI完成其余',
+                            },
+                            xslides: {
+                                title: `AI一键制作PPT、课件`,
+                                subtitle: `“写”幻灯片`,
+                                desc: '以文本写幻灯片，不再浪费时间进行PPT排版',
+                                desc1: '更有AI相助，拓展思路，完善想法。写作，也是一种学习方法!',
+                                tryit: '立即尝试',
+                                intro: '详细介绍',
+                                playground: '写幻灯片',
+                                seminar: '在线课堂',
+                            },
+                            aimaker: {
+                                title: '零代码开发AI应用',
+                                subtitle_1: '以编辑器为交互界面的AI应用平台；',
+                                subtitle_2: '无需代码能力，也能开发AI应用，释放你的创造力！',
+                                note_1: '相较Notion AI，FunBlocks通过开放AI应用开发能力，让AI的内容生成能力得到充分发挥。',
+                                note_2: '您开发的AI应用，除了可以自己使用，还可以共享给同事或发布到应用市场，供所有用户使用。',
+                            },
+                            reading: {
+                                title: `随身AI助手`,
+                                sub_0: 'AI笔记助手，拓展你的思维',
+                                sub_1: 'AI写作助手，随时助你创作',
+                                sub_2: 'AI阅读助手，走出信息茧房',
+
+                                desc_0: `“即时笔记”以极简便的方式记录下瞬间的想法，为您的知识空间添砖加瓦`,
+                                desc_1: `“稍后阅读”保存其他App文章，对内容优化排版，AI阅读更高效，支持语音朗读`,
+                                desc_2: '长按文本，即可整句“剪报”，阅读完即形成FunBlocks笔记文档，作为知识“方块”融入您的知识空间',
+                                
+                                instant_note: '即时笔记',
+                                instant_note_detail: '记录下瞬间想法，还可与AI探讨',
+                                ask_ai: 'AI导师顾问',
+                                ask_ai_detail: '随时找先哲与顾问解惑答疑',
+                                ai_writing: 'AI作文',
+                                ai_writing_detail: '写作变得有趣、有收获',
+                                ai_reading: 'AI阅读理解',
+                                ai_reading_detail: '拓展思维，走出信息茧房',
+                                download: `手机App`,
+                                download_detail: `下载App`,
+                            }
+                        }
+                    }
+                }
+            }, function(err, t) {
+                updateContent();
+            });
+
+            function updateContent() {
+                localize = locI18next.init(i18next);
+
+                localize('head')
+                localize('#mainNav');
+                localize('#workspace');
+                localize('#database');
+                localize('#aiwriter');
+                localize('#aimaker');
+                localize('#ril');
+                localize('#xslides');
+                localize('#intro');
+                localize('.masthead');
+
+                loadImgs();
+                loadAppQrcodes();
+            }
+
+            function changeLng(selectObj) {
+                const selectedLang = selectObj.value;
+                console.log('selected language', selectedLang)
+                i18next.changeLanguage(selectedLang, (t) => {
+                    updateContent();
+                });
+            }
+
+            function getLanguage() {
+                let language = i18next.language || window.localStorage.i18nextLng || navigator.language || window.navigator.language;
+                const selector = document.getElementById('languageSelector');
+                const option = Array.from(selector.options).find(option => {
+                    return language.toLowerCase().includes(option.value);
+                });
+
+                return option? option.value: 'en';
+            }
+
+            function initLanguageSelector() {
+                const selector = document.getElementById('languageSelector');
+                
+                selector.value = getLanguage();
+            }
+
+            //- function setupDemoFrame() {
+            //-     let lng = getLanguage();
+            //-     //- document.getElementById('demoframe').src = `https://api.xslides.net/present.html?hid=demo_${lng}`;
+            //-     //- document.getElementById('demoframe').src = `https://xservice.e-du.top/present.html?hid=demo_${lng}`;
+            //-     //- document.getElementById('demoframe').src = `http://localhost:50058/present.html?hid=demo`;
+                
+            //-     document.getElementById('introframe').src = 'https://service.funblocks.cn/present.html?hid=funblocks_intro_cn';
+            //- }
+
+            function loadImgs() {
+                let lng = getLanguage();
+
+                document.getElementById('xEditorImg').src = `assets/img/portfolio/fullsize/pcweb_${lng}.png`;
+                document.getElementById('welcomeImg').src = `assets/img/portfolio/fullsize/funblocksAI_${lng}.png`;
+
+                document.getElementById('docEditorImg').src = `assets/img/portfolio/fullsize/funblocks_${lng}.png`;
+
+                document.getElementById('aiAssistantVideo').src = `assets/img/ai_writer_assistant_${lng}.mp4`;
+                //- document.getElementById('ai_dev_a').href = `assets/img/portfolio/fullsize/ai_dev_${lng}.png`;
+                document.getElementById('ai_dev_img').src = `assets/img/portfolio/fullsize/ai_dev_${lng}.png`;
+                //- document.getElementById('ai_use_a').href = `assets/img/portfolio/fullsize/ai_use_${lng}.png`;
+                document.getElementById('ai_use_img').src = `assets/img/portfolio/fullsize/ai_use_${lng}.png`;
+
+                //- document.getElementById('databaseImg').src = `assets/img/portfolio/fullsize/database.png`;
+                //- document.getElementById('previewImg').src = `assets/img/portfolio/fullsize/view_${lng}-s.jpg`;
+                //- document.getElementById('preview').href = `assets/img/portfolio/fullsize/view_${lng}.png`;
+
+                //- document.getElementById('presentImg').src = `assets/img/portfolio/fullsize/viewing_${lng}-s.jpg`;
+                //- document.getElementById('present').href = `assets/img/portfolio/fullsize/viewing_${lng}.png`;
+
+                //- document.getElementById('videoImg').src = `assets/img/portfolio/fullsize/watching_${lng}-s.jpg`;
+                //- document.getElementById('video').href = `assets/img/portfolio/fullsize/watching_${lng}.png`;
+
+                //- document.getElementById('articleImg').src = `assets/img/portfolio/fullsize/article_${lng}-s.jpg`;
+                //- document.getElementById('article').href = `assets/img/portfolio/fullsize/article_${lng}.png`;
+            }
+
+            function loadAppQrcodes() {
+                const iOS = !!navigator.platform && /iPad|iPhone|iPod|Mac/.test(navigator.platform);
+
+                const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+                const android = !!userAgent && /Android/.test(userAgent);
+                const wechat = !!userAgent && /MicroMessenger/.test(userAgent);
+
+                if (iOS) {
+                    // Just replace `https://` with `itms://` on your app's AppStore link.
+                    document.getElementById('iosApplink').href = "https://apps.apple.com/cn/app/%E6%96%B9%E5%9D%97%E7%AC%94%E8%AE%B0-%E5%8D%B3%E6%97%B6%E7%AC%94%E8%AE%B0-%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB/id1640254686";
+                    
+                } else if(android) {
+                    document.getElementById('androidApplink').href = "/download_android.html";
+                }
+            }
+
+            initLanguageSelector();
+
+            if(isCNDomain()) {
+                document.getElementById('ril').style.display = 'block';
+
+                document.getElementById('header_app').style.display = 'block';
+                document.getElementById('footer').style.display = 'block';
+            }
+
+            document.getElementById('JweixinTip').style.display = 'none'
+            document.getElementById('JweixinTip').onclick = function() {
+                    this.style.display='none';
+            }
