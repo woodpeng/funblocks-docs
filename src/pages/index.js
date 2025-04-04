@@ -884,6 +884,20 @@ export default function Home() {
     openUrl(url);
   }
 
+  // Google Analytics tracking code
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.src = `https://www.googletagmanager.com/gtag/js?id=G-RYTCZEQK0W`;
+    script.async = true;
+    document.head.appendChild(script);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      window.dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-RYTCZEQK0W');
+  }, []);
 
   return (
     <Layout
