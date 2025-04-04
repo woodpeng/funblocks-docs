@@ -7,8 +7,10 @@ import Translate, { translate } from '@docusaurus/Translate';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import Footer from '../components/Footer';
+import FAQSection from '../components/FAQSection';
 
-function HomepageHeader({ setImageSrc }) {
+function HomepageHeader({ setImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
 
   return (
@@ -31,7 +33,7 @@ function HomepageHeader({ setImageSrc }) {
             <Link
               className={clsx('button', styles.btn)}
               to="#"
-              onClick={() => window.open('https://app.funblocks.net', '_blank')}
+              onClick={() => toApp()}
             >
               <Translate id="homepage.hero.trial">Free Trial Now</Translate>
             </Link>
@@ -823,7 +825,7 @@ function TestimonialsSection() {
   );
 }
 
-function CTASection() {
+function CTASection({ toApp }) {
   return (
     <section className={styles.ctaSection}>
       <div className="container">
@@ -839,7 +841,7 @@ function CTASection() {
           <Link
             className={clsx(styles.btn, styles.ctaBtn)}
             to="#"
-            onClick={() => window.open('https://app.funblocks.net', '_blank')}
+            onClick={() => toApp()}
           >
             <Translate id="homepage.cta.button">Start Free Trial</Translate>
           </Link>
@@ -859,6 +861,29 @@ export default function Home() {
     setImageSrc(null);
   };
 
+  function getDomain() {
+    if (!window.location.hostname.includes('funblocks')) {
+      return 'funblocks.net';
+    }
+    return window.location.hostname.replace('www.', '');
+  }
+
+  function openUrl(url) {
+    let newTab = window.open();
+    newTab.location.href = url;
+  }
+
+  function toFlowPlayground() {
+    let lng = getLanguage();
+    //- openUrl(`https://api.xslides.net/editor.html?hid=demo_${lng}&warzone=playground&lng=${lng}`);
+    openUrl(`https://app.funblocks.net/#/aiflow?hid=welcome_to_aiflow_${lng}&lng=${lng}`);
+  }
+
+  function toApp() {
+    let url = `https://app.${getDomain()}/#/login?source=flow`;
+    openUrl(url);
+  }
+
 
   return (
     <Layout
@@ -871,7 +896,7 @@ export default function Home() {
         message: 'Explore, think, and create with AI. AI-powered innovative whiteboarding, mind mapping, slide creation, and document tools to boost your creativity and productivity.'
       })}
     >
-      <HomepageHeader setImageSrc={setImageSrc} />
+      <HomepageHeader setImageSrc={setImageSrc} toApp={toApp} />
       <main>
         <BeyondChatGPTSection />
         <DeepenThinkingSection setImageSrc={setImageSrc} />
@@ -882,8 +907,16 @@ export default function Home() {
         <UseCasesSection />
         <WorkspaceSection />
         <TestimonialsSection />
-        <CTASection />
+        <CTASection toApp={toApp}/>
+        <FAQSection
+          page={'homepage'}
+          faqIds={[
+            'q0', 'q01', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8',
+            'q9', 'q10', 'q11', 'q12', 'q14', 'q15', 'q16', 'q17', 'q18', 'q19'
+          ]}
+        />
       </main>
+      <Footer />
 
       {/* Image Modal */}
       {imageSrc && (

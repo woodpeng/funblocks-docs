@@ -119,51 +119,51 @@ const config = {
           // },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/funblocks',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              // {
-              //   label: 'Stack Overflow',
-              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              // },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/XtdZFBy4uR',
-              },
-              // {
-              //   label: 'X',
-              //   href: 'https://x.com/docusaurus',
-              // },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              // {
-              //   label: 'GitHub',
-              //   href: 'https://github.com/facebook/docusaurus',
-              // },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} FunBlocks AI, Inc.`,
-      },
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //     {
+      //       title: 'Docs',
+      //       items: [
+      //         {
+      //           label: 'Tutorial',
+      //           to: '/funblocks',
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: 'Community',
+      //       items: [
+      //         // {
+      //         //   label: 'Stack Overflow',
+      //         //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+      //         // },
+      //         {
+      //           label: 'Discord',
+      //           href: 'https://discord.gg/XtdZFBy4uR',
+      //         },
+      //         // {
+      //         //   label: 'X',
+      //         //   href: 'https://x.com/docusaurus',
+      //         // },
+      //       ],
+      //     },
+      //     {
+      //       title: 'More',
+      //       items: [
+      //         {
+      //           label: 'Blog',
+      //           to: '/blog',
+      //         },
+      //         // {
+      //         //   label: 'GitHub',
+      //         //   href: 'https://github.com/facebook/docusaurus',
+      //         // },
+      //       ],
+      //     },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} FunBlocks AI, Inc.`,
+      // },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
