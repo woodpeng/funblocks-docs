@@ -114,10 +114,10 @@
     "message": "Convert your visual thinking directly into professional deliverables—slides, infographics, documents—with a single click"
   },
   "homepage.tools.title": {
-    "message": "Innovative AI Tools Designed for Various Scenarios"
+    "message": "AI Tools Tailored for Diverse Use Cases"
   },
   "homepage.tools.description": {
-    "message": "FunBlocks AIFlow is a comprehensive creativity and productivity platform with specialized tools designed for specific cognitive challenges."
+    "message": "Specifically designed for various scenarios, enabling users to leverage AI effortlessly and lowering the learning curve for enhanced creativity and productivity."
   },
   "homepage.tools.tools_list": {
     "message": "AI Tools"
@@ -291,7 +291,7 @@
     "message": "Teacher"
   },
   "homepage.testimonials.user3.text": {
-    "message": "\"My productivity as a teacher has reached new heights with FunBlocks AI Flow! This incredible tool has become my go-to assistant, helping me dive deeper into content and deliver clearer, more engaging lessons for my students. I’m so impressed with its capabilities that I’ve decided to share it with my fellow educators during a webinar I’m hosting next week. FunBlocks AI Flow is an absolute powerhouse—it’s a game-changer for any teacher looking to enhance their teaching and streamline their workflow!\""
+    "message": "\"My productivity as a teacher has reached new heights with FunBlocks AI Flow! This incredible tool has become my go-to assistant, helping me dive deeper into content and deliver clearer, more engaging lessons for my students. I'm so impressed with its capabilities that I've decided to share it with my fellow educators during a webinar I'm hosting next week. FunBlocks AI Flow is an absolute powerhouse—it's a game-changer for any teacher looking to enhance their teaching and streamline their workflow!\""
   },
   "homepage.testimonials.user4.name": {
     "message": "Lin W."
@@ -300,7 +300,7 @@
     "message": "Grad Student"
   },
   "homepage.testimonials.user4.text": {
-    "message": "\"As a research student, organizing complex information is crucial. FunBlocks AI helps me structure my research visually and generate comprehensive literature reviews. The AI assistance has opened my eyes to connections between concepts I might have missed. It’s like having a research partner who never sleeps!\""
+    "message": "\"As a research student, organizing complex information is crucial. FunBlocks AI helps me structure my research visually and generate comprehensive literature reviews. The AI assistance has opened my eyes to connections between concepts I might have missed. It's like having a research partner who never sleeps!\""
   },
   "homepage.testimonials.user5.name": {
     "message": "Emily R."
@@ -451,5 +451,473 @@
   },
   "homepage.faq.a19": {
     "message": "We prioritize data security and privacy. All data is encrypted, and we follow industry best practices to protect it. You have complete control over your content and can manage sharing permissions."
+  },
+  "aiflow.head.title": {
+    "message": "FunBlocks AIFlow - AI-powered whiteboard & mind mapping tool for enhanced creativity and productivity"
+  },
+  "aiflow.head.description": {
+    "message": "FunBlocks AIFlow: AI-powered whiteboard & mind mapping tool. Boost creativity by 10x with GPT-4 & Claude LLM. Explore ideas, solve problems & learn faster. Free trial available!"
+  },
+  "aiflow.nav.home": {
+    "message": "FunBlocks AIFlow"
+  },
+  "aiflow.nav.intro": {
+    "message": "AIFlow"
+  },
+  "aiflow.nav.features": {
+    "message": "Key Features"
+  },
+  "aiflow.nav.ai-powered-brainstorming": {
+    "message": "Brainstorming"
+  },
+  "aiflow.nav.explore-with-ai": {
+    "message": "Exploration"
+  },
+  "aiflow.nav.use-cases": {
+    "message": "Use Cases"
+  },
+  "aiflow.nav.faq": {
+    "message": "FAQ"
+  },
+  "aiflow.nav.pricing": {
+    "message": "Pricing"
+  },
+  "aiflow.nav.cta": {
+    "message": "Login"
+  },
+  "aiflow.masthead.title_2": {
+    "message": "Think, Create, and Explore with AI"
+  },
+  "aiflow.masthead.subtitle": {
+    "message": "Ignite Your Creativity with Whiteboard, Mind Mapping, and Cutting-Edge AI"
+  },
+  "aiflow.masthead.cta": {
+    "message": "Free Trial Now"
+  },
+  "aiflow.intro.title": {
+    "message": "Beyond ChatGPT"
+  },
+  "aiflow.intro.description": {
+    "message": "Discover innovative ways to engage with AI beyond text. Visualize your thoughts and AI outputs in formats that enhance your cognitive process."
+  },
+  "aiflow.intro.point1": {
+    "message": "Boundless Canvas"
+  },
+  "aiflow.intro.desc1": {
+    "message": "Break free from traditional conversation limits, brainstorm in infinite space"
+  },
+  "aiflow.intro.point2": {
+    "message": "Multidimensional Thinking"
+  },
+  "aiflow.intro.desc2": {
+    "message": "Analyze problems comprehensively with multidimensional mind maps"
+  },
+  "aiflow.intro.point3": {
+    "message": "State-of-the-Art AI Assistants"
+  },
+  "aiflow.intro.desc3": {
+    "message": "Integrated with advanced AI like GPT-4o and Claude-3.7 for intelligent support"
+  },
+  "aiflow.intro.point4": {
+    "message": "Versatile Applications"
+  },
+  "aiflow.intro.desc4": {
+    "message": "AI Agents ready for learning, work, and creative projects"
+  },
+
+  "aiflow.features.title": {
+    "message": "Key Features"
+  },
+  "aiflow.features.item1.name": {
+    "message": "Break Down Complex Problems"
+  },
+  "aiflow.features.item1.description": {
+    "message": "Quickly decompose information, start researching with ease"
+  },
+  "aiflow.features.item1.li1": {
+    "message": "Break complex problems into manageable parts"
+  },
+  "aiflow.features.item1.li2": {
+    "message": "Rapidly identify key elements and potential challenges"
+  },
+  "aiflow.features.item1.li3": {
+    "message": "Simplify the research process through a divide-and-conquer approach"
+  },
+  "aiflow.features.item2.name": {
+    "message": "Expand Your Thinking"
+  },
+  "aiflow.features.item2.description": {
+    "message": "Discover new perspectives, break through mental barriers"
+  },
+  "aiflow.features.item2.li1": {
+    "message": "Generate multiple perspectives on any topic"
+  },
+  "aiflow.features.item2.li2": {
+    "message": "Let AI suggest unexpected angles and approaches, spark innovative ideas and solutions"
+  },
+  "aiflow.features.item2.li3": {
+    "message": "Discover connections and insights you might have missed, broadening your thinking"
+  },
+  "aiflow.features.item2.li4": {
+    "message": "Delve deep into related concepts and fields"
+  },
+  
+  "aiflow.features.item3.name": {
+    "message": "Clear Instructions for Better Results"
+  },
+  "aiflow.features.item3.description": {
+    "message": "AIFlow enhances communication between you and AI with various innovative features."
+  },
+  "aiflow.features.item3.li1": {
+    "message": "Not good at asking questions? Let AI help you analyze and refine your queries."
+  },
+  "aiflow.features.item3.li2": {
+    "message": "Unclear about your requirements? AI will analyze your instructions and generate a confirmation form for you to review."
+  },
+  "aiflow.features.item3.li3": {
+    "message": "Struggling to describe artistic terms for image generation? AIFlow generates professional art descriptions based on your simple input to help you create image prompts."
+  },
+
+  "aiflow.features.item4.name": {
+    "message": "Diverse Content Support"
+  },
+  "aiflow.features.item4.description": {
+    "message": "Support for images, notes, task lists, links, and more, each with a dedicated AI assistant"
+  },
+  "aiflow.features.item4.li1": {
+    "message": "Image: AI analysis of visuals, from art to whiteboards"
+  },
+  "aiflow.features.item4.li2": {
+    "message": "Note: Quick idea capture with AI-powered expansion"
+  },
+  "aiflow.features.item4.li3": {
+    "message": "Task list: AI-enhanced task management and prioritization"
+  },
+  "aiflow.features.item4.li4": {
+    "message": "Link: Web content integration for research and inspiration"
+  },
+  
+  "aiflow.features.item5.name": {
+    "message": "Group Nodes"
+  },
+  "aiflow.features.item5.description": {
+    "message": "Not just a new node, but the gateway to more application scenarios."
+  },
+  "aiflow.features.item5.li1": {
+    "message": "Organize related concepts into cohesive clusters for enhanced comprehension"
+  },
+  "aiflow.features.item5.li2": {
+    "message": "Leverage AI assistant support for analysis and generation"
+  },
+  "aiflow.features.item5.li3": {
+    "message": "Synthesize diverse ideas into comprehensive solutions with one-click"
+  },
+  "aiflow.features.item6.name": {
+    "message": "All-in-One AI Assistant"
+  },
+  "aiflow.features.item6.description": {
+    "message": "Multiple AI features ready to use, plus customizable AI prompts."
+  },
+  "aiflow.features.item6.li1": {
+    "message": "In-depth analysis of needs, providing insightful suggestions that significantly enhance the depth and breadth of thinking"
+  },
+  "aiflow.features.item6.li2": {
+    "message": "Automatically generate high-quality content, saving time and effort"
+  },
+  "aiflow.features.item6.li3": {
+    "message": "Support personalized AI instructions to meet specific needs"
+  },
+  
+  "aiflow.ai-powered-brainstorming.title": {
+    "message": "AI-Enhanced Brainstorming"
+  },
+  "aiflow.ai-powered-brainstorming.subtitle": {
+    "message": "Unleash creativity through AI-driven classic mental models and organized frameworks"
+  },
+  "aiflow.ai-powered-brainstorming.classic_models.title": {
+    "message": "Ideation Using Classic Mental Models"
+  },
+  "aiflow.ai-powered-brainstorming.classic_models.subtitle": {
+    "message": "Harness AI for brainstorming with structured methodologies"
+  },
+  "aiflow.ai-powered-brainstorming.classic_models.m1": {
+    "message": "Six Thinking Hats"
+  },
+  "aiflow.ai-powered-brainstorming.classic_models.m2": {
+    "message": "SWOT Analysis"
+  },
+  "aiflow.ai-powered-brainstorming.classic_models.m3": {
+    "message": "McKinsey Method"
+  },
+  "aiflow.ai-powered-brainstorming.classic_models.m4": {
+    "message": "First Principles ..."
+  },
+ 
+
+  "aiflow.ai-powered-brainstorming.oneclick_generation.title": {
+    "message": "Instant Work Outputs"
+  },
+  "aiflow.ai-powered-brainstorming.oneclick_generation.subtitle": {
+    "message": "Generate usable work results directly from brainstorming mind maps"
+  },
+  "aiflow.ai-powered-brainstorming.oneclick_generation.m1": {
+    "message": "Presentation Slides"
+  },
+  "aiflow.ai-powered-brainstorming.oneclick_generation.m2": {
+    "message": "Solution Documents"
+  },
+  "aiflow.ai-powered-brainstorming.oneclick_generation.m3": {
+    "message": "Infographics"
+  },
+  "aiflow.ai-powered-brainstorming.oneclick_generation.m4": {
+    "message": "Images ..."
+  },
+
+
+  "aiflow.book-insights.title": {
+    "message": "Instant Mind Maps from Books, Movies, and More with AI"
+  },
+  "aiflow.book-insights.subtitle": {
+    "message": "Effortlessly Generate Mind Maps to Enhance Understanding and Insights"
+  },
+  "aiflow.book-insights.features.title": {
+    "message": "Unlock Insights Efficiently from Various Media"
+  },
+  "aiflow.book-insights.features.li1": {
+    "message": "Generate mind maps instantly from book titles, movie names, artworks, images, webpages and YouTube videos."
+  },
+  "aiflow.book-insights.features.li2": {
+    "message": "Enhance your appreciation and interpretation of works with AI-driven visualizations."
+  },
+  "aiflow.book-insights.features.li3": {
+    "message": "Uncover valuable insights and content to enrich your learning experience."
+  },
+  "aiflow.book-insights.features.li4": {
+    "message": "Facilitate efficient reading and learning, allowing for deeper engagement with materials."
+  },
+  "aiflow.book-insights.features.li5": {
+    "message": "Broaden your thinking depth and breadth through structured analysis and exploration."
+  },
+
+  
+  "aiflow.explore-with-ai.title": {
+    "message": "Explore the World with AI"
+  },
+  "aiflow.explore-with-ai.desc": {
+    "message": "Open up broader cognitive horizons for every topic and explore endless possibilities"
+  },
+  "aiflow.explore-with-ai.li1.title": {
+    "message": "Expand Your Exploration Space"
+  },
+  "aiflow.explore-with-ai.li1.desc": {
+    "message": "Create a comprehensive exploration space that supports in-depth research or broad expansion on any topic"
+  },
+  "aiflow.explore-with-ai.li2.title": {
+    "message": "Thoroughly Analyze Topics"
+  },
+  "aiflow.explore-with-ai.li2.desc": {
+    "message": "Provide not only accurate answers for specific topics but also showcase related knowledge and a holistic perspective"
+  },
+  "aiflow.explore-with-ai.li3.title": {
+    "message": "Recommend Related Topics"
+  },
+  "aiflow.explore-with-ai.li3.desc": {
+    "message": "In addition to answering current questions, AIFlow intelligently generates follow-up questions or topics to guide you into uncharted territories"
+  },
+  "aiflow.explore-with-ai.li4.title": {
+    "message": "Collaborative Exploration Journey"
+  },
+  "aiflow.explore-with-ai.li4.desc": {
+    "message": "Collaborate with you in exploration, spark inspiration, and continuously advance your thinking"
+  },
+
+  "aiflow.use-cases.title": {
+    "message": "Practical Applications"
+  },
+  "aiflow.use-cases.description": {
+    "message": "AIFlow is designed for various knowledge work scenarios, streamlining your thought process from initial exploration to final execution."
+  },
+  "aiflow.use-cases.case1.title": {
+    "message": "Learning by Topics"
+  },
+  "aiflow.use-cases.case1.description": {
+    "message": "Create detailed knowledge frameworks and uncover connections across different fields."
+  },
+  "aiflow.use-cases.case2.title": {
+    "message": "Strategic Work Planning"
+  },
+  "aiflow.use-cases.case2.description": {
+    "message": "Generate creative ideas, break down tasks, and develop solutions for complex challenges."
+  },
+  "aiflow.use-cases.case3.title": {
+    "message": "In-Depth Content Analysis"
+  },
+  "aiflow.use-cases.case3.description": {
+    "message": "Analyze films, books, and artworks thoroughly using mind mapping techniques."
+  },
+  "aiflow.use-cases.case4.title": {
+    "message": "Thorough Problem Analysis"
+  },
+  "aiflow.use-cases.case4.description": {
+    "message": "Visualize complex issues from different perspectives to find innovative solutions."
+  },
+  "aiflow.use-cases.case5.title": {
+    "message": "Content Creation"
+  },
+  "aiflow.use-cases.case5.description": {
+    "message": "Convert brainstorming mind maps into well-structured documents and presentations."
+  },
+  "aiflow.use-cases.case6.title": {
+    "message": "Enhancing Thinking Skills"
+  },
+  "aiflow.use-cases.case6.description": {
+    "message": "Continuously develop your critical and creative thinking skills."
+  },
+
+  "aiflow.testimonials.user1.name": {
+    "message": "Fiona"
+  },
+  "aiflow.testimonials.user1.role": {
+    "message": "Marketing Manager"
+  },
+  "aiflow.testimonials.user1.text": {
+    "message": "As a marketing manager, creativity is my bread and butter. Since I started using FunBlocks AIFlow, my productivity has skyrocketed. Before product strategy meetings, I use it to organize market analyses, and the AI even provides timely insights, ensuring my proposals always hit the mark. Recently, when launching a new product, I used it for brainstorming – the ideas just kept flowing, which beats staring at PowerPoint slides for hours. During cross-department communications, a single mind map speaks volumes, making discussions more focused. My boss even asked if I've been secretly taking extra courses! Well, I guess you could say I've found the ultimate work partner."
+  },
+  "aiflow.testimonials.user2.name": {
+    "message": "Olivia"
+  },
+  "aiflow.testimonials.user2.role": {
+    "message": "Product Manager"
+  },
+  "aiflow.testimonials.user2.text": {
+    "message": "I'm happy to recommend FunBlocks AI to everyone I meet—it's fantastic for boosting productivity and creativity. As a product manager, I handle a lot of information and ideas every day. I particularly love its infinite whiteboard feature, which allows me to freely expand my thoughts. Before product planning, I often use it to organize user needs and market trends. The AI provides timely insights, helping me focus on the key points and come up with new ideas from unexpected angles!"
+  },
+  "aiflow.testimonials.user3.name": {
+    "message": "Ethan"
+  },
+  "aiflow.testimonials.user3.role": {
+    "message": "Freelance Creative Writer"
+  },
+  "aiflow.testimonials.user3.text": {
+    "message": "As a freelance creative writer, I often struggled with writer's block. But with this magical tool, my creative well never runs dry. I particularly love its AI brainstorming feature, which always gives me unexpected inspiration. Plus, the one-click article generation feature has doubled my writing efficiency. Now, I'm not only taking on more projects, but the quality of my work has improved too. For anyone working in the creative field, I highly recommend FunBlocks AIFlow!"
+  },
+  "aiflow.testimonials.user4.name": {
+    "message": "Zack"
+  },
+  "aiflow.testimonials.user4.role": {
+    "message": "College Student"
+  },
+  "aiflow.testimonials.user4.text": {
+    "message": "When I first started college, I often felt like I couldn't keep up, with professors breezing through so much material. Then my roommate recommended FunBlocks AIFlow. I absolutely love the infinite whiteboard feature – I can add whatever I learn to it, and the AI keeps expanding on it, making my studies so much more in-depth than before. And that's not all! Using AIFlow for brainstorming and thematic learning allows me to make interdisciplinary connections, linking knowledge from different subjects. The AI even provides real-world application examples, suddenly making everything I learn feel meaningful. It's the absolute best! 👍👍👍"
+  },
+  "aiflow.testimonials.user5.name": {
+    "message": "Sophia"
+  },
+  "aiflow.testimonials.user5.role": {
+    "message": "Researcher"
+  },
+  "aiflow.testimonials.user5.text": {
+    "message": "As a researcher, I often need to explore complex topics and generate new ideas. FunBlocks AIFlow has been a game changer for me. The AI-powered brainstorming feature helps me quickly generate comprehensive mind maps, and the diverse content support allows me to include various types of information in my research. The AI assistant provides valuable insights and suggestions, making my research process more efficient and productive."
+  },
+  "aiflow.testimonials.user6.name": {
+    "message": "Nathan"
+  },
+  "aiflow.testimonials.user6.role": {
+    "message": "Educator"
+  },
+  "aiflow.testimonials.user6.text": {
+    "message": "As an educator, I'm always looking for new ways to engage my students and enhance their learning experience. FunBlocks AIFlow has been a fantastic tool for this. The AI-powered brainstorming feature helps me create interactive and visually appealing learning materials. The instant work outputs feature allows me to quickly generate presentation slides and infographics, making my teaching more dynamic and engaging. My students love it, and I've seen a significant improvement in their understanding and retention of the material."
+  },
+
+  "aiflow.cta.title": {
+    "message": "Ready to Embark on a Knowledge Adventure?"
+  },
+  "aiflow.cta.subtitle": {
+    "message": "Join FunBlocks AIFlow and unleash your limitless cognitive potential!"
+  },
+  
+  "aiflow.cta.button": {
+    "message": "Start Your Free Trial Now"
+  },
+  "aiflow.faq.title": {
+    "message": "Frequently Asked Questions"
+  },
+  "aiflow.faq.q1": {
+    "message": "What is FunBlocks AIFlow?"
+  },
+  "aiflow.faq.a1": {
+    "message": "FunBlocks AIFlow is an AI-driven visual thinking platform that helps you transform complex ideas into mind maps, slides, and infographics. It combines the power of AI with visual thinking techniques to enhance your cognitive processes and productivity."
+  },
+  "aiflow.faq.q2": {
+    "message": "How does AIFlow differ from ChatGPT?"
+  },
+  "aiflow.faq.a2": {
+    "message": "ChatGPT provides linear text conversations, while AIFlow offers a visual and multidimensional workspace. You can explore ideas in multiple directions simultaneously, maintain context through visual hierarchies, and instantly convert your thoughts into professional deliverables."
+  },
+  "aiflow.faq.q3": {
+    "message": "What can I create with AIFlow?"
+  },
+  "aiflow.faq.a3": {
+    "message": "With AIFlow, you can create mind maps, presentation slides, infographics, strategic plans, knowledge maps, and visual analyses of complex topics. The platform supports various thinking frameworks and allows you to convert your visual creations into different formats."
+  },
+  "aiflow.faq.q4": {
+    "message": "Which AI models are supported by AIFlow?"
+  },
+  "aiflow.faq.a4": {
+    "message": "AIFlow supports all major AI models including GPT-4, GPT-3.5, Claude 3, Claude 2, Gemini Pro, and more. You can also use your own API key to access these models through AIFlow."
+  },
+  "aiflow.faq.q5": {
+    "message": "Can I collaborate with others using AIFlow?"
+  },
+  "aiflow.faq.a5": {
+    "message": "Yes, AIFlow supports collaboration. You can share your mind maps and projects with team members or clients, allowing for real-time feedback and collaborative idea development."
+  },
+  "aiflow.faq.q6": {
+    "message": "Do I need technical skills to use AIFlow?"
+  },
+  "aiflow.faq.a6": {
+    "message": "No technical skills are required. AIFlow features an intuitive interface that allows you to easily start creating mind maps and use the AI assistant for brainstorming and exploration."
+  },
+  "aiflow.faq.q7": {
+    "message": "Can I export my mind maps and projects?"
+  },
+  "aiflow.faq.a7": {
+    "message": "Yes, AIFlow allows you to export your work in various formats including PNG, PDF, and more. You can also convert mind maps directly into presentations, documents, or other deliverables."
+  },
+  "aiflow.faq.q8": {
+    "message": "Is AIFlow just another AI mind mapping tool?"
+  },
+  "aiflow.faq.a8": {
+    "message": "AIFlow goes beyond traditional mind mapping. It offers an infinite canvas with diverse node types, proactive AI inspiration, one-click content generation, and customizable AI prompts, making it a comprehensive tool for creativity and productivity."
+  },
+  "aiflow.faq.q9": {
+    "message": "What advantages does AIFlow offer in assisting thinking?"
+  },
+  "aiflow.faq.a9": {
+    "message": "AIFlow enhances thinking through multidimensional analysis, breaking thought limitations, establishing knowledge connections, supporting classic thinking models, decomposing complex problems, and guiding knowledge exploration."
+  },
+  "aiflow.faq.q10": {
+    "message": "What advantages does using AIFlow for brainstorming offer?"
+  },
+  "aiflow.faq.a10": {
+    "message": "AIFlow simplifies brainstorming with AI technology, enabling rapid generation of comprehensive mind maps. Its flexible interface allows exploration from different angles, and it incorporates classic thinking models to help generate novel ideas."
+  },
+  "aiflow.faq.q11": {
+    "message": "Is there a free trial available?"
+  },
+  "aiflow.faq.a11": {
+    "message": "Yes, FunBlocks AIFlow offers a free trial. New users receive 30 free AI service accesses upon registration, with an additional 10 free accesses daily."
+  },
+  "aiflow.faq.q12": {
+    "message": "How can I get started with AIFlow?"
+  },
+  "aiflow.faq.a12": {
+    "message": "Simply click the 'Free Trial' button, create an account, and you can immediately start using AIFlow. No credit card is required for the trial, and you'll have access to all features."
+  },
+  "modal.alt": {
+    "message": "Enlarged view"
+  },
+  "modal.click_to_close": {
+    "message": "Click to close"
   }
 }

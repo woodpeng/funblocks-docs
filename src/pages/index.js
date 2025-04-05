@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -9,6 +9,8 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import Footer from '../components/Footer';
 import FAQSection from '../components/FAQSection';
+import AIToolsSection from '../components/AIToolsSection';
+import TestimonialsSection from '../components/TestimonialsSection';
 
 function HomepageHeader({ setImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
@@ -298,150 +300,6 @@ function BoostProductivitySection({ setImageSrc }) {
   );
 }
 
-function QuickAccessSection() {
-  return (
-    <section id="tools" className={styles.toolsSection}>
-      <div className="container">
-        <Heading as="h2" className={styles.sectionTitle} style={{ marginBottom: '1rem' }}>
-          <Translate id="homepage.tools.title">Quick Access AI Tools</Translate>
-        </Heading>
-        <p className={styles.sectionDescription}>
-          <Translate id="homepage.tools.description">
-            FunBlocks AIFlow is a comprehensive creativity and productivity platform with
-            specialized tools designed for specific cognitive challenges.
-          </Translate>
-        </p>
-
-        <img
-          id="aitools"
-          alt="FunBlocks AI Tools"
-          className={styles.fullWidthImage}
-          src="/img/portfolio/fullsize/ai_tools.png"
-        />
-
-        <div className={styles.toolsList}>
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool1.title">AI Mind Map Generator</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool1.description">
-                Easily convert documents, books, and movies into mind maps to help
-                you clarify complex ideas quickly.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool2.title">AI Brainstorming</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool2.description">
-                Combine AI with classic thinking models to brainstorm on specific topics
-                or problems, sparking creativity and innovative solutions.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool3.title">AI Critical Thinking</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool3.description">
-                Enhance your critical thinking skills, gaining insights from multiple
-                perspectives through questioning, analysis, and reflection.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool4.title">AI Slides Generator</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool4.description">
-                Quickly create professional slides and presentations on any topic,
-                making it easy to prepare for your presentations.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool5.title">AI Infographics Generator</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool5.description">
-                Automatically generate infographics and knowledge cards from input text,
-                helping you convey information visually.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool6.title">AI Art Insight</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool6.description">
-                Gain deeper artistic analysis and appreciation by taking photos during
-                your travels and museum visits.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool7.title">AI Education Tool</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool7.description">
-                Break down topics into progressive cognitive levels based on Bloom's
-                educational theories to enhance learning efficiency and teaching effectiveness.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool8.title">AI Psychological Insights</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool8.description">
-                Receive psychological counseling and dream interpretation services anytime,
-                helping you better understand your inner world.
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.toolItem}>
-            <div className={styles.toolTitle}>
-              <span><Translate id="homepage.tools.tool9.title">AI Image Generator</Translate></span>
-            </div>
-            <p className={styles.toolDescription}>
-              <Translate id="homepage.tools.tool9.description">
-                Generate personalized avatars and images in your desired style with a single click.
-              </Translate>
-            </p>
-          </div>
-        </div>
-
-        <div className={styles.ctaButtons}>
-          <Link
-            className={clsx('button', styles.btnSecondary, styles.btnSm)}
-            to="https://funblocks.net/aitools"
-            target="_blank"
-          >
-            <Translate id="homepage.tools.tools_list">AI Tools</Translate>
-          </Link>
-        </div>
-      </div>
-    </section>
-  );
-}
-
 function MultiModelSection() {
   return (
     <section id="multi-model" className={styles.featureSection}>
@@ -686,145 +544,6 @@ function WorkspaceSection() {
   );
 }
 
-function TestimonialsSection() {
-  return (
-    <section id="testimonials" className={styles.testimonialsSection}>
-      <div className="container">
-        <Heading as="h2" className={styles.sectionTitle}>
-          <Translate id="homepage.testimonials.title">What Our Users Say</Translate>
-        </Heading>
-        <p className={styles.sectionDescription}>
-          <Translate id="homepage.testimonials.description">
-            Discover how FunBlocks AI is transforming the way professionals, students,
-            and teams work, learn, and create.
-          </Translate>
-        </p>
-
-        <div className={styles.benefitsContainer}>
-          <div className={styles.testimonialCard}>
-            <div className={styles.testimonialHeader}>
-              <div className={styles.testimonialAvatar}>
-                <span>👩‍🏫</span>
-              </div>
-              <div className={styles.testimonialInfo}>
-                <h4><Translate id="homepage.testimonials.user1.name">Sarah J.</Translate></h4>
-                <p><Translate id="homepage.testimonials.user1.role">Education Consultant</Translate></p>
-              </div>
-            </div>
-            <p>
-              <Translate id="homepage.testimonials.user1.text">
-                "FunBlocks AI has revolutionized how I create educational content.
-                The mind mapping features help me organize complex topics visually, and
-                being able to convert those maps directly into presentation slides saves
-                me hours of work. My students love the clear, visually engaging materials I now produce."
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.testimonialCard}>
-            <div className={styles.testimonialHeader}>
-              <div className={styles.testimonialAvatar}>
-                <span>👨‍💼</span>
-              </div>
-              <div className={styles.testimonialInfo}>
-                <h4><Translate id="homepage.testimonials.user2.name">Michael T.</Translate></h4>
-                <p><Translate id="homepage.testimonials.user2.role">Product Manager</Translate></p>
-              </div>
-            </div>
-            <p>
-              <Translate id="homepage.testimonials.user2.text">
-                "I've tried numerous productivity tools, but FunBlocks AI stands out.
-                The combination of AI-powered mind mapping and the ability to generate
-                professional documents in seconds has dramatically improved our team's workflow.
-                The most impressive part? I've noticed my own critical thinking skills improving with regular use."
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.testimonialCard}>
-            <div className={styles.testimonialHeader}>
-              <div className={styles.testimonialAvatar}>
-                <span>👩‍💼</span>
-              </div>
-              <div className={styles.testimonialInfo}>
-                <h4><Translate id="homepage.testimonials.user3.name">Michael T.</Translate></h4>
-                <p><Translate id="homepage.testimonials.user3.role">Product Manager</Translate></p>
-              </div>
-            </div>
-            <p>
-              <Translate id="homepage.testimonials.user3.text">
-                "I've tried numerous productivity tools, but FunBlocks AI stands out.
-                The combination of AI-powered mind mapping and the ability to generate
-                professional documents in seconds has dramatically improved our team's workflow.
-                The most impressive part? I've noticed my own critical thinking skills improving with regular use."
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.testimonialCard}>
-            <div className={styles.testimonialHeader}>
-              <div className={styles.testimonialAvatar}>
-                <span>👨‍🎓</span>
-              </div>
-              <div className={styles.testimonialInfo}>
-                <h4><Translate id="homepage.testimonials.user4.name">Michael T.</Translate></h4>
-                <p><Translate id="homepage.testimonials.user4.role">Product Manager</Translate></p>
-              </div>
-            </div>
-            <p>
-              <Translate id="homepage.testimonials.user4.text">
-                "I've tried numerous productivity tools, but FunBlocks AI stands out.
-                The combination of AI-powered mind mapping and the ability to generate
-                professional documents in seconds has dramatically improved our team's workflow.
-                The most impressive part? I've noticed my own critical thinking skills improving with regular use."
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.testimonialCard}>
-            <div className={styles.testimonialHeader}>
-              <div className={styles.testimonialAvatar}>
-                <span>👨‍🏫</span>
-              </div>
-              <div className={styles.testimonialInfo}>
-                <h4><Translate id="homepage.testimonials.user5.name">Emily R.</Translate></h4>
-                <p><Translate id="homepage.testimonials.user5.role">Marketing Manager</Translate></p>
-              </div>
-            </div>
-            <p>
-              <Translate id="homepage.testimonials.user5.text">
-                "Using FunBlocks AIFlow for brainstorming has helped me break through
-                mental barriers and generate breakthrough ideas, leading to innovative
-                solutions for our marketing strategies."
-              </Translate>
-            </p>
-          </div>
-
-          <div className={styles.testimonialCard}>
-            <div className={styles.testimonialHeader}>
-              <div className={styles.testimonialAvatar}>
-                <span>👩‍🎓</span>
-              </div>
-              <div className={styles.testimonialInfo}>
-                <h4><Translate id="homepage.testimonials.user6.name">Emily R.</Translate></h4>
-                <p><Translate id="homepage.testimonials.user6.role">Marketing Manager</Translate></p>
-              </div>
-            </div>
-            <p>
-              <Translate id="homepage.testimonials.user6.text">
-                "Using FunBlocks AIFlow for brainstorming has helped me break through
-                mental barriers and generate breakthrough ideas, leading to innovative
-                solutions for our marketing strategies."
-              </Translate>
-            </p>
-          </div>
-
-        </div>
-      </div>
-    </section>
-  );
-}
-
 function CTASection({ toApp }) {
   return (
     <section className={styles.ctaSection}>
@@ -923,8 +642,10 @@ export default function Home() {
   const handleCredentialResponse = (response) => {
     // Handle the response from Google
     console.log("Encoded JWT ID token: " + response.credential);
-    window.open('https://app.funblocks.net/#/login?g_login_token='+response.credential, '_blank')
+    window.open('https://app.funblocks.net/#/login?g_login_token=' + response.credential, '_blank')
   };
+
+  const testimonials_avatars = ["👩‍🏫", "👨‍💼", "👩‍💼", "👨‍🎓", "👨‍🏫", "👩‍🎓"];
 
   return (
     <Layout
@@ -943,12 +664,12 @@ export default function Home() {
         <DeepenThinkingSection setImageSrc={setImageSrc} />
         <BoostCreativitySection setImageSrc={setImageSrc} />
         <BoostProductivitySection setImageSrc={setImageSrc} />
-        <QuickAccessSection />
+        <AIToolsSection />
         <MultiModelSection />
         <UseCasesSection />
         <WorkspaceSection />
-        <TestimonialsSection />
-        <CTASection toApp={toApp}/>
+        <TestimonialsSection avatars={testimonials_avatars} page={'homepage'} />
+        <CTASection toApp={toApp} />
         <FAQSection
           page={'homepage'}
           faqIds={[

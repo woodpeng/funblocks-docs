@@ -37,12 +37,12 @@ const config = {
   // },
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'cn'],
+    locales: ['en', 'zh'],
     localeConfigs: {
       en: {
         label: 'English',
       },
-      cn: {
+      zh: {
         label: '中文',
       },
     },
