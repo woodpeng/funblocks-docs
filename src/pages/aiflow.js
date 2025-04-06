@@ -15,6 +15,7 @@ import TestimonialsSection from '../components/TestimonialsSection';
 import ImageModal from '../components/ImageModal';
 import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 import IntroSection from '../components/IntroSection';
+import CTASection from '../components/CTASection';
 
 function AIFlowHeader({ setShowImageSrc, toApp }) {
   return (
@@ -484,30 +485,6 @@ function UseCasesSection({ setShowImageSrc }) {
   );
 }
 
-function CTASection({ toApp }) {
-  return (
-    <section id="cta" className={styles.ctaSection}>
-      <div className="container">
-        <Heading as="h2">
-          <Translate id="aiflow.cta.title">Ready to Embark on a Knowledge Adventure?</Translate>
-        </Heading>
-        <p>
-          <Translate id="aiflow.cta.subtitle">Join FunBlocks AIFlow and unleash your limitless cognitive potential!</Translate>
-        </p>
-        <div className={styles.ctaButtons}>
-          <Link
-            className={clsx(styles.btn, styles.ctaBtn)}
-            to="#"
-            onClick={() => toApp()}
-          >
-            <Translate id="homepage.cta.button">Start Free Trial</Translate>
-          </Link>
-        </div>
-      </div>
-    </section>
-  );
-}
-
 export default function AIFlow() {
   const { siteConfig, i18n } = useDocusaurusContext();
   const [showImageSrc, setShowImageSrc] = useState(null);
@@ -566,11 +543,25 @@ export default function AIFlow() {
         <FeaturesSection setShowImageSrc={setShowImageSrc} />
         <AIBrainstormingSection setShowImageSrc={setShowImageSrc} />
         <BookInsightsSection setShowImageSrc={setShowImageSrc} />
-        <ExploreWithAISection setShowImageSrc={setShowImageSrc} />
+        {/* <ExploreWithAISection setShowImageSrc={setShowImageSrc} /> */}
+        <IntroSection
+          page="aiflow"
+          feature={'explore-with-ai'}
+          pointNos={[1, 2, 3, 4]}
+          style={{backgroundColor: '#F0FFF0'}}
+          imageElement={<div style={{ cursor: 'pointer', flex: 3.5 }}>
+          <img
+            className={styles.featureImage}
+            onClick={() => setShowImageSrc('/img/portfolio/fullsize/aiflow_related_question.png')}
+            alt={'AI-guided topic discovery and exploration with AIFlow'}
+            src={'/img/portfolio/fullsize/aiflow_related_question.png'}
+          />
+        </div>}
+        />
         <UseCasesSection setShowImageSrc={setShowImageSrc} />
         <AIToolsSection />
         <TestimonialsSection avatars={testimonials_avatars} page={'aiflow'} />
-        <CTASection toApp={toApp} />
+        <CTASection toApp={toApp} page={'aiflow'} />
         <FAQSection
           page={'aiflow'}
           faqIds={[

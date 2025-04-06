@@ -706,28 +706,28 @@
   "aiflow.explore-with-ai.desc": {
     "message": "Open up broader cognitive horizons for every topic and explore endless possibilities"
   },
-  "aiflow.explore-with-ai.li1.title": {
+  "aiflow.explore-with-ai.point1.name": {
     "message": "Expand Your Exploration Space"
   },
-  "aiflow.explore-with-ai.li1.desc": {
+  "aiflow.explore-with-ai.point1.description": {
     "message": "Create a comprehensive exploration space that supports in-depth research or broad expansion on any topic"
   },
-  "aiflow.explore-with-ai.li2.title": {
+  "aiflow.explore-with-ai.point2.name": {
     "message": "Thoroughly Analyze Topics"
   },
-  "aiflow.explore-with-ai.li2.desc": {
+  "aiflow.explore-with-ai.point2.description": {
     "message": "Provide not only accurate answers for specific topics but also showcase related knowledge and a holistic perspective"
   },
-  "aiflow.explore-with-ai.li3.title": {
+  "aiflow.explore-with-ai.point3.name": {
     "message": "Recommend Related Topics"
   },
-  "aiflow.explore-with-ai.li3.desc": {
+  "aiflow.explore-with-ai.point3.description": {
     "message": "In addition to answering current questions, AIFlow intelligently generates follow-up questions or topics to guide you into uncharted territories"
   },
-  "aiflow.explore-with-ai.li4.title": {
+  "aiflow.explore-with-ai.point4.name": {
     "message": "Collaborative Exploration Journey"
   },
-  "aiflow.explore-with-ai.li4.desc": {
+  "aiflow.explore-with-ai.point4.description": {
     "message": "Collaborate with you in exploration, spark inspiration, and continuously advance your thinking"
   },
 

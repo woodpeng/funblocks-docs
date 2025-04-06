@@ -14,6 +14,7 @@ import ImageModal from '../components/ImageModal';
 import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 import TestimonialsSection from '../components/TestimonialsSection';
 import IntroSection from '../components/IntroSection';
+import CTASection from '../components/CTASection';
 
 
 function SlidesHeader({ toApp }) {
@@ -198,30 +199,6 @@ function PlatformSynergySection() {
     );
 }
 
-function CTASection({ toApp }) {
-    return (
-        <section id="cta" className={styles.slidesCTASection}>
-            <div className={styles.slidesContainer}>
-                <Heading as="h2" className={styles.sectionTitle}>
-                    <Translate id="slides.cta.title">Ready to experience the innovative AI slides?</Translate>
-                </Heading>
-                <h4 className={styles.sectionDescription}>
-                    <Translate id="slides.cta.subtitle">Join FunBlocks AI Slides and create outstanding presentations with ease!</Translate>
-                </h4>
-                <div className={styles.centerContainer}>
-                    <Link
-                        className={styles.btn}
-                        to="#"
-                        onClick={() => toApp()}
-                    >
-                        <Translate id="slides.cta.button">Start Your Free Trial Now</Translate>
-                    </Link>
-                </div>
-            </div>
-        </section>
-    );
-}
-
 export default function Slides() {
     const { siteConfig, i18n } = useDocusaurusContext();
     const [showImageSrc, setShowImageSrc] = useState(null);
@@ -318,7 +295,7 @@ export default function Slides() {
                     </div>}
                 />
                 <TestimonialsSection avatars={["👩‍🏫", "👨‍💼", "👩‍💼", "👨‍🎓", "👨‍🏫", "👩‍🎓"]} page={"slides"} />
-                <CTASection toApp={toApp} />
+                <CTASection toApp={toApp} page={'slides'} />
                 <FAQSection
                     page={'slides'}
                     faqIds={[

@@ -383,18 +383,6 @@
   background-color: aliceblue;
 
 }
-/* CTA Section */
-.ctaSection {
-  padding: 6rem 0;
-  background: linear-gradient(135deg, var(--primary) 0%, #304EFF 100%);
-  color: var(--light);
-  text-align: center;
-}
-
-.ctaSection h2,
-.ctaSection p {
-  color: var(--light);
-}
 
 .ctaButtons {
   display: flex;
@@ -540,16 +528,6 @@
   background-color: rgb(255, 239, 255);
 }
 
-.slidesFeedbackSection {
-  padding: 6rem 0;
-  background-color: #F0FFF0;
-}
-
-.slidesCTASection {
-  padding: 6rem 0;
-  background-color: rgb(255, 251, 236);
-  text-align: center;
-}
 
 .slidesFeatureIcon {
   font-size: 2.5rem;

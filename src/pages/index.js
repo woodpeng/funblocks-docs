@@ -13,6 +13,7 @@ import AIToolsSection from '../components/AIToolsSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import ImageModal from '../components/ImageModal';
 import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
+import CTASection from '../components/CTASection';
 
 function HomepageHeader({ setShowImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
@@ -546,33 +547,6 @@ function WorkspaceSection() {
   );
 }
 
-function CTASection({ toApp }) {
-  return (
-    <section className={styles.ctaSection}>
-      <div className="container">
-        <Heading as="h2">
-          <Translate id="homepage.cta.title">Ready to Transform Your Thinking with AI?</Translate>
-        </Heading>
-        <p>
-          <Translate id="homepage.cta.description">
-            Try FunBlocks AIFlow today and experience the future of AI-powered innovation and productivity.
-          </Translate>
-        </p>
-        <div className={styles.ctaButtons}>
-          <Link
-            className={clsx(styles.btn, styles.ctaBtn)}
-            to="#"
-            onClick={() => toApp()}
-          >
-            <Translate id="homepage.cta.button">Start Free Trial</Translate>
-          </Link>
-        </div>
-
-      </div>
-    </section>
-  );
-}
-
 export default function Home() {
   const { siteConfig, i18n } = useDocusaurusContext();
   const [showImageSrc, setShowImageSrc] = useState(null);
@@ -624,7 +598,7 @@ export default function Home() {
         <UseCasesSection />
         <WorkspaceSection />
         <TestimonialsSection avatars={testimonials_avatars} page={'homepage'} />
-        <CTASection toApp={toApp} />
+        <CTASection toApp={toApp} page={'homepage'} />
         <FAQSection
           page={'homepage'}
           faqIds={[

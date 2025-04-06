@@ -701,28 +701,28 @@
   "aiflow.explore-with-ai.desc": {
     "message": "为每个主题开启更广阔的认知视野，探索无限的可能性"
   },
-  "aiflow.explore-with-ai.li1.title": {
+  "aiflow.explore-with-ai.point1.name": {
     "message": "拓展探索空间"
   },
-  "aiflow.explore-with-ai.li1.desc": {
+  "aiflow.explore-with-ai.point1.description": {
     "message": "为您创建全面的探索空间，支持您对任何主题进行深入研究或广泛扩展"
   },
-  "aiflow.explore-with-ai.li2.title": {
+  "aiflow.explore-with-ai.point2.name": {
     "message": "全面解析主题"
   },
-  "aiflow.explore-with-ai.li2.desc": {
+  "aiflow.explore-with-ai.point2.description": {
     "message": "针对特定主题，不仅提供准确的答案，还展示相关知识和整体视角"
   },
-  "aiflow.explore-with-ai.li3.title": {
+  "aiflow.explore-with-ai.point3.name": {
     "message": "推荐相关主题"
   },
-  "aiflow.explore-with-ai.li3.desc": {
+  "aiflow.explore-with-ai.point3.description": {
     "message": "除了回答当前问题，AIFlow还智能生成后续问题或话题，引导您深入未知领域"
   },
-  "aiflow.explore-with-ai.li4.title": {
+  "aiflow.explore-with-ai.point4.name": {
     "message": "共同探索旅程"
   },
-  "aiflow.explore-with-ai.li4.desc": {
+  "aiflow.explore-with-ai.point4.description": {
     "message": "与您协作探索，激发灵感，推动思维不断前进"
   },
 
