@@ -1301,326 +1301,301 @@
   "slides.faq.a18": {
     "message": "您可以在设置中找到\"升级 AI 会员\"栏目。如果您订阅了某个会员计划，在相应的介绍栏中会有Cancel按钮，点击即可退订。"
   },
-  "extension_welcome.head.title": {
+  "head.title": {
     "message": "FunBlocks AI - 智能阅读写作助手：提升效率，激发创意"
   },
-  "extension_welcome.head.description": {
+  "head.description": {
     "message": "FunBlocks AI插件：您的智能AI助手，提升阅读、写作和思考能力。功能包括AI写作、思维导图、阅读辅助和备忘录。兼容ChatGPT、Claude、Gemini Pro等。在所有网站上提升工作效率。"
   },
-  "extension_welcome.nav.home": {
+  "nav.home": {
     "message": "FunBlocks - AI 助手"
   },
-  "extension_welcome.nav.settings": {
+  "nav.settings": {
     "message": "个性化设置"
   },
-  "extension_welcome.nav.reading": {
+  "nav.reading": {
     "message": "AI阅读"
   },
-  "extension_welcome.nav.writing": {
+  "nav.writing": {
     "message": "AI写作"
   },
-  "extension_welcome.nav.contextual": {
+  "nav.contextual": {
     "message": "快捷AI工具"
   },
-  "extension_welcome.nav.pricing": {
+  "nav.pricing": {
     "message": "会员方案"
   },
-  "extension_welcome.nav.login": {
+  "nav.login": {
     "message": "登录"
   },
-  "extension_welcome.pin.title": {
+  "pin.title": {
     "message": "开启FunBlocks AI之旅"
   },
-  "extension_welcome.pin.desc": {
+  "pin.desc": {
     "message": "让AI助手成为您网上冲浪的得力助手"
   },
-  "extension_welcome.pin.li1": {
+  "pin.li1": {
     "message": "点击浏览器右上角的扩展图标"
   },
-  "extension_welcome.pin.li2": {
+  "pin.li2": {
     "message": "将FunBlocks AI固定到工具栏"
   },
-  "extension_welcome.pin.li3": {
+  "pin.li3": {
     "message": "现在，AI助手随时待命，为您提供最强AI服务"
   },
-  "extension_welcome.pin.more": {
+  "pin.more": {
     "message": "继续探索FunBlocks AI的强大功能 ⬇️"
   },
-
-  "extension_welcome.settings.title": {
-    "message": "个性化您的AI助手，提高您的生产效率"
+  "settings.title": {
+    "message": "定制您的AI助手，解锁10倍速工作与学习"
   },
-  "extension_welcome.settings.subtitle": {
-    "message": "通过广泛的自定义选项，您可以轻松地根据您的需求调整AI助手"
+  "settings.li1": {
+    "message": "登录选择多种顶级LLM模型：ChatGPT-4、Claude-3.5、Gemini-1.5-Pro、Llama3等"
   },
-
-  "extension_welcome.settings.inbox_llms.title": {
-    "message": "单一登录解锁高级LLM模型"
+  "settings.li2": {
+    "message": "或使用您的LLM API Key，免费享受所有AI功能"
   },
-  "extension_welcome.settings.inbox_llms.li1": {
-    "message": "访问像ChatGPT-4o、Claude-3.7、Gemini-2.5-Pro、DeepSeek等顶级AI模型"
-  },
-  "extension_welcome.settings.inbox_llms.li2": {
-    "message": "所有领先的AI模型在一个地方，顺畅地集成到您的工作流程中"
-  },
-  "extension_welcome.settings.inbox_llms.li3": {
-    "message": "享受单一支付的成本效益解决方案，无需为每个模型订阅"
-  },
-
-  "extension_welcome.settings.private_llms.title": {
-    "message": "或使用您自己的LLM API密钥"
-  },
-  "extension_welcome.settings.private_llms.li1": {
-    "message": "ChatGPT、Claude、Gemini序列号，或者OpenAI兼容的API"
-  },
-  "extension_welcome.settings.private_llms.li2": {
-    "message": "使用您自己的API密钥，免费享受所有AI功能"
-  },
-  
-  "extension_welcome.reading.title": {
+  "reading.title": {
     "message": "智能阅读：AI边栏助手"
   },
-  "extension_welcome.reading.subtitle": {
+  "reading.subtitle": {
     "message": "便捷的浏览器侧边栏工具"
   },
-  "extension_welcome.reading.desc": {
+  "reading.desc": {
     "message": "向右看👉，将鼠标悬停在FunBlocks AI图标上，即可使用："
   },
-  "extension_welcome.reading.li1": {
+  "reading.li1": {
     "message": "页面助手：快速理解并分析当前页面内容"
   },
-  "extension_welcome.reading.li2": {
+  "reading.li2": {
     "message": "全局助手：无限制的AI交互与任务处理"
   },
-  "extension_welcome.reading.li3": {
+  "reading.li3": {
     "message": "AI Flow：以思维导图方式深入探索主题"
   },
-  "extension_welcome.reading.li4": {
+  "reading.li4": {
     "message": "智能截图：AI分析屏幕任意区域内容"
   },
-  "extension_welcome.reading.critical_thinking": {
+  "reading.critical_thinking": {
     "message": "FunBlocks AI不仅提高阅读速度，还培养批判性思维："
   },
-  "extension_welcome.reading.ct1": {
+  "reading.ct1": {
     "message": "提取关键信息，总结要点"
   },
-  "extension_welcome.reading.ct2": {
+  "reading.ct2": {
     "message": "拓展相关知识，加深理解"
   },
-  "extension_welcome.reading.ct3": {
+  "reading.ct3": {
     "message": "识别潜在偏见，辨别信息真伪"
   },
-  
-  "extension_welcome.contextual.title": {
-    "message": "上下文AI工具栏"
+  "contextual.title": {
+    "message": "智能工具栏"
   },
-  "extension_welcome.contextual.subtitle": {
-    "message": "FunBlocks AI扩展使用页面或选定的内容作为上下文来执行AI任务，无需在应用程序之间进行复制粘贴"
+  "contextual.toolbar": {
+    "message": "选中任意文本，即刻唤起AI工具栏"
   },
-  "extension_welcome.contextual.toolbar": {
-    "message": "选择任何文本，立即弹出AI工具栏"
+  "contextual.toolbar_desc": {
+    "message": "翻译、解释、润色、续写一键搞定，AI助手随时待命"
   },
-  "extension_welcome.contextual.toolbar_desc": {
-    "message": "一键翻译、解释、润色，并继续写作 - AI助手随时待命"
+  "contextual.try_now": {
+    "message": "立即体验，选中下方文本："
   },
-  "extension_welcome.contextual.try_now": {
-    "message": "现在试试，选择下面的文本："
+  "contextual.select_text": {
+    "message": "FunBlocks AI：您的智能阅读写作全能助手"
   },
-  "extension_welcome.contextual.select_text": {
-    "message": "FunBlocks AI：您的全方位AI阅读和写作助手"
+  "contextual.widget": {
+    "message": "智能小组件"
   },
-  "extension_welcome.contextual.widget": {
-    "message": "AI小部件"
+  "contextual.widget_desc": {
+    "message": "在Gmail、Youtube等平台上，一键生成回复、总结视频内容"
   },
-  "extension_welcome.contextual.widget_desc": {
-    "message": "在Twitter、Reddit、Gmail和YouTube等平台上，一键生成回复并总结视频内容"
-  },
-
-  "extension_welcome.writing.title": {
+  "writing.title": {
     "message": "AI写作助手"
   },
-  "extension_welcome.writing.subtitle": {
+  "writing.subtitle": {
     "message": "在左下方编辑框体验AI辅助写作"
   },
-  "extension_welcome.writing.methods": {
+  "writing.methods": {
     "message": "多种方式激活AI写作："
   },
-  "extension_welcome.writing.li1": {
+  "writing.li1": {
     "message": "选中文本，唤起工具栏"
   },
-  "extension_welcome.writing.li2": {
+  "writing.li2": {
     "message": "点击右下角蓝色图标"
   },
-  "extension_welcome.writing.li3": {
+  "writing.li3": {
     "message": "输入'/'快捷指令"
   },
-  "extension_welcome.writing.features": {
+  "writing.features": {
     "message": "核心功能"
   },
-  "extension_welcome.writing.f1": {
+  "writing.f1": {
     "message": "一键生成主题文章"
   },
-  "extension_welcome.writing.f2": {
+  "writing.f2": {
     "message": "智能润色与语法纠错"
   },
-  "extension_welcome.writing.f3": {
+  "writing.f3": {
     "message": "灵活续写与内容扩展"
   },
-  "extension_welcome.writing.f4": {
+  "writing.f4": {
     "message": "上下文智能回复（邮件、社交媒体等）"
   },
-  "extension_welcome.cta.title": {
+  "cta.title": {
     "message": "还没有安装 FunBlocks AI 插件吗？"
   },
-  "extension_welcome.cta.subtitle": {
+  "cta.subtitle": {
     "message": "您正在错过一个由 AI 驱动的高效和创造力的世界！"
   },
-  "extension_welcome.cta.button": {
+  "cta.button": {
     "message": "立即开始您的免费试用"
   },
- 
-  "extension_welcome.testimonials.user1.name": {
+  "feedbacks.title": {
+    "message": "用户反馈"
+  },
+  "feedbacks.user1.name": {
     "message": "Sarah K."
   },
-  "extension_welcome.testimonials.user1.role": {
+  "feedbacks.user1.career": {
     "message": "内容创作者"
   },
-  "extension_welcome.testimonials.user1.text": {
+  "feedbacks.user1.feedback": {
     "message": "FunBlocks AI 革新了我在线工作的方式。就像随时都有一个个人AI助手在身边！"
   },
-  "extension_welcome.testimonials.user2.name": {
+  "feedbacks.user2.name": {
     "message": "John M."
   },
-  "extension_welcome.testimonials.user2.role": {
+  "feedbacks.user2.career": {
     "message": "市场分析师"
   },
-  "extension_welcome.testimonials.user2.text": {
+  "feedbacks.user2.feedback": {
     "message": "作为一名市场分析师，我经常需要快速掌握大量的行业新闻。FunBlocks AI 的页面助手功能让我能够迅速提取关键信息，节省了很多时间。"
   },
-  "extension_welcome.testimonials.user3.name": {
+  "feedbacks.user3.name": {
     "message": "Emily R."
   },
-  "extension_welcome.testimonials.user3.role": {
+  "feedbacks.user3.career": {
     "message": "学生"
   },
-  "extension_welcome.testimonials.user3.text": {
+  "feedbacks.user3.feedback": {
     "message": "FunBlocks AI 的 AI Flow 功能非常有帮助。我使用它来阅读带有思维导图的深度文章和头脑风暴。"
   },
-  "extension_welcome.testimonials.user4.name": {
+  "feedbacks.user4.name": {
     "message": "Michael T."
   },
-  "extension_welcome.testimonials.user4.role": {
+  "feedbacks.user4.career": {
     "message": "自由撰稿人"
   },
-  "extension_welcome.testimonials.user4.text": {
+  "feedbacks.user4.feedback": {
     "message": "FunBlocks AI 的写作助手让我轻松生成基于主题的文章并润色我的文本。在面对紧迫的截止日期时，这是一大节省时间的利器。"
   },
-  "extension_welcome.testimonials.user5.name": {
+  "feedbacks.user5.name": {
     "message": "Linda S."
   },
-  "extension_welcome.testimonials.user5.role": {
+  "feedbacks.user5.career": {
     "message": "语言教师"
   },
-  "extension_welcome.testimonials.user5.text": {
+  "feedbacks.user5.feedback": {
     "message": "我经常使用 FunBlocks AI 的翻译和解释工具来帮助学生理解复杂的文本。这不仅提高了他们的学习效率，还增强了他们的批判性思维能力。"
   },
-  "extension_welcome.testimonials.user6.name": {
+  "feedbacks.user6.name": {
     "message": "David L."
   },
-  "extension_welcome.testimonials.user6.role": {
+  "feedbacks.user6.career": {
     "message": "小企业主"
   },
-  "extension_welcome.testimonials.user6.text": {
+  "feedbacks.user6.feedback": {
     "message": "FunBlocks AI 的 AI 小部件功能让生成邮件回复变得轻松。这在处理客户沟通和营销时尤其有用，节省了我很多时间。"
   },
-  "extension_welcome.faq.q1": {
+  "welcome.faq.q1": {
     "message": "使用自己申请的大模型API Key，需要支付FunBlocks AI服务费吗？"
   },
-  "extension_welcome.faq.a1": {
+  "welcome.faq.a1": {
     "message": "不需要，用户使用自己的API Key，只需支付服务提供方的费用，无需支付FunBlocks AI服务费，也不受每日免费访问额度限制。"
   },
-  "extension_welcome.faq.q2": {
+  "welcome.faq.q2": {
     "message": "没有大模型API Key，是否可以使用AI助手？"
   },
-  "extension_welcome.faq.a2": {
+  "welcome.faq.a2": {
     "message": "可以，注册登录FunBlocks服务后，即可获得40次免费AI服务访问额度，每天还有10次免费访问额度。您也可以加入FunBlocks AI会员服务，享受不受次数限制的AI服务。"
   },
-  "extension_welcome.faq.q3": {
+  "welcome.faq.q3": {
     "message": "FunBlocks AI有这么多产品，是不是很复杂，需要很高的学习门槛？"
   },
-  "extension_welcome.faq.a3": {
+  "welcome.faq.a3": {
     "message": "FunBlocks AI有多个产品，分别满足不同的知识工作应用场景。这些产品可以协作也可以独立使用，按需选择即可，无需完整学习。FunBlocks AI设计简单易用，建议从浏览器插件开始体验，一键安装即可。"
   },
-  "extension_welcome.faq.q4": {
+  "welcome.faq.q4": {
     "message": "为什么特别强调浏览器插件？"
   },
-  "extension_welcome.faq.a4": {
+  "welcome.faq.a4": {
     "message": "浏览器插件将AI助手引入所有网页应用中，不局限于FunBlocks平台。用户可以随时使用，无需复制粘贴。插件还支持情景化功能，如一键回复邮件、评论、总结页面内容等，大大提高工作效率。"
   },
-  "extension_welcome.faq.q5": {
+  "welcome.faq.q5": {
     "message": "FunBlocks AI为什么要做这么多产品？"
   },
-  "extension_welcome.faq.a5": {
+  "welcome.faq.a5": {
     "message": "FunBlocks AI针对知识工作者的不同场景设计产品，提升工作效率。利用大语言模型（LLM）的能力解决用户问题，简化操作。例如，一键AI回复邮件、生成针对性内容等，比ChatGPT和Claude更高效。"
   },
-  "extension_welcome.faq.q8": {
+  "welcome.faq.q8": {
     "message": "有了ChatGPT，我为什么还要使用FunBlocks AI？"
   },
-  "extension_welcome.faq.a8": {
+  "welcome.faq.a8": {
     "message": "相比直接使用ChatGPT，FunBlocks AI有很多优势。FunBlocks AI的各个产品都深入用户的工作流中，直接获取任务上下文，组合相应优化的Prompt，LLM返回的结果也直接应用到工作流中，提供了极大的便利性。同时，用户无需自己学习优化和LLM对话的Prompt。另外，像FunBlocks AI Flow这个产品提供的创新的多视角、多支线、视图化交互方式，激发用户创意和思考，是ChatGPT所难以提供的"
   },
-  "extension_welcome.faq.q10": {
+  "welcome.faq.q10": {
     "message": "FunBlocks和Notion有哪些差异？"
   },
-  "extension_welcome.faq.a10": {
+  "welcome.faq.a10": {
     "message": "FunBlocks更注重AI，支持所有网站应用的浏览器插件，用户自定义AI Prompt应用和应用商店。支持所有主流第三方大模型API接口(ChatGPT, Claude, Gemini, Groq)，提供大模型选择权，帮助用户以10倍速工作和学习。"
   },
-  "extension_welcome.faq.q11": {
+  "welcome.faq.q11": {
     "message": "在FunBlocks AI浏览器插件里将AI生成结果保存到Memo中，如何查看和回顾？"
   },
-  "extension_welcome.faq.a11": {
-    "message": "登录FunBlocks AI工作空间 https://app.funblocks.net 后，如果之前执行了\"保存结果到即时笔记\"操作，FunBlocks空间中将有Memo页面，按条显示之前保存的生成结果及相关信息。"
+  "welcome.faq.a11": {
+    "message": "登录FunBlocks AI工作空间 https://app.funblocks.net 后，如果之前执行了"保存结果到即时笔记"操作，FunBlocks空间中将有Memo页面，按条显示之前保存的生成结果及相关信息。"
   },
-  "extension_welcome.faq.q12": {
+  "welcome.faq.q12": {
     "message": "为什么FunBlocks AI浏览器插件支持所有主流大语言模型？"
   },
-  "extension_welcome.faq.a12": {
+  "welcome.faq.a12": {
     "message": "FunBlocks AI 浏览器插件致力于为用户提供灵活的选择和最佳体验。通过支持所有主流大语言模型，我们满足不同用户的需求，确保您可以根据个人偏好和工作流程选择最合适的工具，从而提升工作效率和创造力。"
   },
-  "extension_welcome.faq.q13": {
+  "welcome.faq.q13": {
     "message": "FunBlocks AI浏览器插件适合学生使用吗？"
   },
-  "extension_welcome.faq.a13": {
+  "welcome.faq.a13": {
     "message": "是的，FunBlocks AI浏览器插件非常适合学生使用。它提供多种功能，帮助学生提高学习效率。例如，您可以使用FunBlocks AI助手在网页上选择词语或段落进行详细解释，或进行批判性阅读和思考，提升思维能力。此外，FunBlocks AI浏览器插件还支持一键调用AIFlow，结合思维导图和AI助手的引导，深入探索问题或主题。写作助手功能可以对学生的作文进行批改和反馈，帮助提升写作技巧和能力。通过这些功能，FunBlocks AI助力学生在学习过程中更加高效和全面。"
   },
-  "extension_welcome.faq.q14": {
+  "welcome.faq.q14": {
     "message": "FunBlocks AI浏览器插件适合职场办公使用吗？"
   },
-  "extension_welcome.faq.a14": {
+  "welcome.faq.a14": {
     "message": "是的，FunBlocks AI非常适合职场使用。它提供多种功能，帮助职场人士提高工作效率。例如，使用FunBlocks AI浏览器插件，您可以在任意网页中进行文本编辑，AI写作助手可以帮助撰写草稿、润色文本、改正错误和翻译，大幅提升写作效率。同时，FunBlocks AI Flow可以帮助您进行项目方案探索和任务分解，让复杂工作变得简单。"
   },
-  "extension_welcome.faq.q15": {
+  "welcome.faq.q15": {
     "message": "FunBlocks AI浏览器插件适合终身学习者使用吗？"
   },
-  "extension_welcome.faq.a15": {
+  "welcome.faq.a15": {
     "message": "是的，FunBlocks AI浏览器插件非常适合**终身学习者**。在信息爆炸的时代，几乎每个人都需要提升思维能力和学习能力。FunBlocks AI浏览器插件通过多种功能满足这一需求，提供全方位的批判性阅读和思考工具，帮助用户辨别信息，获得更全面的认知视角，提升思维能力。特别是 FunBlocks AI Flow，结合思维导图、白板和AI的解决方案，使用户的思考更加流畅和富有创意，充分发挥和提升思考能力。"
   },
-  "extension_welcome.faq.q16": {
+  "welcome.faq.q16": {
     "message": "我可以免费使用FunBlocks AI吗？"
   },
-  "extension_welcome.faq.a16": {
+  "welcome.faq.a16": {
     "message": "是的，FunBlocks AI提供免费使用选项。新用户注册后将获得30次免费AI服务访问，每天还会额外赠送10次免费访问，确保您能够体验到AI助手的强大功能。此外，FunBlocks AI还设有奖励机制，邀请好友注册，您和好友都能获得免费使用额度。"
   },
-  "extension_welcome.faq.q17": {
+  "welcome.faq.q17": {
     "message": "如何通过邀请好友获得免费使用额度奖励呢？"
   },
-  "extension_welcome.faq.a17": {
+  "welcome.faq.a17": {
     "message": "您可以通过两种方式邀请好友。第一，分享邀请链接，好友通过链接注册后即可获得奖励。第二，分享FunBlocks AI浏览器插件或AI Flow生成的内容，用户点击阅读后注册，您也将获得邀请奖励。"
   },
-  "extension_welcome.faq.q18": {
+  "welcome.faq.q18": {
     "message": "如何个性化我的FunBlocks AI助手？"
   },
-  "extension_welcome.faq.a18": {
+  "welcome.faq.a18": {
     "message": "FunBlocks AI提供多种个性化选项，您可以选择主流的大语言模型，构建符合您需求的AI提示应用，并从应用市场中挑选所需的应用程序，以增强AI助手的功能。"
   }
 }

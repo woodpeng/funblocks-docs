@@ -1307,5 +1307,329 @@
   },
   "slides.faq.a18": {
     "message": "You can find the 'Upgrade AI' section in the settings. If you are subscribed to a membership plan, there will be a Cancel button in the corresponding description area; click it to unsubscribe."
+  },
+  "extension_welcome.head.title": {
+    "message": "FunBlocks AI - Smart Reading & Writing Assistant: Boost Productivity, Spark Creativity"
+  },
+  "extension_welcome.head.description": {
+    "message": "FunBlocks AI Extension: Your smart AI assistant for enhanced reading, writing, and thinking. Features AI Writing, Mind Flow, Reading assistance, and Memo. Compatible with ChatGPT, Claude, Gemini Pro. Boost productivity across all websites"
+  },
+  "extension_welcome.nav.home": {
+    "message": "FunBlocks - AI Assistant"
+  },
+  "extension_welcome.nav.settings": {
+    "message": "Customize"
+  },
+  "extension_welcome.nav.reading": {
+    "message": "AI Reader"
+  },
+  "extension_welcome.nav.writing": {
+    "message": "AI Writer"
+  },
+  "extension_welcome.nav.contextual": {
+    "message": "AI Tools"
+  },
+  "extension_welcome.nav.pricing": {
+    "message": "Pricing"
+  },
+  "extension_welcome.nav.login": {
+    "message": "Login"
+  },
+  "extension_welcome.pin.title": {
+    "message": "Start Your FunBlocks AI Journey"
+  },
+  "extension_welcome.pin.desc": {
+    "message": "Make AI your ultimate browsing companion"
+  },
+  "extension_welcome.pin.li1": {
+    "message": "Click the extension icon in your browser's top-right corner"
+  },
+  "extension_welcome.pin.li2": {
+    "message": "Pin FunBlocks AI to your toolbar"
+  },
+  "extension_welcome.pin.li3": {
+    "message": "Your AI assistant is now ready to help anytime"
+  },
+  "extension_welcome.pin.more": {
+    "message": "Explore more powerful features of FunBlocks AI Extension below ⬇️"
+  },
+
+  "extension_welcome.settings.title": {
+    "message": "Personalize Your AI Assistant and Boost Your Productivity"
+  },
+  "extension_welcome.settings.subtitle": {
+    "message": "With a wide range of customizable options, you can easily tailor your AI assistant to your needs"
+  },
+
+  "extension_welcome.settings.inbox_llms.title": {
+    "message": "Unlock Premium LLM Models with a Single Login"
+  },
+  "extension_welcome.settings.inbox_llms.li1": {
+    "message": "Access top AI models like ChatGPT-4o, Claude-3.7, Gemini-2.5-Pro, DeepSeek, and more"
+  },
+  "extension_welcome.settings.inbox_llms.li2": {
+    "message": "All the Leading AI Models in One Place, seamlessly integrated into your workflow"
+  },
+  "extension_welcome.settings.inbox_llms.li3": {
+    "message": "Enjoy a cost-effective solution with a single payment, eliminating the need for individual model subscriptions"
+  },
+
+  "extension_welcome.settings.private_llms.title": {
+    "message": "Or Use Your Own LLM API Key"
+  },
+  "extension_welcome.settings.private_llms.li1": {
+    "message": "ChatGPT, Claude, Gemini serials, or OpenAI Compatible APIs"
+  },
+  "extension_welcome.settings.private_llms.li2": {
+    "message": "Enjoy all the AI features for free with your own API key"
+  },
+
+  "extension_welcome.reading.title": {
+    "message": "AI Reading: AI Sidebar Assistant"
+  },
+  "extension_welcome.reading.subtitle": {
+    "message": "Handy browser sidebar tool"
+  },
+  "extension_welcome.reading.desc": {
+    "message": "Look right 👉, hover over the FunBlocks AI icon to access:"
+  },
+  "extension_welcome.reading.li1": {
+    "message": "Page Assistant: Quickly understand and analyze current page content"
+  },
+  "extension_welcome.reading.li2": {
+    "message": "AI Assistant: Unlimited AI interaction and task processing"
+  },
+  "extension_welcome.reading.li3": {
+    "message": "AI Flow: Explore topics in-depth with whiteboard and mind maps"
+  },
+  "extension_welcome.reading.li4": {
+    "message": "AI Screenshot: AI analysis of any screen area"
+  },
+  "extension_welcome.reading.critical_thinking": {
+    "message": "FunBlocks AI not only speeds up reading but also enhances critical thinking:"
+  },
+  "extension_welcome.reading.ct1": {
+    "message": "Extract key information, summarize main points"
+  },
+  "extension_welcome.reading.ct2": {
+    "message": "Expand related knowledge, deepen understanding"
+  },
+  "extension_welcome.reading.ct3": {
+    "message": "Identify potential biases, distinguish fact from fiction"
+  },
+
+
+  "extension_welcome.contextual.title": {
+    "message": "Instant Contextual AI Access"
+  },
+  "extension_welcome.contextual.subtitle": {
+    "message": "The FunBlocks AI Extension uses page or selected content as context to perform AI tasks, eliminating the need for copy-pasting between apps"
+  },
+  "extension_welcome.contextual.toolbar": {
+    "message": "Select any text to instantly bring up the AI toolbar"
+  },
+  "extension_welcome.contextual.toolbar_desc": {
+    "message": "Translate, explain, polish, and continue writing with one click - AI assistant always at the ready"
+  },
+  "extension_welcome.contextual.try_now": {
+    "message": "Try it now, select the text below:"
+  },
+  "extension_welcome.contextual.select_text": {
+    "message": "FunBlocks AI: Your all-in-one AI reading and writing assistant"
+  },
+  "extension_welcome.contextual.widget": {
+    "message": "AI Widgets"
+  },
+  "extension_welcome.contextual.widget_desc": {
+    "message": "On platforms like Twitter, Reddit, Gmail and YouTube, generate replies and summarize video content with one click"
+  },
+
+
+  "extension_welcome.writing.title": {
+    "message": "AI Writing Assistant"
+  },
+  "extension_welcome.writing.subtitle": {
+    "message": "Experience AI-assisted writing in the editor box below"
+  },
+  "extension_welcome.writing.methods": {
+    "message": "Multiple ways to activate AI writing:"
+  },
+  "extension_welcome.writing.li1": {
+    "message": "Select text to bring up the toolbar"
+  },
+  "extension_welcome.writing.li2": {
+    "message": "Click the blue icon in the bottom right"
+  },
+  "extension_welcome.writing.li3": {
+    "message": "Type '/' for quick commands"
+  },
+  "extension_welcome.writing.features": {
+    "message": "Core Features"
+  },
+  "extension_welcome.writing.f1": {
+    "message": "One-click topic-based article generation"
+  },
+  "extension_welcome.writing.f2": {
+    "message": "Text polishing and grammar correction"
+  },
+  "extension_welcome.writing.f3": {
+    "message": "Flexible continuation and content expansion"
+  },
+  "extension_welcome.writing.f4": {
+    "message": "Context-aware AI replies (email, social media, etc.)"
+  },
+  "extension_welcome.cta.title": {
+    "message": "Haven't installed FunBlocks AI Extension yet?"
+  },
+  "extension_welcome.cta.subtitle": {
+    "message": "You're missing out on a world of AI-powered productivity and creativity!"
+  },
+  "extension_welcome.cta.button": {
+    "message": "Install now for free!"
+  },
+  
+  "extension_welcome.testimonials.user1.name": {
+    "message": "Fiona"
+  },
+  "extension_welcome.testimonials.user1.role": {
+    "message": "Marketing Manager"
+  },
+  "extension_welcome.testimonials.user1.text": {
+    "message": "As a marketing manager, creativity is my bread and butter. Since I started using FunBlocks AIFlow, my productivity has skyrocketed. Before product strategy meetings, I use it to organize market analyses, and the AI even provides timely insights, ensuring my proposals always hit the mark. Recently, when launching a new product, I used it for brainstorming – the ideas just kept flowing, which beats staring at PowerPoint slides for hours. During cross-department communications, a single mind map speaks volumes, making discussions more focused. My boss even asked if I've been secretly taking extra courses! Well, I guess you could say I've found the ultimate work partner."
+  },
+  "extension_welcome.testimonials.user2.name": {
+    "message": "Ethan"
+  },
+  "extension_welcome.testimonials.user2.role": {
+    "message": "Freelance Creative Writer"
+  },
+  "extension_welcome.testimonials.user2.text": {
+    "message": "As a freelance creative writer, I often struggled with writer's block. But with this magical tool, my creative well never runs dry. I particularly love its AI brainstorming feature, which always gives me unexpected inspiration. Plus, the one-click article generation feature has doubled my writing efficiency. Now, I'm not only taking on more projects, but the quality of my work has improved too. For anyone working in the creative field, I highly recommend FunBlocks AIFlow!"
+  },
+  "extension_welcome.testimonials.user3.name": {
+    "message": "Zack"
+  },
+  "extension_welcome.testimonials.user3.role": {
+    "message": "College Student"
+  },
+  "extension_welcome.testimonials.user3.text": {
+    "message": "When I first started college, I often felt like I couldn't keep up, with professors breezing through so much material. Then my roommate recommended FunBlocks AIFlow. I absolutely love the infinite whiteboard feature – I can add whatever I learn to it, and the AI keeps expanding on it, making my studies so much more in-depth than before. And that's not all! Using AIFlow for brainstorming and thematic learning allows me to make interdisciplinary connections, linking knowledge from different subjects. The AI even provides real-world application examples, suddenly making everything I learn feel meaningful. It's the absolute best! 👍👍👍"
+  },
+  "extension_welcome.testimonials.user4.name": {
+    "message": "Ethan"
+  },
+  "extension_welcome.testimonials.user4.role": {
+    "message": "Freelance Creative Writer"
+  },
+  "extension_welcome.testimonials.user4.text": {
+    "message": "As a freelance creative writer, I often struggled with writer's block. But with this magical tool, my creative well never runs dry. I particularly love its AI brainstorming feature, which always gives me unexpected inspiration. Plus, the one-click article generation feature has doubled my writing efficiency. Now, I'm not only taking on more projects, but the quality of my work has improved too. For anyone working in the creative field, I highly recommend FunBlocks AIFlow!"
+  },
+  "extension_welcome.testimonials.user5.name": {
+    "message": "Zack"
+  },
+  "extension_welcome.testimonials.user5.role": {
+    "message": "College Student"
+  },
+  "extension_welcome.testimonials.user5.text": {
+    "message": "When I first started college, I often felt like I couldn't keep up, with professors breezing through so much material. Then my roommate recommended FunBlocks AIFlow. I absolutely love the infinite whiteboard feature – I can add whatever I learn to it, and the AI keeps expanding on it, making my studies so much more in-depth than before. And that's not all! Using AIFlow for brainstorming and thematic learning allows me to make interdisciplinary connections, linking knowledge from different subjects. The AI even provides real-world application examples, suddenly making everything I learn feel meaningful. It's the absolute best! 👍👍👍"
+  },
+  "extension_welcome.testimonials.user6.name": {
+    "message": "Ethan"
+  },
+  "extension_welcome.testimonials.user6.role": {
+    "message": "Freelance Creative Writer"
+  },
+  "extension_welcome.testimonials.user6.text": {
+    "message": "As a freelance creative writer, I often struggled with writer's block. But with this magical tool, my creative well never runs dry. I particularly love its AI brainstorming feature, which always gives me unexpected inspiration. Plus, the one-click article generation feature has doubled my writing efficiency. Now, I'm not only taking on more projects, but the quality of my work has improved too. For anyone working in the creative field, I highly recommend FunBlocks AIFlow!"
+  },
+  "extension_welcome.faq.q1": {
+    "message": "If I use my own API Key for LLMs (ChatGPT, Claude, Gemini, Groq), do I need to pay for FunBlocks AI services?"
+  },
+  "extension_welcome.faq.a1": {
+    "message": "No, if you use your own API Key, you only need to pay the service provider. There are no additional charges from FunBlocks AI, and you are not limited by the daily free access quota."
+  },
+  "extension_welcome.faq.q2": {
+    "message": "Can I use the AI assistant without an API Key for LLMs?"
+  },
+  "extension_welcome.faq.a2": {
+    "message": "Yes, after registering for FunBlocks, you get 40 free AI service accesses, with an additional 10 free accesses each day. You can also join the FunBlocks AI membership for unlimited AI services."
+  },
+  "extension_welcome.faq.q3": {
+    "message": "FunBlocks AI has many products. Are they complicated and hard to learn?"
+  },
+  "extension_welcome.faq.a3": {
+    "message": "FunBlocks AI offers multiple products tailored to different knowledge work scenarios. These products can work together or independently, so you can choose what suits you best without needing to learn everything. FunBlocks AI is designed to be simple and user-friendly. We recommend starting with the browser extension/plugin, which can be installed with one click."
+  },
+  "extension_welcome.faq.q4": {
+    "message": "Why is the browser extension emphasized?"
+  },
+  "extension_welcome.faq.a4": {
+    "message": "The browser extension integrates the AI assistant into all web applications, not just the FunBlocks platform. This allows you to use it anytime without copying and pasting. The plugin also supports contextual features like one-click email replies, comment responses, and page content summaries, significantly boosting your productivity."
+  },
+  "extension_welcome.faq.q5": {
+    "message": "Why does FunBlocks AI offer so many products?"
+  },
+  "extension_welcome.faq.a5": {
+    "message": "FunBlocks AI designs products for different scenarios to enhance efficiency. By leveraging large language models (LLMs), we solve user problems directly within their workflows, simplifying tasks. For example, one-click AI email replies and context-specific content generation are more efficient than using ChatGPT or Claude."
+  },
+  "extension_welcome.faq.q8": {
+    "message": "Why should I use FunBlocks AI if I already have ChatGPT?"
+  },
+  "extension_welcome.faq.a8": {
+    "message": "FunBlocks AI offers several advantages over using ChatGPT directly. Our products integrate deeply into your workflow, automatically fetching task context and combining optimized prompts. The results from LLMs are directly applied to your tasks, providing great convenience. You don't need to learn how to optimize prompts or interact with LLMs yourself. Additionally, FunBlocks AI Flow offers innovative multi-angle, multi-threaded, and visual interactions with LLMs, sparking creativity and deeper thinking, which ChatGPT alone may not provide."
+  },
+  "extension_welcome.faq.q10": {
+    "message": "How does FunBlocks differ from Notion?"
+  },
+  "extension_welcome.faq.a10": {
+    "message": "FunBlocks focuses more on AI, with browser plugins supporting all web applications, user-defined AI prompt applications, and AI app store. It supports all major third-party large language model API (ChatGPT, Claude, Gemini, Groq), giving users model choice and enabling 10x faster work and learning within their workflow."
+  },
+  "extension_welcome.faq.q11": {
+    "message": "How can I view and review AI-generated results saved to Memo in the FunBlocks AI browser plugin?"
+  },
+  "extension_welcome.faq.a11": {
+    "message": "After logging into the FunBlocks AI workspace at https://app.funblocks.net, you can find the Memo page showing previously saved results and related information if you used the 'Save to Memo' feature."
+  },
+  "extension_welcome.faq.q12": {
+    "message": "Why does the FunBlocks AI browser extension support all major large language models(llms)?"
+  },
+  "extension_welcome.faq.a12": {
+    "message": "The FunBlocks AI browser extension is designed to provide users with flexible choices and the best experience. By supporting all major large language models, we meet the diverse needs of users, ensuring you can select the most suitable tools based on your personal preferences and workflow, thereby enhancing your work efficiency and creativity."
+  },
+  "extension_welcome.faq.q13": {
+    "message": "Is the FunBlocks AI browser extension suitable for students?"
+  },
+  "extension_welcome.faq.a13": {
+    "message": "Yes, the FunBlocks AI browser extension is highly suitable for students. It offers various features to help students improve their learning efficiency. For example, you can use the FunBlocks AI assistant to select words or paragraphs on a webpage for detailed explanations, or engage in critical reading and thinking to enhance cognitive skills. Additionally, the extension supports one-click access to AI Flow, combining mind mapping and AI guidance to explore topics or issues in depth. The writing assistant feature can provide feedback on students' essays, helping to improve writing skills and abilities. Through these features, FunBlocks AI empowers students to be more efficient and comprehensive in their learning process."
+  },
+  "extension_welcome.faq.q14": {
+    "message": "Is the FunBlocks AI browser extension suitable for workplace use?"
+  },
+  "extension_welcome.faq.a14": {
+    "message": "Yes, FunBlocks AI is very suitable for workplace use. It provides various features to help professionals enhance their work efficiency. For instance, using the FunBlocks AI browser extension, you can edit text on any webpage, and the AI writing assistant can help draft, polish, correct errors, and translate text, significantly improving writing efficiency. At the same time, FunBlocks AI Flow can assist you in exploring project proposals and breaking down tasks, making complex work simpler."
+  },
+  "extension_welcome.faq.q15": {
+    "message": "Is the FunBlocks AI browser extension suitable for lifelong learners?"
+  },
+  "extension_welcome.faq.a15": {
+    "message": "Yes, the FunBlocks AI browser extension is highly suitable for lifelong learners. In an age of information overload, almost everyone needs to enhance their thinking and learning abilities. The FunBlocks AI browser extension meets this need through various features, providing comprehensive critical reading and thinking tools to help users discern information and gain a more holistic perspective. It enhances cognitive skills. Particularly, FunBlocks AI Flow, combined with mind mapping, whiteboarding, and AI solutions, makes users' thinking more fluid and creative, fully unleashing and enhancing their thinking capabilities."
+  },
+  "extension_welcome.faq.q16": {
+    "message": "Can I use FunBlocks AI Extension for free?"
+  },
+  "extension_welcome.faq.a16": {
+    "message": "Yes, FunBlocks AI offers a free usage option. New users will receive 30 free AI service accesses upon registration, along with an additional 10 free accesses daily, ensuring you can experience the powerful features of the AI assistant. Additionally, FunBlocks AI has a rewards mechanism; by inviting friends to register, both you and your friends can receive free usage credits."
+  },
+  "extension_welcome.faq.q17": {
+    "message": "How can I earn FunBlocks AI free usage credits by inviting friends?"
+  },
+  "extension_welcome.faq.a17": {
+    "message": "You can invite friends in two ways. First, share the invitation link; when your friend registers through the link, they will receive a reward. Second, share content generated by the FunBlocks AI browser extension or AI Flow; if users click to read and register, you will also receive an invitation reward."
+  },
+  "extension_welcome.faq.q18": {
+    "message": "How can I personalize my FunBlocks AI Extension assistant?"
+  },
+  "extension_welcome.faq.a18": {
+    "message": "FunBlocks AI offers various personalization options. You can choose from mainstream large language models, build AI prompt applications that meet your needs, and select the required applications from the app market to enhance the functionality of your AI assistant."
   }
 }

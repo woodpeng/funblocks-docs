@@ -294,7 +294,7 @@ export default function Slides() {
                         />
                     </div>}
                 />
-                <TestimonialsSection avatars={["👩‍🏫", "👨‍💼", "👩‍💼", "👨‍🎓", "👨‍🏫", "👩‍🎓"]} page={"slides"} />
+                <TestimonialsSection avatars={["👩‍🏫", "👨‍💼", "👨‍🎓", "🧑‍💻", "👩‍🎓", "👨‍💼"]} page={"slides"} />
                 <CTASection toApp={toApp} page={'slides'} />
                 <FAQSection
                     page={'slides'}
