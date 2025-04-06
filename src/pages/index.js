@@ -11,8 +11,10 @@ import Footer from '../components/Footer';
 import FAQSection from '../components/FAQSection';
 import AIToolsSection from '../components/AIToolsSection';
 import TestimonialsSection from '../components/TestimonialsSection';
+import ImageModal from '../components/ImageModal';
+import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 
-function HomepageHeader({ setImageSrc, toApp }) {
+function HomepageHeader({ setShowImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
 
   return (
@@ -44,7 +46,7 @@ function HomepageHeader({ setImageSrc, toApp }) {
         <div style={{ cursor: 'pointer' }}>
           <img
             className={styles.heroImage}
-            onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
+            onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
             id="aiflow-overview"
             alt="FunBlocks AIFlow interface"
             src="/img/portfolio/fullsize/aiflow_benefits.png"
@@ -121,7 +123,7 @@ function BeyondChatGPTSection() {
   );
 }
 
-function DeepenThinkingSection({ setImageSrc }) {
+function DeepenThinkingSection({ setShowImageSrc }) {
   return (
     <section className={styles.featureSection}>
       <div className="container">
@@ -171,7 +173,7 @@ function DeepenThinkingSection({ setImageSrc }) {
               id="aiflow_optimize_question"
               alt="Mind mapping for deeper thinking"
               src="/img/portfolio/fullsize/aiflow_optimize_question.png"
-              onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_optimize_question.png")}
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_optimize_question.png")}
             />
           </div>
         </div>
@@ -180,7 +182,7 @@ function DeepenThinkingSection({ setImageSrc }) {
   );
 }
 
-function BoostCreativitySection({ setImageSrc }) {
+function BoostCreativitySection({ setShowImageSrc }) {
   return (
     <section className={styles.featureSection}>
       <div className="container">
@@ -191,7 +193,7 @@ function BoostCreativitySection({ setImageSrc }) {
               id="aiflow_productivity"
               alt="Creative brainstorming with AI"
               src="/img/portfolio/fullsize/aiflow_productivity.png"
-              onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
             />
           </div>
           <div className={styles.featureContent}>
@@ -239,7 +241,7 @@ function BoostCreativitySection({ setImageSrc }) {
   );
 }
 
-function BoostProductivitySection({ setImageSrc }) {
+function BoostProductivitySection({ setShowImageSrc }) {
   return (
     <section className={styles.featureSection}>
       <div className="container">
@@ -290,7 +292,7 @@ function BoostProductivitySection({ setImageSrc }) {
               id="aiflow_slides_generation"
               alt="Productivity enhancement with AIFlow"
               src="/img/portfolio/fullsize/aiflow_slides_generation.png"
-              onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_slides_generation.png")}
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_slides_generation.png")}
             />
           </div>
 
@@ -573,12 +575,7 @@ function CTASection({ toApp }) {
 
 export default function Home() {
   const { siteConfig, i18n } = useDocusaurusContext();
-  const [imageSrc, setImageSrc] = useState(null);
-
-  // Close modal when clicked outside
-  const closeModal = () => {
-    setImageSrc(null);
-  };
+  const [showImageSrc, setShowImageSrc] = useState(null);
 
   function getDomain() {
     if (!window.location.hostname.includes('funblocks')) {
@@ -603,48 +600,6 @@ export default function Home() {
     openUrl(url);
   }
 
-  // Google Analytics tracking code
-  useEffect(() => {
-    const script = document.createElement('script');
-    script.src = `https://www.googletagmanager.com/gtag/js?id=G-RYTCZEQK0W`;
-    script.async = true;
-    document.head.appendChild(script);
-
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-RYTCZEQK0W');
-  }, []);
-
-  useEffect(() => {
-    const script = document.createElement('script');
-    script.src = "https://accounts.google.com/gsi/client";
-    script.async = true;
-    script.defer = true;
-    document.body.appendChild(script);
-
-    script.onload = () => {
-      // Initialize Google Identity Services
-      window.google.accounts.id.initialize({
-        client_id: '988058218123-enpfsi0n6fo9jqa2aqfr6s37t16loth8.apps.googleusercontent.com',
-        callback: handleCredentialResponse
-      });
-      window.google.accounts.id.prompt(); // Automatically prompt for login
-    };
-
-    return () => {
-      document.body.removeChild(script);
-    };
-  }, []);
-
-  const handleCredentialResponse = (response) => {
-    // Handle the response from Google
-    console.log("Encoded JWT ID token: " + response.credential);
-    window.open('https://app.funblocks.net/#/login?g_login_token=' + response.credential, '_blank')
-  };
-
   const testimonials_avatars = ["👩‍🏫", "👨‍💼", "👩‍💼", "👨‍🎓", "👨‍🏫", "👩‍🎓"];
 
   return (
@@ -658,12 +613,12 @@ export default function Home() {
         message: 'Explore, think, and create with AI. AI-powered innovative whiteboarding, mind mapping, slide creation, and document tools to boost your creativity and productivity.'
       })}
     >
-      <HomepageHeader setImageSrc={setImageSrc} toApp={toApp} />
+      <HomepageHeader setShowImageSrc={setShowImageSrc} toApp={toApp} />
       <main>
         <BeyondChatGPTSection />
-        <DeepenThinkingSection setImageSrc={setImageSrc} />
-        <BoostCreativitySection setImageSrc={setImageSrc} />
-        <BoostProductivitySection setImageSrc={setImageSrc} />
+        <DeepenThinkingSection setShowImageSrc={setShowImageSrc} />
+        <BoostCreativitySection setShowImageSrc={setShowImageSrc} />
+        <BoostProductivitySection setShowImageSrc={setShowImageSrc} />
         <AIToolsSection />
         <MultiModelSection />
         <UseCasesSection />
@@ -680,20 +635,8 @@ export default function Home() {
       </main>
       <Footer />
 
-      {/* Image Modal */}
-      {imageSrc && (
-        <div className={styles.modal} style={{ display: 'block' }} onClick={closeModal}>
-          <span className={styles.close} onClick={closeModal}>&times;</span>
-          <img
-            className={styles.modalImage}
-            src={imageSrc}
-            alt={translate({ id: 'modal.alt', message: 'Enlarged view' })}
-          />
-          <div className={styles.zoomIndicator}>
-            <Translate id="modal.click_to_close">Click to close</Translate>
-          </div>
-        </div>
-      )}
+      {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
+      <GoogleAccountAnalytics />
     </Layout>
   );
 }

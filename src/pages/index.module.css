@@ -295,40 +295,6 @@
   border-radius: 10px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 }
-
-/* Tools List */
-.toolsList {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
-  margin-top: 3rem;
-}
-
-.toolItem {
-  background-color: white;
-  border-radius: 8px;
-  padding: 12px 15px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.toolItem:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.toolTitle {
-  font-weight: 600;
-  margin-bottom: 5px;
-  color: #2c3e50;
-}
-
-.toolDescription {
-  margin: 0;
-  font-size: 0.9rem;
-  color: #666;
-}
-
 /* Multi-Model Section */
 .multiModelAdvantage {
   margin-top: 2rem;
@@ -377,88 +343,12 @@
   background-color: azure;
 }
 
-.useCasesGrid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
-  margin-top: 3rem;
-}
-
-.useCaseCard {
-  background-color: var(--light);
-  padding: 1rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  border-radius: 10px;
-  transition: transform 0.3s, box-shadow 0.3s;
-  height: 100%;
-}
-
-.useCaseCard:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-}
-
-.useCaseIcon {
-  color: var(--primary);
-  margin-right: 0.5rem;
-  font-size: 1.5rem;
-}
-
 /* Workspace Section */
 .workspaceSection {
   padding: 6rem 0;
   background-color: aliceblue;
 
 }
-
-/* Testimonials Section */
-.testimonialsSection {
-  padding: 6rem 0;
-  background-color: #f8f9ff;
-}
-
-.testimonialCard {
-  background-color: white;
-  border-radius: 10px;
-  padding: 2rem;
-  padding-bottom: 1rem;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-  height: 100%;
-}
-
-.testimonialHeader {
-  display: flex;
-  align-items: center;
-  margin-bottom: 1rem;
-}
-
-.testimonialAvatar {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  background-color: #e0e6ff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-right: 1rem;
-}
-
-.testimonialAvatar span {
-  font-size: 1.5rem;
-}
-
-.testimonialInfo h4 {
-  margin: 0;
-}
-
-.testimonialInfo p {
-  margin: 0;
-  color: #666;
-  font-size: 0.9rem;
-}
-
 /* CTA Section */
 .ctaSection {
   padding: 6rem 0;
@@ -486,50 +376,6 @@
 
 .ctaBtn:hover {
   background-color: var(--gray);
-}
-/* Image Modal */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 10000;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgba(0, 0, 0, 0.9);
-}
-
-.modalImage {
-  display: block;
-  margin: auto;
-  max-width: 100%;
-  max-height: 100%;
-  cursor: zoom-in;
-  transition: transform 0.3s ease;
-}
-
-.close {
-  color: #fff;
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  font-size: 40px;
-  font-weight: bold;
-  cursor: pointer;
-  opacity: 0.8;
-}
-
-.zoomIndicator {
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 14px;
 }
 
 /* Responsive Design */

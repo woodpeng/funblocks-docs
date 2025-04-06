@@ -12,8 +12,10 @@ import FAQSection from '../components/FAQSection';
 import { useMediaQuery } from 'react-responsive';
 import AIToolsSection from '../components/AIToolsSection';
 import TestimonialsSection from '../components/TestimonialsSection';
+import ImageModal from '../components/ImageModal';
+import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 
-function AIFlowHeader({ setImageSrc, toApp }) {
+function AIFlowHeader({ setShowImageSrc, toApp }) {
   return (
     <section id="hero" className={clsx(styles.hero, styles.pageSection)}>
       <div className="container" style={{
@@ -126,7 +128,7 @@ function IntroSection() {
   );
 }
 
-function FeaturesSection({ setImageSrc }) {
+function FeaturesSection({ setShowImageSrc }) {
   const features = [
     {
       // icon: '🧩',
@@ -220,7 +222,7 @@ function FeaturesSection({ setImageSrc }) {
             <div style={{ cursor: 'pointer', flex: 5 }}>
               <img
                 className={styles.featureImage}
-                onClick={() => setImageSrc(feature.imageSrc)}
+                onClick={() => setShowImageSrc(feature.imageSrc)}
                 id={`aiflow-${index + 1}`}
                 alt={feature.imageAlt}
                 src={feature.imageSrc}
@@ -249,7 +251,7 @@ function FeaturesSection({ setImageSrc }) {
   );
 }
 
-function AIBrainstormingSection({ setImageSrc }) {
+function AIBrainstormingSection({ setShowImageSrc }) {
   const isMobile = useMediaQuery({ maxWidth: 768 });
 
   return (
@@ -268,7 +270,7 @@ function AIBrainstormingSection({ setImageSrc }) {
           <div style={{ cursor: 'pointer', flex: 4 }}>
             <img
               className={styles.featureImage}
-              onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
               id="aiflow-brainstorming"
               alt="AI-powered brainstorming with classic thinking models"
               src="/img/portfolio/fullsize/aiflow_productivity.png"
@@ -330,7 +332,7 @@ function AIBrainstormingSection({ setImageSrc }) {
   );
 }
 
-function BookInsightsSection({ setImageSrc }) {
+function BookInsightsSection({ setShowImageSrc }) {
   const isMobile = useMediaQuery({ maxWidth: 768 });
 
   return (
@@ -390,7 +392,7 @@ function BookInsightsSection({ setImageSrc }) {
           <div style={{ cursor: 'pointer', flex: 3 }}>
             <img
               className={styles.featureImage}
-              onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_book.png")}
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_book.png")}
               id="aiflow-brainstorming"
               alt="AI-powered mind mapping for book analysis and learning"
               src="/img/portfolio/fullsize/aiflow_book.png"
@@ -402,7 +404,7 @@ function BookInsightsSection({ setImageSrc }) {
   );
 }
 
-function ExploreWithAISection({ setImageSrc }) {
+function ExploreWithAISection({ setShowImageSrc }) {
   const isMobile = useMediaQuery({ maxWidth: 768 });
 
   const exploreFeatures = [
@@ -450,7 +452,7 @@ function ExploreWithAISection({ setImageSrc }) {
             <div style={{ cursor: 'pointer', flex: 5 }}>
               <img
                 className={styles.featureImage}
-                onClick={() => setImageSrc(feature.imageSrc)}
+                onClick={() => setShowImageSrc(feature.imageSrc)}
                 id={`explore-ai-${index}`}
                 alt={feature.imageAlt}
                 src={feature.imageSrc}
@@ -475,7 +477,7 @@ function ExploreWithAISection({ setImageSrc }) {
   );
 }
 
-function UseCasesSection({ setImageSrc }) {
+function UseCasesSection({ setShowImageSrc }) {
   const isMobile = useMediaQuery({ maxWidth: 768 });
   const useCases = [
     {
@@ -545,7 +547,7 @@ function UseCasesSection({ setImageSrc }) {
           <div style={{ cursor: 'pointer', flex: 5 }}>
             <img
               className={styles.featureImage}
-              onClick={() => setImageSrc("/img/portfolio/fullsize/aiflow_learning.png")}
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_learning.png")}
               alt={"AIFlow boost creativity and productivity under multi scenarios"}
               src={"/img/portfolio/fullsize/aiflow_learning.png"}
             />
@@ -582,11 +584,11 @@ function CTASection({ toApp }) {
 
 export default function AIFlow() {
   const { siteConfig, i18n } = useDocusaurusContext();
-  const [imageSrc, setImageSrc] = useState(null);
+  const [showImageSrc, setShowImageSrc] = useState(null);
 
   // Close modal when clicked outside
   const closeModal = () => {
-    setImageSrc(null);
+    setShowImageSrc(null);
   };
 
   function getDomain() {
@@ -606,21 +608,6 @@ export default function AIFlow() {
     openUrl(url);
   }
 
-  // Google Analytics tracking code
-  useEffect(() => {
-    const script = document.createElement('script');
-    script.src = `https://www.googletagmanager.com/gtag/js?id=G-RYTCZEQK0W`;
-    script.async = true;
-    document.head.appendChild(script);
-
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-RYTCZEQK0W');
-  }, []);
-
   const testimonials_avatars = ["👩‍🏫", "👨‍💼", "👩‍💼", "👨‍🎓", "👩‍🎓", "👨‍🏫"];
 
   return (
@@ -634,14 +621,14 @@ export default function AIFlow() {
         message: 'FunBlocks AIFlow: AI-powered whiteboard & mind mapping tool. Boost creativity by 10x with GPT-4 & Claude LLM. Explore ideas, solve problems & learn faster. Free trial available!'
       })}
     >
-      <AIFlowHeader setImageSrc={setImageSrc} toApp={toApp} />
+      <AIFlowHeader setShowImageSrc={setShowImageSrc} toApp={toApp} />
       <main>
         <IntroSection />
-        <FeaturesSection setImageSrc={setImageSrc} />
-        <AIBrainstormingSection setImageSrc={setImageSrc} />
-        <BookInsightsSection setImageSrc={setImageSrc} />
-        <ExploreWithAISection setImageSrc={setImageSrc} />
-        <UseCasesSection setImageSrc={setImageSrc} />
+        <FeaturesSection setShowImageSrc={setShowImageSrc} />
+        <AIBrainstormingSection setShowImageSrc={setShowImageSrc} />
+        <BookInsightsSection setShowImageSrc={setShowImageSrc} />
+        <ExploreWithAISection setShowImageSrc={setShowImageSrc} />
+        <UseCasesSection setShowImageSrc={setShowImageSrc} />
         <AIToolsSection />
         <TestimonialsSection avatars={testimonials_avatars} page={'aiflow'} />
         <CTASection toApp={toApp} />
@@ -656,19 +643,8 @@ export default function AIFlow() {
       <Footer />
 
       {/* Image Modal */}
-      {imageSrc && (
-        <div className={styles.modal} style={{ display: 'block' }} onClick={closeModal}>
-          <span className={styles.close} onClick={closeModal}>&times;</span>
-          <img
-            className={styles.modalImage}
-            src={imageSrc}
-            alt={translate({ id: 'modal.alt', message: 'Enlarged view' })}
-          />
-          <div className={styles.zoomIndicator}>
-            <Translate id="modal.click_to_close">Click to close</Translate>
-          </div>
-        </div>
-      )}
+      {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc}/>}
+      <GoogleAccountAnalytics />
     </Layout>
   );
 } 
