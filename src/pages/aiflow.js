@@ -17,7 +17,12 @@ import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 
 function AIFlowHeader({ setShowImageSrc, toApp }) {
   return (
-    <section id="hero" className={clsx(styles.hero, styles.pageSection)}>
+    <section id="hero" className={clsx(styles.hero, styles.pageSection)} style={{
+      backgroundColor: '#f8f8f8',
+      backgroundImage: 'radial-gradient(#ccc 1px, transparent 1px)',
+      backgroundSize: '20px 20px',
+      padding: '20px'
+    }}>
       <div className="container" style={{
         display: 'flex',
         flexDirection: 'column',
@@ -52,7 +57,7 @@ function IntroSection() {
   const isMobile = useMediaQuery({ maxWidth: 768 });
 
   return (
-    <section id="intro" className={styles.featureSection}>
+    <section id="intro" className={styles.featureSection} style={{ backgroundColor: 'lavender' }}>
       <div className="container">
         <Heading as="h2" className={styles.sectionTitle}>
           <Translate id="aiflow.intro.title">Beyond ChatGPT</Translate>

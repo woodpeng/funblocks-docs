@@ -2,7 +2,7 @@ import styles from './index.module.css';
 
 function Footer() {
     return (
-      <footer>
+      <footer className={styles.footer}>
         <div className="container">
           <div className={styles.footerContainer}>
             <div className={styles.footerLinks} style={{ marginRight: "20px" }}>

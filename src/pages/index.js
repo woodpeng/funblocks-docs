@@ -18,7 +18,7 @@ function HomepageHeader({ setShowImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
 
   return (
-    <section id="hero" className={clsx(styles.hero, styles.pageSection)}>
+    <section id="hero" className={clsx(styles.hero, styles.pageSection)}  style={{ backgroundColor: '#e6e6fa' }}>
       <div className="container">
         <div className={styles.heroContent}>
           <Heading as="h1">

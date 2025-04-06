@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 
-:root {
+ :root {
   --primary: #4A6FFF;
   --primary-dark: #3A5BDF;
   --secondary: #FF6B6B;
@@ -176,51 +176,6 @@
   margin-top: 3rem;
 }
 
-.benefitCard {
-  padding: 2rem;
-  padding-bottom: 1rem;
-  background-color: var(--light);
-  border-radius: 10px;
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.benefitCard:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-}
-
-.cardTitle {
-  font-size: 1.8rem;
-  font-weight: bold;
-  color: #3498db;
-  text-decoration: none;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  column-gap: 1rem;
-  margin-bottom: 1rem;
-}
-
-.cardTitle h4 {
-  margin: 0;
-  font-size: 1.4rem;
-}
-
-.cardTitle a {
-  color: #3498db;
-  text-decoration: none;
-}
-
-.benefitIcon {
-  font-size: 2.5rem;
-  color: var(--primary);
-}
-
-.toolsSection {
-  padding: 6rem 0;
-  background-color: rgb(248, 245, 234);
-}
-
 /* Feature Sections */
 .featureSection {
   padding: 6rem 0;
@@ -281,16 +236,10 @@
 
 .featureImage {
   width: 100%;
-  padding: 6px;
-  border-radius: 4px;
-  background-color: white;
+  border-radius: 10px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
-  cursor: pointer;
-  transition: transform 0.3s;
-}
-
-.featureImage:hover {
-  transform: scale(1.02);
+  padding: 8px;
+  background-color: white;
 }
 
 .fullWidthImage {
@@ -483,129 +432,4 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-
-/* Slides Page Styles */
-.slidesHeader {
-  padding: 5rem 0;
-  background: linear-gradient(135deg, #f5f7ff 0%, #e0e6ff 100%);
-  position: relative;
-  min-height: calc(100vh - 3.5rem);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.slidesContainer {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-.slidesTitle {
-  font-size: 3.5rem;
-  margin-bottom: 1rem;
-  font-weight: 700;
-  line-height: 1.2;
-  text-align: center;
-}
-
-.slidesSubtitle {
-  font-size: 1.8rem;
-  margin-bottom: 1.5rem;
-  font-weight: 500;
-  line-height: 1.5;
-  text-align: center;
-  color: var(--text-light);
-}
-
-.slidesTarget {
-  font-size: 1.3rem;
-  margin-bottom: 2rem;
-  color: var(--text-light);
-  text-align: center;
-}
-
-.slidesFeatureSection {
-  padding: 6rem 0;
-  background-color: #F0FFF0;
-}
-
-.slidesAISection {
-  padding: 6rem 0;
-  background-color: rgb(255, 239, 255);
-}
-
-.slidesFeedbackSection {
-  padding: 6rem 0;
-  background-color: #F0FFF0;
-}
-
-.slidesCTASection {
-  padding: 6rem 0;
-  background-color: rgb(255, 251, 236);
-  text-align: center;
-}
-
-.slidesFeatureIcon {
-  font-size: 2.5rem;
-  color: var(--primary);
-  margin-bottom: 1rem;
-}
-
-.slidesCardContent {
-  background-color: var(--light);
-  padding: 2rem;
-  border-radius: 10px;
-  transition: transform 0.3s, box-shadow 0.3s;
-  height: 100%;
-}
-
-.slidesCardContent:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-}
-
-.slidesRow {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 2rem 0;
-}
-
-.slidesCol4 {
-  flex: 0 0 33.333333%;
-  max-width: 33.333333%;
-  padding: 0 1rem;
-}
-
-.slidesCol8 {
-  flex: 0 0 66.666667%;
-  max-width: 66.666667%;
-  padding: 0 1rem;
-}
-
-@media (max-width: 768px) {
-  .slidesCol4, .slidesCol8 {
-    flex: 0 0 100%;
-    max-width: 100%;
-  }
-}
-
-.centerContainer {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  margin: 2rem 0;
-}
-
-.order1 {
-  order: 1;
-}
-
-.order2 {
-  order: 2;
 }
