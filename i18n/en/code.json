@@ -500,28 +500,28 @@
   "aiflow.intro.description": {
     "message": "Discover innovative ways to engage with AI beyond text. Visualize your thoughts and AI outputs in formats that enhance your cognitive process."
   },
-  "aiflow.intro.point1": {
+  "aiflow.intro.point1.name": {
     "message": "Boundless Canvas"
   },
-  "aiflow.intro.desc1": {
+  "aiflow.intro.point1.description": {
     "message": "Break free from traditional conversation limits, brainstorm in infinite space"
   },
-  "aiflow.intro.point2": {
+  "aiflow.intro.point2.name": {
     "message": "Multidimensional Thinking"
   },
-  "aiflow.intro.desc2": {
+  "aiflow.intro.point2.description": {
     "message": "Analyze problems comprehensively with multidimensional mind maps"
   },
-  "aiflow.intro.point3": {
+  "aiflow.intro.point3.name": {
     "message": "State-of-the-Art AI Assistants"
   },
-  "aiflow.intro.desc3": {
+  "aiflow.intro.point3.description": {
     "message": "Integrated with advanced AI like GPT-4o and Claude-3.7 for intelligent support"
   },
-  "aiflow.intro.point4": {
+  "aiflow.intro.point4.name": {
     "message": "Versatile Applications"
   },
-  "aiflow.intro.desc4": {
+  "aiflow.intro.point4.description": {
     "message": "AI Agents ready for learning, work, and creative projects"
   },
 

@@ -500,28 +500,28 @@
   "aiflow.intro.description": {
     "message": "探索与AI互动的创新方式，超越文本的限制。以增强认知过程的方式可视化您的想法和AI输出。"
   },
-  "aiflow.intro.point1": {
+  "aiflow.intro.point1.name": {
     "message": "无边界画布"
   },
-  "aiflow.intro.desc1": {
+  "aiflow.intro.point1.description": {
     "message": "摆脱传统对话限制，在无限空间中进行头脑风暴"
   },
-  "aiflow.intro.point2": {
+  "aiflow.intro.point2.name": {
     "message": "多维思维"
   },
-  "aiflow.intro.desc2": {
+  "aiflow.intro.point2.description": {
     "message": "通过多维思维导图全面分析问题"
   },
-  "aiflow.intro.point3": {
+  "aiflow.intro.point3.name": {
     "message": "先进的AI助手"
   },
-  "aiflow.intro.desc3": {
+  "aiflow.intro.point3.description": {
     "message": "集成GPT-4o和Claude-3.7等先进AI提供智能支持"
   },
-  "aiflow.intro.point4": {
+  "aiflow.intro.point4.name": {
     "message": "多样化应用"
   },
-  "aiflow.intro.desc4": {
+  "aiflow.intro.point4.description": {
     "message": "AI助手助力学习、工作和创意项目"
   },
   "aiflow.features.title": {
@@ -1023,6 +1023,38 @@
   "slides.features.more": {
     "message": "点击查看更多功能与演示"
   },
+
+  "slides.platform-synergy.title": {
+    "message": "平台协同：FunBlocks生态系统中的 AI Slides"
+  },
+  "slides.platform-synergy.description": {
+    "message": "体验AI幻灯片作为FunBlocks AI工作区不可或缺的一部分，创造无缝的知识工作流程"
+  },
+  "slides.platform-synergy.point1.name": {
+    "message": "集成资源利用"
+  },
+  "slides.platform-synergy.point1.description": {
+    "message": "即时利用其他FunBlocks工具的内容和想法，生成全面的、准确的幻灯片，无需编写详细的提示"
+  },
+  "slides.platform-synergy.point2.name": {
+    "message": "增强的AI生成质量"
+  },
+  "slides.platform-synergy.point2.description": {
+    "message": "从平台范围内的上下文感知中受益，基于您现有的工作区材料，生成异常高质量的幻灯片内容"
+  },
+  "slides.platform-synergy.point3.name": {
+    "message": "无缝知识呈现"
+  },
+  "slides.platform-synergy.point3.description": {
+    "message": "轻松地将您的研究、写作和头脑风暴转化为优雅、专业的演示，清晰地传达复杂的想法"
+  },
+  "slides.platform-synergy.point4.name": {
+    "message": "完整的工作流程集成"
+  },
+  "slides.platform-synergy.point4.description": {
+    "message": "通过从构思到交流的演示，完成您的生产力循环，创造一个连贯的AI工作区体验"
+  },
+  
   "slides.ai-assistant.title": {
     "message": "AI助手：与你共创精彩演讲的合作伙伴"
   },

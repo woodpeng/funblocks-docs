@@ -170,7 +170,7 @@ function PlatformSynergySection() {
     ];
 
     return (
-        <section id="platform-synergy" className={styles.slidesAISection} style={{ backgroundColor: 'darkseagreen' }}>
+        <section id="platform-synergy" className={styles.slidesAISection} style={{ backgroundColor: 'lightcyan' }}>
             <div className={styles.slidesContainer}>
                 <Heading as="h2" className={styles.sectionTitle}>
                     <Translate id="slides.platform-synergy.title">AI Assistant: Your Intelligent Slide Creation Partner</Translate>
@@ -192,81 +192,6 @@ function PlatformSynergySection() {
                         </div>
                         // </div>
                     ))}
-                </div>
-            </div>
-        </section>
-    );
-}
-
-function UseCasesSection({ setShowImageSrc }) {
-    const isMobile = useMediaQuery({ maxWidth: 768 });
-
-    const useCases = [
-        {
-            icon: "fas fa-book",
-            title: "slides.use-cases.case1",
-            description: "slides.use-cases.desc1"
-        },
-        {
-            icon: "fas fa-tasks",
-            title: "slides.use-cases.case2",
-            description: "slides.use-cases.desc2"
-        },
-        {
-            icon: "fas fa-pen-fancy",
-            title: "slides.use-cases.case3",
-            description: "slides.use-cases.desc3"
-        },
-        // {
-        //     icon: "fas fa-chart-pie",
-        //     title: "slides.use-cases.case4",
-        //     description: "slides.use-cases.desc4"
-        // },
-        {
-            icon: "fas fa-chart-pie",
-            title: "slides.use-cases.case5",
-            description: "slides.use-cases.desc5"
-        },
-        {
-            icon: "fas fa-chart-pie",
-            title: "slides.use-cases.case6",
-            description: "slides.use-cases.desc6"
-        }
-    ];
-
-    return (
-        <section id="use-cases" className={styles.useCases}>
-            <div className={styles.slidesContainer}>
-                <Heading as="h2" className={styles.sectionTitle}>
-                    <Translate id="slides.use-cases.title">Use Cases</Translate>
-                </Heading>
-                <div className={styles.featureGrid} style={{
-                    display: isMobile ? undefined : 'flex',
-                    flexDirection: 'row'
-                }}>
-                    <div className={styles.featureContent} style={{ flex: 6 }}>
-                        {useCases.map((useCase, index) => (
-                            <div key={index} className={styles.benefitItem}>
-                                {/* <i className={clsx(useCase.icon, styles.slidesFeatureIcon)}></i> */}
-                                <Heading as="h3">
-                                    <Translate id={useCase.title}>{useCase.title}</Translate>
-                                </Heading>
-                                <p>
-                                    <Translate id={useCase.description}>{useCase.description}</Translate>
-                                </p>
-                            </div>
-                        ))}
-                    </div>
-                    <div
-                        style={{ flex: 4 }}
-                    >
-                        <img
-                            className={styles.featureImage}
-                            src="/img/portfolio/fullsize/aiflow_slides_generation.png"
-                            alt="AI-powered slide generation process with AIFlow brainstorming and mindmap exploration"
-                            onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_slides_generation.png")}
-                        />
-                    </div>
                 </div>
             </div>
         </section>
@@ -357,7 +282,8 @@ export default function Slides() {
                             alt="AI Slides: Effortless slide creation with Markdown, AI, and cloud collaboration"
                             onClick={() => setShowImageSrc("/img/portfolio/fullsize/slides.png")}
                         />
-                    </div>} />
+                    </div>} 
+                />
                 <FeaturesSection setShowImageSrc={setShowImageSrc} toDemo={toDemo} />
                 <IntroSection
                     page="slides"

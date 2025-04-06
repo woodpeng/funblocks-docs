@@ -14,6 +14,7 @@ import AIToolsSection from '../components/AIToolsSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import ImageModal from '../components/ImageModal';
 import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
+import IntroSection from '../components/IntroSection';
 
 function AIFlowHeader({ setShowImageSrc, toApp }) {
   return (
@@ -47,86 +48,6 @@ function AIFlowHeader({ setShowImageSrc, toApp }) {
           >
             <Translate id="aiflow.masthead.cta">Free Trial Now</Translate>
           </Link>
-        </div>
-      </div>
-    </section>
-  );
-}
-
-function IntroSection() {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
-
-  return (
-    <section id="intro" className={styles.featureSection} style={{ backgroundColor: 'lavender' }}>
-      <div className="container">
-        <Heading as="h2" className={styles.sectionTitle}>
-          <Translate id="aiflow.intro.title">Beyond ChatGPT</Translate>
-        </Heading>
-
-        <p className={styles.sectionDescription}>
-          <Translate id="aiflow.intro.description">Discover innovative ways to engage with AI beyond text. Visualize your thoughts and AI outputs in formats that enhance your cognitive process.</Translate>
-        </p>
-
-        <div className={styles.featureGrid} style={{
-          display: isMobile ? undefined : 'flex',
-        }}>
-          <div style={{ cursor: 'pointer', flex: 4 }}>
-            <img
-              className={styles.featureImage}
-              id="aiflow-benefits"
-              alt="FunBlocks AIFlow benefits compared to ChatGPT"
-              src="/img/portfolio/fullsize/aiflow_benefits.png"
-            />
-          </div>
-          <div className={styles.featureContent} style={{ flex: 2 }}>
-            <div className={styles.benefitItem}>
-              {/* <div className={styles.benefitIcon}>🌐</div> */}
-              <div>
-                <Heading as="h3">
-                  <Translate id="aiflow.intro.point1">Boundless Canvas</Translate>
-                </Heading>
-                <p>
-                  <Translate id="aiflow.intro.desc1">Break free from traditional conversation limits, brainstorm in infinite space</Translate>
-                </p>
-              </div>
-            </div>
-
-            <div className={styles.benefitItem}>
-              {/* <div className={styles.benefitIcon}>🧠</div> */}
-              <div>
-                <Heading as="h3">
-                  <Translate id="aiflow.intro.point2">Multidimensional Thinking</Translate>
-                </Heading>
-                <p>
-                  <Translate id="aiflow.intro.desc2">Analyze problems comprehensively with multidimensional mind maps</Translate>
-                </p>
-              </div>
-            </div>
-
-            <div className={styles.benefitItem}>
-              {/* <div className={styles.benefitIcon}>🤖</div> */}
-              <div>
-                <Heading as="h3">
-                  <Translate id="aiflow.intro.point3">State-of-the-Art AI Assistants</Translate>
-                </Heading>
-                <p>
-                  <Translate id="aiflow.intro.desc3">Integrated with advanced AI like GPT-4 and Claude-3.5 for intelligent support</Translate>
-                </p>
-              </div>
-            </div>
-
-            <div className={styles.benefitItem}>
-              {/* <div className={styles.benefitIcon}>🚀</div> */}
-              <div>
-                <Heading as="h3">
-                  <Translate id="aiflow.intro.point4">Versatile Applications</Translate>
-                </Heading>
-                <p>
-                  <Translate id="aiflow.intro.desc4">AI Agents ready for learning, work, and creative projects</Translate>
-                </p>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
@@ -341,7 +262,7 @@ function BookInsightsSection({ setShowImageSrc }) {
   const isMobile = useMediaQuery({ maxWidth: 768 });
 
   return (
-    <section id="book-insights" className={styles.featureSection} style={{ backgroundColor: 'rgb(195, 223, 247)' }}>
+    <section id="book-insights" className={styles.featureSection} style={{ backgroundColor: 'cornsilk' }}>
       <div className="container">
         <Heading as="h2" className={styles.sectionTitle}>
           <Translate id="aiflow.book-insights.title">
@@ -539,10 +460,10 @@ function UseCasesSection({ setShowImageSrc }) {
             {useCases.map((useCase, index) => (
 
               <div key={index}>
-                 <span style={{ fontSize: 20, fontWeight: 'bold' }}>
+                <span style={{ fontSize: 20, fontWeight: 'bold' }}>
                   <Translate id={useCase.titleId}>Multidimensional Thinking</Translate>
                 </span>
-                <p style={{marginBottom: 5}}>
+                <p style={{ marginBottom: 5 }}>
                   <Translate id={useCase.descriptionId}>Analyze problems comprehensively with multidimensional mind maps</Translate>
                 </p>
               </div>
@@ -628,7 +549,20 @@ export default function AIFlow() {
     >
       <AIFlowHeader setShowImageSrc={setShowImageSrc} toApp={toApp} />
       <main>
-        <IntroSection />
+        <IntroSection
+          page="aiflow"
+          feature={'intro'}
+          pointNos={[1, 2, 3, 4]}
+          style={{backgroundColor: 'lightcyan'}}
+          imageElement={<div style={{ flex: 4, cursor: 'pointer' }}>
+            <img
+              className={styles.featureImage}
+              alt="FunBlocks AIFlow benefits compared to ChatGPT"
+              src="/img/portfolio/fullsize/aiflow_benefits.png"
+              onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
+            />
+          </div>}
+        />
         <FeaturesSection setShowImageSrc={setShowImageSrc} />
         <AIBrainstormingSection setShowImageSrc={setShowImageSrc} />
         <BookInsightsSection setShowImageSrc={setShowImageSrc} />
@@ -648,7 +582,7 @@ export default function AIFlow() {
       <Footer />
 
       {/* Image Modal */}
-      {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc}/>}
+      {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
       <GoogleAccountAnalytics />
     </Layout>
   );
