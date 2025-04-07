@@ -20,7 +20,7 @@ function WelcomeHeader() {
     const isChinese = i18n.currentLocale === 'zh-CN';
 
     return (
-        <section className={clsx(styles.hero, styles.pageSection)}>
+        <section className={clsx(styles.hero, styles.pageSection)} style={{ backgroundColor: 'honeydew'}}>
             <div className="container" style={{
                 display: 'flex',
                 flexDirection: 'column',

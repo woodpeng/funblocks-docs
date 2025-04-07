@@ -500,8 +500,8 @@ function WorkspaceSection() {
           <div className={styles.benefitCard}>
             <div className={styles.cardTitle}>
               <div className={styles.benefitIcon}>📝</div>
-              <a href="/workspace.html#aiwriter" target="_blank">
-                <Translate id="homepage.workspace.writer.title">AI Writer</Translate>
+              <a href="/aidocs" target="_blank">
+                <Translate id="homepage.workspace.writer.title">AI Docs</Translate>
               </a>
             </div>
             <p>

@@ -28,7 +28,7 @@ function Footer() {
                   <a href="/slides.html">FunBlocks AI Slides</a>
                 </li>
                 <li>
-                  <a href="/workspace.html">FunBlocks AI Workspace</a>
+                  <a href="/aidocs.html">FunBlocks AI Docs</a>
                 </li>
               </ul>
             </div>

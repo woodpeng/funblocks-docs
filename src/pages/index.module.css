@@ -293,6 +293,20 @@
   transform: scale(1.02);
 }
 
+.docsFeatureImage {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #f8f8f3;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.docsFeatureImage:hover {
+  transform: scale(1.02);
+}
+
 .fullWidthImage {
   width: 100%;
   max-width: 1000px;

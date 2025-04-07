@@ -195,7 +195,7 @@
     "message": "除了AIFlow，FunBlocks还作为一个全能型AI工作空间，旨在满足您所有的工作和学习需求，提供无缝集成的写作、演示、头脑风暴、浏览和研究工具。"
   },
   "homepage.workspace.writer.title": {
-    "message": "AI Writer"
+    "message": "AI Docs"
   },
   "homepage.workspace.writer.description": {
     "message": "体验Notion式的页面与AI写作助手。创建精美的文档、笔记和内容，获得智能建议和格式化支持。"
@@ -366,7 +366,7 @@
     "message": "除了AIFlow，FunBlocks还有哪些产品？"
   },
   "homepage.faq.a4": {
-    "message": "FunBlocks提供了一站式AI工具集和工作平台，旨在提升生产力、激发创造力。它集成了 AI 赋能的思维导图、文档编写和幻灯片生成功能，打造全方位知识工作空间。\n\n主要产品包括:\nFunBlocks AI Flow: AI 驱动的思维导图工具，用于激发创造力、探索知识。\nFunBlocks AI Writer: AI 驱动的 Notion 风格块编辑器，提供 AI 写作助手，辅助文档编写。\nFunBlocks AI Slides: AI 驱动的幻灯片生成工具，一键创建幻灯片，提供内容撰写和演示指导。\nFunBlocks 浏览器扩展: 提升效率的浏览器扩展，支持 AI 写作、阅读、邮件回复等功能。\nFunBlocks AI Tools: 即时访问的专业 AI 工具，针对特定用例提供解决方案，包括 AI 图形、AI 思维导图、AI 集思广益、AI 幻灯片、AI 决策分析器、AI 任务计划器、AI YouTube 摘要器等。\nAI Assistant: 可定制的 AI 助手，支持自定义提示，集成 AI Flow、AI Slides、AI Writer 和浏览器扩展。"
+    "message": "FunBlocks提供了一站式AI工具集和工作平台，旨在提升生产力、激发创造力。它集成了 AI 赋能的思维导图、文档编写和幻灯片生成功能，打造全方位知识工作空间。\n\n主要产品包括:\nFunBlocks AI Flow: AI 驱动的思维导图工具，用于激发创造力、探索知识。\nFunBlocks AI Docs: AI 驱动的 Notion 风格块编辑器，提供 AI 写作助手，辅助文档编写。\nFunBlocks AI Slides: AI 驱动的幻灯片生成工具，一键创建幻灯片，提供内容撰写和演示指导。\nFunBlocks 浏览器扩展: 提升效率的浏览器扩展，支持 AI 写作、阅读、邮件回复等功能。\nFunBlocks AI Tools: 即时访问的专业 AI 工具，针对特定用例提供解决方案，包括 AI 图形、AI 思维导图、AI 集思广益、AI 幻灯片、AI 决策分析器、AI 任务计划器、AI YouTube 摘要器等。\nAI Assistant: 可定制的 AI 助手，支持自定义提示，集成 AI Flow、AI Slides、AI Docs 和浏览器扩展。"
   },
   "homepage.faq.q5": {
     "message": "FunBlocks适合团队协作吗？"
@@ -1622,5 +1622,367 @@
   },
   "extension_welcome.faq.a18": {
     "message": "FunBlocks AI提供多种个性化选项，您可以选择主流的大语言模型，构建符合您需求的AI提示应用，并从应用市场中挑选所需的应用程序，以增强AI助手的功能。"
+  },
+  "aidocs.masthead.title": {
+    "message": "写作更智能，思考更深入"
+  },
+  "aidocs.masthead.subtitle": {
+    "message": "通过AI动力的文档编辑器和批判性思维辅助提升您的写作能力"
+  },
+  "aidocs.masthead.cta": {
+    "message": "免费试用"
+  },
+  "aidocs.intro.title": {
+    "message": "FunBlocks AI Docs：AI动力的文档和页面编辑器"
+  },
+  "aidocs.intro.description": {
+    "message": "FunBlocks AI Docs结合了类似Notion的编辑功能和AI辅助，以提升您的写作、批判性思维和生产力。"
+  },
+  "aidocs.intro.point1.name": {
+    "message": "块编辑器"
+  },
+  "aidocs.intro.point1.description": {
+    "message": "类似Notion的块编辑器，直观灵活地创建文档"
+  },
+  "aidocs.intro.point2.name": {
+    "message": "AI写作助手"
+  },
+  "aidocs.intro.point2.description": {
+    "message": "AI写作助手，帮助生成、编辑和改进内容"
+  },
+  "aidocs.intro.point3.name": {
+    "message": "批判性思维提升"
+  },
+  "aidocs.intro.point3.description": {
+    "message": "批判性思维提升，识别偏见和逻辑谬误"
+  },
+  "aidocs.intro.point4.name": {
+    "message": "无缝集成"
+  },
+  "aidocs.intro.point4.description": {
+    "message": "与AIFlow思维导图和AI幻灯片无缝集成，形成一体化工作流"
+  },
+  "aidocs.intro.point5.name": {
+    "message": "统一的知识工作空间"
+  },
+  "aidocs.intro.point5.description": {
+    "message": "通过文档、幻灯片和思维导图之间的链接，形成统一的知识工作空间"
+  },
+  "aidocs.features.title": {
+    "message": "主要功能"
+  },
+  "aidocs.features.item1.name": {
+    "message": "基于块的编辑器"
+  },
+  "aidocs.features.item1.description": {
+    "message": "使用直观界面创建美观的文档，无缝混合文本、图像、表格、代码块等。"
+  },
+  "aidocs.features.item2.name": {
+    "message": "AI写作助手"
+  },
+  "aidocs.features.item2.description": {
+    "message": "从零开始生成完整的文档，完善现有内容，或智能建议改进写作。"
+  },
+  "aidocs.features.item3.name": {
+    "message": "信息图表生成器"
+  },
+  "aidocs.features.item3.description": {
+    "message": "选择文档中的文本，让AI助手自动生成信息图表、流程图、幻灯片等，并嵌入到当前位置。"
+  },
+  "aidocs.features.item4.name": {
+    "message": "批判性思维提升"
+  },
+  "aidocs.features.item4.description": {
+    "message": "使用AI工具识别写作中的认知偏见、逻辑谬误和弱论点。"
+  },
+  "aidocs.features.item5.name": {
+    "message": "文档组织"
+  },
+  "aidocs.features.item5.description": {
+    "message": "使用嵌套页面、文档间内部链接和集成项目管理系统创建结构化工作空间。"
+  },
+  "aidocs.ai-assistant.title": {
+    "message": "AI写作助手：您的思考伙伴"
+  },
+  "aidocs.ai-assistant.subtitle": {
+    "message": "不仅是一款写作工具，更是一款提升您批判性思维的AI"
+  },
+  "aidocs.ai-assistant.critical-thinking.title": {
+    "message": "提升批判性思维"
+  },
+  "aidocs.ai-assistant.critical-thinking.description": {
+    "message": "FunBlocks AI Docs不仅仅是修正语法和风格，还能帮助您更清晰地思考，更有说服力地写作。"
+  },
+  "aidocs.ai-assistant.critical-thinking.point1": {
+    "message": "识别写作中的认知偏见"
+  },
+  "aidocs.ai-assistant.critical-thinking.point2": {
+    "message": "突见逻辑谬误并提出改进建议"
+  },
+  "aidocs.ai-assistant.critical-thinking.point3": {
+    "message": "通过处理反对意见来加强论点"
+  },
+  "aidocs.ai-assistant.critical-thinking.point4": {
+    "message": "分析您的推理的清晰度和连贯性"
+  },
+  "aidocs.writing-assistant.title": {
+    "message": "智能写作工具"
+  },
+  "aidocs.writing-assistant.description": {
+    "message": "使用强大的AI写作工具高效地创建高质量内容。"
+  },
+  "aidocs.writing-assistant.point1": {
+    "message": "从简单主题或大纲生成完整的文档"
+  },
+  "aidocs.writing-assistant.point2": {
+    "message": "根据具体指导智能重写和完善选定的文本"
+  },
+  "aidocs.writing-assistant.point3": {
+    "message": "根据您的写作风格提供智能的续写建议"
+  },
+  "aidocs.writing-assistant.point4": {
+    "message": "提供详细的语法和风格纠正"
+  },
+  "aidocs.writing-assistant.point5": {
+    "message": "根据内容上下文自动创建信息图表、流程图和数据图表等视觉辅助工具"
+  },
+  "aidocs.ecosystem.title": {
+    "message": "无缝FunBlocks生态系统集成"
+  },
+  "aidocs.ecosystem.subtitle": {
+    "message": "作为强大的AI工作空间的一部分，提升您的整个工作流程"
+  },
+  "aidocs.ecosystem.workflow.title": {
+    "message": "完整的工作流程集成"
+  },
+  "aidocs.ecosystem.workflow.point1": {
+    "message": "一键将AIFlow思维导图直接转换为结构化文档"
+  },
+  "aidocs.ecosystem.workflow.point2": {
+    "message": "将任何文档快速转换为专业的幻灯片"
+  },
+  "aidocs.ecosystem.workflow.point3": {
+    "message": "将文档内容快速转换为视觉思维导图，进行更深入的探索"
+  },
+  "aidocs.ecosystem.workflow.point4": {
+    "message": "根据选定的文本创建信息图表、流程图和数据图表，并将其插入到文档中"
+  },
+  "aidocs.ecosystem.workflow.point5": {
+    "message": "通过文档、思维导图和幻灯片的双向链接创建一个全面的工作空间"
+  },
+  "aidocs.organization.title": {
+    "message": "强大的文档组织"
+  },
+  "aidocs.organization.description": {
+    "message": "通过链接文档和层次化组织创建结构化工作空间"
+  },
+  "aidocs.organization.point1.name": {
+    "message": "层次化结构"
+  },
+  "aidocs.organization.point1.description": {
+    "message": "使用无限嵌套的文件夹和子文件夹直观地组织您的文档，保持工作空间的清洁和直观。"
+  },
+  "aidocs.organization.point2.name": {
+    "message": "内部链接"
+  },
+  "aidocs.organization.point2.description": {
+    "message": "通过内部链接连接相关的文档、思维导图和幻灯片，创建一个可导航的知识网络。"
+  },
+  "aidocs.organization.point3.name": {
+    "message": "混合内容类型"
+  },
+  "aidocs.organization.point3.description": {
+    "message": "在一个工作空间中结合文档页面、思维导图、信息图表、流程图和幻灯片，获得一个完整的项目视图。"
+  },
+  "aidocs.organization.point4.name": {
+    "message": "知识工作空间"
+  },
+  "aidocs.organization.point4.description": {
+    "message": "通过链接文档、思维导图和幻灯片，整合工作成果，构建个人或团队的AI知识库。"
+  },
+  "aidocs.use-cases.title": {
+    "message": "使用案例"
+  },
+  "aidocs.use-cases.description": {
+    "message": "FunBlocks AI Docs适应多种内容创作场景，提升生产效率和质量"
+  },
+  "aidocs.use-cases.case1.title": {
+    "message": "学术研究和论文"
+  },
+  "aidocs.use-cases.case1.description": {
+    "message": "创建结构良好的学术论文，具有强有力的论点和适当的引用，AI帮助识别论证中的潜在缺陷。"
+  },
+  "aidocs.use-cases.case2.title": {
+    "message": "专业内容创作"
+  },
+  "aidocs.use-cases.case2.description": {
+    "message": "使用AI助手保持一致的语调和引人入胜的叙述，生产高质量的博客、文章和报告。"
+  },
+  "aidocs.use-cases.case3.title": {
+    "message": "学习和笔记"
+  },
+  "aidocs.use-cases.case3.description": {
+    "message": "通过AI增强的组织和关键概念的扩展，将课堂笔记转化为全面的学习材料。"
+  },
+  "aidocs.use-cases.case4.title": {
+    "message": "商业文档"
+  },
+  "aidocs.use-cases.case4.description": {
+    "message": "开发清晰的商业计划、提案和报告，逻辑地呈现想法并解决潜在的异议。"
+  },
+  "aidocs.use-cases.case5.title": {
+    "message": "项目规划和管理"
+  },
+  "aidocs.use-cases.case5.description": {
+    "message": "创建连接的工作空间，结合规划文档、思维导图和幻灯片，实现团队对齐。"
+  },
+  "aidocs.use-cases.case6.title": {
+    "message": "批判性思维发展"
+  },
+  "aidocs.use-cases.case6.description": {
+    "message": "通过定期反馈，帮助您识别和纠正错误的思维模式，提高推理能力。"
+  },
+
+  "aidocs.testimonials.user1.name": {
+    "message": "张艾米莉"
+  },
+  "aidocs.testimonials.user1.role": {
+    "message": "学术研究员"
+  },
+  "aidocs.testimonials.user1.text": {
+    "message": "FunBlocks AI Docs彻底改变了我的研究过程。批判性思维提升功能帮助我识别了我在学术论文中可能会忽视的潜在偏见。我可以无缝地将思维导图中的初始想法转化为结构化文档，然后转化为会议演示幻灯片——所有在一个生态系统中完成。AI写作助手帮助我完善论点并解决反对意见，使我的研究论文更加严谨。自从使用这个工具以来，我的系上同事们对我的工作变得更加全面和逻辑严谨感到惊讶。"
+  },
+  
+  "aidocs.testimonials.user2.name": {
+    "message": "卡洛斯·门德斯"
+  },
+  "aidocs.testimonials.user2.role": {
+    "message": "内容创作者"
+  },
+  "aidocs.testimonials.user2.text": {
+    "message": "作为一个每周产出多篇文章的人，FunBlocks AI Docs改变了我的工作方式。块编辑器使得组织内容变得直观，而AI写作助手帮助我立即克服了写作障碍。我最欣赏的是它通过突见逻辑谬误来加强我的论点——现在我的内容更有说服力和吸引力。与思维导图和幻灯片的无缝集成意味着我可以在不同格式之间重新利用我的写作内容，节省大量工作时间。这个工具不仅帮助我更快地写作，还帮助我更深入地思考，创作更好的内容。"
+  },
+  
+  "aidocs.testimonials.user3.name": {
+    "message": "莎拉·约翰逊"
+  },
+  "aidocs.testimonials.user3.role": {
+    "message": "商业顾问"
+  },
+  "aidocs.testimonials.user3.text": {
+    "message": "FunBlocks AI Docs彻底改变了我创建客户提案和报告的方式。层次化的文档组织功能使得我所有的项目材料都能整齐地结构化，而内部链接功能创建了一个全面的知识库，我可以在未来的工作中参考。在制定商业策略时，批判性思维提升功能帮助我发现我可能会做的假设，从而进行更全面的分析。自从使用这个工具以来，我收到了客户对我的建议的清晰和说服力的赞扬，这些我归功于AI帮助我加强论点并解决潜在的异议。"
+  },
+  
+  "aidocs.testimonials.user4.name": {
+    "message": "刘伟"
+  },
+  "aidocs.testimonials.user4.role": {
+    "message": "研究生"
+  },
+  "aidocs.testimonials.user4.text": {
+    "message": "在讲座中记笔记曾经是一件混乱的事情，但是有了FunBlocks AI Docs，我可以快速在块编辑器中组织我的思维，并让AI帮助我扩展我可能错过的关键概念。将笔记转化为思维导图的能力帮助我看到不同主题之间的联系，这对全面考试准备非常有价值。批判性思维功能极大地提高了我的论文写作水平——我的教授评论说，我的论点变得更加连贯和合理。这个工具不仅真正提高了我的成绩，还改变了我对学习的方式。"
+  },
+  
+  "aidocs.testimonials.user5.name": {
+    "message": "普里娅·帕特尔"
+  },
+  "aidocs.testimonials.user5.role": {
+    "message": "项目经理"
+  },
+  "aidocs.testimonials.user5.text": {
+    "message": "管理复杂的多方利益相关者项目曾经是一场文档噩梦，直到我发现了FunBlocks AI Docs。统一的工作空间让我能够链接相关文档、用于头脑风暴的思维导图以及用于利益相关者会议的演示幻灯片——所有内容相互关联。AI帮助我起草清晰的项目计划，并通过分析我提案中的逻辑来预见潜在问题。团队沟通显著改善，因为我们现在有一个集中知识库，所有人都可以访问项目信息。这个工具不仅仅是组织信息；它增强了我们的集体思维过程。"
+  },
+  
+  "aidocs.testimonials.user6.name": {
+    "message": "丹尼尔·科瓦尔斯基"
+  },
+  "aidocs.testimonials.user6.role": {
+    "message": "创意作家"
+  },
+  "aidocs.testimonials.user6.text": {
+    "message": "使FunBlocks AI Docs与其他写作工具不同的是，它如何增强我的创作过程，而不仅仅是纠正语法。AI写作助手提供智能的续写建议，符合我的风格，同时引入我未曾考虑的新视角。块编辑器让我可以自由地重新排列段落，随着叙事的发展而变化。在发展角色和情节时，我使用思维导图集成来可视化关系，然后将这些想法转化为完整的场景。对于重视创作自由和结构指导的人来说，这个工具提供了完美的平衡。"
+  },
+
+  "aidocs.cta.title": {
+    "message": "转变你的思维，提升你的写作"
+  },
+  "aidocs.cta.subtitle": {
+    "message": "加入成千上万的专业人士，利用FunBlocks AI Docs提升他们的创造力、生产力和批判性思维"
+  },
+  "aidocs.cta.button": {
+    "message": "立即体验更智能的写作"
+  },
+
+  "aidocs.faq.q1": {
+    "message": "什么是FunBlocks AI Docs，它如何改善文档写作和编辑？"
+  },
+  "aidocs.faq.a1": {
+    "message": "FunBlocks AI Docs是一个全面的AI驱动文档编辑器，结合了类似Notion的块编辑和先进的人工智能，以增强您的写作过程、批判性思维能力和整体生产力。该平台具有类似Notion的灵活块编辑器、强大的AI写作辅助、识别偏见和逻辑谬误的批判性思维增强工具，以及与其他FunBlocks产品（如AIFlow思维导图和AI Slides）的无缝集成。无论您是在创建学术论文、商业文档还是创意内容，FunBlocks AI Docs都提供了更智能的写作和更深入的思考工具。"
+  },
+  "aidocs.faq.q2": {
+    "message": "FunBlocks AI Docs中的AI写作助手如何帮助提高我的写作质量和效率？"
+  },
+  "aidocs.faq.a2": {
+    "message": "FunBlocks AI Docs中的AI写作助手充当您的个人思维伙伴，以提升写作质量和效率。它提供四个关键功能：1）根据简单主题或大纲从头生成完整文档，2）根据特定指令智能重写和完善选定文本，3）提供符合您个人写作风格的智能续写建议，4）提供全面的语法和风格修正，并附有详细解释。与仅修正语法的基本写作工具不同，FunBlocks AI写作助手帮助您发展更清晰的思维、更有说服力的论点和更高质量的内容，同时显著减少写作时间。"
+  },
+  "aidocs.faq.q3": {
+    "message": "FunBlocks AI Docs中的批判性思维增强功能与其他写作工具相比有什么独特之处？"
+  },
+  "aidocs.faq.a3": {
+    "message": "FunBlocks AI Docs中的批判性思维增强功能远远超出了传统写作工具的提供，专注于您的推理质量，而不仅仅是写作技巧。这个独特的功能通过四个高级能力帮助您更清晰地思考和更有说服力地写作：1）识别您写作中可能削弱论点的特定认知偏见，2）突出逻辑谬误并提供明确的改进建议，3）通过识别和解决潜在反对意见来加强您的论点，4）对您推理的清晰度和连贯性进行深入分析。这个功能本质上充当了批判性思维教练，帮助您发展更强的分析能力，同时产生更具逻辑性的内容。"
+  },
+  "aidocs.faq.q4": {
+    "message": "FunBlocks AI Docs如何与AIFlow思维导图和AI Slides集成以创建完整的工作流程系统？"
+  },
+  "aidocs.faq.a4": {
+    "message": "FunBlocks AI Docs通过全面的生态系统方法与AIFlow思维导图和AI Slides深度集成，创建无缝的一体化工作流程。此集成使四个强大的工作流程能力成为可能：1）一键将AIFlow思维导图直接转换为具有适当层次和组织结构的文档，2）自动将任何文档转换为适合会议或会议的专业演示幻灯片，3）快速将文档内容转换为可视化思维导图，以便概念探索和关系映射，4）通过文档、思维导图和演示文稿之间的双向链接创建统一的知识工作空间。这个互联系统消除了在不同应用程序之间切换的需要，使思想能够自然地在不同格式之间流动，同时保持整个项目内容的一致性。"
+  },
+  "aidocs.faq.q5": {
+    "message": "FunBlocks AI Docs为个人和团队使用提供了哪些文档组织和知识管理功能？"
+  },
+  "aidocs.faq.a5": {
+    "message": "FunBlocks AI Docs提供了一整套文档组织和知识管理功能，旨在提高个人生产力和团队协作。该系统包括：1）具有无限嵌套文件夹和子文件夹的高级层次结构，以便直观地分类内容，2）强大的内部链接功能，连接相关文档、思维导图和演示文稿，创建可导航的知识网络，3）支持在单个工作区内混合内容类型，允许您在一个视图中组合文档页面、思维导图和演示文稿，4）知识工作区功能，整合工作成果以构建个人或团队的AI知识库。这些功能结合在一起，创建了一个结构化但灵活的系统，随着您的项目发展而增长，并保持信息的可访问性和上下文连接。"
+  },
+  "aidocs.faq.q6": {
+    "message": "学术界和研究人员如何使用FunBlocks AI Docs来改善研究论文和学术写作？"
+  },
+  "aidocs.faq.a6": {
+    "message": "学术界和研究人员可以利用FunBlocks AI Docs显著提升他们的学术写作过程和研究论文质量。该平台帮助创建结构良好的学术论文，具有逻辑严谨的论点和适当的引用，同时AI系统地识别推理或方法论中的潜在缺陷。研究人员受益于批判性思维增强功能，能够捕捉学术写作中常见的认知偏见和逻辑谬误。思维导图集成帮助可视化复杂的研究关系和理论框架，然后将其转化为正式的文档结构。此外，将研究结果转化为演示幻灯片的能力简化了会议准备。正如学术用户艾米莉·张所确认的，该平台在制作更全面和逻辑严谨的研究论文方面特别有价值，得到了学术同行的积极认可。"
+  },
+  "aidocs.faq.q7": {
+    "message": "使用FunBlocks AI Docs可以创建哪些类型的商业文档，它如何改善商业写作？"
+  },
+  "aidocs.faq.a7": {
+    "message": "FunBlocks AI Docs非常适合创建各种商业文档，包括商业计划、项目提案、市场分析报告、战略建议、客户演示和内部流程文档。该平台通过帮助专业人士开发清晰、逻辑的文档，提升商业写作，能够有说服力地呈现想法，并主动应对潜在的反对意见或缺陷。统一的工作空间通过结合战略规划文档、用于头脑风暴的可视化思维导图和利益相关者对齐的演示材料，促进全面的项目规划和管理。像商业顾问莎拉·约翰逊这样的商业用户报告说，自从使用该平台以来，他们的建议在清晰性和说服力方面得到了客户的赞赏。批判性思维增强功能在商业战略发展中尤其有价值，因为它帮助识别未表述的假设和逻辑缺口，这些可能会削弱商业提案。"
+  },
+  "aidocs.faq.q8": {
+    "message": "FunBlocks AI Docs中的Notion风格块编辑器是如何工作的，支持哪些内容类型？"
+  },
+  "aidocs.faq.a8": {
+    "message": "FunBlocks AI Docs中的Notion风格块编辑器提供了一个直观、灵活的文档创建界面，通过模块化的构建块方法。每个内容块都是一个独立的块，可以轻松移动、编辑或转换。该编辑器支持多种内容类型，包括具有多种格式选项的富文本、标题和副标题、项目符号和编号列表、具有排序和过滤功能的表格、嵌入的图像和媒体、具有多种编程语言语法高亮的代码块、数学方程、重要信息的提示块、可展开内容的切换列表和嵌入文件。这个基于块的方法允许通过拖放功能轻松重新组织，确保文档的一致格式，并能够快速在块类型之间转换。该系统结合了文字处理器的灵活性和数据库的结构性，非常适合创建任何复杂程度的精美组织文档。"
+  },
+  "aidocs.faq.q9": {
+    "message": "学生和终身学习者如何使用FunBlocks AI Docs来改善笔记、学习材料和知识保留？"
+  },
+  "aidocs.faq.a9": {
+    "message": "学生和终身学习者可以通过FunBlocks AI Docs的多个强大学习应用来转变他们的教育体验。该平台在帮助用户将快速的讲座笔记转化为全面的学习材料方面表现出色，通过AI增强的组织和智能扩展关键概念。像魏刘这样的学生发现，将线性笔记转化为可视化思维导图有助于识别不同主题之间的联系，显著改善考试准备和概念理解。块编辑器允许灵活组织学习材料，支持混合媒体类型，而AI助手可以帮助澄清困难概念或生成复杂主题的解释。批判性思维功能在论文写作中尤其有价值，帮助学生发展更连贯、推理更充分的论点，教授们注意到并给予奖励。除了正式教育，该平台还支持终身学习，通过创建一个随着时间推移而增长的结构化知识库，连接不同学科之间的相关概念，并识别可能被忽视的模式。"
+  },
+  "aidocs.faq.q10": {
+    "message": "FunBlocks AI Docs是否提供免费试用，不同定价计划中包含哪些功能？"
+  },
+  "aidocs.faq.a10": {
+    "message": "是的，FunBlocks AI Docs提供免费试用版本，网站上显著的“免费试用”号召性用语表明了这一点。此试用允许新用户体验平台的核心功能，并评估其如何满足他们的写作和思维需求，然后再决定是否订阅付费版本。虽然当前信息中未提供具体的定价细节，但免费试用可能包括对基本块编辑功能的访问、有限的AI写作辅助和批判性思维增强功能的样本。有关不同定价层、免费版本中的功能限制、使用配额和企业选项的全面信息，我们建议访问官方FunBlocks定价页面。与许多生产力工具一样，付费订阅可能提供额外的好处，例如增加使用限制、优先支持、团队协作功能和访问高级AI能力。"
+  },
+  "aidocs.faq.q11": {
+    "message": "FunBlocks AI Docs如何帮助内容创作者、博主和专业作家提高内容质量和生产效率？"
+  },
+  "aidocs.faq.a11": {
+    "message": "FunBlocks AI Docs为内容创作者、博主和专业作家提供了显著的优势，他们需要在生产中保持质量和数量。正如专业内容创作者卡洛斯·门德斯所经历的，该平台帮助生成高质量的博客、文章、报告和创意内容，AI辅助保持一致的语调，并在多篇作品中创造引人入胜的叙事。AI写作助手在克服写作障碍方面尤其有价值，通过智能建议和草稿生成，而批判性思维功能通过突出逻辑谬误来增强论点，使内容对读者更具说服力和吸引力。内容专业人士受益于能够快速在不同格式（文档、思维导图和演示文稿）之间重新利用书面内容，显著减少多渠道内容策略的生产时间。块编辑器的直观组织使管理多个相关内容变得更简单，而像丹尼尔·科瓦尔斯基这样的创意作家欣赏该系统通过提供符合他们独特风格的续写建议，同时引入他们未曾考虑的新视角，来增强创作过程。"
+  },
+  "aidocs.faq.q12": {
+    "message": "我如何开始使用FunBlocks AI Docs？"
+  },
+  "aidocs.faq.a12": {
+    "message": "只需点击“免费试用”按钮，创建一个帐户，您就可以立即免费使用FunBlocks AI。试用不需要信用卡，您将可以访问所有功能。"
   }
 }

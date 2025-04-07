@@ -195,7 +195,7 @@
     "message": "Beyond AIFlow, FunBlocks serves as an all-in-one AI workspace designed to meet all your work and learning requirements, offering seamlessly integrated tools for writing, presenting, brainstorming, browsing and research."
   },
   "homepage.workspace.writer.title": {
-    "message": "AI Writer"
+    "message": "AI Docs"
   },
   "homepage.workspace.writer.description": {
     "message": "Experience Notion-style Block Editor with AI-powered writing assistance. Create beautiful documents, notes, and content with intelligent suggestions and formatting."
@@ -366,7 +366,7 @@
     "message": "What other products does FunBlocks offer besides AIFlow?"
   },
   "homepage.faq.a4": {
-    "message": "FunBlocks provides a comprehensive suite of AI tools and a workspace designed to enhance productivity and spark creativity. It integrates AI-powered mind mapping, document writing, and slide generation features to create a holistic knowledge work environment.\n\nKey products include:\nFunBlocks AI Flow: An AI-driven mind mapping tool for creativity and knowledge exploration.\nFunBlocks AI Writer: An AI-powered Notion-style block editor that offers an AI writing assistant for document creation.\nFunBlocks AI Slides: An AI-driven slide generation tool that creates slides with one click, providing content writing and presentation guidance.\nFunBlocks Browser Extension: An efficiency-boosting browser extension that supports AI writing, reading, email replies, and more.\nFunBlocks AI Tools: Professionally designed AI tools for instant access, providing solutions for specific use cases, including AI graphics, AI mind maps, AI brainstorming, AI slides, AI decision analyzers, AI task planners, and AI YouTube summarizers.\nAI Assistant: A customizable AI assistant that supports custom prompts and integrates with AI Flow, AI Slides, AI Writer, and the browser extension."
+    "message": "FunBlocks provides a comprehensive suite of AI tools and a workspace designed to enhance productivity and spark creativity. It integrates AI-powered mind mapping, document writing, and slide generation features to create a holistic knowledge work environment.\n\nKey products include:\nFunBlocks AI Flow: An AI-driven mind mapping tool for creativity and knowledge exploration.\nFunBlocks AI Docs: An AI-powered Notion-style block editor that offers an AI writing assistant for document creation.\nFunBlocks AI Slides: An AI-driven slide generation tool that creates slides with one click, providing content writing and presentation guidance.\nFunBlocks Browser Extension: An efficiency-boosting browser extension that supports AI writing, reading, email replies, and more.\nFunBlocks AI Tools: Professionally designed AI tools for instant access, providing solutions for specific use cases, including AI graphics, AI mind maps, AI brainstorming, AI slides, AI decision analyzers, AI task planners, and AI YouTube summarizers.\nAI Assistant: A customizable AI assistant that supports custom prompts and integrates with AI Flow, AI Slides, AI Docs, and the browser extension."
   },
   "homepage.faq.q5": {
     "message": "Is FunBlocks suitable for team collaboration?"
@@ -1324,7 +1324,7 @@
     "message": "AI Reader"
   },
   "extension_welcome.nav.writing": {
-    "message": "AI Writer"
+    "message": "AI Docs"
   },
   "extension_welcome.nav.contextual": {
     "message": "AI Tools"
@@ -1631,5 +1631,367 @@
   },
   "extension_welcome.faq.a18": {
     "message": "FunBlocks AI offers various personalization options. You can choose from mainstream large language models, build AI prompt applications that meet your needs, and select the required applications from the app market to enhance the functionality of your AI assistant."
+  },
+  "aidocs.masthead.title": {
+    "message": "Write Smarter, Think Deeper"
+  },
+  "aidocs.masthead.subtitle": {
+    "message": "Elevate your writing with AI-powered document editor and critical thinking assistance"
+  },
+  "aidocs.masthead.cta": {
+    "message": "Try for Free"
+  },
+  "aidocs.intro.title": {
+    "message": "FunBlocks AI Docs: AI-powered Document and Page Editor"
+  },
+  "aidocs.intro.description": {
+    "message": "FunBlocks AI Docs combines Notion-like editing with AI assistance to enhance your writing, critical thinking, and productivity."
+  },
+  "aidocs.intro.point1.name": {
+    "message": "Block Editor"
+  },
+  "aidocs.intro.point1.description": {
+    "message": "Notion-style block editor for intuitive and flexible document creation"
+  },
+  "aidocs.intro.point2.name": {
+    "message": "AI Writing Assistant"
+  },
+  "aidocs.intro.point2.description": {
+    "message": "AI writing assistant that helps generate, edit, and improve content"
+  },
+  "aidocs.intro.point3.name": {
+    "message": "Critical Thinking Enhancement"
+  },
+  "aidocs.intro.point3.description": {
+    "message": "Critical thinking enhancement to identify biases and logical fallacies"
+  },
+  "aidocs.intro.point4.name": {
+    "message": "Seamless Integration"
+  },
+  "aidocs.intro.point4.description": {
+    "message": "Seamless integration with AIFlow mind maps and AI Slides, form all-in-one workflow"
+  },
+  "aidocs.intro.point5.name": {
+    "message": "Unified Knowledge Workspace"
+  },
+  "aidocs.intro.point5.description": {
+    "message": "A unified knowledge workspace is formed through links between documents, slides, and mindmaps"
+  },
+  "aidocs.features.title": {
+    "message": "Key Features"
+  },
+  "aidocs.features.item1.name": {
+    "message": "Block-Based Editor"
+  },
+  "aidocs.features.item1.description": {
+    "message": "Create beautiful documents with an intuitive interface that lets you seamlessly mix text, images, tables, code blocks, and more."
+  },
+  "aidocs.features.item2.name": {
+    "message": "AI Writing Assistant"
+  },
+  "aidocs.features.item2.description": {
+    "message": "Generate complete documents from scratch, refine existing content, or get intelligent suggestions for improving your writing."
+  },
+  "aidocs.features.item3.name": {
+    "message": "Infographics Generator"
+  },
+  "aidocs.features.item3.description": {
+    "message": "Select text within your document and let the AI assistant automatically generate infographics, flowcharts, slides, and more, embedding them at the current position."
+  },
+  "aidocs.features.item4.name": {
+    "message": "Critical Thinking Enhancement"
+  },
+  "aidocs.features.item4.description": {
+    "message": "Enhance your reasoning with AI tools that identify cognitive biases, logical fallacies, and weak arguments in your writing."
+  },
+  "aidocs.features.item5.name": {
+    "message": "Document Organization"
+  },
+  "aidocs.features.item5.description": {
+    "message": "Create a structured workspace with nested pages, internal linking between documents, and an integrated project management system."
+  },
+  "aidocs.ai-assistant.title": {
+    "message": "AI Writing Assistant: Your Thinking Partner"
+  },
+  "aidocs.ai-assistant.subtitle": {
+    "message": "More than just a writing tool - an AI that enhances your critical thinking"
+  },
+  "aidocs.ai-assistant.critical-thinking.title": {
+    "message": "Enhance Critical Thinking"
+  },
+  "aidocs.ai-assistant.critical-thinking.description": {
+    "message": "FunBlocks AI Docs goes beyond grammar fixes and style improvements to help you think more clearly and write more persuasively."
+  },
+  "aidocs.ai-assistant.critical-thinking.point1": {
+    "message": "Identify cognitive biases in your writing"
+  },
+  "aidocs.ai-assistant.critical-thinking.point2": {
+    "message": "Highlight logical fallacies and suggest improvements"
+  },
+  "aidocs.ai-assistant.critical-thinking.point3": {
+    "message": "Strengthen arguments by addressing counterpoints"
+  },
+  "aidocs.ai-assistant.critical-thinking.point4": {
+    "message": "Analyze the clarity and coherence of your reasoning"
+  },
+  "aidocs.writing-assistant.title": {
+    "message": "Smart Writing Tools"
+  },
+  "aidocs.writing-assistant.description": {
+    "message": "Create high-quality content efficiently with powerful AI-powered writing tools."
+  },
+  "aidocs.writing-assistant.point1": {
+    "message": "Generate complete documents from a simple topic or outline"
+  },
+  "aidocs.writing-assistant.point2": {
+    "message": "Rewrite and refine selected text with targeted instructions"
+  },
+  "aidocs.writing-assistant.point3": {
+    "message": "Intelligent continuation suggestions based on your writing style"
+  },
+  "aidocs.writing-assistant.point4": {
+    "message": "Grammar and style correction with detailed explanations"
+  },
+  "aidocs.writing-assistant.point5": {
+    "message": "Automated creation of visual aids like infographics, flowcharts, and data charts based on content context"
+  },
+  "aidocs.ecosystem.title": {
+    "message": "Seamless FunBlocks Ecosystem Integration"
+  },
+  "aidocs.ecosystem.subtitle": {
+    "message": "Part of a powerful AI workspace that enhances your entire workflow"
+  },
+  "aidocs.ecosystem.workflow.title": {
+    "message": "Complete Workflow Integration"
+  },
+  "aidocs.ecosystem.workflow.point1": {
+    "message": "Convert AIFlow mind maps directly into structured documents with one click"
+  },
+  "aidocs.ecosystem.workflow.point2": {
+    "message": "Transform any document into professional slides for presentations"
+  },
+  "aidocs.ecosystem.workflow.point3": {
+    "message": "Turn document content into visual mind maps for deeper exploration"
+  },
+  "aidocs.ecosystem.workflow.point4": {
+    "message": "Create visual aids like infographics, flowcharts, and data charts from selected text and insert them into documents"
+  },
+  "aidocs.ecosystem.workflow.point5": {
+    "message": "Create a comprehensive workspace by linking documents, mind maps and presentations"
+  },
+  "aidocs.organization.title": {
+    "message": "Powerful Document Organization"
+  },
+  "aidocs.organization.description": {
+    "message": "Create a structured workspace with linked documents and hierarchical organization"
+  },
+  "aidocs.organization.point1.name": {
+    "message": "Hierarchical Structure"
+  },
+  "aidocs.organization.point1.description": {
+    "message": "Organize your documents in a nested structure with folders and subfolders to keep your workspace clean and intuitive."
+  },
+  "aidocs.organization.point2.name": {
+    "message": "Internal Linking"
+  },
+  "aidocs.organization.point2.description": {
+    "message": "Connect related documents, mind maps, and presentations through internal links, creating a personal knowledge network."
+  },
+  "aidocs.organization.point3.name": {
+    "message": "Mixed Content Types"
+  },
+  "aidocs.organization.point3.description": {
+    "message": "Combine document pages, mind maps, infographics, flowcharts and presentations in a single workspace for a complete project view."
+  },
+  "aidocs.organization.point4.name": {
+    "message": "Knowledge Workspace"
+  },
+  "aidocs.organization.point4.description": {
+    "message": "Consolidate work achievements, building an individual or team AI knowledge base."
+  },
+  "aidocs.use-cases.title": {
+    "message": "Use Cases"
+  },
+  "aidocs.use-cases.description": {
+    "message": "FunBlocks AI Docs adapts to diverse content creation scenarios, enhancing both productivity and quality"
+  },
+  "aidocs.use-cases.case1.title": {
+    "message": "Academic Research & Essays"
+  },
+  "aidocs.use-cases.case1.description": {
+    "message": "Create well-structured academic papers with strong arguments and proper citations, while AI helps identify potential gaps in reasoning."
+  },
+  "aidocs.use-cases.case2.title": {
+    "message": "Professional Content Creation"
+  },
+  "aidocs.use-cases.case2.description": {
+    "message": "Produce high-quality blogs, articles, and reports with AI assistance to maintain consistent tone and compelling narratives."
+  },
+  "aidocs.use-cases.case3.title": {
+    "message": "Learning & Note-Taking"
+  },
+  "aidocs.use-cases.case3.description": {
+    "message": "Transform class notes into comprehensive study materials with AI-enhanced organization and expansion of key concepts."
+  },
+  "aidocs.use-cases.case4.title": {
+    "message": "Business Documentation"
+  },
+  "aidocs.use-cases.case4.description": {
+    "message": "Develop clear business plans, proposals, and reports that present ideas logically and address potential objections."
+  },
+  "aidocs.use-cases.case5.title": {
+    "message": "Project Planning & Management"
+  },
+  "aidocs.use-cases.case5.description": {
+    "message": "Create connected workspaces that combine planning documents, visual mind maps, and presentation materials for team alignment."
+  },
+  "aidocs.use-cases.case6.title": {
+    "message": "Critical Thinking Development"
+  },
+  "aidocs.use-cases.case6.description": {
+    "message": "Improve your reasoning abilities through regular feedback on your writing, helping you identify and correct flawed thinking patterns."
+  },
+
+  "aidocs.testimonials.user1.name": {
+    "message": "Emily Zhang"
+  },
+  "aidocs.testimonials.user1.role": {
+    "message": "Academic Researcher"
+  },
+  "aidocs.testimonials.user1.text": {
+    "message": "FunBlocks AI Docs revolutionized my research process. The critical thinking enhancement feature identifies potential biases in my academic papers that I would have missed. I can seamlessly transform my initial ideas from mind maps into structured documents, and then into presentation slides for conferences—all within one ecosystem. The AI writing assistant helps refine my arguments and address counterpoints, resulting in more robust research papers. My department colleagues have been amazed at how much more comprehensive and logically sound my work has become since using this tool."
+  },
+  
+  "aidocs.testimonials.user2.name": {
+    "message": "Carlos Mendez"
+  },
+  "aidocs.testimonials.user2.role": {
+    "message": "Content Creator"
+  },
+  "aidocs.testimonials.user2.text": {
+    "message": "As someone who produces multiple articles weekly, FunBlocks AI Docs has been a game-changer. The block-based editor makes organizing content intuitive, while the AI writing assistant helps me overcome writer's block instantly. What I appreciate most is how it strengthens my arguments by highlighting logical fallacies—my content is now more persuasive and engaging. The seamless integration with mind maps and slides means I can repurpose my written content across different formats, saving hours of work. This tool doesn't just help me write faster; it helps me think deeper and create better content."
+  },
+  
+  "aidocs.testimonials.user3.name": {
+    "message": "Sarah Johnson"
+  },
+  "aidocs.testimonials.user3.role": {
+    "message": "Business Consultant"
+  },
+  "aidocs.testimonials.user3.text": {
+    "message": "FunBlocks AI Docs has transformed how I create client proposals and reports. The hierarchical document organization keeps all my project materials neatly structured, while the internal linking creates a comprehensive knowledge base I can reference for future work. When developing business strategies, the critical thinking enhancement catches assumptions I might be making, resulting in more thorough analyses. I've received compliments from clients about the clarity and persuasiveness of my recommendations, which I attribute to the AI's ability to help strengthen arguments and address potential objections."
+  },
+  
+  "aidocs.testimonials.user4.name": {
+    "message": "Wei Liu"
+  },
+  "aidocs.testimonials.user4.role": {
+    "message": "Graduate Student"
+  },
+  "aidocs.testimonials.user4.text": {
+    "message": "Taking notes during lectures used to be chaotic, but with FunBlocks AI Docs, I can quickly organize my thoughts in the block editor and let the AI help expand key concepts I might have missed. The ability to transform notes into mind maps helps me see connections between different topics, which has been invaluable for comprehensive exam preparation. The critical thinking features have improved my essay writing dramatically—my professor commented that my arguments have become much more coherent and well-reasoned. This tool has genuinely improved not just my grades, but how I approach learning."
+  },
+  
+  "aidocs.testimonials.user5.name": {
+    "message": "Priya Patel"
+  },
+  "aidocs.testimonials.user5.role": {
+    "message": "Project Manager"
+  },
+  "aidocs.testimonials.user5.text": {
+    "message": "Managing complex projects with multiple stakeholders used to be a documentation nightmare until I discovered FunBlocks AI Docs. The unified workspace allows me to link related documents, mind maps for brainstorming, and presentation slides for stakeholder meetings—all interconnected. The AI helps me draft clear project plans and anticipate potential issues by analyzing the logic in my proposals. Team communication has improved dramatically as we now have a centralized knowledge base where everyone can access project information. This tool doesn't just organize information; it enhances our collective thinking process."
+  },
+  
+  "aidocs.testimonials.user6.name": {
+    "message": "Daniel Kowalski"
+  },
+  "aidocs.testimonials.user6.role": {
+    "message": "Creative Writer"
+  },
+  "aidocs.testimonials.user6.text": {
+    "message": "What separates FunBlocks AI Docs from other writing tools is how it enhances my creative process rather than just correcting grammar. The AI writing assistant offers intelligent continuation suggestions that match my style but introduce new perspectives I hadn't considered. The block editor gives me freedom to rearrange sections as my narrative evolves. When developing characters and plot lines, I use the mind map integration to visualize relationships and then transform those ideas into fully developed scenes. For someone who values both creative freedom and structural guidance, this tool offers the perfect balance."
+  },
+
+  "aidocs.cta.title": {
+    "message": "Transform Your Thinking, Elevate Your Writing"
+  },
+  "aidocs.cta.subtitle": {
+    "message": "Join thousands of professionals who've enhanced their creativity, productivity, and critical reasoning with FunBlocks AI Docs"
+  },
+  "aidocs.cta.button": {
+    "message": "Experience Smarter Writing Today"
+  },
+
+  "aidocs.faq.q1": {
+    "message": "What is FunBlocks AI Docs and how does it improve document writing and editing?"
+  },
+  "aidocs.faq.a1": {
+    "message": "FunBlocks AI Docs is a comprehensive AI-powered document editor that combines Notion-like block editing with advanced artificial intelligence to enhance your writing process, critical thinking abilities, and overall productivity. The platform features a flexible block-based editor similar to Notion, powerful AI writing assistance, critical thinking enhancement tools that identify biases and logical fallacies, and seamless integration with other FunBlocks products like AIFlow mind maps and AI Slides. Whether you're creating academic papers, business documentation, or creative content, FunBlocks AI Docs provides the tools to write smarter and think deeper."
+  },
+  "aidocs.faq.q2": {
+    "message": "How does the AI Writing Assistant in FunBlocks AI Docs help improve my writing quality and efficiency?"
+  },
+  "aidocs.faq.a2": {
+    "message": "The AI Writing Assistant in FunBlocks AI Docs functions as your personal thinking partner to elevate both writing quality and efficiency. It provides four key capabilities: 1) Generate complete documents from scratch based on simple topics or outlines, 2) Intelligently rewrite and refine selected text based on specific instructions, 3) Offer smart continuation suggestions that match your personal writing style, and 4) Provide comprehensive grammar and style corrections with detailed explanations. Unlike basic writing tools that only fix grammar, FunBlocks AI Writing Assistant helps you develop clearer thinking, more persuasive arguments, and higher quality content while significantly reducing writing time."
+  },
+  "aidocs.faq.q3": {
+    "message": "What makes the Critical Thinking Enhancement feature in FunBlocks AI Docs unique compared to other writing tools?"
+  },
+  "aidocs.faq.a3": {
+    "message": "The Critical Thinking Enhancement feature in FunBlocks AI Docs goes far beyond what traditional writing tools offer by focusing on the quality of your reasoning, not just your writing mechanics. This unique feature helps you think more clearly and write more persuasively through four advanced capabilities: 1) Identifying specific cognitive biases in your writing that might weaken your arguments, 2) Highlighting logical fallacies with clear suggestions for improvement, 3) Strengthening your arguments by identifying and addressing potential counterpoints, and 4) Conducting deep analysis of your reasoning's clarity and coherence. This feature essentially acts as a critical thinking coach, helping you develop stronger analytical skills while producing more logically sound content."
+  },
+  "aidocs.faq.q4": {
+    "message": "How does FunBlocks AI Docs integrate with AIFlow mind maps and AI Slides to create a complete workflow system?"
+  },
+  "aidocs.faq.a4": {
+    "message": "FunBlocks AI Docs creates a seamless all-in-one workflow by deeply integrating with AIFlow mind maps and AI Slides through a comprehensive ecosystem approach. This integration enables four powerful workflow capabilities: 1) One-click conversion of AIFlow mind maps directly into structured documents with proper hierarchy and organization, 2) Automatic transformation of any document into professional presentation slides ready for meetings or conferences, 3) Quick conversion of document content into visual mind maps for concept exploration and relationship mapping, and 4) Creation of a unified knowledge workspace through bidirectional linking between documents, mind maps, and presentations. This interconnected system eliminates the need to switch between different applications, allowing ideas to flow naturally through different formats while maintaining content consistency across your entire project."
+  },
+  "aidocs.faq.q5": {
+    "message": "What document organization and knowledge management features does FunBlocks AI Docs provide for personal and team use?"
+  },
+  "aidocs.faq.a5": {
+    "message": "FunBlocks AI Docs offers a comprehensive suite of document organization and knowledge management features designed for both personal productivity and team collaboration. The system includes: 1) Advanced hierarchical structure with unlimited nested folders and subfolders for intuitive content categorization, 2) Powerful internal linking capabilities that connect related documents, mind maps, and presentations to create a navigable knowledge network, 3) Support for mixed content types within a single workspace, allowing you to combine document pages, mind maps, and presentations in one view, and 4) Knowledge workspace functionality that consolidates work achievements to build either personal or team-based AI knowledge bases. These features combine to create a structured yet flexible system that grows with your projects and keeps information accessible and contextually connected."
+  },
+  "aidocs.faq.q6": {
+    "message": "How can academics and researchers use FunBlocks AI Docs to improve research papers and scholarly writing?"
+  },
+  "aidocs.faq.a6": {
+    "message": "Academics and researchers can leverage FunBlocks AI Docs to significantly enhance their scholarly writing process and research paper quality in multiple ways. The platform helps create well-structured academic papers with logically sound arguments and proper citations, while the AI systematically identifies potential gaps in reasoning or methodological weaknesses. Researchers benefit from the critical thinking enhancement feature that catches cognitive biases and logical fallacies common in academic writing. The mind mapping integration helps visualize complex research relationships and theoretical frameworks before converting them to formal document structures. Additionally, the ability to transform research findings into presentation slides streamlines conference preparation. As confirmed by academic users like Emily Zhang, the platform has proven particularly valuable for producing more comprehensive and logically sound research papers that receive positive recognition from academic peers."
+  },
+  "aidocs.faq.q7": {
+    "message": "What types of business documentation can be created with FunBlocks AI Docs and how does it improve business writing?"
+  },
+  "aidocs.faq.a7": {
+    "message": "FunBlocks AI Docs is exceptionally well-suited for creating a wide range of business documentation including business plans, project proposals, market analysis reports, strategic recommendations, client presentations, and internal process documentation. The platform improves business writing by helping professionals develop clear, logical documents that present ideas persuasively and proactively address potential objections or weaknesses. The unified workspace facilitates comprehensive project planning and management by combining strategic planning documents, visual mind maps for brainstorming, and presentation materials for stakeholder alignment. Business users like Sarah Johnson, a business consultant, report receiving client compliments on the clarity and persuasiveness of their recommendations since using the platform. The critical thinking enhancement feature is particularly valuable for business strategy development, as it helps identify unstated assumptions and logical gaps that might otherwise undermine business proposals."
+  },
+  "aidocs.faq.q8": {
+    "message": "How does the Notion-style block-based editor in FunBlocks AI Docs work and what content types does it support?"
+  },
+  "aidocs.faq.a8": {
+    "message": "The Notion-style block-based editor in FunBlocks AI Docs provides an intuitive, flexible interface for document creation through a modular building-block approach. Each piece of content exists as a distinct block that can be easily moved, edited, or transformed. The editor supports a comprehensive range of content types including rich text with multiple formatting options, headings and subheadings, bulleted and numbered lists, tables with sorting and filtering capabilities, embedded images and media, code blocks with syntax highlighting for multiple programming languages, mathematical equations, callout blocks for important information, toggle lists for expandable content, and embedded files. This block-based approach allows for easy reorganization through drag-and-drop functionality, consistent formatting throughout documents, and the ability to quickly convert between block types. The system combines the flexibility of a word processor with the structure of a database, making it ideal for creating beautifully organized documents of any complexity."
+  },
+  "aidocs.faq.q9": {
+    "message": "How can students and lifelong learners use FunBlocks AI Docs for better note-taking, study materials, and knowledge retention?"
+  },
+  "aidocs.faq.a9": {
+    "message": "Students and lifelong learners can transform their educational experience with FunBlocks AI Docs through several powerful learning applications. The platform excels at helping users convert quick lecture notes into comprehensive study materials through AI-enhanced organization and intelligent expansion of key concepts. Students like Wei Liu have found that the ability to transform linear notes into visual mind maps helps identify connections between different topics, significantly improving exam preparation and conceptual understanding. The block editor allows for flexible organization of study materials with mixed media types, while the AI assistant can help clarify difficult concepts or generate explanations for complex topics. The critical thinking features have proven particularly valuable for essay writing, helping students develop more coherent, well-reasoned arguments that professors notice and reward. Beyond formal education, the platform supports lifelong learning by creating a structured knowledge base that grows over time, connecting related concepts across different subjects and identifying patterns that might otherwise remain hidden."
+  },
+  "aidocs.faq.q10": {
+    "message": "Is there a free trial of FunBlocks AI Docs available and what features are included in different pricing plans?"
+  },
+  "aidocs.faq.a10": {
+    "message": "Yes, FunBlocks AI Docs offers a free trial version as indicated by the prominent 'Try for Free' call-to-action on the website. This trial allows new users to experience the platform's core features and evaluate how it fits their writing and thinking needs before committing to a paid subscription. While specific pricing details aren't provided in the current information, the free trial likely includes access to the basic block editor functionality, limited AI writing assistance, and a sample of the critical thinking enhancement features. For comprehensive information about different pricing tiers, feature limitations in the free version, usage quotas, and enterprise options, we recommend visiting the official FunBlocks pricing page. As with many productivity tools, paid subscriptions likely offer additional benefits such as increased usage limits, priority support, team collaboration features, and access to advanced AI capabilities."
+  },
+  "aidocs.faq.q11": {
+    "message": "How does FunBlocks AI Docs help content creators, bloggers, and professional writers improve their content quality and production efficiency?"
+  },
+  "aidocs.faq.a11": {
+    "message": "FunBlocks AI Docs offers significant advantages for content creators, bloggers, and professional writers who need to maintain both quality and volume in their production. As experienced by Carlos Mendez, a professional content creator, the platform helps produce high-quality blogs, articles, reports, and creative content with AI assistance that maintains consistent tone and creates compelling narratives across multiple pieces. The AI writing assistant is particularly valuable for overcoming writer's block through intelligent suggestions and draft generation, while the critical thinking features strengthen arguments by highlighting logical fallacies, making content more persuasive and engaging for readers. Content professionals benefit from the ability to quickly repurpose written content across different formats (documents, mind maps, and presentations), significantly reducing production time for multi-channel content strategies. The block editor's intuitive organization makes managing multiple related content pieces simpler, while creative writers like Daniel Kowalski appreciate how the system enhances the creative process by offering continuation suggestions that match their unique style while introducing fresh perspectives they hadn't considered."
+  },
+  "aidocs.faq.q12": {
+    "message": "How can I get started with FunBlocks AI Docs?"
+  },
+  "aidocs.faq.a12": {
+    "message": "Simply click the 'Free Trial' button, create an account, and you can immediately start using FunBlocks AI for free. No credit card is required for the trial, and you'll have access to all features."
   }
 }
