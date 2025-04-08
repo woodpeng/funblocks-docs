@@ -95,15 +95,17 @@ const config = {
           src: 'img/icon.png',
         },
         items: [
-          { to: '/#aiflow', label: 'AIFlow', position: 'left' },
-          { to: '/#tools', label: 'Quick Start', position: 'left' },
-          { to: '/#usecases', label: 'Use Cases', position: 'left' },
-          { to: '/#workspace', label: 'Workspace', position: 'left' },
+          { to: '/aiflow', label: 'AIFlow', position: 'left' },
+          { to: '/aitools', label: 'AI Tools', position: 'left' },
+          { to: '/slides', label: 'AI Slides', position: 'left' },
+          { to: '/aidocs', label: 'AI Docs', position: 'left' },
+          { to: '/welcome_extension', label: 'AI Extension', position: 'left' },
+          { to: 'https://app.funblocks.net/#/aiplans', label: 'Pricing', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Tutorial',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {

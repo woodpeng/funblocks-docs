@@ -77,7 +77,7 @@ function BeyondChatGPTSection() {
           <div className={styles.benefitCard}>
             <div className={styles.cardTitle}>
               <div className={styles.benefitIcon}>🔮</div>
-              <Heading as="h4" style={{ alignSelf: 'end' }}>
+              <Heading as="h4">
                 <Translate id="homepage.beyond.visualize.title">Visualize Complex Thinking</Translate>
               </Heading>
             </div>
@@ -92,7 +92,7 @@ function BeyondChatGPTSection() {
           <div className={styles.benefitCard}>
             <div className={styles.cardTitle}>
               <div className={styles.benefitIcon}>💡</div>
-              <Heading as="h4" style={{ alignSelf: 'end' }}>
+              <Heading as="h4">
                 <Translate id="homepage.beyond.accelerate.title">Accelerate Innovative Solutions</Translate>
               </Heading>
             </div>
@@ -107,7 +107,7 @@ function BeyondChatGPTSection() {
           <div className={styles.benefitCard}>
             <div className={styles.cardTitle}>
               <div className={styles.benefitIcon}>⚡</div>
-              <Heading as="h4" style={{ alignSelf: 'end' }}>
+              <Heading as="h4">
                 <Translate id="homepage.beyond.streamline.title">Streamline Knowledge Work</Translate>
               </Heading>
             </div>
@@ -305,7 +305,7 @@ function BoostProductivitySection({ setShowImageSrc }) {
 
 function MultiModelSection() {
   return (
-    <section id="multi-model" className={styles.featureSection}>
+    <section id="multi-model" className={styles.featureSection} style={{backgroundColor: 'lightcyan'}}>
       <div className="container">
         <Heading as="h2" className={styles.sectionTitle}>
           <Translate id="homepage.multiModel.title">All Leading AI Models in One Place</Translate>
