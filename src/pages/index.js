@@ -19,7 +19,7 @@ function HomepageHeader({ setShowImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
 
   return (
-    <section id="hero" className={clsx(styles.hero, styles.pageSection)}  style={{ backgroundColor: '#e6e6fa' }}>
+    <section id="hero" className={clsx(styles.hero, styles.pageSection)} style={{ backgroundColor: '#e6e6fa' }}>
       <div className="container">
         <div className={styles.heroContent}>
           <Heading as="h1">
@@ -305,7 +305,7 @@ function BoostProductivitySection({ setShowImageSrc }) {
 
 function MultiModelSection() {
   return (
-    <section id="multi-model" className={styles.featureSection} style={{backgroundColor: 'lightcyan'}}>
+    <section id="multi-model" className={styles.featureSection} style={{ backgroundColor: 'lightcyan' }}>
       <div className="container">
         <Heading as="h2" className={styles.sectionTitle}>
           <Translate id="homepage.multiModel.title">All Leading AI Models in One Place</Translate>
@@ -467,7 +467,7 @@ function UseCasesSection() {
   );
 }
 
-function WorkspaceSection() {
+function WorkspaceSection({ setShowImageSrc }) {
   return (
     <section id="workspace" className={clsx(styles.workspaceSection)}>
       <div className="container">
@@ -495,6 +495,15 @@ function WorkspaceSection() {
                 Visualize complex ideas, brainstorm with AI assistance, and organize your thoughts effectively.
               </Translate>
             </p>
+            <div style={{ cursor: 'pointer' }}>
+              <img
+                className={styles.featureImage}
+                onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
+                id="aiflow-overview"
+                alt="FunBlocks AIFlow interface"
+                src="/img/portfolio/fullsize/aiflow_benefits.png"
+              />
+            </div>
           </div>
 
           <div className={styles.benefitCard}>
@@ -510,6 +519,14 @@ function WorkspaceSection() {
                 Create beautiful documents, notes, and content with intelligent suggestions and formatting.
               </Translate>
             </p>
+            <div style={{ cursor: 'pointer' }}>
+              <img
+                className={styles.featureImage}
+                src="/img/portfolio/fullsize/ai_writer_workspace.png"
+                alt="FunBlocks AI Docs: Notion-style block editor with AI assistant"
+                onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_writer_workspace.png")}
+              />
+            </div>
           </div>
 
           <div className={styles.benefitCard}>
@@ -525,6 +542,14 @@ function WorkspaceSection() {
                 Fully supports Markdown formatting for easy writing and editing of slide content.
               </Translate>
             </p>
+            <div style={{ cursor: 'pointer' }}>
+              <img
+                className={styles.featureImage}
+                src="/img/portfolio/fullsize/slides.png"
+                alt="AI Slides: Effortless slide creation with Markdown, AI, and cloud collaboration"
+                onClick={() => setShowImageSrc("/img/portfolio/fullsize/slides.png")}
+              />
+            </div>
           </div>
 
           <div className={styles.benefitCard}>
@@ -540,6 +565,14 @@ function WorkspaceSection() {
                 with reading and writing on any webpage. Summarize content, draft responses, and research efficiently.
               </Translate>
             </p>
+            <div style={{ cursor: 'pointer', flex: 4 }}>
+              <img
+                className={styles.featureImage}
+                id="aiflow-brainstorming"
+                alt="FunBlocks AI sidebar assistant interface for enhanced reading and critical thinking"
+                src='/img/portfolio/fullsize/ai_reading_en.png'
+              />
+            </div>
           </div>
         </div>
       </div>
@@ -595,8 +628,8 @@ export default function Home() {
         <BoostProductivitySection setShowImageSrc={setShowImageSrc} />
         <AIToolsSection />
         <MultiModelSection />
+        <WorkspaceSection setShowImageSrc={setShowImageSrc} />
         <UseCasesSection />
-        <WorkspaceSection />
         <TestimonialsSection avatars={testimonials_avatars} page={'homepage'} />
         <CTASection toApp={toApp} page={'homepage'} />
         <FAQSection

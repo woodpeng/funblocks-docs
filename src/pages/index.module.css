@@ -208,7 +208,7 @@
 
 .cardTitle a {
   color: #3498db;
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 .benefitIcon {
