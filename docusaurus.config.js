@@ -96,7 +96,7 @@ const config = {
         },
         items: [
           { to: '/aiflow', label: 'AIFlow', position: 'left' },
-          { to: 'https://wwww.funblocks.net/aitools', label: 'AI Tools', position: 'left' },
+          { to: 'https://www.funblocks.net/aitools', label: 'AI Tools', position: 'left' },
           { to: '/slides', label: 'AI Slides', position: 'left' },
           { to: '/aidocs', label: 'AI Docs', position: 'left' },
           { to: '/welcome_extension', label: 'AI Extension', position: 'left' },

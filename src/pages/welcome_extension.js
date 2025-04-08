@@ -366,17 +366,17 @@ function WritingSection() {
                     <div className="d-flex flex-column align-items-start justify-content-between">
                         <div>
                             <h3>
-                                <Translate id="writing.methods">Multiple ways to activate AI writing:</Translate>
+                                <Translate id="extension_welcome.writing.methods">Multiple ways to activate AI writing:</Translate>
                             </h3>
                             <ul style={{ fontSize: '18px' }}>
                                 <li>
-                                    <Translate id="writing.li1">Select text to bring up the toolbar</Translate>
+                                    <Translate id="extension_welcome.writing.li1">Select text to bring up the toolbar</Translate>
                                 </li>
                                 <li>
-                                    <Translate id="writing.li2">Click the blue icon in the bottom right</Translate>
+                                    <Translate id="extension_welcome.writing.li2">Click the blue icon in the bottom right</Translate>
                                 </li>
                                 <li>
-                                    <Translate id="writing.li3">Type '/' for quick commands</Translate>
+                                    <Translate id="extension_welcome.writing.li3">Type '/' for quick commands</Translate>
                                 </li>
                             </ul>
                         </div>
@@ -386,16 +386,16 @@ function WritingSection() {
                             </h3>
                             <ul style={{ fontSize: '18px' }}>
                                 <li>
-                                    <Translate id="writing.f1">One-click topic-based article generation</Translate>
+                                    <Translate id="extension_welcome.writing.f1">One-click topic-based article generation</Translate>
                                 </li>
                                 <li>
-                                    <Translate id="writing.f2">Text polishing and grammar correction</Translate>
+                                    <Translate id="extension_welcome.writing.f2">Text polishing and grammar correction</Translate>
                                 </li>
                                 <li>
-                                    <Translate id="writing.f3">Flexible continuation and content expansion</Translate>
+                                    <Translate id="extension_welcome.writing.f3">Flexible continuation and content expansion</Translate>
                                 </li>
                                 <li>
-                                    <Translate id="writing.f4">Context-aware AI replies (email, social media, etc.)</Translate>
+                                    <Translate id="extension_welcome.writing.f4">Context-aware AI replies (email, social media, etc.)</Translate>
                                 </li>
                             </ul>
                         </div>

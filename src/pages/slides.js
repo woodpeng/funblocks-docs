@@ -177,7 +177,7 @@ function PlatformSynergySection() {
                     <Translate id="slides.platform-synergy.title">AI Assistant: Your Intelligent Slide Creation Partner</Translate>
                 </Heading>
                 <h4 className={styles.sectionDescription}>
-                    <Translate id="slides.platform-synergy.desc">Collaborate with AI to generate slides, optimize content, and refine your delivery for a truly impactful presentation</Translate>
+                    <Translate id="slides.platform-synergy.description">Collaborate with AI to generate slides, optimize content, and refine your delivery for a truly impactful presentation</Translate>
                 </h4>
                 <div className={styles.twoColumnGrid}>
                     {synergyFeatures.map((feature, index) => (

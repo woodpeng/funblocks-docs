@@ -177,10 +177,10 @@
     "message": "AI一键生成您所需风格的头像和图像，满足您的个性化需求。"
   },
   "homepage.multiModel.title": {
-    "message": "All Leading AI Models in One Place"
+    "message": "所有领先的AI模型汇聚一处"
   },
   "homepage.multiModel.description": {
-    "message": "FunBlocks AI支持所有主流大语言模型，使用户可以自由选择最适合自己的AI模型。"
+    "message": "FunBlocks AI支持所有主流大语言模型，您可以自由选择最适合自己的AI模型。"
   },
   "homepage.multiModel.advantage": {
     "message": "在一个地方访问所有行业领先的AI模型，无需在不同平台之间切换或购买多个订阅，有效提升您的工作效率。"
@@ -698,7 +698,7 @@
   "aiflow.explore-with-ai.title": {
     "message": "与AI一起探索世界"
   },
-  "aiflow.explore-with-ai.desc": {
+  "aiflow.explore-with-ai.description": {
     "message": "为每个主题开启更广阔的认知视野，探索无限的可能性"
   },
   "aiflow.explore-with-ai.point1.name": {
