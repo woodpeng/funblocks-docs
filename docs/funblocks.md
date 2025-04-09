@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
+title: FunBlocks AI
 ---
 
-# FunBlocks AI
-
-***Your All-in-One AI Platform for Smarter Work & Study!***
+# Your All-in-One AI Platform for Smarter Work & Study!
 
 **Boost your creativity and productivity with FunBlocks AI Workspace, an integrated, AI-powered platform designed to streamline how you think, create, and manage knowledge.**
 
@@ -14,15 +13,17 @@ Stop switching between different apps for mind mapping, writing, presentations, 
 
 It's a single platform combining essential tools, all enhanced with artificial intelligence (powered by leading models like GPT-4, Claude, Gemini, and DeepSeek) to help you work smarter, not harder.
 
+![FunBlocks All-in-one AI workspace](/img/portfolio/fullsize/ai_workspace.png)
+
 ## Meet the Core Tools:
 
-* **FunBlocks AIFlow: AI Mind Mapping & Whiteboard**  
+* **[FunBlocks AIFlow](/aiflow): AI Mind Mapping & Whiteboard**  
   * Brainstorm visually on an infinite canvas. Get AI suggestions to expand your thinking, create multi-level mind maps automatically, and group related ideas. Perfect for exploring topics and understanding complex information.  
-* **FunBlocks AI Writer: AI Document Editor & Notes**  
+* **[FunBlocks AI Docs](/aidocs): AI Document Editor & Notes**  
   * Write documents, take notes, and build your personal knowledge base with an easy-to-use block editor (similar to Notion). Get help from an AI writing assistant for drafting, summarizing, and formatting content quickly.  
-* **FunBlocks AI Slides: AI Presentation Maker**  
+* **[FunBlocks AI Slides](/slides): AI Presentation Maker**  
   * Create professional-looking presentations fast. Focus on your content using simple Markdown, and let AI help generate slides with just one click. Easily turn your mind maps from AIFlow into engaging presentations.  
-* **FunBlocks AI Extension: Smart Browser Assistant**  
+* **[FunBlocks AI Extension](/welcome_extension): Smart Browser Assistant**  
   * Enhance your web Browse on Chrome and Edge. Get AI-powered summaries of web pages, writing improvements, and research assistance without leaving your browser.
 
 ## Why Choose FunBlocks? 

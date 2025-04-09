@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # FunBlocks AI Extension
@@ -19,6 +19,8 @@ Unlock a range of benefits with FunBlocks AI:
 * **Read Smarter, Not Harder:** Quickly understand the essence of webpages and YouTube videos with concise summaries and highlights.
 * **Enhance Critical Thinking:** Identify potential bias, extract key questions from texts, and explore topics visually with innovative mind-mapping tools.
 * **Communicate Globally:** Translate selected text instantly or write in your native language and polish it into any target language.
+
+![FunBlocks AI Browser Extension: Your AI assistant for enhancing reading and writing efficiency on any webpage](/img/portfolio/fullsize/ai_reading_en.png)
 
 ### Core Features
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: Mind Map Generator
 ---
 
 # Unleashing the Power of AI Mind Mapping
@@ -26,6 +27,14 @@ AIFlow excels at converting various content types into structured mind maps:
 - **Text Transformation**: Instantly convert paragraphs, articles, or documents into organized mind maps
 - **Web Content Analysis**: Transform any webpage into a visually structured map highlighting key points
 - **Video Content Mapping**: Extract and organize information from YouTube video scripts into comprehensive mind maps
+
+![FunBlocks AIFlow panel mind map generators](/img/portfolio/fullsize/aiflow_panel_mindmap_generators.png)
+*Mind map generators available on the AIFlow panel of FunBlocks AIFlow*
+
+***Or***
+
+![FunBlocks AIFlow mind map generator](/img/portfolio/fullsize/aitools_mindmap_generator.png)
+*A dedicated [Mindmap generating tool](https://www.funblocks.net/aitools/mindmap) within the [FunBlocks AI Tools suite](https://www.funblocks.net/aitools), tailored from AIFlow for diverse use cases. The generated mind maps can be further explored and expanded using AIFlow.*
 
 ## Explore Complex Topics Through Visual Organization
 

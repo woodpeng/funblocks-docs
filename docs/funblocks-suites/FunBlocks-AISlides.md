@@ -6,9 +6,11 @@ sidebar_position: 2
 
 ## Create Professional Presentations with AI in Minutes
 
-FunBlocks AI Slides is an intelligent presentation tool that helps you create stunning slides faster and smarter. Say goodbye to formatting hassles and hello to presentations that truly showcase your ideas.
+[FunBlocks AI Slides](/slides) is an intelligent presentation tool that helps you create stunning slides faster and smarter. Say goodbye to formatting hassles and hello to presentations that truly showcase your ideas.
 
 Our AI-powered platform transforms how professionals, educators, students, and teams create and deliver presentations. With intuitive markdown editing and powerful AI assistance, you can focus on your message while we handle the design.
+
+![FunBlocks AI Slides: Your AI-powered assistant for effortless slide creation and optimization](/img/portfolio/fullsize/slides.png)
 
 ## Key Features That Make Us Different
 

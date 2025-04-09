@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Communicate Effectively with AI
 ---
 
 # How to Communicate More Effectively with AI and Get Better Answers
@@ -15,6 +16,9 @@ Have you ever struggled to get the information you need from AI? The problem mig
 FunBlocks AIFlow includes several specialized tools that significantly improve your ability to communicate effectively with AI:
 
 ### Question Optimization
+
+![FunBlocks AIFlow question optimization](/img/portfolio/fullsize/aiflow_optimize_question.png)
+
 After you submit your initial question, AIFlow's Question Optimization feature allows the AI to:
 - Analyze your original query
 - Identify your underlying needs
@@ -24,6 +28,9 @@ After you submit your initial question, AIFlow's Question Optimization feature a
 This process transforms vague requests into precise queries that yield more accurate responses.
 
 ### Dynamic Prompt Form Generation
+
+![FunBlocks AIFlow confirm requirement with AI generated requirements form](/img/portfolio/fullsize/aiflow_dynamic_form.png)
+
 When you select the Dynamic Prompt tool in AIFlow, the system creates a guided experience:
 1. After you enter your initial prompt, the AI analyzes your input
 2. It assesses whether your requirements are clear and if you've provided sufficient information
@@ -34,6 +41,9 @@ When you select the Dynamic Prompt tool in AIFlow, the system creates a guided e
 This interactive clarification process ensures the AI fully understands your needs before responding.
 
 ### Enhanced Image Generation
+
+![FunBlocks AIFlow Image generation](/img/portfolio/fullsize/aiflow_optimize_prompt.png)
+
 AIFlow's image generation tool follows a similar approach:
 1. You provide an initial description of the image you want
 2. The AI analyzes your description and generates a detailed prompt form

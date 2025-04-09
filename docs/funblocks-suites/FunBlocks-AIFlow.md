@@ -5,13 +5,15 @@ title: FunBlocks AIFlow
 
 # FunBlocks AIFlow
 
-FunBlocks AIFlow, a revolutionary tool designed to transform the way you brainstorm, organize, and develop ideas. 
+[FunBlocks AIFlow](/aiflow), a revolutionary tool designed to transform the way you brainstorm, organize, and develop ideas. 
 
 This innovative platform harnesses the power of artificial intelligence within an intuitive visual framework, enabling users to unlock their creative potential and streamline their workflows. As a key component of the broader FunBlocks product ecosystem, FunBlocks AIFlow serves as an accessible and engaging entry point for users seeking to leverage AI in their creative processes.
 
-## **What is FunBlocks AIFlow? The Power of Visual AI**
+## **What is [FunBlocks AIFlow](/aiflow)? The Power of Visual AI**
 
 FunBlocks AIFlow is best described as an AI-powered whiteboard and mind mapping tool that integrates advanced Large Language Models (LLMs) such as GPT and Claude, Gemini and DeepSeek. It provides users with an expansive, virtually limitless canvas for brainstorming, effectively removing the constraints often associated with traditional linear tools. The core concept behind FunBlocks AIFlow is to transform complex knowledge work into a visual and collaborative experience, yielding immediate and tangible results. By combining the intuitive nature of visual thinking with the intelligence of cutting-edge AI models, FunBlocks AIFlow offers a unique approach to idea generation and organization. This synergy allows users to not only capture their thoughts visually but also to benefit from AI-driven suggestions, content generation, and insightful analysis directly within their creative workspace.
+
+![FunBlocks AIFlow: AI-powered brainstorming and mind mapping tool utilizing classic mental models](/img/portfolio/fullsize/aiflow_productivity.png)
 
 ## **Key Features and How They Empower You**
 
@@ -61,6 +63,8 @@ FunBlocks AIFlow enables users to visualize complex problems from multiple persp
 
 ## **The Advantages of FunBlocks AIFlow: Why Choose Visual AI?**
 
+![FunBlocks AIFlow: Visualize Your Interaction with LLM, Elevating Beyond ChatGPT](/img/portfolio/fullsize/aiflow_benefits.png)
+
 Choosing FunBlocks AIFlow offers several distinct advantages:
 
 ### **Enhanced Creativity**
@@ -97,6 +101,8 @@ FunBlocks AIFlow adapts to diverse knowledge work scenarios, enhancing the think
 ## **FunBlocks AIFlow in the FunBlocks Ecosystem**
 
 FunBlocks AIFlow is an integral part of the broader FunBlocks AI Workspace. It serves as a natural starting point for many AI-driven workflows, facilitating the initial stages of idea generation and planning within a visual environment. The outputs generated from FunBlocks AIFlow, such as detailed mind maps and various forms of content, can potentially be integrated with other tools and modules within the FunBlocks ecosystem for further processing or automation. This interconnectedness highlights FunBlocks AIFlow's role as a foundational element in a comprehensive AI-powered workflow solution.
+
+![FunBlocks All-in-One AI workspace](/img/portfolio/fullsize/ai_workspace.png)
 
 ## **Ready to Explore? Unlock Your Potential with FunBlocks AIFlow**
 
