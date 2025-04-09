@@ -9,7 +9,7 @@ function GoogleAccountAnalytics({ page }) {
   // 处理Google身份验证响应的函数
   const handleCredentialResponse = `
     function handleCredentialResponse(response) {
-      window.open('https://app.funblocks.net/#/login?${!source ? '' : 'source=' + source}g_login_token=' + response.credential, '_blank');
+      window.open('https://app.funblocks.net/#/login?${!source ? '' : 'source=' + source+ '&'}g_login_token=' + response.credential, '_blank');
     }
   `;
 
