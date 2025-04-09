@@ -472,7 +472,7 @@ export default function AIDocs() {
       <Footer />
 
       {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
-      <GoogleAccountAnalytics />
+      <GoogleAccountAnalytics page={'aidocs'} />
     </Layout>
   );
 } 

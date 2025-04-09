@@ -643,7 +643,7 @@ export default function Home() {
       <Footer />
 
       {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
-      <GoogleAccountAnalytics />
+      <GoogleAccountAnalytics page={'homepage'}/>
     </Layout>
   );
 }

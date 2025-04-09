@@ -309,7 +309,7 @@ export default function Slides() {
 
             {/* Image Modal */}
             {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
-            <GoogleAccountAnalytics />
+            <GoogleAccountAnalytics page={'slides'} />
         </Layout>
     );
 } 

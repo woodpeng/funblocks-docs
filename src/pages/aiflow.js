@@ -501,7 +501,7 @@ export default function AIFlow() {
 
       {/* Image Modal */}
       {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
-      <GoogleAccountAnalytics />
+      <GoogleAccountAnalytics page={'aiflow'}/>
     </Layout>
   );
 } 

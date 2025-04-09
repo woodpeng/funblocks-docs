@@ -1,11 +1,15 @@
 import React from 'react';
 
 // 创建一个可以在服务端渲染时安全使用的组件
-function GoogleAccountAnalytics() {
+function GoogleAccountAnalytics({ page }) {
+  const source = ['aiflow', 'homepage'].includes(page) && 'flow'
+    || page === 'slides' && 'slides'
+    || page === 'extension_welcome' && 'extension'
+
   // 处理Google身份验证响应的函数
   const handleCredentialResponse = `
     function handleCredentialResponse(response) {
-      window.open('https://app.funblocks.net/#/login?g_login_token=' + response.credential, '_blank');
+      window.open('https://app.funblocks.net/#/login?${!source ? '' : 'source=' + source}g_login_token=' + response.credential, '_blank');
     }
   `;
 

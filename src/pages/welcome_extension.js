@@ -488,7 +488,7 @@ export default function WelcomeExtension() {
 
             <Footer />
             {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
-            <GoogleAccountAnalytics />
+            <GoogleAccountAnalytics page={'extension_welcome'} />
         </Layout>
     );
 } 
