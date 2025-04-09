@@ -55,49 +55,49 @@ function FeaturesSection({ setShowImageSrc, toDemo }) {
         {
             name: "slides.features.item1.name",
             description: "slides.features.item1.description",
-            image: "/img/portfolio/fullsize/slides_markdown.png",
+            image: "/img/portfolio/thumbnails/slides_markdown.png",
             alt: "Markdown writing feature for efficient slide creation"
         },
         {
             name: "slides.features.item2.name",
             description: "slides.features.item2.description",
-            image: "/img/portfolio/fullsize/slides_slash_menu.png",
+            image: "/img/portfolio/thumbnails/slides_slash_menu.png",
             alt: "Slash command menu for easy and smooth editing experience"
         },
         {
             name: "slides.features.item3.name",
             description: "slides.features.item3.description",
-            image: "/img/portfolio/fullsize/slides.png",
+            image: "/img/portfolio/thumbnails/slides.png",
             alt: "AI-powered content generation for high-quality slide creation"
         },
         {
             name: "slides.features.item4.name",
             description: "slides.features.item4.description",
-            image: "/img/portfolio/fullsize/slides_notes.png",
+            image: "/img/portfolio/thumbnails/slides_notes.png",
             alt: "AI-generated speaker notes for effective presentation delivery"
         },
         {
             name: "slides.features.item5.name",
             description: "slides.features.item5.description",
-            image: "/img/portfolio/fullsize/slides_math.png",
+            image: "/img/portfolio/thumbnails/slides_math.png",
             alt: "KaTeX typesetting and code block highlighting for academic and professional presentations"
         },
         {
             name: "slides.features.item6.name",
             description: "slides.features.item6.description",
-            image: "/img/portfolio/fullsize/slides_presentation.png",
+            image: "/img/portfolio/thumbnails/slides_presentation.png",
             alt: "Online sharing and presentation feature for hassle-free collaboration"
         },
         {
             name: "slides.features.item7.name",
             description: "slides.features.item7.description",
-            image: "/img/portfolio/fullsize/slides_themes.png",
+            image: "/img/portfolio/thumbnails/slides_themes.png",
             alt: "Multiple theme options for professional and versatile presentations"
         },
         {
             name: "slides.features.item8.name",
             description: "slides.features.item8.description",
-            image: "/img/portfolio/fullsize/slides_presentation_view.png",
+            image: "/img/portfolio/thumbnails/slides_presentation_view.png",
             alt: "Presenter view with timer, next slide preview, and speaker notes"
         }
     ];
@@ -116,7 +116,7 @@ function FeaturesSection({ setShowImageSrc, toDemo }) {
                                     className={styles.featureImage}
                                     src={feature.image}
                                     alt={feature.alt}
-                                    onClick={() => setShowImageSrc(feature.image)}
+                                    onClick={() => setShowImageSrc(feature.image.replace('thumbnails', 'fullsize'))}
                                 />
                             </div>
                             <div className={clsx(styles.slidesCol4, { [styles.order1]: index % 2 === 0 })}
@@ -255,7 +255,7 @@ export default function Slides() {
                     imageElement={<div style={{ flex: 4, cursor: 'pointer' }}>
                         <img
                             className={styles.featureImage}
-                            src="/img/portfolio/fullsize/slides.png"
+                            src="/img/portfolio/thumbnails/slides.png"
                             alt="AI Slides: Effortless slide creation with Markdown, AI, and cloud collaboration"
                             onClick={() => setShowImageSrc("/img/portfolio/fullsize/slides.png")}
                         />
@@ -271,7 +271,7 @@ export default function Slides() {
                     imageElement={<div style={{ flex: 4, cursor: 'pointer' }}>
                         <img
                             className={styles.featureImage}
-                            src="/img/portfolio/fullsize/slides.png"
+                            src="/img/portfolio/thumbnails/slides.png"
                             alt="AI Slides: Effortless slide creation with Markdown, AI, and cloud collaboration"
                             onClick={() => setShowImageSrc("/img/portfolio/fullsize/slides.png")}
                         />
@@ -288,7 +288,7 @@ export default function Slides() {
                     imageElement={<div style={{ flex: 2, cursor: 'pointer' }}>
                         <img
                             className={styles.featureImage}
-                            src="/img/portfolio/fullsize/aiflow_slides_generation.png"
+                            src="/img/portfolio/thumbnails/aiflow_slides_generation.png"
                             alt="AI-powered slide generation process with AIFlow brainstorming and mindmap exploration"
                             onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_slides_generation.png")}
                         />

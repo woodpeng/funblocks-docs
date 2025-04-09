@@ -50,31 +50,31 @@ function FeaturesSection({ setShowImageSrc }) {
     {
       name: "aidocs.features.item1.name",
       description: "aidocs.features.item1.description",
-      image: "/img/portfolio/fullsize/ai_writer_block_editor.png",
+      image: "/img/portfolio/thumbnails/ai_writer_block_editor.png",
       alt: "Block-based document editor similar to Notion"
     },
     {
       name: "aidocs.features.item2.name",
       description: "aidocs.features.item2.description",
-      image: "/img/portfolio/fullsize/ai_writer_editing_assistant.png",
+      image: "/img/portfolio/thumbnails/ai_writer_editing_assistant.png",
       alt: "AI writing assistant for content creation"
     },
     {
       name: "aidocs.features.item3.name",
       description: "aidocs.features.item3.description",
-      image: "/img/portfolio/fullsize/ai_writer_infographic_assistant.png",
+      image: "/img/portfolio/thumbnails/ai_writer_infographic_assistant.png",
       alt: "Critical thinking enhancement features"
     },
     {
       name: "aidocs.features.item4.name",
       description: "aidocs.features.item4.description",
-      image: "/img/portfolio/fullsize/ai_writer_critical_thinking_assistant.png",
+      image: "/img/portfolio/thumbnails/ai_writer_critical_thinking_assistant.png",
       alt: "Document organization and linking capabilities"
     },
     {
       name: "aidocs.features.item5.name",
       description: "aidocs.features.item5.description",
-      image: "/img/portfolio/fullsize/ai_writer_workspace.png",
+      image: "/img/portfolio/thumbnails/ai_writer_workspace.png",
       alt: "Document organization and linking capabilities"
     }
   ];
@@ -93,7 +93,7 @@ function FeaturesSection({ setShowImageSrc }) {
                   className={styles.docsFeatureImage}
                   src={feature.image}
                   alt={feature.alt}
-                  onClick={() => setShowImageSrc(feature.image)}
+                  onClick={() => setShowImageSrc(feature.image.replace('thumbnails', 'fullsize'))}
                 />
               </div>
               <div className={clsx(styles.slidesCol4, { [styles.order1]: index % 2 === 0 })}
@@ -180,7 +180,7 @@ function AIAssistantSection({ setShowImageSrc }) {
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_writer_critical_thinking_assistant.png")}
               id="aidocs-critical-thinking"
               alt="AI-powered critical thinking enhancement features"
-              src="/img/portfolio/fullsize/ai_writer_critical_thinking_assistant.png"
+              src="/img/portfolio/thumbnails/ai_writer_critical_thinking_assistant.png"
             />
           </div>
         </div>
@@ -204,7 +204,7 @@ function WritingAssistantSection({ setShowImageSrc }) {
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_writer_editing_assistant.png")}
               id="aidocs-writing-assistant"
               alt="AI-powered writing assistance features"
-              src="/img/portfolio/fullsize/ai_writer_editing_assistant.png"
+              src="/img/portfolio/thumbnails/ai_writer_editing_assistant.png"
             />
           </div>
           
@@ -316,7 +316,7 @@ function EcosystemIntegrationSection({ setShowImageSrc }) {
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_workspace.png")}
               id="aidocs-ecosystem"
               alt="FunBlocks ecosystem integration features"
-              src="/img/portfolio/fullsize/ai_workspace.png"
+              src="/img/portfolio/thumbnails/ai_workspace.png"
             />
           </div>
         </div>
@@ -433,7 +433,7 @@ export default function AIDocs() {
           imageElement={<div style={{ flex: 4, cursor: 'pointer' }}>
             <img
               className={styles.featureImage}
-              src="/img/portfolio/fullsize/ai_writer_editor.png"
+              src="/img/portfolio/thumbnails/ai_writer_editor.png"
               alt="FunBlocks AI Docs: Notion-style block editor with AI assistant"
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_writer_editor.png")}
             />
@@ -452,7 +452,7 @@ export default function AIDocs() {
           imageElement={<div style={{ flex: 4, cursor: 'pointer' }}>
             <img
               className={styles.docsFeatureImage}
-              src="/img/portfolio/fullsize/ai_writer_workspace.png"
+              src="/img/portfolio/thumbnails/ai_writer_workspace.png"
               alt="FunBlocks AI Docs: Notion-style block editor with AI assistant"
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_writer_workspace.png")}
             />

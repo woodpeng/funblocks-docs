@@ -109,7 +109,7 @@ function SettingsSection({ setShowImageSrc }) {
                             className={styles.featureImage}
                             id="aiflow-brainstorming"
                             alt="Various AI models and LLM providers available in FunBlocks AI"
-                            src="/img/portfolio/fullsize/settings_llm_provider.png"
+                            src="/img/portfolio/thumbnails/settings_llm_provider.png"
                         />
                     </div>
 
@@ -179,7 +179,7 @@ function ReadingSection({ }) {
                             className={styles.featureImage}
                             id="aiflow-brainstorming"
                             alt="FunBlocks AI sidebar assistant interface for enhanced reading and critical thinking"
-                            src='/img/portfolio/fullsize/ai_reading_en.png'
+                            src='/img/portfolio/thumbnails/ai_reading_en.png'
                         />
                     </div>
                     <div className={styles.featureContent} style={{

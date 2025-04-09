@@ -66,7 +66,7 @@ function FeaturesSection({ setShowImageSrc }) {
         { id: 'aiflow.features.item1.li2', text: 'Rapidly identify key elements and potential challenges' },
         { id: 'aiflow.features.item1.li3', text: 'Simplify the research process through a divide-and-conquer approach' },
       ],
-      imageSrc: "/img/portfolio/fullsize/aiflow_breakdown.png",
+      imageSrc: "/img/portfolio/thumbnails/aiflow_breakdown.png",
       imageAlt: "Illustration of AI-powered problem breakdown process",
     },
     {
@@ -79,7 +79,7 @@ function FeaturesSection({ setShowImageSrc }) {
         { id: 'aiflow.features.item2.li3', text: 'Let AI suggest unexpected angles and approaches' },
         { id: 'aiflow.features.item2.li4', text: 'Let AI suggest unexpected angles and approaches' },
       ],
-      imageSrc: "/img/portfolio/fullsize/aiflow_expansion.png",
+      imageSrc: "/img/portfolio/thumbnails/aiflow_expansion.png",
       imageAlt: "Visualization of AI-assisted thought expansion and idea generation",
     },
     {
@@ -90,7 +90,7 @@ function FeaturesSection({ setShowImageSrc }) {
         { id: 'aiflow.features.item3.li2', text: 'Note: Quick idea capture with AI-powered expansion' },
         { id: 'aiflow.features.item3.li3', text: 'Task list: AI-enhanced task management and prioritization' },
       ],
-      imageSrc: "/img/portfolio/fullsize/aiflow_optimize_prompt.png",
+      imageSrc: "/img/portfolio/thumbnails/aiflow_optimize_prompt.png",
       imageAlt: "Showcase of diverse content types supported by AI assistants",
     },
 
@@ -103,7 +103,7 @@ function FeaturesSection({ setShowImageSrc }) {
         { id: 'aiflow.features.item4.li3', text: 'Task list: AI-enhanced task management and prioritization' },
         { id: 'aiflow.features.item4.li4', text: 'Link: Web content integration for research and inspiration' },
       ],
-      imageSrc: "/img/portfolio/fullsize/aiflow_image.png",
+      imageSrc: "/img/portfolio/thumbnails/aiflow_image.png",
       imageAlt: "Showcase of diverse content types supported by AI assistants",
     },
     {
@@ -114,7 +114,7 @@ function FeaturesSection({ setShowImageSrc }) {
         { id: 'aiflow.features.item5.li2', text: 'Leverage AI assistant support for analysis and generation' },
         { id: 'aiflow.features.item5.li3', text: 'Synthesize diverse ideas into comprehensive solutions with one-click' },
       ],
-      imageSrc: "/img/portfolio/fullsize/aiflow_group_nodes.png",
+      imageSrc: "/img/portfolio/thumbnails/aiflow_group_nodes.png",
       imageAlt: "Demonstration of AI-powered group nodes for organizing and synthesizing ideas",
     },
     {
@@ -125,7 +125,7 @@ function FeaturesSection({ setShowImageSrc }) {
         { id: 'aiflow.features.item6.li2', text: 'Automatically generate high-quality content, saving time and effort' },
         { id: 'aiflow.features.item6.li3', text: 'Support personalized AI instructions to meet specific needs' },
       ],
-      imageSrc: "/img/portfolio/fullsize/aiflow_notes.png",
+      imageSrc: "/img/portfolio/thumbnails/aiflow_notes.png",
       imageAlt: "Overview of the all-in-one AI assistant features and customizable prompts",
     },
   ];
@@ -149,7 +149,7 @@ function FeaturesSection({ setShowImageSrc }) {
             <div style={{ cursor: 'pointer', flex: 5 }}>
               <img
                 className={styles.featureImage}
-                onClick={() => setShowImageSrc(feature.imageSrc)}
+                onClick={() => setShowImageSrc(feature.imageSrc.replace('thumbnails', 'fullsize'))}
                 id={`aiflow-${index + 1}`}
                 alt={feature.imageAlt}
                 src={feature.imageSrc}
@@ -200,7 +200,7 @@ function AIBrainstormingSection({ setShowImageSrc }) {
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
               id="aiflow-brainstorming"
               alt="AI-powered brainstorming with classic thinking models"
-              src="/img/portfolio/fullsize/aiflow_productivity.png"
+              src="/img/portfolio/thumbnails/aiflow_productivity.png"
             />
           </div>
           <div className={styles.featureContent} style={{
@@ -322,7 +322,7 @@ function BookInsightsSection({ setShowImageSrc }) {
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_book.png")}
               id="aiflow-brainstorming"
               alt="AI-powered mind mapping for book analysis and learning"
-              src="/img/portfolio/fullsize/aiflow_book.png"
+              src="/img/portfolio/thumbnails/aiflow_book.png"
             />
           </div>
         </div>
@@ -403,7 +403,7 @@ function UseCasesSection({ setShowImageSrc }) {
               className={styles.featureImage}
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_learning.png")}
               alt={"AIFlow boost creativity and productivity under multi scenarios"}
-              src={"/img/portfolio/fullsize/aiflow_learning.png"}
+              src={"/img/portfolio/thumbnails/aiflow_learning.png"}
             />
           </div>
         </div>
@@ -462,7 +462,7 @@ export default function AIFlow() {
             <img
               className={styles.featureImage}
               alt="FunBlocks AIFlow benefits compared to ChatGPT"
-              src="/img/portfolio/fullsize/aiflow_benefits.png"
+              src="/img/portfolio/thumbnails/aiflow_benefits.png"
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
             />
           </div>}
@@ -481,7 +481,7 @@ export default function AIFlow() {
             className={styles.featureImage}
             onClick={() => setShowImageSrc('/img/portfolio/fullsize/aiflow_related_question.png')}
             alt={'AI-guided topic discovery and exploration with AIFlow'}
-            src={'/img/portfolio/fullsize/aiflow_related_question.png'}
+            src={'/img/portfolio/thumbnails/aiflow_related_question.png'}
           />
         </div>}
         />

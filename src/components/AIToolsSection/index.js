@@ -24,7 +24,7 @@ function AIToolsSection() {
             id="aitools"
             alt="FunBlocks AI Tools"
             className={styles.fullWidthImage}
-            src="/img/portfolio/fullsize/ai_tools.png"
+            src="/img/portfolio/thumbnails/ai_tools.png"
           />
   
           <div className={styles.toolsList}>

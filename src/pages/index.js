@@ -50,7 +50,7 @@ function HomepageHeader({ setShowImageSrc, toApp }) {
             onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
             id="aiflow-overview"
             alt="FunBlocks AIFlow interface"
-            src="/img/portfolio/fullsize/aiflow_benefits.png"
+            src="/img/portfolio/thumbnails/aiflow_benefits.png"
           />
         </div>
 
@@ -173,7 +173,7 @@ function DeepenThinkingSection({ setShowImageSrc }) {
               className={styles.featureImage}
               id="aiflow_optimize_question"
               alt="Mind mapping for deeper thinking"
-              src="/img/portfolio/fullsize/aiflow_optimize_question.png"
+              src="/img/portfolio/thumbnails/aiflow_optimize_question.png"
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_optimize_question.png")}
             />
           </div>
@@ -193,7 +193,7 @@ function BoostCreativitySection({ setShowImageSrc }) {
               className={styles.featureImage}
               id="aiflow_productivity"
               alt="Creative brainstorming with AI"
-              src="/img/portfolio/fullsize/aiflow_productivity.png"
+              src="/img/portfolio/thumbnails/aiflow_productivity.png"
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
             />
           </div>
@@ -292,7 +292,7 @@ function BoostProductivitySection({ setShowImageSrc }) {
               className={styles.featureImage}
               id="aiflow_slides_generation"
               alt="Productivity enhancement with AIFlow"
-              src="/img/portfolio/fullsize/aiflow_slides_generation.png"
+              src="/img/portfolio/thumbnails/aiflow_slides_generation.png"
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_slides_generation.png")}
             />
           </div>
@@ -501,7 +501,7 @@ function WorkspaceSection({ setShowImageSrc }) {
                 onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_benefits.png")}
                 id="aiflow-overview"
                 alt="FunBlocks AIFlow interface"
-                src="/img/portfolio/fullsize/aiflow_benefits.png"
+                src="/img/portfolio/thumbnails/aiflow_benefits.png"
               />
             </div>
           </div>
@@ -522,7 +522,7 @@ function WorkspaceSection({ setShowImageSrc }) {
             <div style={{ cursor: 'pointer' }}>
               <img
                 className={styles.featureImage}
-                src="/img/portfolio/fullsize/ai_writer_workspace.png"
+                src="/img/portfolio/thumbnails/ai_writer_workspace.png"
                 alt="FunBlocks AI Docs: Notion-style block editor with AI assistant"
                 onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_writer_workspace.png")}
               />
@@ -545,7 +545,7 @@ function WorkspaceSection({ setShowImageSrc }) {
             <div style={{ cursor: 'pointer' }}>
               <img
                 className={styles.featureImage}
-                src="/img/portfolio/fullsize/slides.png"
+                src="/img/portfolio/thumbnails/slides.png"
                 alt="AI Slides: Effortless slide creation with Markdown, AI, and cloud collaboration"
                 onClick={() => setShowImageSrc("/img/portfolio/fullsize/slides.png")}
               />
@@ -570,7 +570,8 @@ function WorkspaceSection({ setShowImageSrc }) {
                 className={styles.featureImage}
                 id="aiflow-brainstorming"
                 alt="FunBlocks AI sidebar assistant interface for enhanced reading and critical thinking"
-                src='/img/portfolio/fullsize/ai_reading_en.png'
+                src='/img/portfolio/thumbnails/ai_reading_en.png'
+                onClick={() => setShowImageSrc("/img/portfolio/fullsize/ai_reading_en.png")}
               />
             </div>
           </div>
