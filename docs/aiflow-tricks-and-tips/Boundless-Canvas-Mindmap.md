@@ -24,7 +24,8 @@ FunBlocks AIFlow breaks these constraints. By visualizing your conversation on a
 
 ### 1. Follow-up Questions After Each Answer
 
-![FunBlocks AIFlow question box to LLM](/img/portfolio/fullsize/aiflow_question_box.png)
+<img src="/img/portfolio/fullsize/aiflow_question_box.png" width="680" alt="FunBlocks AIFlow question box to LLM"/> 
+
 
 Unlike traditional interfaces where previous conversations scroll away, AIFlow keeps your entire thinking space visible. When you receive an answer:
 
@@ -35,7 +36,7 @@ Unlike traditional interfaces where previous conversations scroll away, AIFlow k
 
 ### 2. Generate Exploration Spaces
 
-![FunBlocks AIFlow related question and topic generation for exploration](/img/portfolio/fullsize/aiflow_exploration_space.png)
+<img src="/img/portfolio/fullsize/aiflow_exploration_space.png" width="680" alt="FunBlocks AIFlow related question and topic generation for exploration"/>
 
 This is where AIFlow truly shines! The platform can automatically generate related topics and questions around your central idea, creating what we call an "exploration space."
 
