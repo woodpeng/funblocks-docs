@@ -23,6 +23,8 @@ Like individual nodes, group nodes have access to AI assistant menus. The key di
 - Detailed reports
 - Structured documents
 
+![FunBlocks AIFlow transform mindmap to slides with one-click](/img/portfolio/fullsize/aiflow_slides_generation.png)
+
 ## Practical Applications of Group Nodes
 
 ### Brainstorming Sessions
@@ -38,5 +40,7 @@ For those who continuously capture thoughts and insights, group nodes offer a fl
 2. Revisit any group when you're ready to develop those concepts further
 3. Work with the AI assistant to explore specific idea clusters in depth
 4. Transform loosely connected thoughts into cohesive projects
+
+![FunBlocks AIFlow group nodes](/img/portfolio/fullsize/aiflow_group_nodes.png)
 
 By mastering group nodes in FunBlocks AIFlow, you'll bring a new level of organization and AI-powered processing to your creative and analytical workflows.

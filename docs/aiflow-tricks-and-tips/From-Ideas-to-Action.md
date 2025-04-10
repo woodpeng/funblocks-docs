@@ -19,6 +19,8 @@ With just one click, transform your mind map into a well-structured document. Al
 - Refine further with AI assistant help
 - Share with stakeholders or team members
 
+![FunBlocks AIFlow Save Node to FunBlocks AI Docs](/img/portfolio/fullsize/aiflow_save_to_docs.png)
+
 This feature eliminates the tedious process of manually transferring ideas from a mind map to a document, saving you hours of work.
 
 #### 2. Create Presentation Slides Instantly
@@ -28,6 +30,8 @@ Need to present your ideas? AIFlow allows you to convert your mind map directly 
 - Creates visually appealing slides based on your content
 - Enables seamless transfer to the Slides editor for further AI-assisted refinement
 
+![FunBlocks AIFlow transform mindmap to slides with one-click](/img/portfolio/fullsize/aiflow_slides_generation.png)
+
 Perfect for when you need to quickly prepare for a meeting or presentation!
 
 #### 3. Design Information Graphics
@@ -36,6 +40,8 @@ Turn complex information into clear, compelling infographics that communicate yo
 - Make complex concept more accessible
 - Enhance understanding through visual representation
 - Create shareable assets for team communication
+
+![FunBlocks AIFlow transform mindmap to infographics](/img/portfolio/fullsize/aiflow_transform_to_infographics.png)
 
 #### 4. Develop Flow Charts
 
@@ -51,6 +57,8 @@ Complete your documents and presentations with AI-generated images that align wi
 - Enhance engagement with your audience
 - Illustrate concepts more effectively
 - Add professional polish to your deliverables
+
+![FunBlocks AIFlow transform node content to image](/img/portfolio/fullsize/aiflow_node_to_image.png)
 
 ### Productivity in Action: A Real-World Example
 

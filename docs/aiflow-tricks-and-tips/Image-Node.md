@@ -26,6 +26,8 @@ The Image Node opens up numerous possibilities for image processing and analysis
 
 Beyond analysis, AIFlow also supports sophisticated image editing. What makes this particularly effective is AIFlow's innovative approach to processing your editing instructions.
 
+![FunBlocks AIFlow AI edit image](/img/portfolio/fullsize/aiflow_optimize_prompt.png)
+
 Most users struggle to articulate precise image editing requirements in a way that AI models can accurately interpret. AIFlow solves this problem through a two-step process:
 
 1. When you describe your editing needs, a large language model first analyzes your requirements
@@ -44,5 +46,7 @@ To use the Image Node effectively:
 - Be specific about what you want to analyze or modify
 - Review and adjust the suggested parameters in the dynamic prompt form
 - Experiment with different approaches to find what works best for your specific needs
+
+<img src="/img/portfolio/fullsize/aiflow_image_ai_tools.png" width="300" alt="FunBlocks AIFlow image AI tools"/> 
 
 The Image Node exemplifies how FunBlocks AIFlow bridges the gap between human intent and AI capability, helping you achieve better results with minimal technical expertise.

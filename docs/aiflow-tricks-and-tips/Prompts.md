@@ -27,7 +27,7 @@ Absolutely! AIFlow allows you to develop your own prompts as custom AI assistant
 **A major advantage** of developing custom AI Apps and Prompts in the FunBlocks ecosystem is their cross-platform compatibility. Any AI App or Prompt you create can be used across all FunBlocks products, including:
 
 - AIFlow
-- AI Writer
+- AI Docs
 - AI Extension
 
 This "develop once, use everywhere" approach maximizes your efficiency by ensuring that your custom tools are available no matter which FunBlocks product you're working with. Your carefully crafted prompts and applications become a personal productivity toolkit that follows you throughout the FunBlocks platform.

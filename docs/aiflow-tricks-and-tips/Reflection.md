@@ -2,7 +2,9 @@
 sidebar_position: 9
 ---
 
-# Optimizing AI Output Through Reflection
+# Optimizing AI Output 
+
+## *Innovative Approaches for AI Self-Reflection and Enhancement*
 
 Not satisfied with your AI-generated results? FunBlocks AIFlow offers several powerful methods to refine and enhance the content you receive. In this installment of our series, we'll explore how to optimize AI outputs through reflection techniques, a key advantage built directly into the AIFlow platform.
 
@@ -13,8 +15,12 @@ When working with AI-generated content in AIFlow, you have three main options to
 ### 1. Direct Editing
 You can manually edit any generated subtopic. For example, in mind maps created during brainstorming sessions, you can easily add, delete, or modify subtopics to better align with your needs.
 
+![FunBlocks AIFlow edit node item](/img/portfolio/fullsize/aiflow_edit_node_item.png)
+
 ### 2. Model Switching
 In AIFlow, you can choose different large language models (LLMs) to regenerate any generated node, creating a new sibling node. This gives you the flexibility to try various AI approaches to find the output that best serves your purpose.
+
+![FunBlocks AIFlow support regenerate with new LLM](/img/portfolio/fullsize/aiflow_regenerate_with_new_llm.png)
 
 ### 3. AI Self-Reflection
 Perhaps the most powerful optimization technique is enabling AI self-reflection. With this feature, you can:
@@ -23,6 +29,8 @@ Perhaps the most powerful optimization technique is enabling AI self-reflection.
 - Review these suggested optimizations
 - Add your own adjustments and opinions
 - Instruct the AI to regenerate content based on this refined optimization plan
+
+![FunBlocks AIFlow AI self reflection and improvement to generated content](/img/portfolio/fullsize/aiflow_reflection_improve.png)
 
 ## The Power of AI Self-Reflection
 

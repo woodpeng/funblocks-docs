@@ -25,15 +25,21 @@ The platform helps you analyze whether your questions are effective and provides
 
 [How to Communicate More Effectively with AI and Get Better Answers](/docs/aiflow-tricks-and-tips/Asking-Good-Questions)
 
-### Dedicated Critical Thinking Tools
+### Specialized AI Assistants
+
+<img src="/img/portfolio/fullsize/aiflow_critical_thinking_tools.png" width="600" alt="FunBlocks AIFlow offers a suite of specialized tools designed to enhance critical thinking skills"/> 
+
 The node AI tools menu contains various critical thinking tools, including:
 - Reflection tools
 - Cognitive bias identification
 - Alternative perspective generators
 - Assumption testing mechanisms
 
-### Specialized AI Assistants
-FunBlocks AIFlow includes scenario-specific AI tools to support different aspects of critical thinking:
+### Dedicated Critical Thinking Tools
+
+![FunBlocks AIFlow offers a suite of specialized AI Tools designed to enhance critical thinking skills](/img/portfolio/fullsize/aitools_critical_thinking_tools.png)
+
+FunBlocks AIFlow includes scenario-specific [AI tools](https://www.funblocks.net/aitools) to support different aspects of critical thinking:
 - [**AI Critical Thinking Coach**](https://www.funblocks.net/aitools/critical-thinking): Guides you through the critical thinking process
 - [**AI Question Craft**](https://www.funblocks.net/aitools/refine-question): Helps formulate better, more precise questions
 - [**AI LogicLens**](https://www.funblocks.net/aitools/bias): Analyzes reasoning patterns and identifies logical fallacies

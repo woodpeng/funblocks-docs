@@ -2,7 +2,9 @@
 sidebar_position: 5
 ---
 
-# Breakdown - Simplify the Complex, Divide and Conquer
+# Breakdown  
+
+## *Simplify the Complex, Divide and Conquer*
 
 In our ongoing series about maximizing your FunBlocks AIFlow experience, today we're exploring one of the most powerful strategies for tackling complex problems: the Breakdown technique.
 
@@ -36,6 +38,8 @@ Beyond problem-solving, breaking down complex topics is also one of the most eff
 
 ### Topic Breakdown Tool
 
+![FunBlocks AIFlow Breakdown tool](/img/portfolio/fullsize/aiflow_panel_breakdown.png)
+
 The Topic Breakdown Tool is perfect for research, learning, and content creation. Here's how to use it effectively:
 
 1. Select the Topic Breakdown Tool from the toolbar
@@ -50,7 +54,7 @@ This tool is particularly valuable when exploring new subjects or planning conte
 
 When you're focused on getting things done, the Task Breakdown Tool becomes your best friend:
 
-1. Launch the Task Breakdown Tool
+1. Launch the Task Breakdown Tool (Just above the topic breakdown tool)
 2. Enter your overall objective or project
 3. Review the generated task list
 4. Reorder, modify, or remove the tasks as needed
@@ -60,6 +64,8 @@ When you're focused on getting things done, the Task Breakdown Tool becomes your
 This systematic approach ensures nothing falls through the cracks and keeps projects on track.
 
 ### Mind Map Integration
+
+![FunBlocks AIFlow Brainstorming ideation with mental models](/img/portfolio/fullsize/aiflow_productivity.png)
 
 One of the most powerful features of FunBlocks AIFlow is how breakdown functionality is integrated into the mind mapping system:
 

@@ -14,9 +14,13 @@ Sticky Notes in AIFlow function as flexible text containers that bridge human ed
 - Quick capture tools for your thoughts and ideas
 - Input containers for text from external sources
 
+![FunBlocks AIFlow: copy node to Sticky Notes](/img/portfolio/fullsize/aiflow_copy_to_sticky_notes.png)
+
 ## Getting Started with Sticky Notes
 
 You can easily add a Sticky Note to your workflow by selecting it from the tools panel on the left side of the interface. This allows you to capture ideas immediately without interrupting your creative flow.
+
+![FunBlocks AIFlow Panel tool: Sticky Notes](/img/portfolio/fullsize/aiflow_panel_notes.png)
 
 ## Key Features and Use Cases
 
@@ -27,6 +31,8 @@ Like other nodes in AIFlow, Sticky Notes have access to the AI functionality men
 - Generate presentation slides from your notes
 - Have the AI review and provide feedback on written content
 - Transform rough ideas into polished articles
+
+<img src="/img/portfolio/fullsize/aiflow_sticky_notes_ai_tools.png" width="500" alt="FunBlocks AIFlow Sticky Notes: convert to articles"/> 
 
 ### Importing External Content
 
@@ -39,6 +45,8 @@ Sticky Notes excel as tools for developing deeper analytical skills:
 - Ask the AI to help with reflection exercises
 - Identify contradictions or biases in your thinking
 - Explore alternative perspectives on your ideas
+
+<img src="/img/portfolio/fullsize/aiflow_sticky_notes_critical_thinking_tools.png" width="400" alt="FunBlocks AIFlow Sticky Notes: Critical thinking tools"/> 
 
 ### Knowledge Exploration
 

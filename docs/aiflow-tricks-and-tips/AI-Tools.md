@@ -12,9 +12,19 @@ FunBlocks AIFlow provides specialized [AI tools](https://www.funblocks.net/aitoo
 
 While text-based AI assistants like ChatGPT are useful, they often generate walls of text that can be time-consuming to process. FunBlocks AI Tools transform your AI interactions through visual formats that align with how your brain naturally processes information.
 
-### Key AI Tools You Should Be Using
+## How do AI Tools and AIFlow work together?
 
-#### 1. AI Mind Map Generator
+AIFlow is the main platform that powers everything, while AI Tools are easy-to-use applications that help you quickly access features within AIFlow. These tools are designed for specific tasks, making it simple for you to explore and create with AIFlow.
+
+![FunBlocks AIFlow mind map generator](/img/portfolio/fullsize/aitools_mindmap_generator.png)
+
+## What if I can't find the tool I need in AI Tools?
+
+If you can't find a specific tool in AI Tools, don't worry! You can still use AIFlow directly to get the job done. While AI Tools are convenient, they may not cover every need, but AIFlow has all the capabilities you require.
+
+## Key AI Tools You Should Be Using
+
+### 1. AI Mind Map Generator
 Convert complex documents, books, or movies into clear, visual mind maps instantly. This tool helps you:
 - Organize complex information at a glance
 - Identify connections between concepts
@@ -22,7 +32,7 @@ Convert complex documents, books, or movies into clear, visual mind maps instant
 
 **Pro Tip:** Use the mind map generator for meeting notes to transform linear conversations into structured, actionable insights.
 
-#### 2. AI Brainstorming
+### 2. AI Brainstorming
 Combine AI with classic thinking models to generate innovative solutions. This tool is perfect for:
 - Breaking through creative blocks
 - Exploring multiple solution paths simultaneously
@@ -30,7 +40,7 @@ Combine AI with classic thinking models to generate innovative solutions. This t
 
 **Pro Tip:** Start with a broad concept, then use the tool to drill down into specific applications or implementations.
 
-#### 3. AI Critical Thinking
+### 3. AI Critical Thinking
 Enhance your analytical skills by examining problems from multiple perspectives. Use this tool to:
 - Identify potential biases in your thinking
 - Evaluate evidence more effectively
@@ -38,7 +48,7 @@ Enhance your analytical skills by examining problems from multiple perspectives.
 
 **Pro Tip:** When facing a complex decision, use this tool to systematically analyze pros, cons, and hidden assumptions.
 
-#### 4. AI Infographics Generator
+### 4. AI Infographics Generator
 Transform complex information into visually appealing, easy-to-understand graphics with just a few clicks. This tool allows you to:
 - Convert text-heavy content into engaging visual formats
 - Create knowledge cards that highlight key information
@@ -46,7 +56,7 @@ Transform complex information into visually appealing, easy-to-understand graphi
 
 **Pro Tip:** Use the infographics generator for social media content to increase engagement and shareability of your information.
 
-#### 5. AI Slides Generator
+### 5. AI Slides Generator
 Create professional presentations in minutes rather than hours. This tool helps you:
 - Generate complete slide decks on any topic
 - Maintain consistent design and messaging
