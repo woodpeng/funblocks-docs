@@ -129,7 +129,7 @@ function DeepenThinkingSection({ setShowImageSrc }) {
     <section className={styles.featureSection}>
       <div className="container">
         <div className={styles.featureGrid}>
-          <div className={styles.featureContent}>
+          <div className={styles.featureContent} style={{ flex: 2 }}>
             <Heading as="h2">
               <Translate id="homepage.features.visualize.title">Visualize Complex Thinking</Translate>
             </Heading>
@@ -168,7 +168,7 @@ function DeepenThinkingSection({ setShowImageSrc }) {
               </li>
             </ul>
           </div>
-          <div style={{ cursor: 'pointer' }}>
+          <div style={{ cursor: 'pointer', flex: 2 }}>
             <img
               className={styles.featureImage}
               id="aiflow_optimize_question"
@@ -188,7 +188,7 @@ function BoostCreativitySection({ setShowImageSrc }) {
     <section className={styles.featureSection}>
       <div className="container">
         <div className={styles.featureGrid}>
-          <div style={{ cursor: 'pointer' }}>
+          <div style={{ cursor: 'pointer', flex: 2 }}>
             <img
               className={styles.featureImage}
               id="aiflow_productivity"
@@ -197,7 +197,7 @@ function BoostCreativitySection({ setShowImageSrc }) {
               onClick={() => setShowImageSrc("/img/portfolio/fullsize/aiflow_productivity.png")}
             />
           </div>
-          <div className={styles.featureContent}>
+          <div className={styles.featureContent} style={{ flex: 2 }}>
             <Heading as="h2">
               <Translate id="homepage.features.accelerate.title">Accelerate Innovative Solutions</Translate>
             </Heading>
@@ -247,7 +247,7 @@ function BoostProductivitySection({ setShowImageSrc }) {
     <section className={styles.featureSection}>
       <div className="container">
         <div className={styles.featureGrid}>
-          <div className={styles.featureContent}>
+          <div className={styles.featureContent} style={{ flex: 2 }}>
             <Heading as="h2">
               <Translate id="homepage.features.streamline.title">Streamline Knowledge Work</Translate>
             </Heading>
@@ -287,7 +287,7 @@ function BoostProductivitySection({ setShowImageSrc }) {
             </ul>
           </div>
 
-          <div style={{ cursor: 'pointer' }}>
+          <div style={{ cursor: 'pointer', flex: 2 }}>
             <img
               className={styles.featureImage}
               id="aiflow_slides_generation"

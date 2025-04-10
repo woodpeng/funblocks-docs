@@ -232,7 +232,7 @@
 }
 
 .featureGrid {
-  display: grid;
+  display: block;
   grid-template-columns: 1fr 1fr;
   gap: 4rem;
   align-items: center;
@@ -240,6 +240,7 @@
 
 .featureContent {
   max-width: 500px;
+  margin-top: 1.5rem;
 }
 
 .featureContent h2 {
@@ -584,6 +585,28 @@
   .slidesCol4, .slidesCol8 {
     flex: 0 0 100%;
     max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .featureGrid {
+    display: flex;
+    align-items: center;
+  }
+  
+  .featureContent {
+    flex: 2;
+    margin-top: 0;
+  }
+  
+  /* 图片在左侧的布局 */
+  .imageLeft {
+    flex-direction: row;
+  }
+  
+  /* 图片在右侧的布局 */
+  .imageRight {
+    flex-direction: row-reverse;
   }
 }
 

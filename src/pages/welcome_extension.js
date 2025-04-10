@@ -88,7 +88,6 @@ function WelcomeHeader() {
 }
 
 function SettingsSection({ setShowImageSrc }) {
-    const isMobile = useMediaQuery({ maxWidth: 768 });
 
     return (
         <section className={styles.featureSection} style={{ backgroundColor: 'azure' }}>
@@ -100,10 +99,7 @@ function SettingsSection({ setShowImageSrc }) {
                     <Translate id="extension_welcome.settings.subtitle">Boost creativity with AI-assisted classic thinking models</Translate>
                 </p>
 
-                <div className={styles.featureGrid} style={{
-                    display: isMobile ? 'block' : 'flex',
-                    flexDirection: 'row-reverse'
-                }}>
+                <div className={styles.featureGrid}>
                     <div style={{ cursor: 'pointer', flex: 4 }}>
                         <img
                             className={styles.featureImage}
@@ -115,7 +111,6 @@ function SettingsSection({ setShowImageSrc }) {
 
                     <div className={styles.featureContent} style={{
                         flex: 2,
-                        marginTop: isMobile ? '15px' : undefined
                     }}>
 
                         <Heading as="h3" style={{ paddingTop: '10px' }}>
@@ -159,7 +154,6 @@ function SettingsSection({ setShowImageSrc }) {
 }
 
 function ReadingSection({ }) {
-    const isMobile = useMediaQuery({ maxWidth: 768 });
 
     return (
         <section className={styles.featureSection}>
@@ -171,9 +165,7 @@ function ReadingSection({ }) {
                     <Translate id="extension_welcome.reading.subtitle">Boost creativity with AI-assisted classic thinking models</Translate>
                 </p>
 
-                <div className={styles.featureGrid} style={{
-                    display: isMobile ? 'block' : 'flex'
-                }}>
+                <div className={styles.featureGrid}>
                     <div style={{ cursor: 'pointer', flex: 4 }}>
                         <img
                             className={styles.featureImage}
@@ -184,7 +176,6 @@ function ReadingSection({ }) {
                     </div>
                     <div className={styles.featureContent} style={{
                         flex: 3,
-                        marginTop: isMobile ? '15px' : undefined
                     }}>
                         <Heading as="h3">
                             <Translate id="extension_welcome.reading.critical_thinking">Ideation with Classic Thinking Models</Translate>
@@ -239,7 +230,6 @@ function ReadingSection({ }) {
 }
 
 function ContextualSection() {
-    const isMobile = useMediaQuery({ maxWidth: 768 });
 
     return (
         <section className={styles.featureSection} style={{ backgroundColor: 'azure' }}>
@@ -251,12 +241,7 @@ function ContextualSection() {
                     <Translate id="extension_welcome.contextual.subtitle">Boost creativity with AI-assisted classic thinking models</Translate>
                 </p>
 
-                <div className={styles.featureGrid} style={{
-                    display: isMobile ? 'block' : 'flex',
-                    flexDirection: 'row-reverse',
-                    width: '100%',
-                    gap: '2rem'
-                }}>
+                <div className={styles.featureGrid}>
                     <div style={{ cursor: 'pointer', flex: 4 }}>
                         <img
                             className={styles.featureImage}
@@ -295,7 +280,6 @@ function ContextualSection() {
                 </div>
 
                 <div className={styles.featureGrid} style={{
-                    display: isMobile ? 'block' : 'flex',
                     flexDirection: 'row',
                     width: '100%',
                     gap: '2rem',
@@ -343,7 +327,6 @@ function ContextualSection() {
 }
 
 function WritingSection() {
-    const isMobile = useMediaQuery({ maxWidth: 768 });
     return (
         <section id="writing" className={styles.featureSection} style={{ backgroundColor: 'floralwhite' }}>
             <div className="container">
@@ -355,10 +338,10 @@ function WritingSection() {
                 </p>
 
                 <div className={styles.featureGrid}>
-                    <div className="d-flex flex-column align-items-end mb-3">
+                    <div className="d-flex flex-column align-items-end mb-3" style={{flex: 2}}>
                         <textarea
                             id="editor_demo"
-                            rows={isMobile? 10 : 20}
+                            rows={15}
                             style={{ width: '100%', outline: 'none', padding: '8px' }}
                             defaultValue="Play with FunBlocks AI Writing Assistant here"
                         />

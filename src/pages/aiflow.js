@@ -130,8 +130,6 @@ function FeaturesSection({ setShowImageSrc }) {
     },
   ];
 
-  const isMobile = useMediaQuery({ maxWidth: 768 }); // Use a custom hook for responsive design
-
   return (
     <section id="features" className={clsx(styles.featureSection)} style={{ backgroundColor: '#F0FFF0' }}>
       <div className="container">
@@ -142,8 +140,6 @@ function FeaturesSection({ setShowImageSrc }) {
         {features.map((feature, index) => (
           <div className={styles.featureGrid} style={{
             marginTop: index > 0 ? '3rem' : '0',
-            // display: isMobile ? 'block' : 'flex',
-            display: isMobile ? 'block' : 'flex',
             flexDirection: index % 2 === 0 ? 'row-reverse' : 'row', // Change layout based on index
           }} key={index}>
             <div style={{ cursor: 'pointer', flex: 5 }}>
@@ -155,7 +151,7 @@ function FeaturesSection({ setShowImageSrc }) {
                 src={feature.imageSrc}
               />
             </div>
-            <div className={styles.featureContent} style={{ flex: 3, marginTop: isMobile ? '12px' : undefined }}>
+            <div className={styles.featureContent} style={{ flex: 3 }}>
               {feature.icon && <div className={styles.benefitIcon}>{feature.icon}</div>}
               <Heading as="h3">
                 <Translate id={feature.nameId}>{feature.nameId}</Translate>
@@ -179,8 +175,6 @@ function FeaturesSection({ setShowImageSrc }) {
 }
 
 function AIBrainstormingSection({ setShowImageSrc }) {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
-
   return (
     <section id="ai-powered-brainstorming" className={styles.featureSection}>
       <div className="container">
@@ -191,9 +185,7 @@ function AIBrainstormingSection({ setShowImageSrc }) {
           <Translate id="aiflow.ai-powered-brainstorming.subtitle">Boost creativity with AI-assisted classic thinking models</Translate>
         </p>
 
-        <div className={styles.featureGrid} style={{
-          display: isMobile ? 'block' : 'flex'
-        }}>
+        <div className={styles.featureGrid}>
           <div style={{ cursor: 'pointer', flex: 4 }}>
             <img
               className={styles.featureImage}
@@ -204,8 +196,7 @@ function AIBrainstormingSection({ setShowImageSrc }) {
             />
           </div>
           <div className={styles.featureContent} style={{
-            flex: 2,
-            marginTop: isMobile ? '15px' : undefined
+            flex: 2
           }}>
             <Heading as="h3">
               <Translate id="aiflow.ai-powered-brainstorming.classic_models.title">Ideation with Classic Thinking Models</Translate>
@@ -260,8 +251,6 @@ function AIBrainstormingSection({ setShowImageSrc }) {
 }
 
 function BookInsightsSection({ setShowImageSrc }) {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
-
   return (
     <section id="book-insights" className={styles.featureSection} style={{ backgroundColor: 'cornsilk' }}>
       <div className="container">
@@ -276,12 +265,9 @@ function BookInsightsSection({ setShowImageSrc }) {
           </Translate>
         </p>
 
-        <div className={styles.featureGrid} style={{
-          display: isMobile ? 'block' : 'flex'
-        }}>
+        <div className={styles.featureGrid}>
           <div className={styles.featureContent} style={{
             flex: 2,
-            marginTop: isMobile ? '15px' : undefined
           }}>
             <i className="fas fa-4x fa-book-reader text-primary mb-4" />
             <Heading as="h3">
@@ -332,7 +318,6 @@ function BookInsightsSection({ setShowImageSrc }) {
 }
 
 function UseCasesSection({ setShowImageSrc }) {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
   const useCases = [
     {
       icon: '📚',
@@ -379,12 +364,11 @@ function UseCasesSection({ setShowImageSrc }) {
         <div
           className={styles.featureGrid}
           style={{
-            display: isMobile ? 'block' : 'flex',
             flexDirection: 'row',
           }}
         >
 
-          <div className={styles.featureContent} style={{ flex: 3, marginTop: isMobile ? '12px' : undefined }}>
+          <div className={styles.featureContent} style={{ flex: 3 }}>
             {useCases.map((useCase, index) => (
 
               <div key={index}>

@@ -119,8 +119,6 @@ function FeaturesSection({ setShowImageSrc }) {
 }
 
 function AIAssistantSection({ setShowImageSrc }) {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
-
   return (
     <section id="ai-assistant" className={styles.featureSection} style={{ backgroundColor: 'aliceblue' }}>
       <div className="container">
@@ -135,12 +133,9 @@ function AIAssistantSection({ setShowImageSrc }) {
           </Translate>
         </p>
 
-        <div className={styles.featureGrid} style={{
-          display: isMobile ? 'block' : 'flex'
-        }}>
+        <div className={styles.featureGrid}>
           <div className={styles.featureContent} style={{
             flex: 2,
-            marginTop: isMobile ? '15px' : undefined
           }}>
             <Heading as="h3">
               <Translate id="aidocs.ai-assistant.critical-thinking.title">Enhance Critical Thinking</Translate>
@@ -190,14 +185,10 @@ function AIAssistantSection({ setShowImageSrc }) {
 }
 
 function WritingAssistantSection({ setShowImageSrc }) {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
-
   return (
     <section id="writing-assistant" className={styles.featureSection}>
       <div className="container">
-        <div className={styles.featureGrid} style={{
-          display: isMobile ? 'block' : 'flex'
-        }}>
+        <div className={styles.featureGrid}>
           <div style={{ cursor: 'pointer', flex: 3 }}>
             <img
               className={styles.docsFeatureImage}
@@ -209,8 +200,7 @@ function WritingAssistantSection({ setShowImageSrc }) {
           </div>
           
           <div className={styles.featureContent} style={{
-            flex: 2,
-            marginTop: isMobile ? '15px' : undefined
+            flex: 2
           }}>
             <Heading as="h3">
               <Translate id="aidocs.writing-assistant.title">Smart Writing Tools</Translate>
@@ -255,8 +245,6 @@ function WritingAssistantSection({ setShowImageSrc }) {
 }
 
 function EcosystemIntegrationSection({ setShowImageSrc }) {
-  const isMobile = useMediaQuery({ maxWidth: 768 });
-
   return (
     <section id="ecosystem-integration" className={styles.featureSection} style={{ backgroundColor: 'cornsilk' }}>
       <div className="container">
@@ -271,12 +259,9 @@ function EcosystemIntegrationSection({ setShowImageSrc }) {
           </Translate>
         </p>
 
-        <div className={styles.featureGrid} style={{
-          display: isMobile ? 'block' : 'flex'
-        }}>
+        <div className={styles.featureGrid}>
           <div className={styles.featureContent} style={{
             flex: 2,
-            marginTop: isMobile ? '15px' : undefined
           }}>
             <Heading as="h3">
               <Translate id="aidocs.ecosystem.workflow.title">Complete Workflow Integration</Translate>
