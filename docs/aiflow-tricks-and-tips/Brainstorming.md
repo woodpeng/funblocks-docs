@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+title: Brainstorming and Ideation
 ---
 
 # Supercharge Your Brainstorming and Problem-Solving
@@ -20,6 +21,8 @@ This is where AI assistance becomes invaluable. With its vast knowledge base and
 
 ## Leveraging AIFlow's Brainstorming Tools
 
+![FunBlocks AIFlow Brainstorming tool](/img/portfolio/fullsize/aiflow_panel_brainstorming.png)
+
 FunBlocks AIFlow makes this AI-powered brainstorming remarkably simple:
 
 1. Select the Brainstorming tool within AIFlow
@@ -31,6 +34,8 @@ Within seconds, AIFlow creates a comprehensive mind map exploring your topic fro
 ## Going Deeper with Interactive Exploration
 
 What makes AIFlow particularly powerful is how you can interact with the generated mind map:
+
+![FunBlocks AIFlow Brainstorming ideation with mental models](/img/portfolio/fullsize/aiflow_productivity.png)
 
 - **Detailed explanations**: Click on any subtopic to have AI provide in-depth information and analysis
 - **Topic breakdown**: Complex concepts can be further divided into manageable components for focused exploration

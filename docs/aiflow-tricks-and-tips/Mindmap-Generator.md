@@ -44,6 +44,8 @@ Beyond basic content conversion, AIFlow offers sophisticated analysis capabiliti
 - **Visual Art Interpretation**: Analyze images and artwork, presenting interpretations in an easy-to-understand visual format
 - **Question-Based Mapping**: Receive answers to complex questions presented as organized mind maps rather than lengthy text
 
+![FunBlocks AIFlow art appreciation mind map generator](/img/portfolio/fullsize/aiflow_image_mindmap.png)
+
 ## Why Mind Maps Outperform Traditional Text Formats
 
 AIFlow's mind mapping interface provides several cognitive advantages:
@@ -87,11 +89,16 @@ Begin using AIFlow's mind mapping capabilities with these simple approaches:
 
 ### Book, movie and youtube video mind map generator
 
+![FunBlocks AIFlow panel mind map generators](/img/portfolio/fullsize/aiflow_panel_mindmap_generators.png)
+
 1. Select the **"Book Mind Map,"** **"Movie Mind Map,"** or **"YouTube Video Mind Map"** tool from the left toolbar on the canvas, then enter a book title, movie title, or YouTube URL to instantly generate a visual mind map
 2. Click on any subtopic to explore deeper or request "expand this topic" for more detail
 3. Hover over the right side of any subtopic and click the "Expand" button to break it down or brainstorm with selected thinking models, generating more perspectives or ideas
 
 ### Node Mind Map Generator  
+
+![FunBlocks AIFlow node mind map generator](/img/portfolio/fullsize/aiflow_node_mindmap.png)
+
 1. Select any text, image, or note node on the canvas to display the node toolbar
 2. Click the **"Generate Mind Map"** button on the toolbar to instantly create a visual mind map
 3. Click on any subtopic to explore deeper or request "expand this topic" for more detail

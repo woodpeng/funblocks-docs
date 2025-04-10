@@ -17,6 +17,8 @@ FunBlocks AIFlow includes several specialized tools that significantly improve y
 
 ### Question Optimization
 
+![FunBlocks AIFlow tool: Question](/img/portfolio/fullsize/aiflow_panel_question.png)
+
 ![FunBlocks AIFlow question optimization](/img/portfolio/fullsize/aiflow_optimize_question.png)
 
 After you submit your initial question, AIFlow's Question Optimization feature allows the AI to:
