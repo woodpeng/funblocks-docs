@@ -1,19 +1,15 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+aiflow:
+  label: AIFlow
+  permalink: /aiflow
+  description: FunBlocks AIFlow
 
-hello:
-  label: Hello
+ideas:
+  label: Idea
   permalink: /hello
-  description: Hello tag description
+  description: Ideas
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+feature:
+  label: Feature
+  permalink: /feature
+  description: Product feature
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description

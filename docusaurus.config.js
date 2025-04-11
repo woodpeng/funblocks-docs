@@ -67,6 +67,9 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
+          blogTitle: 'FunBlocks AI Blog: Insights and Innovations',
+          blogDescription: 'Explore tips, tricks, and insights to maximize your FunBlocks AI experience!',
+          postsPerPage: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -80,8 +83,8 @@ const config = {
           customCss: './src/css/custom.css',
         },
         sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
+          changefreq: 'daily',
+          priority: 1,
           filename: 'sitemap.xml',
         },
       }),
@@ -112,7 +115,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'localeDropdown',
             position: 'right',
@@ -128,7 +131,9 @@ const config = {
         disableSwitch: true,      // 禁用切换按钮
         respectPrefersColorScheme: false, // 忽略系统偏好
       },
-
+      metadata: [
+        { name: 'keywords', content: 'FunBlocks AI, AI Tools, Mindmap generator, infographic generator, brainstorming, AI ideation, AI writing, AI reading, AI image generate, FunBlocks AIFlow' },
+      ]
     }),
 };
 
