@@ -79,6 +79,11 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
@@ -123,7 +128,7 @@ const config = {
         disableSwitch: true,      // 禁用切换按钮
         respectPrefersColorScheme: false, // 忽略系统偏好
       },
-      
+
     }),
 };
 

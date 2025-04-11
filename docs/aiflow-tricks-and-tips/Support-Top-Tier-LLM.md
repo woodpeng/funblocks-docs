@@ -8,7 +8,7 @@ In today's rapidly evolving AI landscape, having access to the right language mo
 
 ## Official Support for Top-Tier LLM Models
 
-FunBlocks AI seamlessly integrates with all major language models, including OpenAI's GPT-4o, Anthropic's Claude, Google's Gemini, DeepSeek, and other cutting-edge AI models.
+FunBlocks AI seamlessly integrates with all leading large language models, including OpenAI's GPT-4o, Anthropic's Claude, Google's Gemini, DeepSeek, and other state-of-the-art AI models. Additionally, FunBlocks AI will continuously update to the latest and most powerful versions available.
 
 <img src="/img/portfolio/fullsize/aiflow_llm_dropdown_menu.png" width="640" alt="FunBlocks AIFlow AI models dropdown menu"/> 
 

@@ -27,7 +27,7 @@ The platform helps you analyze whether your questions are effective and provides
 
 ### Specialized AI Assistants
 
-<img src="/img/portfolio/fullsize/aiflow_critical_thinking_tools.png" width="600" alt="FunBlocks AIFlow offers a suite of specialized tools designed to enhance critical thinking skills"/> 
+<img src="/img/portfolio/fullsize/aiflow_critical_thinking_tools.png" width="540" alt="FunBlocks AIFlow offers a suite of specialized tools designed to enhance critical thinking skills"/> 
 
 The node AI tools menu contains various critical thinking tools, including:
 - Reflection tools

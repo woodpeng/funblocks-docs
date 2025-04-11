@@ -15,11 +15,15 @@ FunBlocks AIFlow offers multiple ways to convert your brainstorming sessions int
 #### 1. Generate Comprehensive Project Reports
 
 With just one click, transform your mind map into a well-structured document. All your brainstormed ideas are automatically organized into a cohesive report that you can:
-- Save directly to your Workspace
-- Refine further with AI assistant help
+- Save directly to your [FunBlocks Workspace](/aidocs)
+- Refine further with [FunBlocks Docs](/aidocs) AI assistant help
 - Share with stakeholders or team members
 
 ![FunBlocks AIFlow Save Node to FunBlocks AI Docs](/img/portfolio/fullsize/aiflow_save_to_docs.png)
+
+Refine further with [FunBlocks Docs](/aidocs) AI assistant
+
+![FunBlocks AI Docs AI assistant](/img/portfolio/fullsize/aidocs_edit_ai_assistant.png)
 
 This feature eliminates the tedious process of manually transferring ideas from a mind map to a document, saving you hours of work.
 
@@ -45,7 +49,7 @@ Turn complex information into clear, compelling infographics that communicate yo
 
 #### 4. Develop Flow Charts
 
-Visualize processes and procedures with automatically generated flow charts. This feature is ideal for:
+Visualize processes and procedures with automatically generated flow charts, sequence diagram, timeline, quadrant chart and etc. This feature is ideal for:
 - Documenting workflows
 - Planning project phases
 - Explaining complex procedures
