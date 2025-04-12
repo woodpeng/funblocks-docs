@@ -69,7 +69,8 @@ const config = {
           },
           blogTitle: 'FunBlocks AI Blog: Insights and Innovations',
           blogDescription: 'Explore tips, tricks, and insights to maximize your FunBlocks AI experience!',
-          postsPerPage: 'ALL',
+          postsPerPage: 1,
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
