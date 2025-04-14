@@ -5,7 +5,7 @@ import styles from './index.module.css';
 
 function FAQItem({ page, questionId, answerId }) {
   const [isOpen, setIsOpen] = useState(false);
-  
+
   const toggleFaq = () => {
     setIsOpen(!isOpen);
   };
@@ -16,18 +16,18 @@ function FAQItem({ page, questionId, answerId }) {
         <span style={{ fontWeight: 'normal' }}>
           <Translate id={`${page}.faq.${questionId}`} />
         </span>
-        <div 
-          className={styles.faqArrow} 
+        <div
+          className={styles.faqArrow}
           style={{ transform: isOpen ? 'rotate(90deg)' : 'none' }}
         >
           &#9654;
         </div>
       </div>
-      <div 
-        className={styles.faqAnswer} 
-        style={{ 
+      <div
+        className={styles.faqAnswer}
+        style={{
           whiteSpace: 'pre-line',
-          display: isOpen ? 'block' : 'none' 
+          display: isOpen ? 'block' : 'none'
         }}
       >
         <Translate id={`${page}.faq.${answerId}`} />
@@ -36,12 +36,7 @@ function FAQItem({ page, questionId, answerId }) {
   );
 }
 
-function FAQSection({page, faqIds}) {
-//   const faqIds = [
-//     'q0', 'q01', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 'q7', 'q8', 
-//     'q9', 'q10', 'q11', 'q12', 'q14', 'q15', 'q16', 'q17', 'q18', 'q19'
-//   ];
-
+function FAQSection({ page, faqIds }) {
   return (
     <section id="faqs" className={clsx('page-section', styles.faqSection)} style={{ backgroundColor: 'var(--gray)' }}>
       <div className="container">
@@ -50,7 +45,7 @@ function FAQSection({page, faqIds}) {
         </h2>
         <div className={styles.faqContainer}>
           {faqIds.map((q) => (
-            <FAQItem 
+            <FAQItem
               key={q}
               page={page}
               questionId={q}

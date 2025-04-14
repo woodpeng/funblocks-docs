@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunblocks_docs=self.webpackChunkfunblocks_docs||[]).push([[81903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/zh/blog","blogTitle":"FunBlocks AI Blog: Insights and Innovations","authorsListPath":"/zh/blog/authors"}')}}]);

@@ -16,19 +16,19 @@ function Footer() {
               <h4 data-i18n="footer.product">FunBlocks AI Products</h4>
               <ul>
                 <li>
-                  <a href="/aiflow.html">FunBlocks AI Flow</a>
+                  <a href="/aiflow">FunBlocks AI Flow</a>
                 </li>
                 <li>
                   <a href="/aitools">FunBlocks AI Tools</a>
                 </li>
                 <li>
-                  <a href="/welcome_extension.html">FunBlocks AI Extension</a>
+                  <a href="/welcome_extension">FunBlocks AI Extension</a>
                 </li>
                 <li>
-                  <a href="/slides.html">FunBlocks AI Slides</a>
+                  <a href="/slides">FunBlocks AI Slides</a>
                 </li>
                 <li>
-                  <a href="/aidocs.html">FunBlocks AI Docs</a>
+                  <a href="/aidocs">FunBlocks AI Docs</a>
                 </li>
               </ul>
             </div>
@@ -36,8 +36,11 @@ function Footer() {
             <div className={styles.footerLinks}>
               <h4 data-i18n="footer.resources">Resources</h4>
               <ul>
+              <li>
+                  <a href="/docs">FunBlocks AI Tutorials</a>
+                </li>
                 <li>
-                  <a href="https://blog.funblocks.net">FunBlocks AI Blog</a>
+                  <a href="/blog">FunBlocks AI Blog</a>
                 </li>
                 <li>
                   <a href="https://app.funblocks.net/shares">FunBlocks AI Generated Content</a>

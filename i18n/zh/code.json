@@ -336,19 +336,19 @@
     "message": "什么是FunBlocks？"
   },
   "homepage.faq.a0": {
-    "message": "FunBlocks是一个AI驱动的知识学习与生产力平台，提供一站式AI工作空间。用户可以利用AI助手撰写文档和笔记，进行思维导图和白板头脑风暴，进行主题学习，还能以Markdown格式创建幻灯片并一键生成信息图。此外，FunBlocks还提供浏览器插件，帮助用户在任何网页上进行AI辅助的写作和阅读。"
+    "message": "FunBlocks是一个AI驱动的知识学习与生产力平台，提供一站式AI工作空间。用户可以利用AI助手撰写文档和笔记，进行思维导图和白板头脑风暴，进行主题学习，还能以Markdown格式创建幻灯片，也能根据上下文一键生成信息图。此外，FunBlocks还提供浏览器插件，帮助用户在任何网页上进行AI辅助的写作和阅读。"
   },
   "homepage.faq.q01": {
     "message": "为什么主页着重介绍FunBlocks AIFlow？"
   },
   "homepage.faq.a01": {
-    "message": "FunBlocks AIFlow通过视觉化的AI白板和思维导图，创新性地激发了大语言模型的创造力，使用户能够与AI共同进行头脑风暴。用户可以一键将思维导图转化为实际的工作成果，如幻灯片和方案文档，这些成果会自动保存到FunBlocks工作空间中，便于后续修改和优化。因此，将FunBlocks AIFlow作为入口，可以让用户更早地体验到FunBlocks平台在提升学习、创作和工作效率方面的强大能力。"
+    "message": "主页强调FunBlocks AIFlow，因为它展示了该平台在提升学习、创造力和生产力方面的强大功能。FunBlocks AIFlow使用可视化的AI白板和思维导图来激发创造力，并允许用户与AI进行头脑风暴。用户只需点击一下，就可以将思维导图转化为实用的输出，如幻灯片和提案，这些内容会自动保存在FunBlocks工作区中，便于编辑。这种设置鼓励用户探索其他FunBlocks产品，如FunBlocks AI Docs和FunBlocks AI Slides。"
   },
   "homepage.faq.q1": {
     "message": "FunBlocks AIFlow是什么？"
   },
   "homepage.faq.a1": {
-    "message": "FunBlocks AIFlow是一个AI驱动的视觉思维平台，帮助您将复杂的想法转化为思维导图、幻灯片和信息图表。它将AI的力量与视觉思维技术相结合，提升您的认知过程和生产力。"
+    "message": "FunBlocks AIFlow是一个AI驱动的视觉思维平台，旨在帮助用户进行头脑风暴和生成创新想法。它能够将复杂的概念转化为思维导图、幻灯片和信息图表，结合AI的强大功能与视觉思维技术，显著提升您的认知能力和生产力。"
   },
   "homepage.faq.q2": {
     "message": "AIFlow与ChatGPT有什么不同？"
@@ -841,7 +841,7 @@
     "message": "什么是FunBlocks AIFlow？"
   },
   "aiflow.faq.a1": {
-    "message": "FunBlocks AIFlow是一个AI驱动的视觉思维平台，帮助您将复杂想法转化为思维导图、幻灯片和信息图表。它结合AI的力量与视觉思维技术，提升您的认知过程和生产力。"
+    "message": "FunBlocks AIFlow是一个AI驱动的视觉思维平台，旨在帮助用户进行头脑风暴和生成创新想法。它能够将复杂的概念转化为思维导图、幻灯片和信息图表，结合AI的强大功能与视觉思维技术，显著提升您的认知能力和生产力。"
   },
   "aiflow.faq.q2": {
     "message": "AIFlow与ChatGPT有何不同？"

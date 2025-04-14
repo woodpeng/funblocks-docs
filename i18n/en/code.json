@@ -342,13 +342,13 @@
     "message": "Why does the homepage emphasize FunBlocks AIFlow?"
   },
   "homepage.faq.a01": {
-    "message": "FunBlocks AIFlow innovatively stimulates the creativity of large language models through a visual AI whiteboard and mind mapping, enabling users to brainstorm collaboratively with AI. Users can convert mind maps into tangible work outputs, such as slides and proposal documents, with one click, and these outputs are automatically saved in the FunBlocks workspace for easy modification and optimization later. Therefore, positioning FunBlocks AIFlow as the entry point allows users to experience the powerful capabilities of the FunBlocks platform in enhancing learning, creation, and work efficiency earlier on."
+    "message": "The homepage highlights FunBlocks AIFlow because it showcases the platform's powerful features for improving learning, creativity, and productivity right from the start. FunBlocks AIFlow uses a visual AI whiteboard and mind mapping to inspire creativity and allows users to brainstorm with AI. With just one click, users can turn their mind maps into practical outputs like slides and proposals, which are automatically saved in the FunBlocks workspace for easy editing. This setup encourages users to explore other FunBlocks products, such as FunBlocks AI Docs and FunBlocks AI Slides."
   },
   "homepage.faq.q1": {
     "message": "What is FunBlocks AIFlow?"
   },
   "homepage.faq.a1": {
-    "message": "FunBlocks AIFlow is an AI-driven visual thinking platform that helps you transform complex ideas into mind maps, slides, and infographics. It combines the power of AI with visual thinking techniques to enhance your cognitive processes and productivity."
+    "message": "FunBlocks AIFlow is an AI-driven visual thinking platform designed to help users brainstorm and generate innovative ideas. It can transform complex concepts into mind maps, slides, and infographics, combining the powerful capabilities of AI with visual thinking techniques to significantly enhance your cognitive abilities and productivity."
   },
   "homepage.faq.q2": {
     "message": "How does AIFlow differ from ChatGPT?"
@@ -846,7 +846,7 @@
     "message": "What is FunBlocks AIFlow?"
   },
   "aiflow.faq.a1": {
-    "message": "FunBlocks AIFlow is an AI-driven visual thinking platform that helps you transform complex ideas into mind maps, slides, and infographics. It combines the power of AI with visual thinking techniques to enhance your cognitive processes and productivity."
+    "message": "FunBlocks AIFlow is an AI-driven visual thinking platform designed to help users brainstorm and generate innovative ideas. It can transform complex concepts into mind maps, slides, and infographics, combining the powerful capabilities of AI with visual thinking techniques to significantly enhance your cognitive abilities and productivity."
   },
   "aiflow.faq.q2": {
     "message": "How does AIFlow differ from ChatGPT?"
