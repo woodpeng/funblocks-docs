@@ -15,7 +15,7 @@ In our fast-paced, information-saturated world, we are constantly bombarded with
 
 ## 2. Historical Background: Tracing the Roots of Provocative Thinking
 
-While "Heuristic Provocation" might not be attributed to a single historical figure in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) or [Parkinson's Law](/docs/thinking-toolkit/classic-mental-models/parkinsons-law), its roots are deeply embedded in the fields of creativity, problem-solving, and cognitive psychology. The concept draws inspiration from several intertwined intellectual threads that have evolved over decades.
+While "Heuristic Provocation" might not be attributed to a single historical figure in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) or [Parkinson's Law](/docs/thinking-toolkit/classic-mental-models/parkinsons-law), its roots are deeply embedded in the fields of creativity, problem-solving, and cognitive psychology. The concept draws inspiration from several intertwined intellectual threads that have evolved over decades.
 
 The foundation lies in the understanding of **heuristics** themselves.  Pioneering work by cognitive psychologists Amos Tversky and Daniel Kahneman in the 1970s highlighted how humans rely on heuristics to simplify complex judgments and decisions. Their research, while primarily focused on cognitive biases and errors arising from heuristics, inadvertently laid the groundwork for understanding the power of these mental shortcuts. They demonstrated how heuristics, while efficient, can sometimes lead us astray, revealing the inherent biases within our thinking.
 

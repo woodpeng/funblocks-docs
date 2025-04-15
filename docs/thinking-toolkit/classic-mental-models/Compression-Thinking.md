@@ -17,7 +17,7 @@ Why is Compression Thinking so vital today? Because our cognitive bandwidth is l
 
 ## 2. Historical Background:  Tracing the Roots of Efficiency and Essence
 
-While "Compression Thinking" might not be attributed to a single, definitive historical figure in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) is associated with William of Ockham, its origins are deeply rooted in various fields that value efficiency, clarity, and the extraction of essential information.  It's more accurately described as an emergent mental model, drawn from principles and practices developed across disciplines over centuries.
+While "Compression Thinking" might not be attributed to a single, definitive historical figure in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) is associated with William of Ockham, its origins are deeply rooted in various fields that value efficiency, clarity, and the extraction of essential information.  It's more accurately described as an emergent mental model, drawn from principles and practices developed across disciplines over centuries.
 
 The core idea of Compression Thinking resonates strongly with the principles of **information theory**, pioneered by Claude Shannon in the mid-20th century. Shannon's work focused on quantifying information and finding the most efficient ways to transmit and store it.  His concept of entropy, measuring the disorder or randomness in a system, and the idea of reducing redundancy to improve efficiency are fundamental to Compression Thinking.  Shannon didn't explicitly name "Compression Thinking," but his work laid the theoretical groundwork for understanding the value of information density and efficient communication.
 
@@ -87,7 +87,7 @@ Compression Thinking, while powerful, is not the only mental model that promotes
 
 **When to Choose:** Use First Principles Thinking when you need to solve a complex problem innovatively or challenge existing paradigms.  Use Compression Thinking when you need to quickly understand complex information, communicate effectively, or make efficient decisions based on existing knowledge.
 
-**b) [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):** Occam's Razor, also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  It favors simplicity and elegance in explanations.
+**b) [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):** Occam's Razor, also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  It favors simplicity and elegance in explanations.
 
 **Relationship:** Compression Thinking and Occam's Razor share a common thread of valuing simplicity. Occam's Razor is a guiding principle for *choosing* between explanations, while Compression Thinking is a broader cognitive skill for *processing* information efficiently.
 

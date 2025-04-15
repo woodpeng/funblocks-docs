@@ -145,9 +145,9 @@ Bayesian Updating, while powerful, doesn't operate in isolation. It's often help
 
 **When to Choose:** Use First Principles Thinking when you are tackling a complex problem and need to build a solid foundation of understanding. Use Bayesian Updating when you need to refine your understanding or make decisions in situations with uncertainty and evolving information, especially after you have established a reasonable prior understanding, perhaps even using First Principles.
 
-**3. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) vs. Bayesian Updating:**
+**3. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) vs. Bayesian Updating:**
 
-[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) (or the principle of parsimony) suggests that, when faced with competing explanations, the simpler explanation is usually the better one.  There's an interesting relationship between Occam's Razor and Bayesian Updating.
+[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) (or the principle of parsimony) suggests that, when faced with competing explanations, the simpler explanation is usually the better one.  There's an interesting relationship between Occam's Razor and Bayesian Updating.
 
 **Relationship:** In a Bayesian context, simpler models often correspond to stronger priors. If you have no strong prior information favoring a complex explanation, a simpler explanation (with a higher prior probability due to its simplicity) might be favored initially. However, Bayesian Updating allows for complexity to be justified if the evidence strongly supports it.
 

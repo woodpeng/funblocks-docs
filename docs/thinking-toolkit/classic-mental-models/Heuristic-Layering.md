@@ -195,7 +195,7 @@ Heuristic Layering, while powerful, is not the only mental model that helps us n
 * **Differences:** First Principles Thinking is a more analytical and foundational approach, requiring deep understanding and potentially more effort. Heuristic Layering is more pragmatic and efficiency-focused, leveraging existing cognitive tools. First Principles aims for fundamental understanding, while Heuristic Layering aims for efficient and effective solutions.
 * **When to Choose:** Use First Principles Thinking when you need to deeply understand a problem from the ground up, especially when dealing with novel or unprecedented situations. Use Heuristic Layering when you need to make efficient decisions or solve problems quickly in familiar or semi-familiar contexts, leveraging existing knowledge and patterns.
 
-**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):**
+**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):**
 
 * **Relationship:** Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. Heuristic Layering can incorporate Occam's Razor as a heuristic within a layer.
 * **Similarities:** Both models value simplicity and efficiency in thinking. Occam's Razor promotes simplicity in explanations, while Heuristic Layering promotes efficiency in decision-making through simplified mental processes.

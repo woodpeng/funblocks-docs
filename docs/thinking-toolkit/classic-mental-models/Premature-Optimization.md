@@ -119,7 +119,7 @@ In each of these application areas, the core principle remains the same: **focus
 
 Premature optimization is a powerful mental model, but it's even more effective when understood in relation to other related thinking tools. Let's compare it with a few key mental models to clarify its unique value and when to apply it:
 
-**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) (Law of Parsimony):**
+**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) (Law of Parsimony):**
 
 *   **Relationship:** Both models emphasize simplicity and efficiency. Occam's Razor suggests that, among competing hypotheses, the simplest explanation is usually the best. Premature optimization complements this by advising against unnecessary complexity introduced by early optimization efforts.
 *   **Similarity:** Both advocate for avoiding unnecessary complexity and favoring simplicity. They both value efficiency, but caution against misguided or premature attempts at it.

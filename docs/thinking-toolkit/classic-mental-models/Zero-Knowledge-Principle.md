@@ -142,7 +142,7 @@ These diverse applications demonstrate the broad applicability of the Zero Knowl
 
 The Zero Knowledge Principle is a powerful tool, but it's part of a larger toolkit of mental models. Understanding how it relates to other models helps you choose the right tool for the job. Let's compare it to a few related models:
 
-**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor): Simplicity and Parsimony**
+**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor): Simplicity and Parsimony**
 
 Occam's Razor, as mentioned earlier, advocates for choosing the simplest explanation among competing hypotheses.  It's closely related to the Zero Knowledge Principle in its emphasis on simplicity and eliminating unnecessary complexity.
 

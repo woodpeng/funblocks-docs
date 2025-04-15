@@ -89,9 +89,9 @@ These diverse applications highlight the power and versatility of Design by Subt
 
 ## 5. Comparison with Related Mental Models: Navigating the Landscape of Simplicity
 
-Design by Subtraction is not operating in isolation. It shares common ground with several other mental models that also emphasize simplification, focus, and clarity. Understanding these related models and their nuances can help you choose the most appropriate tool for a given situation. Let's compare Design by Subtraction with three related mental models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor), [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking), and [Inversion](/docs/thinking-toolkit/classic-mental-models/inversion).
+Design by Subtraction is not operating in isolation. It shares common ground with several other mental models that also emphasize simplification, focus, and clarity. Understanding these related models and their nuances can help you choose the most appropriate tool for a given situation. Let's compare Design by Subtraction with three related mental models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor), [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking), and [Inversion](/docs/thinking-toolkit/classic-mental-models/inversion).
 
-**1. Design by Subtraction vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):**
+**1. Design by Subtraction vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):**
 
 * **Similarities:** Both models value simplicity and favor less complex solutions. Occam's Razor, as mentioned earlier, prioritizes the simplest explanation among competing hypotheses. Design by Subtraction, similarly, seeks the simplest and most effective solution by removing unnecessary elements. Both are driven by a desire for clarity and efficiency.
 

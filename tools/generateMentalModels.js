@@ -44,7 +44,7 @@ async function main() {
     // console.log('models...........', models);
     models.map(m => console.log(m))
 
-    const FILE_INIT_INDEX = 280;
+    const FILE_INIT_INDEX = 1;
 
 
     for (let i = 0; i < models.length; i++) {

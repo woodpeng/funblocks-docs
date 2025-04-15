@@ -159,7 +159,7 @@ Relevance Mapping, while powerful on its own, is often complemented by other men
 
 * **When to Choose:** Use First-Principles Thinking when you need to deeply understand a problem from its foundations. Use Relevance Mapping when you are faced with an abundance of information and need to efficiently filter and prioritize what's important for any goal or decision, including but not limited to problems derived from first principles.
 
-**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
 * **Relationship:** Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. Relevance Mapping can be used to apply Occam's Razor more effectively. By focusing on relevant evidence and information, you can more easily identify the simplest explanation that fits the facts, discarding overly complex or irrelevant details.
 

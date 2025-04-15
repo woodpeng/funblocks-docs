@@ -183,7 +183,7 @@ Abstraction Laddering is a powerful tool, but it's even more effective when unde
 
 *   **When to Choose:** Use First Principles Thinking when you need to rigorously analyze a problem and build solutions from the ground up, especially in situations involving complex systems or innovative design. Choose Abstraction Laddering when you need to understand different perspectives, improve communication, or strategically navigate between general ideas and concrete actions in a wider range of contexts.
 
-**2. Occam's Razor:** [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/occam's-razor) (Law of Parsimony)
+**2. Occam's Razor:** [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) (Law of Parsimony)
 
 *   **Relationship:** Occam's Razor is the principle that, among competing hypotheses, the one with the fewest assumptions should be selected.  In the context of Abstraction Laddering, Occam's Razor can be seen as guiding you to choose the *appropriate* level of abstraction for a given situation, often favoring simpler, more concrete explanations when possible.
 

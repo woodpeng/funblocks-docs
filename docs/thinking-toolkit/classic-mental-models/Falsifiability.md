@@ -108,7 +108,7 @@ Falsifiability is a powerful mental model, but it doesn't operate in isolation. 
 * **Differences:** Confirmation bias is a *descriptive* model, explaining a common cognitive bias. Falsifiability is a *prescriptive* model, offering a principle for improving our thinking. Confirmation bias describes what we *tend* to do; falsifiability suggests what we *should* do to think more rigorously.
 * **When to Choose:** When you suspect you might be falling prey to confirmation bias – clinging to beliefs because they feel good or align with your existing worldview – actively applying falsifiability is crucial.  Force yourself to consider counter-arguments, seek out disconfirming evidence, and ask: "What would have to be true for me to be wrong?" This deliberate effort to falsify your own beliefs can help mitigate the effects of confirmation bias and lead to more objective and accurate conclusions.
 
-**2. Falsifiability vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):**
+**2. Falsifiability vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):**
 
 * **Relationship:** Occam's Razor, also known as the principle of parsimony, suggests that among competing explanations, the simpler one is usually better.  Falsifiability and Occam's Razor are both valuable in evaluating theories, but they address different aspects. Falsifiability focuses on testability and the potential for disproof, while Occam's Razor focuses on simplicity and elegance.
 * **Similarities:** Both models favor intellectual rigor and discourage unnecessary complexity or unsubstantiated claims. They both contribute to clearer and more efficient thinking.

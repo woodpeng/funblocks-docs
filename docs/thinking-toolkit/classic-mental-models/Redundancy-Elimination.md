@@ -125,7 +125,7 @@ These examples illustrate the broad applicability of Redundancy Elimination.  By
 
 Redundancy Elimination, while powerful on its own, is often intertwined with and complemented by other mental models. Understanding its relationship with similar models can help you choose the most appropriate tool for a given situation. Let's compare Redundancy Elimination with a few related mental models:
 
-**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):** Occam's Razor, also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  There's a clear overlap with Redundancy Elimination. Both models value simplicity and efficiency.
+**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):** Occam's Razor, also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  There's a clear overlap with Redundancy Elimination. Both models value simplicity and efficiency.
 
 *   **Similarities:** Both models advocate for reducing complexity and unnecessary elements. Occam's Razor focuses on simplifying explanations and hypotheses, while Redundancy Elimination focuses on simplifying systems and processes. Both aim for clarity and efficiency.
 *   **Differences:** Occam's Razor is primarily focused on selecting the *best explanation* or hypothesis, often in theoretical contexts. Redundancy Elimination is broader, applicable to practical systems, processes, and actions. While Occam's Razor helps you choose the simplest *explanation*, Redundancy Elimination helps you create the simplest *system* or *process*.

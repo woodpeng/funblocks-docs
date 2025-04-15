@@ -174,7 +174,7 @@ Problem Chunking, while powerful on its own, is even more effective when underst
 
 **3. Occam's Razor (Principle of Parsimony) and Problem Chunking**
 
-While less directly related, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor), also known as the Principle of Parsimony, can complement Problem Chunking. Occam's Razor suggests that among competing hypotheses, the one with the fewest assumptions should be selected. In problem-solving, it encourages seeking the simplest explanation or solution.
+While less directly related, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor), also known as the Principle of Parsimony, can complement Problem Chunking. Occam's Razor suggests that among competing hypotheses, the one with the fewest assumptions should be selected. In problem-solving, it encourages seeking the simplest explanation or solution.
 
 * **Relationship and Differences:** Occam's Razor is about *simplicity in explanation and solution*, while Problem Chunking is about *manageability of complexity*.  Occam's Razor guides you towards the most straightforward approach; Problem Chunking guides you towards a structured approach to break down complexity, which might not always lead to the simplest solution, but to the most manageable path to a solution.
 

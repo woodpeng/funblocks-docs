@@ -88,7 +88,7 @@ These application cases demonstrate the broad relevance of the Paradox of Choice
 
 The Paradox of Choice is closely related to several other mental models that explore the complexities of decision-making and human behavior. Understanding these connections can provide a richer and more nuanced perspective. Here are comparisons with three related models:
 
-**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):**  Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  While seemingly different, there's a subtle connection to the Paradox of Choice.
+**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):**  Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  While seemingly different, there's a subtle connection to the Paradox of Choice.
 
 *   **Relationship:** Both models value simplicity. Occam's Razor champions simplicity in explanations and problem-solving, while the Paradox of Choice highlights the benefits of simplicity in choice environments. Both suggest that unnecessary complexity can be detrimental.
 *   **Similarities:** Both emphasize efficiency and reducing unnecessary cognitive load. Occam's Razor favors simpler explanations to avoid overthinking, while the Paradox of Choice favors fewer options to avoid decision overload.

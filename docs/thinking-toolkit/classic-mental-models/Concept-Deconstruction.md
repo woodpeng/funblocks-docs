@@ -138,7 +138,7 @@ Concept Deconstruction, while powerful, is not the only mental model that helps 
 
 *   **When to Choose:** Use Concept Deconstruction when you need to understand the individual components of a complex concept or system. Use Systems Thinking when you want to understand how those components *interact* and how the system behaves as a whole, particularly when dealing with dynamic and interconnected situations.
 
-**3. Occam's Razor:** [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) (or the principle of parsimony) suggests that among competing hypotheses or explanations, the one with the fewest assumptions should be selected. It favors simplicity and elegance.
+**3. Occam's Razor:** [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) (or the principle of parsimony) suggests that among competing hypotheses or explanations, the one with the fewest assumptions should be selected. It favors simplicity and elegance.
 
 *   **Relationship:** Concept Deconstruction can sometimes be used *in conjunction with* Occam's Razor, but they operate on different principles. Concept Deconstruction is about embracing complexity to understand it, while Occam's Razor is about seeking simplicity in explanations.
 

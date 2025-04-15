@@ -125,7 +125,7 @@ Via Negativa, while unique in its emphasis on subtraction, shares common ground 
     * **Differences:** Inversion is a broader problem-solving technique that can involve reversing assumptions, perspectives, or actions. Via Negativa is more specifically focused on achieving goals through elimination and avoidance. Inversion is a general strategy; Via Negativa is a specific application of that strategy.
     * **When to Choose:** Use Inversion when you are stuck on a problem and need a fresh perspective or to identify hidden obstacles. Use Via Negativa when you want to improve a system or process by systematically removing negative elements or risks. Inversion can lead you to Via Negativa as a solution strategy.
 
-**3. Occam's Razor:** [Occams-Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)
+**3. Occam's Razor:** [Occams-Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)
 
     * **Relationship:** Occam's Razor, which suggests that the simplest explanation is usually the best, aligns with Via Negativa's emphasis on elimination.  By removing unnecessary complexities and assumptions, we often arrive at simpler and more effective solutions. Via Negativa can be seen as a method to apply Occam's Razor – by removing the unnecessary "noise" and focusing on the essential.
     * **Similarities:** Both models value simplicity and efficiency. Both encourage reducing complexity and focusing on what's essential. Both can lead to clearer understanding and more effective solutions by eliminating extraneous elements.

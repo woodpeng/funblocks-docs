@@ -151,7 +151,7 @@ Information entropy is not alone in the realm of mental models for understanding
 
 * **When to Choose:**  Use information entropy when you need to quantify the level of uncertainty in a situation, especially when dealing with probabilities and multiple possible outcomes. Use second-order thinking when you need to strategically analyze the potential consequences of actions, especially in complex systems where feedback loops and indirect effects are significant.  They often work best in tandem: entropy helps you identify *where* uncertainty is high, and second-order thinking helps you navigate the *implications* of that uncertainty.
 
-**5.2. Information Entropy vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**5.2. Information Entropy vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
 * **Relationship:** Occam's Razor, the principle of parsimony, suggests choosing the simplest explanation among competing hypotheses. In situations with high information entropy (high uncertainty and many potential explanations), Occam's Razor can be a valuable guide.  It encourages us to favor simpler models and explanations that minimize unnecessary complexity introduced by noise or randomness.
 

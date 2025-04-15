@@ -172,7 +172,7 @@ These diverse examples demonstrate the universality of the Type I and Type II er
 
 While the Type I and Type II error model is powerful, it's not the only mental model relevant to decision-making under uncertainty.  Let's compare it with a few related models to understand its unique strengths and when it's most applicable.
 
-**5.1 [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor): Simplicity vs. Complexity**
+**5.1 [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor): Simplicity vs. Complexity**
 
 Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the simplest explanation is usually the best.  How does this relate to Type I and Type II errors?
 

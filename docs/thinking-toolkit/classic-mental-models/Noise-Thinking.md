@@ -141,7 +141,7 @@ Noise Thinking is not an isolated concept; it intersects and overlaps with other
 
 *   **When to Choose:** Use Noise Thinking when you are facing information overload, distractions, or unclear signals and need to improve focus and clarity. Use First Principles Thinking when you need to solve a complex problem or innovate by breaking it down to its fundamental truths and rebuilding from there.  Noise Thinking can often be applied *before* or *in conjunction with* First Principles Thinking to ensure you are building upon a clear and noise-free foundation of understanding.
 
-**5.2 Noise Thinking vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**5.2 Noise Thinking vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
 *   **Relationship:** Occam's Razor, also known as the principle of parsimony, suggests that, among competing hypotheses, the one with the fewest assumptions should be selected. Noise Thinking can help in applying Occam's Razor by filtering out unnecessary complexities and convoluted explanations – the "noise" – that can obscure the simplest and most likely explanation. By reducing cognitive noise, you are better positioned to identify and appreciate the simplest explanation, which is often the most accurate.
 

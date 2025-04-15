@@ -87,7 +87,7 @@ The Minimum Viable Product is a powerful mental model, but it's not the only app
 
 * **When to choose MVP over First Principles (or vice versa):** Use First Principles Thinking when you need to deeply understand a problem from the ground up, especially when dealing with complex or ambiguous situations. Use MVP when you have a product idea or solution and need to validate its market viability and iterate towards product-market fit.  Often, a combination of both is powerful: use First Principles to define your core assumptions, and then use MVP to test and validate those assumptions in the real world.
 
-**b) [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):** Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. It favors simplicity and efficiency.
+**b) [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):** Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. It favors simplicity and efficiency.
 
 * **Relationship:** MVP aligns with Occam's Razor by advocating for the simplest possible product to achieve validated learning.  The "minimum" in MVP directly reflects the principle of parsimony – avoid unnecessary complexity and focus on the essential elements.
 

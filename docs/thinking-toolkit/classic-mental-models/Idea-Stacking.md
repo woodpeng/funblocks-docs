@@ -17,7 +17,7 @@ Imagine Idea Stacking as building with LEGOs. You start with a few basic blocks 
 
 ### 2. Historical Background
 
-While "Idea Stacking" might not be attributed to a single historical figure or have a clearly defined origin point in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) or [Confirmation Bias](/docs/thinking-toolkit/classic-mental-models/confirmation-bias), the concept itself is deeply rooted in the history of innovation and human progress.  It reflects a fundamental aspect of how knowledge and creativity advance: through cumulative effort and building upon the work of predecessors.
+While "Idea Stacking" might not be attributed to a single historical figure or have a clearly defined origin point in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) or [Confirmation Bias](/docs/thinking-toolkit/classic-mental-models/confirmation-bias), the concept itself is deeply rooted in the history of innovation and human progress.  It reflects a fundamental aspect of how knowledge and creativity advance: through cumulative effort and building upon the work of predecessors.
 
 We can trace the principles of Idea Stacking back to the very foundations of scientific and technological advancement.  Think of the scientific method itself – it’s inherently iterative. Hypotheses are built upon existing theories, experiments are designed based on prior research, and new knowledge is constructed layer by layer.  Scientists don't typically start from scratch; they "stack" their work on the shoulders of giants who came before them, as famously quoted by Isaac Newton, acknowledging the cumulative nature of scientific discovery.
 

@@ -134,7 +134,7 @@ Confirmation bias is the tendency to favor information that confirms pre-existin
 *   **Difference:** "Correlation vs. Causation" is about understanding the nature of relationships between variables, while confirmation bias is about understanding how our own biases can distort our perception and interpretation of information, including correlations.
 *   **When to choose:** Use "Correlation vs. Causation" when analyzing data and relationships between variables to determine if there's a causal link.  Use Confirmation Bias when reflecting on your own thinking process, especially when evaluating evidence that aligns with your beliefs.  Recognize that confirmation bias can lead you to misinterpret correlations as causations that confirm your biases.
 
-**5.2 [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**5.2 [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
 Occam's Razor, or the principle of parsimony, suggests that, among competing hypotheses, the simplest explanation is usually the best.  While generally helpful, applying Occam's Razor in the context of "Correlation vs. Causation" requires caution.
 

@@ -17,7 +17,7 @@ Redundancy Avoidance is not just about being minimalist; it’s about being **in
 
 ## 2. Historical Background: Tracing the Roots of Efficiency
 
-While the specific term "Redundancy Avoidance" as a formalized mental model might not be attributed to a single historical figure in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor), the *concept* of avoiding redundancy is deeply rooted in various fields and has evolved over centuries.  It’s less about a single inventor and more about a principle that has emerged and been refined across disciplines driven by the need for efficiency and effectiveness.
+While the specific term "Redundancy Avoidance" as a formalized mental model might not be attributed to a single historical figure in the same way as, say, [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor), the *concept* of avoiding redundancy is deeply rooted in various fields and has evolved over centuries.  It’s less about a single inventor and more about a principle that has emerged and been refined across disciplines driven by the need for efficiency and effectiveness.
 
 The seeds of Redundancy Avoidance can be seen in early engineering and scientific thought.  Think about the principle of *parsimony* in science, which encourages seeking the simplest explanation that fits the data. This echoes the core idea of eliminating unnecessary complexity.  Throughout history, inventors and engineers have strived to create machines and systems that are not only functional but also efficient, minimizing wasted materials and energy. The Industrial Revolution, with its focus on mass production and optimization, further amplified the importance of reducing redundancy in manufacturing processes.  Think of Henry Ford's assembly line, a prime example of streamlining production to eliminate wasted movement and effort.
 
@@ -82,11 +82,11 @@ These diverse examples demonstrate the broad applicability of Redundancy Avoidan
 
 ## 5. Comparison with Related Mental Models: Navigating the Mental Toolkit
 
-Redundancy Avoidance is a powerful tool, but it’s not the only mental model that addresses efficiency and effectiveness. Understanding its relationship to other models helps us appreciate its unique strengths and know when to apply it most effectively. Let's compare Redundancy Avoidance with two related mental models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
+Redundancy Avoidance is a powerful tool, but it’s not the only mental model that addresses efficiency and effectiveness. Understanding its relationship to other models helps us appreciate its unique strengths and know when to apply it most effectively. Let's compare Redundancy Avoidance with two related mental models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
 
 **Redundancy Avoidance vs. Occam's Razor:**
 
-[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor), also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  It's often summarized as "the simplest explanation is usually the best."  Both Redundancy Avoidance and Occam's Razor value simplicity and efficiency, but they approach it from slightly different angles.
+[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor), also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  It's often summarized as "the simplest explanation is usually the best."  Both Redundancy Avoidance and Occam's Razor value simplicity and efficiency, but they approach it from slightly different angles.
 
 Occam's Razor is primarily concerned with **explanation and understanding**. It guides us to choose the simplest explanation or hypothesis when faced with multiple possibilities. It's about intellectual parsimony – avoiding unnecessary assumptions in our reasoning.  Redundancy Avoidance, on the other hand, is more broadly concerned with **action and implementation**. It focuses on eliminating unnecessary elements in systems, processes, and actions to improve efficiency and effectiveness.
 

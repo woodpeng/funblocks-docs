@@ -140,7 +140,7 @@ These examples demonstrate the versatility of the Abstraction Ladder.  Whether y
 
 ## 5. Comparison with Related Mental Models: Navigating the Thinking Toolkit
 
-The Abstraction Ladder, while powerful, is not the only mental model that helps with clarity and effective thinking.  It's helpful to understand how it relates to other models in your "mental toolkit." Let's compare it with two related models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
+The Abstraction Ladder, while powerful, is not the only mental model that helps with clarity and effective thinking.  It's helpful to understand how it relates to other models in your "mental toolkit." Let's compare it with two related models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
 
 **1. Abstraction Ladder vs. Occam's Razor:**
 

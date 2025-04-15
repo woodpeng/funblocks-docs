@@ -155,7 +155,7 @@ These diverse examples illustrate the broad applicability of convergent thinking
 
 ## 5. Comparison with Related Mental Models
 
-Convergent thinking, while powerful, is not the only mental model that aids in problem-solving and decision-making. It's beneficial to understand how it relates to and differs from other similar or complementary models. Let's compare it with two key mental models: [Divergent Thinking](/docs/thinking-toolkit/classic-mental-models/divergent-thinking) and [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor).
+Convergent thinking, while powerful, is not the only mental model that aids in problem-solving and decision-making. It's beneficial to understand how it relates to and differs from other similar or complementary models. Let's compare it with two key mental models: [Divergent Thinking](/docs/thinking-toolkit/classic-mental-models/divergent-thinking) and [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor).
 
 **1. Convergent Thinking vs. Divergent Thinking:**
 
@@ -176,7 +176,7 @@ As we discussed earlier, [Divergent Thinking](/docs/thinking-toolkit/classic-men
 
 **2. Convergent Thinking vs. Occam's Razor:**
 
-[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor), also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. It favors simplicity and elegance in explanations.
+[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor), also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. It favors simplicity and elegance in explanations.
 
 * **Relationship:** Both convergent thinking and Occam's Razor aim to simplify and streamline the problem-solving process. Occam's Razor can be seen as a guiding principle within convergent thinking, especially during the solution selection phase. When evaluating multiple solutions, Occam's Razor might guide you to favor the simplest and most straightforward option, assuming it meets the criteria.
 * **Similarities:** Both models value efficiency and clarity. Both encourage focusing on essential elements and avoiding unnecessary complexity.

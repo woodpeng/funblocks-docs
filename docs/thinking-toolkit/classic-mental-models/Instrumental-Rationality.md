@@ -104,7 +104,7 @@ These examples illustrate the versatility of Instrumental Rationality.  By apply
 
 ### 5. Comparison with Related Mental Models
 
-Instrumental Rationality, while powerful, is not the only mental model that deals with decision-making and effectiveness. It's helpful to understand how it relates to other similar models to appreciate its unique strengths and when it's most appropriate to apply. Let's compare it with two related mental models: [Systems Thinking](/docs/thinking-toolkit/classic-mental-models/systems-thinking) and [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor).
+Instrumental Rationality, while powerful, is not the only mental model that deals with decision-making and effectiveness. It's helpful to understand how it relates to other similar models to appreciate its unique strengths and when it's most appropriate to apply. Let's compare it with two related mental models: [Systems Thinking](/docs/thinking-toolkit/classic-mental-models/systems-thinking) and [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor).
 
 **a) Instrumental Rationality vs. Systems Thinking:**
 
@@ -116,7 +116,7 @@ Instrumental Rationality, while powerful, is not the only mental model that deal
 
 **b) Instrumental Rationality vs. Occam's Razor:**
 
-* **Occam's Razor:** [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) (also known as the principle of parsimony) is a problem-solving principle stating that, among competing hypotheses, the one with the fewest assumptions should be selected.  It favors simplicity and elegance in explanations and solutions.
+* **Occam's Razor:** [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) (also known as the principle of parsimony) is a problem-solving principle stating that, among competing hypotheses, the one with the fewest assumptions should be selected.  It favors simplicity and elegance in explanations and solutions.
 * **Relationship:**  Both models value efficiency, but in different ways. Instrumental Rationality focuses on efficiency in achieving a goal through effective means. Occam's Razor focuses on efficiency in explanation and problem formulation, favoring simpler solutions over more complex ones.
 * **Similarities:** Both models promote a pragmatic and efficient approach. Both encourage avoiding unnecessary complexity.
 * **Differences:** Instrumental Rationality is about *action* and *strategy* – finding the best way to *do* something. Occam's Razor is about *explanation* and *understanding* – finding the simplest way to *explain* or *understand* something. Instrumental Rationality is goal-oriented; Occam's Razor is explanation-oriented.

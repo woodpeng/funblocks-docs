@@ -151,7 +151,7 @@ The **Scientific Method** is a broader, more encompassing framework for acquirin
 *   **Differences:** The scientific method is a much broader framework encompassing various types of research and inquiry, including qualitative studies, exploratory research, and theory building. A-B testing is more narrowly focused on comparing two specific variations to optimize a particular outcome. The scientific method can be used to discover new phenomena and build generalizable knowledge, while A-B testing is primarily focused on optimizing existing processes or elements in a specific context.
 *   **When to Choose:** Use the Scientific Method when you're exploring a new area, seeking to understand fundamental principles, or conducting broad research. Choose A-B testing when you have two specific options to compare and want to optimize performance based on a measurable metric. A-B testing is a tool within the broader framework of the Scientific Method.
 
-**5.2. A-B Testing vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**5.2. A-B Testing vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
 **Occam's Razor**, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  It favors simplicity and elegance.  While seemingly different, Occam's Razor can complement A-B testing in certain situations.
 

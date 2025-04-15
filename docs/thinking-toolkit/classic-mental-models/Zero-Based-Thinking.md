@@ -106,7 +106,7 @@ Zero-Based Thinking is a powerful tool, but it's not the only one in the cogniti
 *   **Differences:** First Principles Thinking goes even deeper than Zero-Based Thinking. It aims to deconstruct problems down to their most basic, undeniable truths – the "first principles" – from which you then reason upwards. Zero-Based Thinking focuses more on re-evaluating existing systems or processes by imagining a clean slate, but it might not always delve as deeply into fundamental truths as First Principles Thinking.
 *   **When to Choose:** Use First Principles Thinking when you need to understand the absolute core of a problem or build something truly novel and groundbreaking, often in complex or scientific domains. Choose Zero-Based Thinking when you want to re-evaluate existing systems, processes, or decisions for efficiency and improvement, particularly in business, personal life, or organizational contexts.
 
-**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):**
+**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):**
 
 *   **Relationship:** Occam's Razor, the principle of simplicity, can be a guiding principle *within* Zero-Based Thinking.
 *   **Similarities:** Both models value efficiency and eliminating unnecessary complexity. Zero-Based Thinking, by forcing you to justify every element from scratch, often leads to simpler, more streamlined solutions, aligning with the spirit of Occam's Razor.

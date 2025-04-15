@@ -121,11 +121,11 @@ These examples demonstrate the versatility of satisficing. It’s a mental model
 
 ## 5. Comparison with Related Mental Models: Choosing Wisely
 
-Satisficing is not the only mental model that addresses decision-making under constraints. It's helpful to compare it with related models to understand its unique strengths and when it's most appropriate to apply. Let's compare satisficing with two related mental models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) and the [80/20 Rule](/docs/thinking-toolkit/classic-mental-models/80-20-rule) (Pareto Principle).
+Satisficing is not the only mental model that addresses decision-making under constraints. It's helpful to compare it with related models to understand its unique strengths and when it's most appropriate to apply. Let's compare satisficing with two related mental models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) and the [80/20 Rule](/docs/thinking-toolkit/classic-mental-models/80-20-rule) (Pareto Principle).
 
 **1. Satisficing vs. Occam's Razor:**
 
-* **[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. In simpler terms, the simplest explanation is usually the best.
+* **[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected. In simpler terms, the simplest explanation is usually the best.
 * **Relationship:** Both satisficing and Occam's Razor value simplicity and efficiency. Occam's Razor guides us towards simpler explanations or solutions, while satisficing guides us towards simpler decision-making processes by focusing on "good enough" outcomes.
 * **Similarities:** Both models prioritize practicality over complexity. They encourage us to avoid unnecessary complications and focus on what is essential. Both can lead to quicker and more efficient solutions.
 * **Differences:** Occam's Razor is primarily a principle for selecting among explanations or hypotheses, focusing on simplicity in understanding. Satisficing is a decision-making strategy focusing on efficiency in action and outcome. Occam's Razor helps simplify thinking; satisficing helps simplify deciding.

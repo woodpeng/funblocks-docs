@@ -151,11 +151,11 @@ These are just a few examples of the vast applicability of Bayesian Thinking.  I
 
 ## 5. Comparison with Related Mental Models
 
-Bayesian Thinking, while powerful, is not the only mental model for decision-making under uncertainty. It's helpful to compare it with other related models to understand its unique strengths and when it's most effectively applied. Let's compare it with [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) and [Confirmation Bias](/docs/thinking-toolkit/classic-mental-models/confirmation-bias).
+Bayesian Thinking, while powerful, is not the only mental model for decision-making under uncertainty. It's helpful to compare it with other related models to understand its unique strengths and when it's most effectively applied. Let's compare it with [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) and [Confirmation Bias](/docs/thinking-toolkit/classic-mental-models/confirmation-bias).
 
-**1. Bayesian Thinking vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**1. Bayesian Thinking vs. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
-* **[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor):**  Also known as the principle of parsimony, Occam's Razor suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  In simpler terms, the simplest explanation is usually the best.
+* **[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor):**  Also known as the principle of parsimony, Occam's Razor suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  In simpler terms, the simplest explanation is usually the best.
 * **Relationship:** Both Bayesian Thinking and Occam's Razor are concerned with selecting the "best" explanation or hypothesis.  However, they approach this differently. Bayesian Thinking provides a framework for quantifying the probability of different hypotheses based on evidence, while Occam's Razor offers a heuristic for choosing between explanations based on simplicity.
 * **Similarities:** Both models value efficiency and avoiding unnecessary complexity.  A simpler hypothesis often has a higher prior probability in Bayesian Thinking, all else being equal.  In many cases, the simplest explanation will also be the most probable one according to Bayesian analysis.
 * **Differences:** Occam's Razor is a principle of selection, favoring simplicity.  Bayesian Thinking is a framework for updating beliefs based on evidence, which can lead to complex or simple explanations depending on the data.  Occam's Razor is more of a rule of thumb, while Bayesian Thinking is a more rigorous and mathematically grounded approach.

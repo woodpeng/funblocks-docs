@@ -154,7 +154,7 @@ Value Inversion is a powerful tool, but it's not the only mental model that help
 *   **Differences:** Second-Order Thinking is broader, focusing on consequences and cascading effects in general. Value Inversion is more specifically focused on inverting values to gain new insights.  Second-Order Thinking can be applied to any decision or action, while Value Inversion is more focused on reframing perspectives.
 *   **When to Choose Value Inversion:** Choose Value Inversion when you want to specifically challenge and reframe the values associated with a situation. It's a targeted approach for uncovering hidden value by inverting conventional perspectives. Choose Second-Order Thinking when you need to comprehensively analyze the potential ripple effects and long-term consequences of a decision or action, considering all types of downstream impacts, not just value inversion.
 
-**3. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**
+**3. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**
 
 *   **Relationship:**  While seemingly different, Value Inversion can sometimes lead to solutions that align with Occam's Razor.  By inverting complex or convoluted approaches, you might arrive at simpler, more elegant solutions that adhere to the principle of parsimony.  For example, frugal innovation, a form of Value Inversion, often results in simpler, more cost-effective products.
 *   **Similarities:** Both models can guide you towards more efficient and effective solutions by challenging unnecessary complexity. They both value clarity and simplicity, although from different angles.

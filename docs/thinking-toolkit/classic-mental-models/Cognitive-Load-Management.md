@@ -133,11 +133,11 @@ These examples illustrate the broad applicability of Cognitive Load Management. 
 
 ## 5. Comparison with Related Mental Models: Navigating the Mental Toolkit
 
-Cognitive Load Management is a powerful mental model, but it's not the only one that helps us navigate complexity and improve thinking.  It's useful to understand how it relates to other mental models, particularly those focused on simplification and efficiency. Here, we compare it with two related models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
+Cognitive Load Management is a powerful mental model, but it's not the only one that helps us navigate complexity and improve thinking.  It's useful to understand how it relates to other mental models, particularly those focused on simplification and efficiency. Here, we compare it with two related models: [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
 
 **1. Occam's Razor: The Principle of Simplicity**
 
-* **[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occam's-Razor)**, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  It's a principle of simplicity that favors the simplest explanation or solution.
+* **[Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)**, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  It's a principle of simplicity that favors the simplest explanation or solution.
 * **Relationship to Cognitive Load Management:** Occam's Razor and Cognitive Load Management are highly complementary.  Applying Occam's Razor often leads to solutions that inherently reduce extraneous cognitive load.  By striving for simplicity in design, communication, and problem-solving, we naturally reduce the mental effort required to process information.
 * **Similarities:** Both models value simplicity and efficiency. Both aim to reduce unnecessary complexity. Both can lead to clearer understanding and more effective action.
 * **Differences:** Occam's Razor is primarily a heuristic for choosing between competing explanations or solutions. It's a principle of selection. Cognitive Load Management is a broader framework for understanding and managing mental effort in information processing and task performance. It's a framework for design and optimization.
