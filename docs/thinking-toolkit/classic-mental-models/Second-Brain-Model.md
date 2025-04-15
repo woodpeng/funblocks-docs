@@ -190,7 +190,7 @@ These are just a few examples of the diverse applications of the Second Brain Mo
 
 ## 5. Comparison with Related Mental Models: Navigating the Cognitive Landscape
 
-The Second Brain Model, while powerful, isn't the only mental model focused on enhancing thinking and productivity.  It's helpful to understand how it relates to other similar or complementary models to make informed decisions about which approach best suits your needs.  Let's compare it with two related mental models: [Mind Mapping](/docs/thinking-toolkit/classic-mental-models/mind-mapping) and [Zettelkasten](/docs/thinking-toolkit/classic-mental-models/zettelkasten).
+The Second Brain Model, while powerful, isn't the only mental model focused on enhancing thinking and productivity.  It's helpful to understand how it relates to other similar or complementary models to make informed decisions about which approach best suits your needs.  Let's compare it with two related mental models: [Mind Mapping](/docs/thinking-toolkit/classic-mental-models/mind-mapping) and Zettelkasten.
 
 **1. Second Brain Model vs. Mind Mapping:**
 
@@ -217,7 +217,7 @@ The Second Brain Model, while powerful, isn't the only mental model focused on e
 
 **2. Second Brain Model vs. Zettelkasten:**
 
-* **Zettelkasten:** [Zettelkasten](/docs/thinking-toolkit/classic-mental-models/zettelkasten) (German for "slip-box") is a personal knowledge management system developed by sociologist Niklas Luhmann. It's based on creating a network of interconnected "slip-boxes" (index cards) containing atomic notes, linked together through unique identifiers and connections.
+* **Zettelkasten:** (German for "slip-box") is a personal knowledge management system developed by sociologist Niklas Luhmann. It's based on creating a network of interconnected "slip-boxes" (index cards) containing atomic notes, linked together through unique identifiers and connections.
 
 * **Similarities:** Both models emphasize interconnectedness, emergent knowledge, and building a long-term, evolving knowledge base. Both prioritize capturing and organizing ideas in a way that facilitates synthesis and creative output. Both value "atomic notes" or small, focused units of information.
 

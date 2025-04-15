@@ -281,7 +281,7 @@ Think of the Spacing Effect as the key to unlocking the full potential of your m
     * "Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying" by Barbara Oakley, PhD, Terrence Sejnowski, PhD, and Alistair McConville
 * **Articles & Websites:**
     * Bjork Learning and Forgetting Lab website: [https://bjorklab.psych.ucla.edu/](https://bjorklab.psych.ucla.edu/)
-    * Learning Scientists website: [www.learningscientists.org](www.learningscientists.org)
+    * Learning Scientists website: [www.learningscientists.org](https://www.learningscientists.org)
     * Gwern.net articles on spaced repetition: [https://www.gwern.net/Spaced-repetition](https://www.gwern.net/Spaced-repetition)
 * **Software:**
     * Anki: [https://apps.ankiweb.net/](https://apps.ankiweb.net/) (Free and highly customizable SRS)

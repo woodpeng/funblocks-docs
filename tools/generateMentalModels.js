@@ -63,7 +63,7 @@ async function main() {
 
         const markdown = generateMarkdown(i + FILE_INIT_INDEX, model, content);
 
-        const filename = model.replace(/\s+/g, '-') + '.md';
+        const filename = model.toLowerCase().replace("'","").replace(/\s+/g, '-') + '.md';
         const outputPath = path.join(OUTPUT_DIR, filename);
 
         await fs.writeFile(outputPath, markdown, 'utf-8');

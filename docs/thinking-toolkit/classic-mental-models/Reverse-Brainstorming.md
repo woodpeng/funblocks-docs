@@ -189,7 +189,7 @@ While Reverse Brainstorming is a powerful tool, it's important to acknowledge it
 
 * **Limitation:**  If not executed thoughtfully, Reverse Brainstorming can lead to superficial or obvious negative ideas that don't generate truly insightful solutions.  Teams might simply list generic problems without digging deeper into the root causes or exploring truly innovative negative scenarios.
 * **Misuse Case:**  A rushed or poorly facilitated Reverse Brainstorming session might produce a list of shallow negative ideas that are already well-known or easily avoidable, failing to uncover novel insights or address deeper, systemic issues.
-* **Advice:**  Facilitate the session effectively by encouraging participants to think deeply and creatively about *unconventional* ways to make things worse.  Use probing questions to push beyond surface-level ideas.  Combine Reverse Brainstorming with other techniques like [Root Cause Analysis](/docs/thinking-toolkit/classic-mental-models/root-cause-analysis) or the [5 Whys](/docs/thinking-toolkit/classic-mental-models/five-whys) to delve into the underlying reasons behind potential problems.
+* **Advice:**  Facilitate the session effectively by encouraging participants to think deeply and creatively about *unconventional* ways to make things worse.  Use probing questions to push beyond surface-level ideas.  Combine Reverse Brainstorming with other techniques like [Root Cause Analysis](/docs/thinking-toolkit/classic-mental-models/root-cause-analysis) or the [5 Whys](/docs/thinking-toolkit/classic-mental-models/why-why-analysis) to delve into the underlying reasons behind potential problems.
 
 **3. Difficulty in Reversal:**
 

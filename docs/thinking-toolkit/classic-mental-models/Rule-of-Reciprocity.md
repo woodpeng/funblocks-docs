@@ -110,7 +110,7 @@ The Rule of Reciprocity is a powerful mental model, but it's not the only one th
 *   **Difference:** Reciprocity is about feeling obligated to return a favor or kindness, while Social Proof is about conforming to the behavior of the majority.  Reciprocity is triggered by a direct action towards us (receiving a gift or favor), whereas Social Proof is triggered by observing the actions of others.
 *   **When to Choose:**  Use Reciprocity when you want to elicit a direct reciprocal action from someone by providing something of value first.  Use Social Proof when you want to persuade someone by demonstrating that others are already doing or believing something, creating a sense of normalcy or desirability.
 
-**2. [Cognitive Bias](/docs/thinking-toolkit/classic-mental-models/cognitive-bias):**
+**2. [Cognitive Bias](/docs/thinking-toolkit/classic-mental-models/cognitive-biases):**
 
 *   **Relationship:** Cognitive Bias is a broader category encompassing systematic errors in thinking that arise from our mental shortcuts and limitations.  The Rule of Reciprocity, while a social norm, can also be viewed as a kind of cognitive bias.  Our strong inclination to reciprocate can sometimes lead us to make irrational decisions, such as agreeing to a larger request after receiving a small, unsolicited favor, even if it's not in our best interest.
 *   **Similarity:** Both concepts relate to how our minds process information and make decisions.  Both highlight the fact that our thinking is not always perfectly rational and can be influenced by predictable patterns.

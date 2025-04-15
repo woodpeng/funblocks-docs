@@ -87,7 +87,7 @@ The beauty of meta-learning lies in its versatility. It's not confined to academ
 
 *   **Scenario:** You want to learn a new hobby, like playing the guitar or painting.
 *   **Meta-Learning Application:** Instead of just blindly following tutorials, you can apply meta-learning to optimize your learning process. You can assess your current skill level, identify your learning style (e.g., visual, auditory, kinesthetic), and choose learning resources that align with your preferences. You can monitor your progress, identify roadblocks, and adjust your practice strategies accordingly. For example, if you're struggling with a particular chord, you can consciously analyze your technique, seek out specific tutorials on that chord, and practice deliberately until you master it.
-*   **Analysis:** Meta-learning transforms hobby learning from a potentially frustrating trial-and-error process into a more structured and enjoyable journey of skill development, leading to faster progress and greater satisfaction.
+*   **Analysis:** Meta-learning transforms hobby learning from a potentially frustrating [trial-and-error](/docs/thinking-toolkit/classic-mental-models/trial-and-errors) process into a more structured and enjoyable journey of skill development, leading to faster progress and greater satisfaction.
 
 **3. Education & Academic Success:**
 

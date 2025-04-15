@@ -180,7 +180,7 @@ These are just a few examples illustrating the breadth of practical applications
 
 ## 5. Comparison with Related Mental Models
 
-Socratic Questioning, while powerful, is not the only mental model that promotes critical thinking and problem-solving. Several related models share similar goals and approaches, but with distinct nuances. Let's compare Socratic Questioning with a couple of relevant mental models: [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking) and [Five Whys](/docs/thinking-toolkit/classic-mental-models/five-whys).
+Socratic Questioning, while powerful, is not the only mental model that promotes critical thinking and problem-solving. Several related models share similar goals and approaches, but with distinct nuances. Let's compare Socratic Questioning with a couple of relevant mental models: [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking) and [Five Whys](/docs/thinking-toolkit/classic-mental-models/why-why-analysis).
 
 **Socratic Questioning vs. First Principles Thinking:**
 
@@ -205,7 +205,7 @@ Both Socratic Questioning and First Principles Thinking are concerned with uncov
 
 **Socratic Questioning vs. Five Whys:**
 
-[Five Whys](/docs/thinking-toolkit/classic-mental-models/five-whys) is a problem-solving technique, primarily used in quality management and lean methodologies, that involves repeatedly asking "Why?" to drill down to the root cause of a problem.
+[Five Whys](/docs/thinking-toolkit/classic-mental-models/why-why-analysis) is a problem-solving technique, primarily used in quality management and lean methodologies, that involves repeatedly asking "Why?" to drill down to the root cause of a problem.
 
 **Similarities:**
 

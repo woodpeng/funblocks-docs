@@ -155,7 +155,7 @@ These diverse applications highlight the broad applicability of the Minimum Viab
 
 The Minimum Viable Hypothesis is a valuable tool in your mental model toolkit, but it's not the only approach to effective thinking and decision-making.  Understanding how it relates to other mental models can help you choose the right tool for the job. Let's compare MVH with a few related models:
 
-**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor): Simplicity as a Guide**
+**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/occams-razor): Simplicity as a Guide**
 
 Occam's Razor, also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  In simpler terms, the simplest explanation is usually the best.
 

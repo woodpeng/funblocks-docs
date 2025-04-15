@@ -84,7 +84,7 @@ Moral Intuitionism isn't just an abstract philosophical concept; it has tangible
 
 Moral Intuitionism is a powerful mental model, but it doesn't operate in isolation. Understanding its relationship to other cognitive frameworks helps us appreciate its unique strengths and limitations. Let's compare it with a few related mental models:
 
-**1. [System 1 & System 2 Thinking](/docs/thinking-toolkit/classic-mental-models/system-1-system-2-thinking): The Dual-Process Perspective**
+**1. [System 1 & System 2 Thinking](/docs/thinking-toolkit/classic-mental-models/system-1-and-system-2-thinking): The Dual-Process Perspective**
 
 The System 1 & System 2 Thinking model, popularized by Daniel Kahneman, describes two distinct modes of thought. **System 1** is fast, automatic, intuitive, and emotional, while **System 2** is slow, deliberate, analytical, and logical.  Moral Intuitionism aligns strongly with **System 1 thinking**.  Moral intuitions are often rapid, effortless, and emotionally charged, fitting the characteristics of System 1.  Conversely, moral reasoning, deliberation, and the application of ethical principles would fall under **System 2 thinking**.
 

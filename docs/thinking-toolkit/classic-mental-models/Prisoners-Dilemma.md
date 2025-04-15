@@ -94,7 +94,7 @@ The Prisoner's Dilemma, while powerful, isn't the only mental model that deals w
 
 **When to Choose:** Use Prisoner's Dilemma when analyzing situations involving two primary actors making strategic choices about cooperation or defection, where the payoffs depend on the combination of their choices. Use Tragedy of the Commons when analyzing situations involving a shared resource and multiple actors whose individual self-interest leads to resource depletion.
 
-**2. Zero-Sum Game:** [Zero-Sum Game](/docs/thinking-toolkit/classic-mental-models/zero-sum-game) represents a situation where one person's gain is necessarily another person's loss.  Imagine a pie of fixed size; if one person takes a bigger slice, less is left for others.  In a pure zero-sum game, the total gains and losses sum to zero.
+**2. Zero-Sum Game:** [Zero-Sum Game](/docs/thinking-toolkit/classic-mental-models/zero-sum-thinking) represents a situation where one person's gain is necessarily another person's loss.  Imagine a pie of fixed size; if one person takes a bigger slice, less is left for others.  In a pure zero-sum game, the total gains and losses sum to zero.
 
 **Similarities:**  Both models deal with strategic interactions.  In some interpretations of Prisoner's Dilemma, especially in competitive contexts, it can appear somewhat zero-sum in the short term, where one player's defection might seem like a gain at the other's expense.
 

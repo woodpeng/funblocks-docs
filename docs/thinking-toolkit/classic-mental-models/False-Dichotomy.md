@@ -110,7 +110,7 @@ While the False Dichotomy mental model is powerful in its own right, it's helpfu
 *   **Difference:** Availability Heuristic is about judging probability based on mental availability, while False Dichotomy is about limiting perceived choices.
 *   **When to Choose:** Use Availability Heuristic when assessing judgments of likelihood or frequency.  Use False Dichotomy when analyzing how options are presented and whether those presentations are artificially limited. For instance, if news media heavily emphasizes two extreme viewpoints on a complex issue, those viewpoints become more "available" in our minds, making a False Dichotomy framing seem more plausible (Availability Heuristic influencing the perception of a False Dichotomy).
 
-**3. [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effect):**
+**3. [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effects):**
 
 *   **Relationship:** The Framing Effect describes how the way information is presented influences our decisions, even if the underlying information is the same.  False Dichotomies are a powerful framing technique.  By framing a situation as having only two options, and often presenting them in a way that biases one option as more desirable or less risky, the Framing Effect is leveraged to steer choices.
 *   **Similarity:** Both models are about how presentation and context influence decision-making.

@@ -59,7 +59,7 @@ The key to avoiding premature optimization is embracing an iterative approach. T
 
 **6. The Pareto Principle (80/20 Rule) and Strategic Optimization**
 
-The [Pareto Principle](/docs/thinking-toolkit/classic-mental-models/the-80-20-rule-pareto-principle) is a highly relevant related concept. It suggests that roughly 80% of effects come from 20% of causes. In the context of optimization, this implies that a small percentage of efforts often yield the majority of the benefits.  Strategic optimization involves identifying that critical 20% and focusing your optimization efforts there. Premature optimization often misses this crucial distinction, spreading effort thinly across non-critical areas.
+The [Pareto Principle](/docs/thinking-toolkit/classic-mental-models/80-20-rule) is a highly relevant related concept. It suggests that roughly 80% of effects come from 20% of causes. In the context of optimization, this implies that a small percentage of efforts often yield the majority of the benefits.  Strategic optimization involves identifying that critical 20% and focusing your optimization efforts there. Premature optimization often misses this crucial distinction, spreading effort thinly across non-critical areas.
 
 **Examples Illustrating Premature Optimization:**
 
@@ -118,7 +118,7 @@ In each of these application areas, the core principle remains the same: **focus
 
 Premature optimization is a powerful mental model, but it's even more effective when understood in relation to other related thinking tools. Let's compare it with a few key mental models to clarify its unique value and when to apply it:
 
-**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor) (Law of Parsimony):**
+**1. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/occams-razor) (Law of Parsimony):**
 
 *   **Relationship:** Both models emphasize simplicity and efficiency. Occam's Razor suggests that, among competing hypotheses, the simplest explanation is usually the best. Premature optimization complements this by advising against unnecessary complexity introduced by early optimization efforts.
 *   **Similarity:** Both advocate for avoiding unnecessary complexity and favoring simplicity. They both value efficiency, but caution against misguided or premature attempts at it.

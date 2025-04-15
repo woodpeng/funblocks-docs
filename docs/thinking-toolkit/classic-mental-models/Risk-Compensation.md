@@ -119,7 +119,7 @@ These diverse examples demonstrate the wide-ranging applicability of Risk Compen
 
 Risk Compensation is not an island in the sea of mental models. It is related to and interacts with other cognitive frameworks that help us understand human behavior. Let's compare it with a few relevant models:
 
-**1. [Homeostasis](/docs/thinking-toolkit/classic-mental-models/homeostasis): The Balancing Act**
+**1. Homeostasis: The Balancing Act**
 
 *   **Homeostasis:**  This biological concept describes the body's tendency to maintain a stable internal environment, regulating variables like temperature, blood sugar, and pH.  When these variables deviate from the set point, the body initiates processes to restore balance.
 *   **Relationship to Risk Compensation:** Risk Compensation can be seen as a psychological form of homeostasis applied to risk.  Just as the body seeks to maintain a stable internal state, individuals may subconsciously strive to maintain a stable level of perceived risk.  When safety measures lower perceived risk, behavior adjusts to bring it back up, and vice versa.  Wilde's "Target Risk" theory explicitly draws on the concept of homeostasis.

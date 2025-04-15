@@ -44,7 +44,7 @@ Taleb presents antifragility as part of a triad, contrasting it with fragility a
 
 **3.2 Volatility as Information and Opportunity**
 
-Antifragility flips the conventional view of volatility as purely negative.  For antifragile systems, volatility is not just noise; it's information.  Small errors, minor setbacks, and random fluctuations provide feedback that allows the system to learn, adapt, and improve. Think of a trial-and-error process in scientific discovery or entrepreneurship. Each "failure" or unexpected outcome provides valuable data, guiding the system towards better solutions.
+Antifragility flips the conventional view of volatility as purely negative.  For antifragile systems, volatility is not just noise; it's information.  Small errors, minor setbacks, and random fluctuations provide feedback that allows the system to learn, adapt, and improve. Think of a [trial-and-error](/docs/thinking-toolkit/classic-mental-models/trial-and-errors) process in scientific discovery or entrepreneurship. Each "failure" or unexpected outcome provides valuable data, guiding the system towards better solutions.
 
 Moreover, volatility creates opportunities.  Just as market downturns can be buying opportunities for savvy investors, periods of disruption and change can create openings for innovation, adaptation, and growth for antifragile entities.  The key is to be positioned to capture these upside opportunities while minimizing exposure to downside risks.
 

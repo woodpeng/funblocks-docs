@@ -124,7 +124,7 @@ First Principles Thinking is a powerful tool, but it's not the only way to appro
 *   **Differences:** Systems Thinking focuses on understanding the interconnectedness and relationships between different parts of a whole system. It emphasizes feedback loops, delays, and emergent behavior. Example: Analyzing traffic congestion by looking at interactions between road capacity, driver behavior, public transport availability, and city planning. First Principles Thinking focuses on breaking down individual components or concepts to their most fundamental, irreducible truths, rather than primarily focusing on the interactions between them. Example: Analyzing a car engine by understanding the fundamental principles of thermodynamics, combustion, and mechanics, rather than just how the engine interacts with the transmission system.
 *   **When to Choose:** Use Systems Thinking when dealing with complex problems where interactions, feedback loops, and unintended consequences are significant (e.g., organizational change, ecological issues, economic policy). Use First Principles Thinking when you need to understand the fundamental nature of a component, concept, or problem itself, often as a prerequisite for innovation or deep learning, or as input *into* a systems analysis (understanding the fundamental nature of the 'parts' helps understand the 'system'). They can often be used together effectively.
 
-### 3. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/Occams-Razor)
+### 3. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/occams-razor)
 
 *   **Relationship:** Both can be used to simplify understanding, but with different goals.
 *   **Similarities:** Both involve a form of reduction or simplification in the thinking process.

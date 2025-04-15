@@ -106,7 +106,7 @@ Anchoring Bias is not an isolated cognitive phenomenon. It intersects and overla
 
 * **When to choose Anchoring Bias:** When analyzing situations where an initial piece of information or a reference point is clearly presented and influences subsequent judgments, especially numerical estimations or value assessments.
 
-**2. Framing Effect:** [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effect)
+**2. Framing Effect:** [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effects)
 
 * **Relationship:** Both Anchoring Bias and Framing Effect are concerned with how the presentation of information influences decisions.  Framing Effect focuses on how the *way* information is presented (e.g., as gains or losses) affects choices, while Anchoring Bias focuses on the influence of an *initial reference point* (the anchor).  Framing can sometimes create anchors. For example, framing a medical treatment as having a "90% survival rate" (positive frame) versus a "10% mortality rate" (negative frame) can create different anchors and influence patient choices, even though the underlying information is the same.
 

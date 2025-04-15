@@ -360,6 +360,3 @@ Avoid these pitfalls by being specific, realistic, flexible, present-focused, an
 *   **Articles:**
     *   "Backcasting for sustainability transitions: introduction to the special issue" by John B. Robinson (Journal of Cleaner Production)
     *   "Visioning and backcasting for sustainable development: a synthesis of approaches and experiences" by Jill Jepson, John B. Robinson, and Dana VanNijnatten (Sustainability Science)
-*   **Websites:**
-    *   The Natural Step: [www.naturalstep.org](www.naturalstep.org) (Provides resources and frameworks related to backcasting for sustainability)
-    *   The Futures School: [www.futureschool.com](www.futureschool.com) (Offers training and resources on futures thinking and scenario planning, including backcasting)

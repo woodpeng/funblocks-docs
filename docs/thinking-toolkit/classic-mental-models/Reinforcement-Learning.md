@@ -150,7 +150,7 @@ Reinforcement Learning is a powerful mental model, but it's helpful to understan
 
     **When to Choose:** Use Feedback Loops when you want to understand the dynamics of a system and how different components influence each other through feedback mechanisms. It's useful for analyzing complex systems and understanding emergent behaviors. Choose Reinforcement Learning when you are specifically interested in how an agent can learn to make better decisions within a system by actively interacting with it and using feedback (rewards) to improve its actions over time. RL is a more targeted approach for learning and optimization within a feedback loop context.
 
-3. **[Trial and Error](/docs/thinking-toolkit/classic-mental-models/trial-and-error):**
+3. **[Trial and Error](/docs/thinking-toolkit/classic-mental-models/trial-and-errors):**
 
     Trial and Error is a fundamental learning method where you try different approaches and learn from successes and failures. Reinforcement Learning provides a structured and formalized way to implement trial and error learning.
 

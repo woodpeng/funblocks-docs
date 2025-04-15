@@ -143,7 +143,7 @@ These diverse application examples illustrate the pervasive influence of Loss Av
 
 ## 5. Comparison with Related Mental Models
 
-Loss Aversion Framing is closely related to and often intertwined with other cognitive biases and mental models. Understanding these relationships helps to refine our application and awareness of Loss Aversion Framing. Here we will compare it with two particularly relevant models: [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effect) and [Status Quo Bias](/docs/thinking-toolkit/classic-mental-models/status-quo-bias).
+Loss Aversion Framing is closely related to and often intertwined with other cognitive biases and mental models. Understanding these relationships helps to refine our application and awareness of Loss Aversion Framing. Here we will compare it with two particularly relevant models: [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effects) and [Status Quo Bias](/docs/thinking-toolkit/classic-mental-models/status-quo-bias).
 
 **a) Framing Effect:**
 

@@ -246,10 +246,6 @@ Holistic Thinking is not just about feeling or intuition. It's a balanced approa
     *   "Holism and Evolution" by Jan Smuts
     *   "General System Theory: Foundations, Development, Applications" by Ludwig von Bertalanffy
     *   "The Web of Life: A New Scientific Understanding of Living Systems" by Fritjof Capra
-
-*   **Articles and Websites:**
-    *   The Systems Thinking Institute: [www.systemsthinking.org](www.systemsthinking.org)
-    *   Pegasus Communications (Resources on Systems Thinking): [www.pegasuscom.com](www.pegasuscom.com)
-    *   MIT Sloan School of Management - Systems Thinking: [mitsloan.mit.edu/ideas-made-to-matter/systems-thinking](mitsloan.mit.edu/ideas-made-to-matter/systems-thinking)
+    
 
 By exploring these resources, you can deepen your understanding of Holistic Thinking and related concepts, and further develop your ability to apply this powerful mental model in your life and work.

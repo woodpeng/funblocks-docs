@@ -108,7 +108,7 @@ These examples demonstrate the wide-ranging applicability of the Value Drift men
 
 Value Drift is not an isolated concept; it intersects and overlaps with several other mental models that describe aspects of gradual change, ethical compromise, and deviation from desired paths. Understanding these related models can provide a richer and more nuanced perspective on Value Drift and its implications. Here are comparisons with two relevant mental models:
 
-**1. [The Boiling Frog](/docs/thinking-toolkit/classic-mental-models/the-boiling-frog):**  This classic analogy describes a frog placed in water that is slowly heated. The temperature increases so gradually that the frog doesn't notice the danger and boils to death. This mental model is directly related to Value Drift in highlighting the danger of slow, imperceptible change.
+**1. [The Boiling Frog](/docs/thinking-toolkit/classic-mental-models/boiling-frog-syndrome):**  This classic analogy describes a frog placed in water that is slowly heated. The temperature increases so gradually that the frog doesn't notice the danger and boils to death. This mental model is directly related to Value Drift in highlighting the danger of slow, imperceptible change.
 
 * **Similarities:** Both Value Drift and The Boiling Frog emphasize the peril of gradual, unnoticed change.  Both models illustrate how slow, incremental shifts can lead to negative outcomes that would have been avoided if the change had been sudden and obvious.  In both cases, the lack of immediate alarm bells allows the detrimental process to continue unchecked until it's too late.
 

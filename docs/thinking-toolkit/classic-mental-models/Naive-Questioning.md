@@ -101,7 +101,7 @@ These diverse application cases demonstrate that Naive Questioning is not just a
 
 ## 5. Comparison with Related Mental Models
 
-Naive Questioning, while powerful on its own, resonates and overlaps with several other valuable mental models. Understanding these relationships can help you choose the most appropriate tool for a given situation and enhance your overall thinking toolkit. Let's compare Naive Questioning with three related mental models: [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking), [Socratic Method](/docs/thinking-toolkit/classic-mental-models/socratic-method), and [Beginner's Mind](/docs/thinking-toolkit/classic-mental-models/beginner-s-mind).
+Naive Questioning, while powerful on its own, resonates and overlaps with several other valuable mental models. Understanding these relationships can help you choose the most appropriate tool for a given situation and enhance your overall thinking toolkit. Let's compare Naive Questioning with three related mental models: [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking), [Socratic Method](/docs/thinking-toolkit/classic-mental-models/socratic-questioning), and [Beginner's Mind](/docs/thinking-toolkit/classic-mental-models/beginners-mind).
 
 **1. First Principles Thinking:**  First Principles Thinking, popularized by thinkers like Elon Musk, involves breaking down a problem to its most fundamental truths or "first principles" and then reasoning up from there.  It's about dismantling assumptions and rebuilding understanding from the ground up.
 

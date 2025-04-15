@@ -90,7 +90,7 @@ These examples illustrate the versatility of the Peak-End Rule.  By consciously 
 
 ## 5. Comparison with Related Mental Models: Navigating the Cognitive Landscape
 
-The Peak-End Rule is a powerful mental model, but it's not the only one that governs our perception and memory of experiences. Understanding how it relates to other cognitive biases can further refine our thinking. Let's compare it with two related models: the [Availability Heuristic](/docs/thinking-toolkit/classic-mental-models/availability-heuristic) and the [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effect).
+The Peak-End Rule is a powerful mental model, but it's not the only one that governs our perception and memory of experiences. Understanding how it relates to other cognitive biases can further refine our thinking. Let's compare it with two related models: the [Availability Heuristic](/docs/thinking-toolkit/classic-mental-models/availability-heuristic) and the [Framing Effect](/docs/thinking-toolkit/classic-mental-models/framing-effects).
 
 **1. Peak-End Rule vs. Availability Heuristic:**
 

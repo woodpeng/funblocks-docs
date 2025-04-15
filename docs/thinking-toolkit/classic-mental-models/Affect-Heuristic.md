@@ -251,7 +251,7 @@ Marketers often use emotional appeals in advertising to tap into the Affect Heur
     *   "The Affect Heuristic in Judgment of Risks and Benefits" by Slovic, Finucane, Peters, and MacGregor (2000): The seminal paper on the Affect Heuristic.
     *   Search for articles by Paul Slovic, Melissa Finucane, Ellen Peters, and other researchers in behavioral economics and risk perception on Google Scholar or academic databases.
 *   **Online Resources:**
-    *   Decision Research website ([www.decisionresearch.org](www.decisionresearch.org)):  Information about Paul Slovic's research and related topics.
+    *   Decision Research website ([www.decisionresearch.org](https://www.decisionresearch.org)):  Information about Paul Slovic's research and related topics.
     *   Behavioral Economics websites and blogs: Many resources online explain behavioral economics concepts, including the Affect Heuristic, in an accessible way.
 
 By exploring these resources and continuing to practice emotional awareness and critical thinking, you can deepen your understanding of the Affect Heuristic and its impact on your life and the world around you.
