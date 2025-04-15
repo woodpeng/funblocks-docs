@@ -1,5 +1,4 @@
 ---
-sidebar_position: 252
 title: Information Asymmetry
 ---
 

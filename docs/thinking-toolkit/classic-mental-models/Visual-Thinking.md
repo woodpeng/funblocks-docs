@@ -1,5 +1,4 @@
 ---
-sidebar_position: 347
 title: Visual Thinking
 ---
 

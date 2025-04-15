@@ -1,5 +1,4 @@
 ---
-sidebar_position: 354
 title: Inductive Reasoning
 ---
 

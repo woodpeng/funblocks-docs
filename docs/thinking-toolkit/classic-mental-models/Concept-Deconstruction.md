@@ -1,5 +1,4 @@
 ---
-sidebar_position: 88
 title: Concept Deconstruction
 ---
 

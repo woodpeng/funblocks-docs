@@ -1,5 +1,4 @@
 ---
-sidebar_position: 314
 title: Positive-Sum Thinking
 ---
 

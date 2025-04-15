@@ -1,5 +1,4 @@
 ---
-sidebar_position: 214
 title: Incentive-Caused Bias
 ---
 

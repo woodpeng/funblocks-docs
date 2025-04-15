@@ -1,5 +1,4 @@
 ---
-sidebar_position: 109
 title: Circle of Competence
 ---
 

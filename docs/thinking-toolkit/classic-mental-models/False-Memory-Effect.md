@@ -1,5 +1,4 @@
 ---
-sidebar_position: 286
 title: False Memory Effect
 ---
 

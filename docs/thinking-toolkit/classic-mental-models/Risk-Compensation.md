@@ -1,5 +1,4 @@
 ---
-sidebar_position: 412
 title: Risk Compensation
 ---
 

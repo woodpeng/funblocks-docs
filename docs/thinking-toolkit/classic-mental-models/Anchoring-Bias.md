@@ -1,5 +1,4 @@
 ---
-sidebar_position: 114
 title: Anchoring Bias
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 178
 title: Locus of Control
 ---
 

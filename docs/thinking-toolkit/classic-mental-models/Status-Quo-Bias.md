@@ -1,5 +1,4 @@
 ---
-sidebar_position: 119
 title: Status Quo Bias
 ---
 

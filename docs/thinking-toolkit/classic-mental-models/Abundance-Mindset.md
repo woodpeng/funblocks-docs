@@ -1,5 +1,4 @@
 ---
-sidebar_position: 334
 title: Abundance Mindset
 ---
 

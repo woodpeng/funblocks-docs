@@ -1,5 +1,4 @@
 ---
-sidebar_position: 336
 title: Narrative Fallacy
 ---
 

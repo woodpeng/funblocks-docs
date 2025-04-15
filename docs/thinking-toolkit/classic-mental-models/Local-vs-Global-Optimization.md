@@ -1,5 +1,4 @@
 ---
-sidebar_position: 389
 title: Local vs Global Optimization
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 165
 title: Cognitive Dissonance
 ---
 

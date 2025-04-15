@@ -1,5 +1,4 @@
 ---
-sidebar_position: 132
 title: Nash Equilibrium
 ---
 

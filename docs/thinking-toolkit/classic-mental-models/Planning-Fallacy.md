@@ -1,5 +1,4 @@
 ---
-sidebar_position: 212
 title: Planning Fallacy
 ---
 

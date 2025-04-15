@@ -1,5 +1,4 @@
 ---
-sidebar_position: 133
 title: Comparative Advantage
 ---
 

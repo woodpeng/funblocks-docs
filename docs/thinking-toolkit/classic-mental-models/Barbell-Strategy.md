@@ -1,5 +1,4 @@
 ---
-sidebar_position: 157
 title: Barbell Strategy
 ---
 

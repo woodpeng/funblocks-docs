@@ -1,5 +1,4 @@
 ---
-sidebar_position: 92
 title: Inspiration Mining
 ---
 

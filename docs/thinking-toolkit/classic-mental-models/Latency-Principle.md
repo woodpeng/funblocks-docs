@@ -1,5 +1,4 @@
 ---
-sidebar_position: 320
 title: Latency Principle
 ---
 

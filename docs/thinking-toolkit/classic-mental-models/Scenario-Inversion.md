@@ -1,5 +1,4 @@
 ---
-sidebar_position: 78
 title: Scenario Inversion
 ---
 

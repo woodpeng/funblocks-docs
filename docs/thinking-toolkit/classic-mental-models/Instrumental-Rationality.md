@@ -1,5 +1,4 @@
 ---
-sidebar_position: 340
 title: Instrumental Rationality
 ---
 

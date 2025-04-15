@@ -1,5 +1,4 @@
 ---
-sidebar_position: 216
 title: Cold Start Problem
 ---
 

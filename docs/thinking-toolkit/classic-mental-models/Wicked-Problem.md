@@ -1,5 +1,4 @@
 ---
-sidebar_position: 328
 title: Wicked Problem
 ---
 

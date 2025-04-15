@@ -1,5 +1,4 @@
 ---
-sidebar_position: 151
 title: Emergence
 ---
 

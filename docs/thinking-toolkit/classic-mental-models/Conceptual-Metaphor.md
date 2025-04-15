@@ -1,5 +1,4 @@
 ---
-sidebar_position: 282
 title: Conceptual Metaphor
 ---
 

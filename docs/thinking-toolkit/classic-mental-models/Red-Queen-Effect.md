@@ -1,5 +1,4 @@
 ---
-sidebar_position: 207
 title: Red Queen Effect
 ---
 

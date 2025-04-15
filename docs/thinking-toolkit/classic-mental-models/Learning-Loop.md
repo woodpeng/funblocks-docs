@@ -1,5 +1,4 @@
 ---
-sidebar_position: 360
 title: Learning Loop
 ---
 

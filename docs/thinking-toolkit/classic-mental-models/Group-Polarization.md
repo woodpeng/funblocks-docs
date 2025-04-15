@@ -1,5 +1,4 @@
 ---
-sidebar_position: 406
 title: Group Polarization
 ---
 

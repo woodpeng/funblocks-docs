@@ -1,5 +1,4 @@
 ---
-sidebar_position: 231
 title: Trust Dynamics
 ---
 

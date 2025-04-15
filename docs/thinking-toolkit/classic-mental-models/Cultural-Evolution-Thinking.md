@@ -1,5 +1,4 @@
 ---
-sidebar_position: 415
 title: Cultural Evolution Thinking
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 290
 title: Deliberate Practice
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 403
 title: Hindsight Illusion
 ---
 

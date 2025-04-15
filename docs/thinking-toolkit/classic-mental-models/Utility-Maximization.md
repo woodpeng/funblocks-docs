@@ -1,5 +1,4 @@
 ---
-sidebar_position: 377
 title: Utility Maximization
 ---
 

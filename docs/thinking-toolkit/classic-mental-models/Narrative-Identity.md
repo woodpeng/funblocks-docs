@@ -1,5 +1,4 @@
 ---
-sidebar_position: 383
 title: Narrative Identity
 ---
 

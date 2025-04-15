@@ -1,5 +1,4 @@
 ---
-sidebar_position: 409
 title: Value Investing Mindset
 ---
 

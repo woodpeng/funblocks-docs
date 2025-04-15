@@ -1,5 +1,4 @@
 ---
-sidebar_position: 280
 title: Boiling Frog Syndrome
 ---
 

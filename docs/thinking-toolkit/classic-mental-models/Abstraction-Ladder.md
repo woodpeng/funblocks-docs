@@ -1,5 +1,4 @@
 ---
-sidebar_position: 223
 title: Abstraction Ladder
 ---
 

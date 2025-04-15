@@ -1,5 +1,4 @@
 ---
-sidebar_position: 257
 title: Analysis Paralysis
 ---
 

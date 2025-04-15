@@ -1,5 +1,4 @@
 ---
-sidebar_position: 183
 title: Goodhart’s Law
 ---
 

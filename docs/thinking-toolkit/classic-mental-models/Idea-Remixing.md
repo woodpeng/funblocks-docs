@@ -1,5 +1,4 @@
 ---
-sidebar_position: 86
 title: Idea Remixing
 ---
 

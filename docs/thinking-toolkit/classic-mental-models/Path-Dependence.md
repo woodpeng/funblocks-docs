@@ -1,5 +1,4 @@
 ---
-sidebar_position: 136
 title: Path Dependence
 ---
 

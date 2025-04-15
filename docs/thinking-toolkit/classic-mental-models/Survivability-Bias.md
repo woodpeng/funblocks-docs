@@ -1,5 +1,4 @@
 ---
-sidebar_position: 213
 title: Survivability Bias
 ---
 

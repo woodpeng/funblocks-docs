@@ -1,5 +1,4 @@
 ---
-sidebar_position: 405
 title: Belief Perseverance
 ---
 

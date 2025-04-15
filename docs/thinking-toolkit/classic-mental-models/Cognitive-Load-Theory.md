@@ -1,5 +1,4 @@
 ---
-sidebar_position: 225
 title: Cognitive Load Theory
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 300
 title: Illusory Superiority
 ---
 

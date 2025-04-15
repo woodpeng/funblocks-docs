@@ -1,5 +1,4 @@
 ---
-sidebar_position: 384
 title: Knowledge Illusion
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 233
 title: Multisided Platforms
 ---
 

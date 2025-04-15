@@ -1,5 +1,4 @@
 ---
-sidebar_position: 296
 title: Law of Small Numbers
 ---
 

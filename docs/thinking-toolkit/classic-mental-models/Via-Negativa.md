@@ -1,5 +1,4 @@
 ---
-sidebar_position: 156
 title: Via Negativa
 ---
 

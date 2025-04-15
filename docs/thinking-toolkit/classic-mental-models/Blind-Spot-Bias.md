@@ -1,5 +1,4 @@
 ---
-sidebar_position: 163
 title: Blind Spot Bias
 ---
 

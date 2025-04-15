@@ -1,5 +1,4 @@
 ---
-sidebar_position: 169
 title: Overconfidence Bias
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 186
 title: Maslow’s Hierarchy of Needs
 ---
 

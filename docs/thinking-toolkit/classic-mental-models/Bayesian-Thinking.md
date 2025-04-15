@@ -1,5 +1,4 @@
 ---
-sidebar_position: 105
 title: Bayesian Thinking
 ---
 

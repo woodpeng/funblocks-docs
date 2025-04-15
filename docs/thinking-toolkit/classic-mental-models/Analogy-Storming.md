@@ -1,5 +1,4 @@
 ---
-sidebar_position: 99
 title: Analogy Storming
 ---
 

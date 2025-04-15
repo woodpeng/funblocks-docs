@@ -1,5 +1,4 @@
 ---
-sidebar_position: 64
 title: Delphi Method
 ---
 

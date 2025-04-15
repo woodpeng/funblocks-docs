@@ -1,5 +1,4 @@
 ---
-sidebar_position: 40
 title: TRIZ Theory
 ---
 
@@ -232,7 +231,7 @@ Brainstorming is a divergent thinking technique focused on generating a large qu
 
 **5. Where can I find more resources to learn about TRIZ?**
 
-Numerous resources are available online and in print.  Websites like TRIZ Journal ([www.triz-journal.com](www.triz-journal.com)) offer articles, tools, and community forums.  Books like "And Suddenly the Inventor Appeared" by Genrich Altshuller (in translation) and "Systematic Innovation: An Introduction to TRIZ" by Darrell Mann are excellent starting points.  TRIZ training workshops and courses are also offered by various organizations globally.
+Numerous resources are available online and in print. Books like "And Suddenly the Inventor Appeared" by Genrich Altshuller (in translation) and "Systematic Innovation: An Introduction to TRIZ" by Darrell Mann are excellent starting points.  TRIZ training workshops and courses are also offered by various organizations globally.
 
 ---
 
@@ -244,9 +243,7 @@ Numerous resources are available online and in print.  Websites like TRIZ Journa
     *   "The Innovation Algorithm: TRIZ, Systematic Innovation and Technical Systems Evolution" by Genrich Altshuller
     *   "TRIZ Principles in American Companies" by Lev Shulyak
 *   **Websites:**
-    *   TRIZ Journal ([www.triz-journal.com](www.triz-journal.com))
-    *   European TRIZ Association ([www.e-triz.org](www.e-triz.org))
-    *   Altshuller Institute for TRIZ Studies ([www.aitriz.org](www.aitriz.org))
+    *   Altshuller Institute for TRIZ Studies ([www.aitriz.org](https://www.aitriz.org))
 *   **Software Tools:**
     *   TechOptimizer (commercial TRIZ software)
     *   Goldfire Innovator (commercial innovation software with TRIZ capabilities)

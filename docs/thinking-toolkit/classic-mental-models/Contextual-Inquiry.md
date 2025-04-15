@@ -1,5 +1,4 @@
 ---
-sidebar_position: 89
 title: Contextual Inquiry
 ---
 

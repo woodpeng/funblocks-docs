@@ -1,5 +1,4 @@
 ---
-sidebar_position: 123
 title: Scarcity Principle
 ---
 

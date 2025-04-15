@@ -1,5 +1,4 @@
 ---
-sidebar_position: 149
 title: Antifragility
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 259
 title: Least Harm Principle
 ---
 

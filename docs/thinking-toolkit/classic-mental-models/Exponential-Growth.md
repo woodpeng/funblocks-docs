@@ -1,5 +1,4 @@
 ---
-sidebar_position: 242
 title: Exponential Growth
 ---
 

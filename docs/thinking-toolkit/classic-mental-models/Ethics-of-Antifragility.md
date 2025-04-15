@@ -1,5 +1,4 @@
 ---
-sidebar_position: 261
 title: Ethics of Antifragility
 ---
 

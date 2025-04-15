@@ -1,5 +1,4 @@
 ---
-sidebar_position: 400
 title: Narrative Dominance
 ---
 

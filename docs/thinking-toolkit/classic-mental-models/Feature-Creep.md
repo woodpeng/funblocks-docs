@@ -1,5 +1,4 @@
 ---
-sidebar_position: 326
 title: Feature Creep
 ---
 

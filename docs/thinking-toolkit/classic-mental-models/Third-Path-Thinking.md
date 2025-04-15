@@ -1,5 +1,4 @@
 ---
-sidebar_position: 73
 title: Third Path Thinking
 ---
 

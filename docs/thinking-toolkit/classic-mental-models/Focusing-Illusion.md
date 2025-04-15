@@ -1,5 +1,4 @@
 ---
-sidebar_position: 390
 title: Focusing Illusion
 ---
 

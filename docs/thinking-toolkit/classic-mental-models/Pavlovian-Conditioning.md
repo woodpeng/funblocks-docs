@@ -1,5 +1,4 @@
 ---
-sidebar_position: 125
 title: Pavlovian Conditioning
 ---
 

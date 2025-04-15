@@ -1,5 +1,4 @@
 ---
-sidebar_position: 388
 title: Loss Aversion Framing
 ---
 

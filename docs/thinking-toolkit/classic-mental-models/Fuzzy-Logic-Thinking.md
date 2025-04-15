@@ -1,5 +1,4 @@
 ---
-sidebar_position: 365
 title: Fuzzy Logic Thinking
 ---
 

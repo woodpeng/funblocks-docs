@@ -1,5 +1,4 @@
 ---
-sidebar_position: 373
 title: Outcome Independence
 ---
 

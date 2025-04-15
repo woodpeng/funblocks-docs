@@ -1,5 +1,4 @@
 ---
-sidebar_position: 325
 title: Cognitive Offloading
 ---
 

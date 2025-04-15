@@ -1,5 +1,4 @@
 ---
-sidebar_position: 376
 title: Fat-Tail Risk Thinking
 ---
 

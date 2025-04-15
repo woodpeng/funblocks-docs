@@ -1,5 +1,4 @@
 ---
-sidebar_position: 226
 title: Interleaving Effect
 ---
 

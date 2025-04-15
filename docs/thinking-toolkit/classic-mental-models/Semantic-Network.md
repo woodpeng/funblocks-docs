@@ -1,5 +1,4 @@
 ---
-sidebar_position: 230
 title: Semantic Network
 ---
 

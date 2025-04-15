@@ -1,5 +1,4 @@
 ---
-sidebar_position: 338
 title: Time Dilation Perception
 ---
 

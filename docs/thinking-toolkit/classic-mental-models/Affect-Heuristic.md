@@ -1,5 +1,4 @@
 ---
-sidebar_position: 170
 title: Affect Heuristic
 ---
 

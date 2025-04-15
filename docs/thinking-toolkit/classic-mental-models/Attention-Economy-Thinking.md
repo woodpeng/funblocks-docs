@@ -1,5 +1,4 @@
 ---
-sidebar_position: 399
 title: Attention Economy Thinking
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 184
 title: Simpson’s Paradox
 ---
 

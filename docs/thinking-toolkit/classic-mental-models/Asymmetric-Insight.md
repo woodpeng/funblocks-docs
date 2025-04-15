@@ -1,5 +1,4 @@
 ---
-sidebar_position: 401
 title: Asymmetric Insight
 ---
 

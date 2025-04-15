@@ -1,5 +1,4 @@
 ---
-sidebar_position: 52
 title: Abductive Reasoning
 ---
 

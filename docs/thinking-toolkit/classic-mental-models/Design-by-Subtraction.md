@@ -1,5 +1,4 @@
 ---
-sidebar_position: 359
 title: Design by Subtraction
 ---
 

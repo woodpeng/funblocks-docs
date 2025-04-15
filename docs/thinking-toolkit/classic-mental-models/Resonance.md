@@ -1,5 +1,4 @@
 ---
-sidebar_position: 335
 title: Resonance
 ---
 

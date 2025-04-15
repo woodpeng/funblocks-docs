@@ -1,5 +1,4 @@
 ---
-sidebar_position: 311
 title: Heisenberg Principle
 ---
 

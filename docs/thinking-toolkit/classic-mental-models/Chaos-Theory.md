@@ -1,5 +1,4 @@
 ---
-sidebar_position: 153
 title: Chaos Theory
 ---
 

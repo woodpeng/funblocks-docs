@@ -1,5 +1,4 @@
 ---
-sidebar_position: 85
 title: Strategic Serendipity
 ---
 

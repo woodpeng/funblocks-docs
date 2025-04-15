@@ -1,5 +1,4 @@
 ---
-sidebar_position: 94
 title: Innovation Triggering
 ---
 

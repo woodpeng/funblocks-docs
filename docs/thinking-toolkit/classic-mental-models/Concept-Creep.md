@@ -1,5 +1,4 @@
 ---
-sidebar_position: 397
 title: Concept Creep
 ---
 

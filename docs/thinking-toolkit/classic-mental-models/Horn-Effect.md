@@ -1,5 +1,4 @@
 ---
-sidebar_position: 190
 title: Horn Effect
 ---
 

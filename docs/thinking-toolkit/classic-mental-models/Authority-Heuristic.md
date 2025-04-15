@@ -1,5 +1,4 @@
 ---
-sidebar_position: 301
 title: Authority Heuristic
 ---
 

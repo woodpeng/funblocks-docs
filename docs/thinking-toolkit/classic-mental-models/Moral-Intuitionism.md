@@ -1,5 +1,4 @@
 ---
-sidebar_position: 380
 title: Moral Intuitionism
 ---
 

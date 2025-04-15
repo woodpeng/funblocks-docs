@@ -1,5 +1,4 @@
 ---
-sidebar_position: 28
 title: Cross-Pollination
 ---
 

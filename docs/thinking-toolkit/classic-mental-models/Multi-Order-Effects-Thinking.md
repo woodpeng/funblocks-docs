@@ -1,5 +1,4 @@
 ---
-sidebar_position: 62
 title: Multi-Order Effects Thinking
 ---
 

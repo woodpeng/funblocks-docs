@@ -1,5 +1,4 @@
 ---
-sidebar_position: 31
 title: Value Inversion
 ---
 

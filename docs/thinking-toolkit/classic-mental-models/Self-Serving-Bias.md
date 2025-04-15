@@ -1,5 +1,4 @@
 ---
-sidebar_position: 164
 title: Self-Serving Bias
 ---
 

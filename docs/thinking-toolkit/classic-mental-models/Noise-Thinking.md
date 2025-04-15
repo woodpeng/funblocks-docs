@@ -1,5 +1,4 @@
 ---
-sidebar_position: 351
 title: Noise Thinking
 ---
 

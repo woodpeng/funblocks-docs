@@ -1,5 +1,4 @@
 ---
-sidebar_position: 171
 title: Representativeness Heuristic
 ---
 

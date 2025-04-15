@@ -1,5 +1,4 @@
 ---
-sidebar_position: 217
 title: Path of Least Resistance
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 210
 title: Jealousy Aversion
 ---
 

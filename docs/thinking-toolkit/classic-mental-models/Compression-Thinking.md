@@ -1,5 +1,4 @@
 ---
-sidebar_position: 346
 title: Compression Thinking
 ---
 

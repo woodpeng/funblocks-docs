@@ -1,5 +1,4 @@
 ---
-sidebar_position: 84
 title: Idea Farming
 ---
 

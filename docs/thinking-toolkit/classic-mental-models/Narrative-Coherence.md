@@ -1,5 +1,4 @@
 ---
-sidebar_position: 378
 title: Narrative Coherence
 ---
 

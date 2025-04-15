@@ -1,5 +1,4 @@
 ---
-sidebar_position: 324
 title: Moral Licensing
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 111
 title: Sunk Cost Fallacy
 ---
 

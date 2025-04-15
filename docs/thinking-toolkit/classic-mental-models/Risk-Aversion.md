@@ -1,5 +1,4 @@
 ---
-sidebar_position: 266
 title: Risk Aversion
 ---
 

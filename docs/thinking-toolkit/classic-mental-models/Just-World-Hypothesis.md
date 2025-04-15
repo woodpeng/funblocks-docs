@@ -1,5 +1,4 @@
 ---
-sidebar_position: 295
 title: Just-World Hypothesis
 ---
 

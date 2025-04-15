@@ -1,5 +1,4 @@
 ---
-sidebar_position: 392
 title: Peak-End Rule
 ---
 

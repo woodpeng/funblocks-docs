@@ -1,5 +1,4 @@
 ---
-sidebar_position: 8
 title: What If Thinking
 ---
 

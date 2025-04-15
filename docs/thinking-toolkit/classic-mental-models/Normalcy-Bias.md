@@ -1,5 +1,4 @@
 ---
-sidebar_position: 288
 title: Normalcy Bias
 ---
 

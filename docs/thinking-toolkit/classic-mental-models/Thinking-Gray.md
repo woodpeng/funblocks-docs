@@ -1,5 +1,4 @@
 ---
-sidebar_position: 204
 title: Thinking Gray
 ---
 

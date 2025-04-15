@@ -1,5 +1,4 @@
 ---
-sidebar_position: 211
 title: Hyperbolic Discounting
 ---
 

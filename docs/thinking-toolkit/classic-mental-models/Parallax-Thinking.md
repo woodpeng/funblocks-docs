@@ -1,5 +1,4 @@
 ---
-sidebar_position: 65
 title: Parallax Thinking
 ---
 

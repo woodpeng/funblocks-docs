@@ -1,5 +1,4 @@
 ---
-sidebar_position: 83
 title: Context Shifting
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 75
 title: Abstraction Laddering
 ---
 

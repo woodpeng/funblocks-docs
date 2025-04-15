@@ -1,5 +1,4 @@
 ---
-sidebar_position: 329
 title: Complex Adaptive System
 ---
 

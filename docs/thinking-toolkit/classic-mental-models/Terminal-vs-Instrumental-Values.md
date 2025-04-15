@@ -1,5 +1,4 @@
 ---
-sidebar_position: 260
 title: Terminal vs Instrumental Values
 ---
 

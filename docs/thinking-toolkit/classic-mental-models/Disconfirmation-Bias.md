@@ -1,5 +1,4 @@
 ---
-sidebar_position: 285
 title: Disconfirmation Bias
 ---
 

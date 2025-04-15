@@ -1,5 +1,4 @@
 ---
-sidebar_position: 292
 title: Anchoring and Adjustment
 ---
 

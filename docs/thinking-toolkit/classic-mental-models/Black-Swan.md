@@ -1,5 +1,4 @@
 ---
-sidebar_position: 154
 title: Black Swan
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 410
 title: Hedonic Adaptation
 ---
 

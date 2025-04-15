@@ -1,5 +1,4 @@
 ---
-sidebar_position: 104
 title: Opportunity Cost
 ---
 

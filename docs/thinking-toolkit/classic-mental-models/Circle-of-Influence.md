@@ -1,5 +1,4 @@
 ---
-sidebar_position: 177
 title: Circle of Influence
 ---
 

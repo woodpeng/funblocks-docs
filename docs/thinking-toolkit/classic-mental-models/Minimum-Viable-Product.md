@@ -1,5 +1,4 @@
 ---
-sidebar_position: 327
 title: Minimum Viable Product
 ---
 

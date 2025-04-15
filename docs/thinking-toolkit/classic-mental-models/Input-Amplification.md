@@ -1,5 +1,4 @@
 ---
-sidebar_position: 102
 title: Input Amplification
 ---
 

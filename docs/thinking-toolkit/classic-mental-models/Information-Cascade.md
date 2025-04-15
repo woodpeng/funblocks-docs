@@ -1,5 +1,4 @@
 ---
-sidebar_position: 219
 title: Information Cascade
 ---
 

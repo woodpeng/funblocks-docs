@@ -1,5 +1,4 @@
 ---
-sidebar_position: 267
 title: Information Entropy
 ---
 

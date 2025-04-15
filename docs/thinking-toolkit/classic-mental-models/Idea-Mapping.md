@@ -1,5 +1,4 @@
 ---
-sidebar_position: 91
 title: Idea Mapping
 ---
 

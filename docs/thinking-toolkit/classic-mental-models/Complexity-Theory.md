@@ -1,5 +1,4 @@
 ---
-sidebar_position: 152
 title: Complexity Theory
 ---
 

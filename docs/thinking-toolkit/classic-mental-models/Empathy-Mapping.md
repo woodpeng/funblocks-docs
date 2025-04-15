@@ -1,5 +1,4 @@
 ---
-sidebar_position: 95
 title: Empathy Mapping
 ---
 

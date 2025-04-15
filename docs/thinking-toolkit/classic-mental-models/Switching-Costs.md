@@ -1,5 +1,4 @@
 ---
-sidebar_position: 215
 title: Switching Costs
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 159
 title: Reversion to Trend
 ---
 

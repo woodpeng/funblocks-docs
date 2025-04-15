@@ -1,5 +1,4 @@
 ---
-sidebar_position: 15
 title: Mind Mapping
 ---
 
@@ -93,7 +92,7 @@ While mind mapping stands out as a unique and powerful mental model, it's helpfu
 * **When to Choose Mind Mapping:** To visually map out the components and relationships within a system identified through systems thinking. To brainstorm system improvements or analyze system problems.
 * **When to Choose Systems Thinking:** When you need to understand the behavior of a complex system, identify root causes of problems within a system, or design interventions to improve system performance.
 
-**3. [Concept Mapping](/docs/thinking-toolkit/classic-mental-models/concept-mapping):** Concept mapping is another visual tool for organizing knowledge.  It focuses on showing relationships between concepts using labeled lines to indicate the type of connection.  While mind maps are more free-flowing and radiant, concept maps are more structured and focus on explicit relationships between concepts.
+**3. Concept Mapping:** Concept mapping is another visual tool for organizing knowledge.  It focuses on showing relationships between concepts using labeled lines to indicate the type of connection.  While mind maps are more free-flowing and radiant, concept maps are more structured and focus on explicit relationships between concepts.
 
 * **Relationship:** Both are visual tools for organizing information and showing relationships between ideas.
 * **Similarities:** Both use nodes and links to represent concepts and connections. Both are visual and non-linear.

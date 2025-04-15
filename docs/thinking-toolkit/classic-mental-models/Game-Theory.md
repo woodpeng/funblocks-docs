@@ -1,5 +1,4 @@
 ---
-sidebar_position: 131
 title: Game Theory
 ---
 

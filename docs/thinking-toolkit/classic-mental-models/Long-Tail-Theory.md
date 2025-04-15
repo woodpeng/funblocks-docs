@@ -1,5 +1,4 @@
 ---
-sidebar_position: 271
 title: Long Tail Theory
 ---
 

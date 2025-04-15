@@ -1,5 +1,4 @@
 ---
-sidebar_position: 243
 title: Black Box Thinking
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 175
 title: Chesterton’s Fence
 ---
 

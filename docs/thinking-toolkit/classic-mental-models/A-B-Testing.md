@@ -1,5 +1,4 @@
 ---
-sidebar_position: 250
 title: A/B Testing
 ---
 

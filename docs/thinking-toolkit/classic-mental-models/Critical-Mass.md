@@ -1,5 +1,4 @@
 ---
-sidebar_position: 137
 title: Critical Mass
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 129
 title: Tragedy of the Commons
 ---
 

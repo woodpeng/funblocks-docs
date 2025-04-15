@@ -1,5 +1,4 @@
 ---
-sidebar_position: 53
 title: Conceptual Blending
 ---
 

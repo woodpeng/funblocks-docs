@@ -1,5 +1,4 @@
 ---
-sidebar_position: 270
 title: Sampling Bias
 ---
 

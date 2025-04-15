@@ -1,5 +1,4 @@
 ---
-sidebar_position: 237
 title: Structural Hole Theory
 ---
 

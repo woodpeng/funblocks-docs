@@ -1,5 +1,4 @@
 ---
-sidebar_position: 304
 title: Diffusion of Responsibility
 ---
 

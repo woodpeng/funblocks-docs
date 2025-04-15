@@ -1,5 +1,4 @@
 ---
-sidebar_position: 333
 title: Scarcity Mindset
 ---
 

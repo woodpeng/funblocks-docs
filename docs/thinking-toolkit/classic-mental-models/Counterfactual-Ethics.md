@@ -1,5 +1,4 @@
 ---
-sidebar_position: 262
 title: Counterfactual Ethics
 ---
 

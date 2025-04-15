@@ -1,5 +1,4 @@
 ---
-sidebar_position: 385
 title: Paradox of Choice
 ---
 

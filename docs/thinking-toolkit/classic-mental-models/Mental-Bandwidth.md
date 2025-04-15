@@ -1,5 +1,4 @@
 ---
-sidebar_position: 343
 title: Mental Bandwidth
 ---
 

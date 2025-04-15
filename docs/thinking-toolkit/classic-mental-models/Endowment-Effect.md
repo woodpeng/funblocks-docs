@@ -1,5 +1,4 @@
 ---
-sidebar_position: 117
 title: Endowment Effect
 ---
 

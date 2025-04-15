@@ -1,5 +1,4 @@
 ---
-sidebar_position: 393
 title: Pathological Altruism
 ---
 

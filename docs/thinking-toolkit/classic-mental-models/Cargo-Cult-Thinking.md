@@ -1,5 +1,4 @@
 ---
-sidebar_position: 332
 title: Cargo Cult Thinking
 ---
 

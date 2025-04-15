@@ -1,5 +1,4 @@
 ---
-sidebar_position: 161
 title: Skin in the Game
 ---
 

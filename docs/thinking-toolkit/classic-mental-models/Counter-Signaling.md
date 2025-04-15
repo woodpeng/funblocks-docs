@@ -1,5 +1,4 @@
 ---
-sidebar_position: 345
 title: Counter-Signaling
 ---
 

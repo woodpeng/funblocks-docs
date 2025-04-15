@@ -1,5 +1,4 @@
 ---
-sidebar_position: 108
 title: Hanlon's Razor
 ---
 

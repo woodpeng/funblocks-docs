@@ -1,5 +1,4 @@
 ---
-sidebar_position: 45
 title: Gap Analysis
 ---
 

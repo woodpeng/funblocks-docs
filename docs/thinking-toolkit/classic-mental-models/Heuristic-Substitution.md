@@ -1,5 +1,4 @@
 ---
-sidebar_position: 283
 title: Heuristic Substitution
 ---
 

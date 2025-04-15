@@ -1,5 +1,4 @@
 ---
-sidebar_position: 122
 title: Authority Bias
 ---
 

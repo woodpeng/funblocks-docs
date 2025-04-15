@@ -1,5 +1,4 @@
 ---
-sidebar_position: 121
 title: Social Proof
 ---
 

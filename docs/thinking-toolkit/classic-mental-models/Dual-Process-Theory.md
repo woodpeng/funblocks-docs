@@ -1,5 +1,4 @@
 ---
-sidebar_position: 322
 title: Dual Process Theory
 ---
 

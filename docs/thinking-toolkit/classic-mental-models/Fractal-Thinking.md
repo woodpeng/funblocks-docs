@@ -1,5 +1,4 @@
 ---
-sidebar_position: 404
 title: Fractal Thinking
 ---
 

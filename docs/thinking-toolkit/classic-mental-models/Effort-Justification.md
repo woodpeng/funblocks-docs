@@ -1,5 +1,4 @@
 ---
-sidebar_position: 363
 title: Effort Justification
 ---
 

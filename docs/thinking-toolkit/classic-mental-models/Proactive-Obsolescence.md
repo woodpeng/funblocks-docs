@@ -1,5 +1,4 @@
 ---
-sidebar_position: 79
 title: Proactive Obsolescence
 ---
 

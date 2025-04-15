@@ -1,5 +1,4 @@
 ---
-sidebar_position: 234
 title: Psychological Contract
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 101
 title: Blind Spot Analysis
 ---
 

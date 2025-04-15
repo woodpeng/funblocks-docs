@@ -1,5 +1,4 @@
 ---
-sidebar_position: 135
 title: Network Effects
 ---
 

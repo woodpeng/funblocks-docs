@@ -1,5 +1,4 @@
 ---
-sidebar_position: 265
 title: Holistic Thinking
 ---
 

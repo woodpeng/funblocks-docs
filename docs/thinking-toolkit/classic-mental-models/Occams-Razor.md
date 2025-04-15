@@ -1,5 +1,4 @@
 ---
-sidebar_position: 107
 title: Occam's Razor
 ---
 

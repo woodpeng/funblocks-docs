@@ -1,5 +1,4 @@
 ---
-sidebar_position: 407
 title: Premack Principle
 ---
 

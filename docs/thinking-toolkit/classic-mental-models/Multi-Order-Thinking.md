@@ -1,5 +1,4 @@
 ---
-sidebar_position: 255
 title: Multi-Order Thinking
 ---
 

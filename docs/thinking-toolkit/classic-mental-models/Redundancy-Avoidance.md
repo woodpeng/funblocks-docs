@@ -1,5 +1,4 @@
 ---
-sidebar_position: 350
 title: Redundancy Avoidance
 ---
 

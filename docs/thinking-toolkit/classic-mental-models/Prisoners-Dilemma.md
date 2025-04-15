@@ -1,5 +1,4 @@
 ---
-sidebar_position: 130
 title: Prisoner's Dilemma
 ---
 

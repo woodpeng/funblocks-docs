@@ -1,5 +1,4 @@
 ---
-sidebar_position: 309
 title: Perspective Taking
 ---
 

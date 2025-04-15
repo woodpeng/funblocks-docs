@@ -1,5 +1,4 @@
 ---
-sidebar_position: 138
 title: Leverage
 ---
 

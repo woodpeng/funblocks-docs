@@ -1,5 +1,4 @@
 ---
-sidebar_position: 189
 title: Halo Effect
 ---
 

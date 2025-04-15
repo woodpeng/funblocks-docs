@@ -1,5 +1,4 @@
 ---
-sidebar_position: 239
 title: Affordance
 ---
 

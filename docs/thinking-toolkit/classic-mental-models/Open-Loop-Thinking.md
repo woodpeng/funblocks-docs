@@ -1,5 +1,4 @@
 ---
-sidebar_position: 337
 title: Open Loop Thinking
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 87
 title: Framing Effects
 ---
 

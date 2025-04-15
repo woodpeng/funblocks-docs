@@ -1,5 +1,4 @@
 ---
-sidebar_position: 172
 title: Law of Large Numbers
 ---
 

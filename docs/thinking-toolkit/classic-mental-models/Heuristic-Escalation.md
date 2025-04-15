@@ -1,5 +1,4 @@
 ---
-sidebar_position: 323
 title: Heuristic Escalation
 ---
 

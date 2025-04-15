@@ -1,5 +1,4 @@
 ---
-sidebar_position: 41
 title: Thought Experiment
 ---
 

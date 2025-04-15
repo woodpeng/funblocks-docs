@@ -1,5 +1,4 @@
 ---
-sidebar_position: 182
 title: Peter Principle
 ---
 

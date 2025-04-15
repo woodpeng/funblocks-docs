@@ -1,5 +1,4 @@
 ---
-sidebar_position: 299
 title: Mere Exposure Effect
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 202
 title: Parkinson's Law of Triviality
 ---
 

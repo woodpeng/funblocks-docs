@@ -1,5 +1,4 @@
 ---
-sidebar_position: 96
 title: Idea Auction
 ---
 

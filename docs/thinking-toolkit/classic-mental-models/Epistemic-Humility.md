@@ -1,5 +1,4 @@
 ---
-sidebar_position: 341
 title: Epistemic Humility
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 374
 title: Behavioral Contagion
 ---
 

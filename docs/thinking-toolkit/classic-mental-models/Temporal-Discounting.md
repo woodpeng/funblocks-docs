@@ -1,5 +1,4 @@
 ---
-sidebar_position: 307
 title: Temporal Discounting
 ---
 

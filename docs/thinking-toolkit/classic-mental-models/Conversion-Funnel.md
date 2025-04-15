@@ -1,5 +1,4 @@
 ---
-sidebar_position: 251
 title: Conversion Funnel
 ---
 

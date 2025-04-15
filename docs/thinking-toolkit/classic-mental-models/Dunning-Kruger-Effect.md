@@ -1,5 +1,4 @@
 ---
-sidebar_position: 166
 title: Dunning-Kruger Effect
 ---
 

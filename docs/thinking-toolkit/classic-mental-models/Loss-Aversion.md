@@ -1,5 +1,4 @@
 ---
-sidebar_position: 116
 title: Loss Aversion
 ---
 

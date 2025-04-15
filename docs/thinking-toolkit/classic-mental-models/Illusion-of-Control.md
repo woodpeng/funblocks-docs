@@ -1,5 +1,4 @@
 ---
-sidebar_position: 287
 title: Illusion of Control
 ---
 

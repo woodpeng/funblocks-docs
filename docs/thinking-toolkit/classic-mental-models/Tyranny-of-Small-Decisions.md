@@ -1,5 +1,4 @@
 ---
-sidebar_position: 339
 title: Tyranny of Small Decisions
 ---
 

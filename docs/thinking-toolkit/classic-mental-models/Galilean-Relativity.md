@@ -1,5 +1,4 @@
 ---
-sidebar_position: 208
 title: Galilean Relativity
 ---
 

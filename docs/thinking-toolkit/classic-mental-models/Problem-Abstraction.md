@@ -1,5 +1,4 @@
 ---
-sidebar_position: 362
 title: Problem Abstraction
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 357
 title: Open-Mindedness
 ---
 

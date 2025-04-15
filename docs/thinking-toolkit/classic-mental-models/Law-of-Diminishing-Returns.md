@@ -1,5 +1,4 @@
 ---
-sidebar_position: 128
 title: Law of Diminishing Returns
 ---
 

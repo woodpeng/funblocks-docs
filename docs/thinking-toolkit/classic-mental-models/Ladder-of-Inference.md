@@ -1,5 +1,4 @@
 ---
-sidebar_position: 253
 title: Ladder of Inference
 ---
 

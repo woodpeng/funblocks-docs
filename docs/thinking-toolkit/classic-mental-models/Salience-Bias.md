@@ -1,5 +1,4 @@
 ---
-sidebar_position: 294
 title: Salience Bias
 ---
 

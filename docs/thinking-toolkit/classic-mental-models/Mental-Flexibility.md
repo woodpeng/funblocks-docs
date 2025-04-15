@@ -1,5 +1,4 @@
 ---
-sidebar_position: 344
 title: Mental Flexibility
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 30
 title: Ten Types of Innovation
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 112
 title: Confirmation Bias
 ---
 

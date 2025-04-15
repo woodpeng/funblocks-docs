@@ -1,5 +1,4 @@
 ---
-sidebar_position: 305
 title: Hyperbolic Geometry Thinking
 ---
 

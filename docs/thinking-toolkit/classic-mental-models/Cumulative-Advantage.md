@@ -1,5 +1,4 @@
 ---
-sidebar_position: 272
 title: Cumulative Advantage
 ---
 

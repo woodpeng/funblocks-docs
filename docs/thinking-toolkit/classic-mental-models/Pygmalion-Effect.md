@@ -1,5 +1,4 @@
 ---
-sidebar_position: 187
 title: Pygmalion Effect
 ---
 

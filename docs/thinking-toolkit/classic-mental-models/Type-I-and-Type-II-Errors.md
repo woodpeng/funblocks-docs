@@ -1,5 +1,4 @@
 ---
-sidebar_position: 269
 title: Type I and Type II Errors
 ---
 

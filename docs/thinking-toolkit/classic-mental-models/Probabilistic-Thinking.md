@@ -1,5 +1,4 @@
 ---
-sidebar_position: 106
 title: Probabilistic Thinking
 ---
 

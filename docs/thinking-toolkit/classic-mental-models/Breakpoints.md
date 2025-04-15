@@ -1,5 +1,4 @@
 ---
-sidebar_position: 146
 title: Breakpoints
 ---
 

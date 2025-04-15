@@ -1,5 +1,4 @@
 ---
-sidebar_position: 115
 title: Survivorship Bias
 ---
 

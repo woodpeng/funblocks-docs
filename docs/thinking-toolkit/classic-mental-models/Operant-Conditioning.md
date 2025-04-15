@@ -1,5 +1,4 @@
 ---
-sidebar_position: 126
 title: Operant Conditioning
 ---
 

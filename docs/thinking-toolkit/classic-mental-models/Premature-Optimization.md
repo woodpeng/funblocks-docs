@@ -1,5 +1,4 @@
 ---
-sidebar_position: 352
 title: Premature Optimization
 ---
 

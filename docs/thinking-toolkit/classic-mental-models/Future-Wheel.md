@@ -1,5 +1,4 @@
 ---
-sidebar_position: 68
 title: Future Wheel
 ---
 

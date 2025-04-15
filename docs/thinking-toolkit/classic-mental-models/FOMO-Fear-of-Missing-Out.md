@@ -1,5 +1,4 @@
 ---
-sidebar_position: 124
 title: FOMO (Fear of Missing Out)
 ---
 

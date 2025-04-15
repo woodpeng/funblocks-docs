@@ -1,5 +1,4 @@
 ---
-sidebar_position: 176
 title: Map is not the Territory
 ---
 

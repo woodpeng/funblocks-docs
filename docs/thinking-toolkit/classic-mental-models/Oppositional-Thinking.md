@@ -1,5 +1,4 @@
 ---
-sidebar_position: 103
 title: Oppositional Thinking
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 298
 title: Hot Hand Fallacy
 ---
 

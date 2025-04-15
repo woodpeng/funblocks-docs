@@ -1,5 +1,4 @@
 ---
-sidebar_position: 180
 title: Hofstadter's Law
 ---
 

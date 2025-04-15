@@ -1,5 +1,4 @@
 ---
-sidebar_position: 382
 title: Sunk Cost Sensitivity
 ---
 

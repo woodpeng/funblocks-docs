@@ -1,5 +1,4 @@
 ---
-sidebar_position: 220
 title: Echo Chamber Effect
 ---
 

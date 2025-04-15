@@ -1,5 +1,4 @@
 ---
-sidebar_position: 229
 title: Transfer Learning
 ---
 

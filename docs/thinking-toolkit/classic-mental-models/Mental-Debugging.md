@@ -1,5 +1,4 @@
 ---
-sidebar_position: 361
 title: Mental Debugging
 ---
 

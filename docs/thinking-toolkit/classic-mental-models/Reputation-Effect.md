@@ -1,5 +1,4 @@
 ---
-sidebar_position: 375
 title: Reputation Effect
 ---
 

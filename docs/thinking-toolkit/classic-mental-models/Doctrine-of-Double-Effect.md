@@ -1,5 +1,4 @@
 ---
-sidebar_position: 263
 title: Doctrine of Double Effect
 ---
 

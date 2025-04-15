@@ -1,5 +1,4 @@
 ---
-sidebar_position: 77
 title: Possibility Scanning
 ---
 

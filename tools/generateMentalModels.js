@@ -13,7 +13,7 @@ const API_ENDPOINT = 'http://localhost:50058/ai/generateMentalModelPage'; // 替
 
 // 模板生成函数
 function generateMarkdown(index, title, body) {
-    return `---\nsidebar_position: ${index}\ntitle: ${title}\n---\n\n${body}`;
+    return `---\ntitle: ${title}\n---\n\n${body}`;
 }
 
 // 请求 Web API（可自定义 body、headers 等）

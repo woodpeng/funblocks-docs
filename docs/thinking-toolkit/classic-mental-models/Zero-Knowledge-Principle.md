@@ -1,5 +1,4 @@
 ---
-sidebar_position: 411
 title: Zero Knowledge Principle
 ---
 

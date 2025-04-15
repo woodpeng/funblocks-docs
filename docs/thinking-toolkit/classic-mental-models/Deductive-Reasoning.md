@@ -1,5 +1,4 @@
 ---
-sidebar_position: 353
 title: Deductive Reasoning
 ---
 

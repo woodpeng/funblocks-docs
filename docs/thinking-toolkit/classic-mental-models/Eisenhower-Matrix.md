@@ -1,5 +1,4 @@
 ---
-sidebar_position: 192
 title: Eisenhower Matrix
 ---
 

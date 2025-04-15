@@ -1,5 +1,4 @@
 ---
-sidebar_position: 241
 title: Scalability
 ---
 

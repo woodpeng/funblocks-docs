@@ -1,5 +1,4 @@
 ---
-sidebar_position: 221
 title: Shirky Principle
 ---
 

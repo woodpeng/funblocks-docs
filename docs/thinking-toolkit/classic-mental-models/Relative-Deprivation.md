@@ -1,5 +1,4 @@
 ---
-sidebar_position: 306
 title: Relative Deprivation
 ---
 

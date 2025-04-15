@@ -1,5 +1,4 @@
 ---
-sidebar_position: 284
 title: Noise vs Signal
 ---
 

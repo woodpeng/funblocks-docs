@@ -1,5 +1,4 @@
 ---
-sidebar_position: 222
 title: Principle of Least Effort
 ---
 

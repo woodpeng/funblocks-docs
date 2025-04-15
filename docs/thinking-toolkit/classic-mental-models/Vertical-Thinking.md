@@ -1,5 +1,4 @@
 ---
-sidebar_position: 367
 title: Vertical Thinking
 ---
 

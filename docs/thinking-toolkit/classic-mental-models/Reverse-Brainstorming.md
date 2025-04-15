@@ -1,5 +1,4 @@
 ---
-sidebar_position: 69
 title: Reverse Brainstorming
 ---
 

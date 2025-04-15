@@ -1,5 +1,4 @@
 ---
-sidebar_position: 264
 title: Dark Forest Theory
 ---
 

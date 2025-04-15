@@ -1,5 +1,4 @@
 ---
-sidebar_position: 236
 title: Moral Hazard
 ---
 

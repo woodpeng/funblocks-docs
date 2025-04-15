@@ -1,5 +1,4 @@
 ---
-sidebar_position: 370
 title: Value Drift
 ---
 

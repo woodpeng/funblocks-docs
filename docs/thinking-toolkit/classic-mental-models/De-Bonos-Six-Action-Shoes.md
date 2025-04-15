@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 title: De Bono's Six Action Shoes
 ---
 

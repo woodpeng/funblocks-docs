@@ -1,5 +1,4 @@
 ---
-sidebar_position: 76
 title: Design by Analogy
 ---
 

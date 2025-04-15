@@ -1,5 +1,4 @@
 ---
-sidebar_position: 321
 title: Intertemporal Choice
 ---
 

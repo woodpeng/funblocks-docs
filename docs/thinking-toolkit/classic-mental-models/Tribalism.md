@@ -1,5 +1,4 @@
 ---
-sidebar_position: 302
 title: Tribalism
 ---
 

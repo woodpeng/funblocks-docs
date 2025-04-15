@@ -1,5 +1,4 @@
 ---
-sidebar_position: 268
 title: Null Hypothesis
 ---
 

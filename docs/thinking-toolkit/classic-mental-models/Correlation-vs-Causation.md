@@ -1,5 +1,4 @@
 ---
-sidebar_position: 174
 title: Correlation vs Causation
 ---
 

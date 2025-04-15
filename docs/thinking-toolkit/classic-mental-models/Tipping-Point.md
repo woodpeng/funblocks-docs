@@ -1,5 +1,4 @@
 ---
-sidebar_position: 147
 title: Tipping Point
 ---
 

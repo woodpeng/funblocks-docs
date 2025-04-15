@@ -1,5 +1,4 @@
 ---
-sidebar_position: 205
 title: Pre-Mortem
 ---
 

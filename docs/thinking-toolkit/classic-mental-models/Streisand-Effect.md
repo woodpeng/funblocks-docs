@@ -1,5 +1,4 @@
 ---
-sidebar_position: 318
 title: Streisand Effect
 ---
 

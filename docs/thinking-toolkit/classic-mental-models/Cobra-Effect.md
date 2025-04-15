@@ -1,5 +1,4 @@
 ---
-sidebar_position: 273
 title: Cobra Effect
 ---
 

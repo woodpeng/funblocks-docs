@@ -1,5 +1,4 @@
 ---
-sidebar_position: 191
 title: Four Burners Theory
 ---
 

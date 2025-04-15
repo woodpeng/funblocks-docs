@@ -1,5 +1,4 @@
 ---
-sidebar_position: 61
 title: Socratic Questioning
 ---
 

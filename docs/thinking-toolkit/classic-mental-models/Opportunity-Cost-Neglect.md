@@ -1,5 +1,4 @@
 ---
-sidebar_position: 379
 title: Opportunity Cost Neglect
 ---
 

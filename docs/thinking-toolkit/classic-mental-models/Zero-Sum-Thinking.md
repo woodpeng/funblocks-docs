@@ -1,5 +1,4 @@
 ---
-sidebar_position: 313
 title: Zero-Sum Thinking
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 134
 title: Division of Labor
 ---
 

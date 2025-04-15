@@ -1,5 +1,4 @@
 ---
-sidebar_position: 387
 title: Option Value Thinking
 ---
 

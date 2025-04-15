@@ -1,5 +1,4 @@
 ---
-sidebar_position: 63
 title: Heuristic Provocation
 ---
 

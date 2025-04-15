@@ -1,5 +1,4 @@
 ---
-sidebar_position: 206
 title: OODA Loop
 ---
 

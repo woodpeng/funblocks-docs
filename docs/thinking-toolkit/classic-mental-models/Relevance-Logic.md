@@ -1,5 +1,4 @@
 ---
-sidebar_position: 72
 title: Relevance Logic
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 254
 title: False Dichotomy
 ---
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 228
 title: Flow State
 ---
 

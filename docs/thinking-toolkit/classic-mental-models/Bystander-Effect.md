@@ -1,5 +1,4 @@
 ---
-sidebar_position: 303
 title: Bystander Effect
 ---
 

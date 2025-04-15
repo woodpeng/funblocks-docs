@@ -1,5 +1,4 @@
 ---
-sidebar_position: 371
 title: Temporal Bias
 ---
 

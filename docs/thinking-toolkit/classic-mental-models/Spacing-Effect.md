@@ -1,5 +1,4 @@
 ---
-sidebar_position: 227
 title: Spacing Effect
 ---
 

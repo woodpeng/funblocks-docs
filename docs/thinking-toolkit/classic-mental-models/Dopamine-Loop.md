@@ -1,5 +1,4 @@
 ---
-sidebar_position: 319
 title: Dopamine Loop
 ---
 

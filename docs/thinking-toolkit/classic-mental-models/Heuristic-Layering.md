@@ -1,5 +1,4 @@
 ---
-sidebar_position: 372
 title: Heuristic Layering
 ---
 

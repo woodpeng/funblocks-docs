@@ -1,5 +1,4 @@
 ---
-sidebar_position: 312
 title: Energy Budgeting
 ---
 
