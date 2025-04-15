@@ -5,7 +5,7 @@ const axios = require('axios');
 // 配置项
 const INPUT_FILE = 'mental_models.txt';  // 每行一个 mental model 名
 // const OUTPUT_DIR = './output';           // 输出文件夹
-const OUTPUT_DIR = "/Users/wood/workspace/funblocks-docs/docs/thinking-toolkit/classic-mental-models/";
+const OUTPUT_DIR = "/Users/wood/workspace/funblocks-docs/thinking-matters/classic-mental-models/";
 const API_ENDPOINT = 'http://localhost:50058/ai/generateMentalModelPage'; // 替换为实际 API 地址
 
 // const API_ENDPOINT = 'https://service.funblocks.net/ai/generateMentalModelPage'; // 替换为实际 API 地址

@@ -92,6 +92,18 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'thinking-matters', // 唯一ID，用于URL和引用
+        path: 'thinking-matters', // 文档的物理路径
+        routeBasePath: 'thinking-matters', // URL路径前缀
+        sidebarPath: require.resolve('./sidebars-thinking-matters.js'), // API文档的侧边栏配置
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -115,6 +127,13 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'right',
             label: 'Tutorial',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'thinkingMattersSidebar',
+            position: 'right',
+            label: 'Thinking Matters',
+            docsPluginId: 'thinking-matters', // 指定使用哪个文档插件
           },
           { to: '/blog', label: 'Blog', position: 'right' },
           {

@@ -52,10 +52,10 @@ function Footer() {
                   <a href="https://www.funblocks.net/aitools/collections/Movie">Classic Movie Mindmaps</a>
                 </li>
                 <li>
-                  <a href="/docs/category/thinking-toolkit">Thinking Toolkit</a>
+                  <a href="/thinking-matters">Thinking Matters</a>
                 </li>
                 <li>
-                  <a href="/docs/category/mental-models">Mental Model</a>
+                  <a href="/thinking-matters/category/mental-models">Mental Model</a>
                 </li>
               </ul>
             </div>

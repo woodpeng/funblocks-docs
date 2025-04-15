@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunblocks_docs=self.webpackChunkfunblocks_docs||[]).push([[83572],{25803:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"thinking-matters"}')}}]);
