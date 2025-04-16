@@ -146,7 +146,7 @@ Empathy is often closely associated with Theory of Mind, and while they are rela
 * **Difference:** Empathy is primarily an *emotional* response, focused on feeling, while Theory of Mind is a *cognitive* skill, focused on understanding.  You can have Theory of Mind without necessarily feeling empathy (e.g., understanding someone is sad without feeling sad yourself), and you can feel empathy without fully understanding the complex reasons behind someone's emotions (which Theory of Mind helps with).
 * **When to Choose:**  Use **Empathy** when you want to connect with someone on an emotional level, offer support, or share in their experiences.  Use **Theory of Mind** when you need to understand the *reasons* behind someone's behavior, predict their actions, or navigate complex social situations that require cognitive understanding of perspectives.
 
-**b) Cognitive Empathy:** [Cognitive-Empathy](/thinking-matters/classic-mental-models/cognitive-empathy) (Often used interchangeably with Perspective-Taking, a component of Theory of Mind)
+**b) Cognitive Empathy:** (Often used interchangeably with Perspective-Taking, a component of Theory of Mind)
 
 Cognitive Empathy, as the name suggests, is a more cognitive form of empathy. It's very closely related to perspective-taking and is often used interchangeably with it.  Cognitive empathy focuses on understanding another person's thoughts, beliefs, and intentions, rather than just their emotions.  In this sense, it overlaps significantly with Theory of Mind, particularly the perspective-taking aspect.
 

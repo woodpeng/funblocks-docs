@@ -113,7 +113,7 @@ The S Curve is a powerful model, but it's not the only framework for understandi
 *   **Differences:** The S Curve is a broader model that describes the entire lifecycle of growth, from slow start to rapid acceleration to maturity. The Law of Diminishing Returns focuses specifically on the point where added input becomes less productive, primarily relevant to the plateau phase of the S Curve.
 *   **When to Choose:** Use the S Curve when you want to understand the full trajectory of growth and change, from initiation to maturity. Use the Law of Diminishing Returns when you are specifically analyzing the efficiency of inputs and outputs, particularly when you suspect you are in the later stages of an S Curve and experiencing reduced returns on your efforts.
 
-**2. [Logistic Growth](/thinking-matters/classic-mental-models/logistic-growth):**
+**2. Logistic Growth:**
 
 *   **Relationship:** Logistic Growth is the mathematical and scientific basis of the S Curve. The S Curve visually represents logistic growth. Logistic growth models population growth or any process that starts exponentially but slows down as it approaches a carrying capacity or saturation point.
 *   **Similarities:** Both describe the same fundamental pattern: an S-shaped curve characterized by initial exponential growth followed by a leveling off. They both acknowledge the limits to growth and the concept of carrying capacity or saturation.

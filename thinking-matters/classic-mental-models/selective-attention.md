@@ -134,7 +134,7 @@ These diverse application cases demonstrate the broad relevance and practical po
 
 **5. Comparison with Related Mental Models**
 
-Selective attention, while a powerful mental model in its own right, is closely related to and interacts with other cognitive concepts. Understanding these relationships helps us appreciate the nuances of selective attention and when to apply it most effectively. Let's compare selective attention with two related mental models: [Confirmation Bias](/thinking-matters/classic-mental-models/confirmation-bias) and [Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-bias).
+Selective attention, while a powerful mental model in its own right, is closely related to and interacts with other cognitive concepts. Understanding these relationships helps us appreciate the nuances of selective attention and when to apply it most effectively. Let's compare selective attention with two related mental models: [Confirmation Bias](/thinking-matters/classic-mental-models/confirmation-bias) and [Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-biases).
 
 **a) Selective Attention vs. Confirmation Bias:**
 
@@ -150,7 +150,7 @@ Selective attention, while a powerful mental model in its own right, is closely 
 
 **b) Selective Attention vs. Cognitive Bias:**
 
-[Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-bias) is a broader term encompassing systematic patterns of deviation from norm or rationality in judgment. Confirmation bias is one type of cognitive bias, and selective attention can contribute to many others.  Many cognitive biases arise from the way our attention is naturally drawn to certain types of information or patterns.
+[Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-biases) is a broader term encompassing systematic patterns of deviation from norm or rationality in judgment. Confirmation bias is one type of cognitive bias, and selective attention can contribute to many others.  Many cognitive biases arise from the way our attention is naturally drawn to certain types of information or patterns.
 
 *   **Relationship:** Selective attention is a cognitive process that can contribute to the formation and reinforcement of various cognitive biases.  Our attentional mechanisms are not always neutral; they can be influenced by factors like emotions, past experiences, and heuristics, leading to biased attention patterns.
 

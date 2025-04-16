@@ -119,7 +119,7 @@ These examples demonstrate that Campbell's Law is a pervasive phenomenon with wi
 
 Campbell's Law is not an isolated concept; it resonates with and overlaps with several other mental models that explore the complexities and potential pitfalls of measurement and incentives. Understanding these related models can provide a richer and more nuanced perspective. Let's compare Campbell's Law with two closely related mental models: **Goodhart's Law** and **The Cobra Effect**.
 
-**1. Goodhart's Law ([Goodhart's Law](/thinking-matters/classic-mental-models/goodhart-s-law))**
+**1. Goodhart's Law ([Goodhart's Law](/thinking-matters/classic-mental-models/goodharts-law))**
 
 * **Definition:** Often summarized as, "When a measure becomes a target, it ceases to be a good measure."  Coined by British economist Charles Goodhart, it originally referred to economic indicators but has since been generalized to various domains.
 * **Relationship to Campbell's Law:** Goodhart's Law is arguably the most closely related mental model to Campbell's Law and is often used interchangeably. Both highlight the phenomenon of metric distortion when metrics are used for high-stakes decision-making.  Both emphasize that focusing solely on a metric can undermine its validity as a true indicator of the underlying construct.

@@ -72,7 +72,7 @@ These examples illustrate the broad applicability of "Form Follows Function."  I
 
 ## 5. Comparison with Related Mental Models
 
-"Form Follows Function," while powerful on its own, is even more insightful when considered alongside other related mental models.  Understanding how it overlaps with and differs from similar concepts can sharpen our thinking and help us choose the most appropriate model for a given situation. Let's compare it to two particularly relevant mental models: [First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking) and [Occam's Razor](/thinking-matters/classic-mental-models/occam-s-razor).
+"Form Follows Function," while powerful on its own, is even more insightful when considered alongside other related mental models.  Understanding how it overlaps with and differs from similar concepts can sharpen our thinking and help us choose the most appropriate model for a given situation. Let's compare it to two particularly relevant mental models: [First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking) and [Occam's Razor](/thinking-matters/classic-mental-models/occams-razor).
 
 **"Form Follows Function" vs. First Principles Thinking:**
 
@@ -88,7 +88,7 @@ These examples illustrate the broad applicability of "Form Follows Function."  I
 
 **"Form Follows Function" vs. Occam's Razor:**
 
-[Occam's Razor](/thinking-matters/classic-mental-models/occam-s-razor), also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  In simpler terms, the simplest explanation is usually the best.  "Form Follows Function" aligns beautifully with Occam's Razor because prioritizing function often leads to simpler, more elegant forms.  When form is driven by function, unnecessary complexities and embellishments are naturally eliminated, resulting in designs that are lean and efficient.
+[Occam's Razor](/thinking-matters/classic-mental-models/occams-razor), also known as the principle of parsimony, suggests that among competing hypotheses, the one with the fewest assumptions should be selected.  In simpler terms, the simplest explanation is usually the best.  "Form Follows Function" aligns beautifully with Occam's Razor because prioritizing function often leads to simpler, more elegant forms.  When form is driven by function, unnecessary complexities and embellishments are naturally eliminated, resulting in designs that are lean and efficient.
 
 **Similarity:** Both models value simplicity and efficiency. Occam's Razor advocates for the simplest explanation or solution, while "Form Follows Function" often leads to simpler, more functional designs by prioritizing purpose over unnecessary ornamentation. Both promote clarity and a focus on what's essential.
 

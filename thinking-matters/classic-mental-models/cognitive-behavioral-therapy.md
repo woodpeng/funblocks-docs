@@ -404,8 +404,8 @@ For those who want to delve deeper into Cognitive Behavioral Therapy, here are s
 
 **Websites:**
 
-* **Association for Cognitive and Behavioral Therapies (ACBT):**  [www.abct.org](www.abct.org) - Provides information about CBT, resources for finding therapists, and research updates.
-* **Beck Institute for Cognitive Behavior Therapy:** [beckinstitute.org](beckinstitute.org) - Offers resources, training programs, and information about Cognitive Therapy, the foundation of CBT.
+* **Association for Cognitive and Behavioral Therapies (ACBT):**  [www.abct.org](https://www.abct.org) - Provides information about CBT, resources for finding therapists, and research updates.
+* **Beck Institute for Cognitive Behavior Therapy:** [beckinstitute.org](https://beckinstitute.org) - Offers resources, training programs, and information about Cognitive Therapy, the foundation of CBT.
 
 **Apps:**
 

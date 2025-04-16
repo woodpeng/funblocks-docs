@@ -1,3 +1,4 @@
-Marginal Thinking
-Empathy
-PESTLE analysis
+Control Systems
+Reinforcing Loops
+Power Law Distribution
+Central Limit Theorem

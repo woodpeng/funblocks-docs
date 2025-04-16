@@ -120,7 +120,7 @@ Prospect Theory is a powerful mental model, but it's not the only framework for 
 
 **a) Expected Utility Theory: The Rational Benchmark**
 
-As mentioned earlier, [Expected Utility Theory](/thinking-matters/classic-mental-models/expected-utility-theory) was the dominant model of decision-making before Prospect Theory.  Expected Utility Theory assumes that individuals are rational actors who make decisions by calculating the expected utility of each option.  It posits that people choose the option that maximizes their expected utility, which is a weighted average of the utilities of possible outcomes, weighted by their probabilities.
+As mentioned earlier, Expected Utility Theory was the dominant model of decision-making before Prospect Theory.  Expected Utility Theory assumes that individuals are rational actors who make decisions by calculating the expected utility of each option.  It posits that people choose the option that maximizes their expected utility, which is a weighted average of the utilities of possible outcomes, weighted by their probabilities.
 
 **Relationship and Differences:** Prospect Theory emerged as a direct critique and refinement of Expected Utility Theory.  While Expected Utility Theory assumes rationality and linear probability weighting, Prospect Theory incorporates psychological factors like loss aversion, framing effects, and non-linear probability weighting.  Expected Utility Theory uses a utility function based on absolute wealth, while Prospect Theory uses a value function based on gains and losses relative to a reference point.
 
@@ -128,7 +128,7 @@ As mentioned earlier, [Expected Utility Theory](/thinking-matters/classic-mental
 
 **b) Framing Effect: A Piece of the Prospect Theory Puzzle**
 
-The [Framing Effect](/thinking-matters/classic-mental-models/framing-effect) is not a separate, competing theory but rather a key concept *within* Prospect Theory.  The framing effect describes how the way information is presented influences our decisions, even if the underlying options are objectively the same.  Prospect Theory provides the theoretical framework for understanding *why* framing effects occur – primarily due to loss aversion and the value function.
+The [Framing Effect](/thinking-matters/classic-mental-models/framing-effects) is not a separate, competing theory but rather a key concept *within* Prospect Theory.  The framing effect describes how the way information is presented influences our decisions, even if the underlying options are objectively the same.  Prospect Theory provides the theoretical framework for understanding *why* framing effects occur – primarily due to loss aversion and the value function.
 
 **Relationship and Differences:** The framing effect is a direct consequence of Prospect Theory's principles.  Prospect Theory explains that framing works because it can shift the reference point and highlight either potential gains or potential losses.  By emphasizing losses or gains, framing can tap into loss aversion and influence our risk preferences.
 

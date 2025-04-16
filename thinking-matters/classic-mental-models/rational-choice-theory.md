@@ -102,7 +102,7 @@ In each of these applications, Rational Choice Theory provides a framework for u
 
 ## 5. Comparison with Related Mental Models: Navigating the Mental Model Landscape
 
-Rational Choice Theory, while powerful, isn't the only mental model for understanding decision-making.  It's helpful to compare it with related models to understand its unique strengths and limitations, and to know when to apply it most effectively. Let's compare it with two important related models: [Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-bias) and [Game Theory](/thinking-matters/classic-mental-models/game-theory).
+Rational Choice Theory, while powerful, isn't the only mental model for understanding decision-making.  It's helpful to compare it with related models to understand its unique strengths and limitations, and to know when to apply it most effectively. Let's compare it with two important related models: [Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-biases) and [Game Theory](/thinking-matters/classic-mental-models/game-theory).
 
 **a) Rational Choice Theory vs. Cognitive Bias**
 
