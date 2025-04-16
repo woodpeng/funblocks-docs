@@ -80,11 +80,11 @@ These diverse examples demonstrate the broad applicability of Lean Thinking.  Wh
 
 ## 5. Comparison with Related Mental Models
 
-Lean Thinking, while powerful on its own, is often complemented and sometimes overlaps with other mental models. Understanding these relationships can help you choose the most appropriate model for a given situation. Let's compare Lean Thinking with two related mental models: [Systems Thinking](/docs/thinking-toolkit/classic-mental-models/systems-thinking) and [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking).
+Lean Thinking, while powerful on its own, is often complemented and sometimes overlaps with other mental models. Understanding these relationships can help you choose the most appropriate model for a given situation. Let's compare Lean Thinking with two related mental models: [Systems Thinking](/thinking-matters/classic-mental-models/systems-thinking) and [First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking).
 
 **Lean Thinking vs. Systems Thinking:**
 
-[Systems Thinking](/docs/thinking-toolkit/classic-mental-models/systems-thinking) is a mental model that emphasizes understanding the interconnectedness and interdependencies of parts within a whole. It focuses on seeing the bigger picture, recognizing feedback loops, and understanding how changes in one part of a system can affect other parts.
+[Systems Thinking](/thinking-matters/classic-mental-models/systems-thinking) is a mental model that emphasizes understanding the interconnectedness and interdependencies of parts within a whole. It focuses on seeing the bigger picture, recognizing feedback loops, and understanding how changes in one part of a system can affect other parts.
 
 *Relationship:* Lean Thinking can be seen as a subset or application within Systems Thinking.  When applying Lean, you are essentially analyzing a system (the value stream) and seeking to optimize it.  Systems Thinking provides a broader perspective, encouraging you to consider the wider context and potential unintended consequences of Lean improvements.  For instance, optimizing one part of a value stream in isolation might create bottlenecks elsewhere in the system if you don't consider the interconnectedness.
 
@@ -96,7 +96,7 @@ Lean Thinking, while powerful on its own, is often complemented and sometimes ov
 
 **Lean Thinking vs. First Principles Thinking:**
 
-[First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking) is a mental model that involves breaking down complex problems into their fundamental truths or basic assumptions, and then reasoning upwards from these principles to arrive at solutions. It encourages questioning assumptions and building knowledge from the ground up.
+[First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking) is a mental model that involves breaking down complex problems into their fundamental truths or basic assumptions, and then reasoning upwards from these principles to arrive at solutions. It encourages questioning assumptions and building knowledge from the ground up.
 
 *Relationship:* Lean Thinking and First Principles Thinking can be complementary. First Principles Thinking can be used to define "value" in Lean Thinking more rigorously.  Instead of simply accepting conventional definitions of value, you can use First Principles to question assumptions and determine what *truly* constitutes value for the customer.  For example, when applying Lean to education, you might use First Principles Thinking to question traditional teaching methods and redefine "value" in terms of student learning and development, rather than just standardized test scores.
 
@@ -247,6 +247,6 @@ Lean Thinking is fundamentally about **both efficiency and quality**.  By elimin
     * *The Lean Startup* by Eric Ries (Applies Lean principles to entrepreneurship)
 
 * **Organizations:**
-    * Lean Enterprise Institute (LEI): [www.lean.org](www.lean.org) (A leading resource for Lean education and resources)
+    * Lean Enterprise Institute (LEI): [www.lean.org](https://www.lean.org) (A leading resource for Lean education and resources)
 
 By exploring these resources and continuing to practice Lean Thinking, you can deepen your understanding and become more proficient in applying this powerful mental model.

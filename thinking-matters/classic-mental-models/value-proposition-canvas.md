@@ -196,7 +196,7 @@ These diverse applications demonstrate the versatility of the Value Proposition 
 
 The Value Proposition Canvas is a powerful tool, but it's part of a broader ecosystem of mental models that aid strategic thinking and problem-solving. Let's compare it with a few related models to understand its unique strengths and when to choose it over others.
 
-### 5.1. Value Proposition Canvas vs. [Jobs To Be Done](/docs/thinking-toolkit/classic-mental-models/jobs-to-be-done) (JTBD)
+### 5.1. Value Proposition Canvas vs. [Jobs To Be Done](/thinking-matters/classic-mental-models/jobs-to-be-done) (JTBD)
 
 Both the VPC and Jobs To Be Done (JTBD) are deeply rooted in customer-centricity and aim to understand customer needs.  In fact, JTBD is often considered a foundational concept that underpins the Customer Profile side of the VPC.
 
@@ -204,7 +204,7 @@ Both the VPC and Jobs To Be Done (JTBD) are deeply rooted in customer-centricity
 *   **Differences:** JTBD is primarily a *research and understanding framework*. It focuses on uncovering the underlying "jobs" customers are hiring products or services to do.  The VPC, while incorporating JTBD principles in its Customer Profile, goes further by providing a structured framework for *designing* and *evaluating* value propositions (the Value Map) to *address* those jobs, pains, and gains.  JTBD is more about understanding "why" customers buy, while VPC is about designing "what" to offer.
 *   **When to Choose:** Use JTBD when you need to deeply understand the fundamental needs and motivations of your customers, especially in the early stages of market research or product discovery. Use the VPC when you want to translate those customer insights into a concrete value proposition and design offerings that specifically address those needs and create value.  Often, JTBD research informs the "Customer Profile" side of the VPC.
 
-### 5.2. Value Proposition Canvas vs. [Empathy Map](/docs/thinking-toolkit/classic-mental-models/empathy-map)
+### 5.2. Value Proposition Canvas vs. Empathy Map
 
 The Empathy Map is another tool focused on understanding the customer, aiming to create a holistic view of their world, thoughts, feelings, and behaviors.
 
@@ -212,7 +212,7 @@ The Empathy Map is another tool focused on understanding the customer, aiming to
 *   **Differences:** The Empathy Map is broader and more descriptive, focusing on capturing a wide range of customer insights across six key areas: "Says," "Thinks," "Does," "Feels," "Pains," and "Gains." It’s excellent for generating a rich, qualitative understanding of the customer's world.  The VPC is more focused and prescriptive, specifically structured for designing value propositions.  While the Empathy Map helps *understand* the customer in detail, the VPC helps *translate* that understanding into a targeted value offering.  The Empathy Map is more about customer persona development, while VPC is about value proposition design.
 *   **When to Choose:** Use the Empathy Map when you need to develop a deep and holistic understanding of your customer persona, especially in the initial stages of customer research. It's great for brainstorming and generating insights. Use the VPC when you want to take those insights and structure them specifically for value proposition design, focusing on creating a "fit" between customer needs and your offerings. The Empathy Map can be a valuable input for populating the "Customer Profile" of the VPC.
 
-### 5.3. Value Proposition Canvas vs. [Business Model Canvas](/docs/thinking-toolkit/classic-mental-models/business-model-canvas) (BMC)
+### 5.3. Value Proposition Canvas vs. [Business Model Canvas](/thinking-matters/classic-mental-models/business-model-canvas) (BMC)
 
 As mentioned earlier, the VPC is a direct extension and refinement of the Business Model Canvas.  They are designed to work together, but serve different purposes.
 
@@ -304,13 +304,13 @@ Ready to put the Value Proposition Canvas into action? Here's a step-by-step gui
 
 | Customer Jobs (What are they trying to get done?) | Pains (What frustrations, risks, and negative experiences do they have?) | Gains (What benefits and positive outcomes do they desire?) |
 |---|---|---|
-|  *Functional Jobs:* <br>  - <br>  - <br>  - <br> <br> *Social Jobs:* <br>  - <br>  - <br> <br> *Emotional Jobs:* <br>  - <br>  - <br>  | *Undesired Outcomes:* <br>  - <br>  - <br> <br> *Obstacles:* <br>  - <br>  - <br> <br> *Risks:* <br>  - <br>  - <br>  | *Required Gains:* <br>  - <br>  - <br> <br> *Expected Gains:* <br>  - <br>  - <br> <br> *Desired Gains:* <br>  - <br>  - <br> <br> *Unexpected Gains:* <br>  - <br>  - <br>  |
+|  *Functional Jobs:* \<br>  - \<br>  - \<br>  - \<br> \<br> *Social Jobs:* \<br>  - \<br>  - \<br> \<br> *Emotional Jobs:* \<br>  - \<br>  - \<br>  | *Undesired Outcomes:* \<br>  - \<br>  - \<br> \<br> *Obstacles:* \<br>  - \<br>  - \<br> \<br> *Risks:* \<br>  - \<br>  - \<br>  | *Required Gains:* \<br>  - \<br>  - \<br> \<br> *Expected Gains:* \<br>  - \<br>  - \<br> \<br> *Desired Gains:* \<br>  - \<br>  - \<br> \<br> *Unexpected Gains:* \<br>  - \<br>  - \<br>  |
 
 **3. Value Map (Based on your Coffee Shop concept, fill in the boxes below):**
 
 | Products & Services (What will your coffee shop offer?) | Pain Relievers (How will your coffee shop alleviate customer pains?) | Gain Creators (How will your coffee shop create customer gains?) |
 |---|---|---|
-|  - <br>  - <br>  - <br>  - <br>  - <br>  |  - Relieves Pain: <br>  - Relieves Pain: <br>  - Relieves Pain: <br>  - Relieves Pain: <br>  |  - Creates Gain: <br>  - Creates Gain: <br>  - Creates Gain: <br>  - Creates Gain: <br>  |
+|  - \<br>  - \<br>  - \<br>  - \<br>  - \<br>  |  - Relieves Pain: \<br>  - Relieves Pain: \<br>  - Relieves Pain: \<br>  - Relieves Pain: \<br>  |  - Creates Gain: \<br>  - Creates Gain: \<br>  - Creates Gain: \<br>  - Creates Gain: \<br>  |
 
 **4. Achieve Fit:**  Review your completed canvas.  Do you see a good "fit" between your Customer Profile and Value Map?  Where are you strong? Where can you improve?
 

@@ -139,21 +139,21 @@ These diverse applications highlight the broad relevance of Desirable Difficulty
 
 Desirable Difficulty is a powerful mental model in its own right, but its effectiveness is further amplified when understood in relation to other cognitive frameworks. Let's compare it with a few related mental models to clarify its unique strengths and guide you in choosing the right tool for the cognitive task at hand.
 
-**1. Desirable Difficulty vs. [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking):**
+**1. Desirable Difficulty vs. [First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking):**
 
 *   **Relationship:** Both models encourage deeper thinking and understanding, but they approach it from different angles. First Principles Thinking focuses on breaking down complex problems into their fundamental truths, stripping away assumptions and conventions. Desirable Difficulty focuses on optimizing the *learning process* itself by strategically introducing challenges.
 *   **Similarities:** Both models value effortful engagement and moving beyond superficial understanding. They both push us to think more deeply and actively rather than passively accepting information.
 *   **Differences:** First Principles Thinking is primarily a problem-solving and analytical tool, while Desirable Difficulty is primarily a learning and memory optimization tool. First Principles helps you *understand* the core components of a problem, while Desirable Difficulty helps you *learn* and *retain* information more effectively.
 *   **When to Choose:** Use First Principles Thinking when you need to deconstruct a complex problem or situation to its fundamental components to find innovative solutions. Use Desirable Difficulty when you are focused on learning new information or skills and want to maximize long-term retention and understanding.  You might use First Principles to understand the best way to *apply* Desirable Difficulty in a specific learning context.
 
-**2. Desirable Difficulty vs. [Growth Mindset](/docs/thinking-toolkit/classic-mental-models/growth-mindset):**
+**2. Desirable Difficulty vs. [Growth Mindset](/thinking-matters/classic-mental-models/growth-mindset):**
 
 *   **Relationship:** Growth Mindset and Desirable Difficulty are highly complementary and synergistic. Growth Mindset is the belief that abilities and intelligence can be developed through dedication and hard work. Desirable Difficulty provides a practical strategy for *how* to implement a growth mindset in learning and skill development.
 *   **Similarities:** Both emphasize the value of effort and challenge in achieving growth. They both reject the notion that ease and comfort are the primary indicators of effective learning or progress.
 *   **Differences:** Growth Mindset is primarily a *belief system* or a psychological attitude, while Desirable Difficulty is a *cognitive principle* and a set of learning strategies. Growth Mindset provides the motivation and mindset to embrace challenges, while Desirable Difficulty provides the *methodology* for turning those challenges into learning opportunities.
 *   **When to Choose:** Cultivate a Growth Mindset as your overarching attitude towards learning and challenges. Apply Desirable Difficulty techniques as concrete strategies to put your Growth Mindset into action. Growth Mindset provides the "why" and Desirable Difficulty provides the "how" of embracing productive struggle.
 
-**3. Desirable Difficulty vs. [Inversion](/docs/thinking-toolkit/classic-mental-models/inversion):**
+**3. Desirable Difficulty vs. [Inversion](/thinking-matters/classic-mental-models/inversion):**
 
 *   **Relationship:** While seemingly different, Inversion and Desirable Difficulty can be used together to enhance learning and problem-solving. Inversion is the practice of thinking about problems in reverse – focusing on what you want to avoid or what could go wrong, rather than just what you want to achieve. Desirable Difficulty can be applied to make the process of identifying and preventing negative outcomes more effective.
 *   **Similarities:** Both models encourage a more nuanced and comprehensive approach to thinking. They both move beyond simple, linear thinking and consider multiple perspectives and potential outcomes.
@@ -281,5 +281,5 @@ For deeper reading, you can explore the research of Robert and Elizabeth Bjork, 
 
 *   **Article:** Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology of learning and motivation: Cognition in education* (Vol. 55, pp. 57–94). Academic Press.
 *   **Book:** Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). *Make it stick: The science of successful learning*. Belknap Press of Harvard University Press.
-*   **Website/Blog:** Learning Scientists ([www.learningscientists.org](www.learningscientists.org)) - Offers evidence-based learning strategies, including those related to Desirable Difficulty.
+*   **Website/Blog:** Learning Scientists ([www.learningscientists.org](https://www.learningscientists.org)) - Offers evidence-based learning strategies, including those related to Desirable Difficulty.
 *   **Podcast Episode:** "The Bjork Learning and Forgetting Lab" - Look for interviews with Robert or Elizabeth Bjork on podcasts related to cognitive psychology or education.

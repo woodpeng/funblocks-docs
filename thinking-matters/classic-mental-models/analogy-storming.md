@@ -256,10 +256,10 @@ Ready to put Analogy Storming into practice? Here’s a step-by-step guide to ge
     *   Example: Space exploration
 
 3.  **Select 2 Promising Source Domains (Choose from your list):**
-    *   [Your Choice 1]: _________________________
-    *   [Your Choice 2]: _________________________
+    *   \[Your Choice 1\]: _________________________
+    *   \[Your Choice 2\]: _________________________
 
-4.  **Deep Dive into Source Domain 1 ([Your Choice 1]):**
+4.  **Deep Dive into Source Domain 1 (\[Your Choice 1\]):**
     *   Key Principles/Characteristics: (List 3-5)
         *   Example for "Rainforest Ecosystem": Biodiversity, interdependence, layers, resourcefulness, adaptation.
 
@@ -271,7 +271,7 @@ Ready to put Analogy Storming into practice? Here’s a step-by-step guide to ge
     *   Innovative Restaurant Ideas: (List 2-3)
         *   Example for "Rainforest Ecosystem": Restaurant with a "biodiversity menu" showcasing unique and diverse ingredients, dishes designed to be interconnected and shareable, multi-sensory dining experience with layered ambiance and presentation, emphasis on sustainable and resourceful cooking.
 
-7.  **Repeat Steps 4-6 for Source Domain 2 ([Your Choice 2]):**
+7.  **Repeat Steps 4-6 for Source Domain 2 (\[Your Choice 2\]):**
     *   Deep Dive: Key Principles/Characteristics: _________________________
     *   Map Analogies: Analogies and Connections: _________________________
     *   Extract Insights: Innovative Restaurant Ideas: _________________________

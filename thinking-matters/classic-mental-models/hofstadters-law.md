@@ -62,11 +62,11 @@ In each of these applications, Hofstadter's Law serves as a valuable reminder to
 
 ## 5. Comparison with Related Mental Models
 
-Hofstadter's Law, while unique in its recursive nature, shares common ground with several other mental models that address aspects of time management, planning, and cognitive biases. Understanding these related models helps to contextualize Hofstadter's Law and clarify when it is most applicable. Let's compare it with two prominent mental models: [Parkinson's Law](/docs/thinking-toolkit/classic-mental-models/parkinson-s-law) and the [Planning Fallacy](/docs/thinking-toolkit/classic-mental-models/planning-fallacy).
+Hofstadter's Law, while unique in its recursive nature, shares common ground with several other mental models that address aspects of time management, planning, and cognitive biases. Understanding these related models helps to contextualize Hofstadter's Law and clarify when it is most applicable. Let's compare it with two prominent mental models: [Parkinson's Law](/thinking-matters/classic-mental-models/parkinsons-law) and the [Planning Fallacy](/thinking-matters/classic-mental-models/planning-fallacy).
 
 **Hofstadter's Law vs. Parkinson's Law:**
 
-[Parkinson's Law](/docs/thinking-toolkit/classic-mental-models/parkinson-s-law) states that "work expands so as to fill the time available for its completion." While both laws deal with time and project duration, they address different aspects of the problem. Parkinson's Law focuses on the *tendency* for work to expand to fill allocated time, regardless of the actual effort required. It highlights the inefficiency that can arise when too much time is allotted to a task.  Hofstadter's Law, on the other hand, focuses on the *underestimation* of the time actually *required* for a task, even with conscious planning.
+[Parkinson's Law](/thinking-matters/classic-mental-models/parkinsons-law) states that "work expands so as to fill the time available for its completion." While both laws deal with time and project duration, they address different aspects of the problem. Parkinson's Law focuses on the *tendency* for work to expand to fill allocated time, regardless of the actual effort required. It highlights the inefficiency that can arise when too much time is allotted to a task.  Hofstadter's Law, on the other hand, focuses on the *underestimation* of the time actually *required* for a task, even with conscious planning.
 
 **Similarities:** Both models highlight inefficiencies in time management. Parkinson's Law points to inefficiency stemming from *over-allocation* of time, leading to procrastination and unnecessary expansion of work. Hofstadter's Law points to inefficiency stemming from *underestimation* of time, leading to missed deadlines and rushed work. Both models can contribute to projects taking longer than ideally necessary.
 
@@ -76,7 +76,7 @@ Hofstadter's Law, while unique in its recursive nature, shares common ground wit
 
 **Hofstadter's Law vs. Planning Fallacy:**
 
-The [Planning Fallacy](/docs/thinking-toolkit/classic-mental-models/planning-fallacy) is a cognitive bias that describes our tendency to underestimate the time needed to complete a future task, even when we are aware that similar tasks have taken longer in the past. It’s rooted in optimistic bias and a focus on best-case scenarios.
+The [Planning Fallacy](/thinking-matters/classic-mental-models/planning-fallacy) is a cognitive bias that describes our tendency to underestimate the time needed to complete a future task, even when we are aware that similar tasks have taken longer in the past. It’s rooted in optimistic bias and a focus on best-case scenarios.
 
 **Similarities:** Both Hofstadter's Law and the Planning Fallacy address the issue of underestimation in project planning. Both recognize that we often fail to accurately predict how long tasks will take. Both emphasize the role of optimism in inaccurate estimations.
 
@@ -179,7 +179,7 @@ Hofstadter's Law is a humorous observation that things always take longer to com
 
 **2. How is Hofstadter's Law different from Murphy's Law?**
 
-[Murphy's Law](/docs/thinking-toolkit/classic-mental-models/murphy-s-law) ("Anything that can go wrong, will go wrong") is about potential problems and failures. Hofstadter's Law is specifically about time estimation and the tendency to underestimate task durations. While both highlight potential negative outcomes, Murphy's Law is broader, encompassing all sorts of failures, while Hofstadter's Law is focused on time overruns.
+[Murphy's Law](/thinking-matters/classic-mental-models/murphys-law) ("Anything that can go wrong, will go wrong") is about potential problems and failures. Hofstadter's Law is specifically about time estimation and the tendency to underestimate task durations. While both highlight potential negative outcomes, Murphy's Law is broader, encompassing all sorts of failures, while Hofstadter's Law is focused on time overruns.
 
 **3. Is Hofstadter's Law always pessimistic?**
 

@@ -152,7 +152,7 @@ Second-Order Thinking is very closely related to Multi-Order Thinking and is oft
 *   **Difference:**  Second-Order Thinking typically focuses on just the second level of consequences. Multi-Order Thinking explicitly encourages going beyond the second order to consider third, fourth, and even higher orders of effects.  Multi-Order Thinking is more comprehensive in its depth of analysis.
 *   **When to Choose:**  Use Second-Order Thinking when you need a quick and practical way to move beyond immediate reactions in everyday decisions. Use Multi-Order Thinking when dealing with more complex issues where the ripple effects are likely to extend significantly beyond the second order, requiring a more thorough and deeper analysis.  Second-Order Thinking is a good starting point, while Multi-Order Thinking is for deeper dives.
 
-**5.3 [Causal Loop Diagrams](/thinking-matters/classic-mental-models/causal-loop-diagrams):**
+**5.3 Causal Loop Diagrams:**
 
 Causal Loop Diagrams are a visual tool used within Systems Thinking to map out the relationships and feedback loops within a system. They help visualize how different variables influence each other and how changes in one variable can ripple through the system.
 

@@ -107,7 +107,7 @@ These examples illustrate how Information Overload manifests in diverse settings
 
 Information Overload, while a distinct mental model, is closely related to other cognitive concepts that describe limitations in our information processing capabilities. Understanding these relationships helps clarify the specific nature of Information Overload and when it's most applicable. Let's compare it with a few related mental models:
 
-**1. [Bounded Rationality](/docs/thinking-toolkit/classic-mental-models/bounded-rationality):**
+**1. [Bounded Rationality](/thinking-matters/classic-mental-models/bounded-rationality):**
 
 Bounded Rationality, a concept developed by Herbert Simon, recognizes that human decision-making is inherently limited by cognitive constraints, including limited information processing capacity, time, and attention.  It acknowledges that we cannot always make perfectly rational decisions due to these limitations and instead "satisfice," aiming for "good enough" rather than optimal solutions.
 
@@ -116,7 +116,7 @@ Bounded Rationality, a concept developed by Herbert Simon, recognizes that human
 * **Differences:** Bounded Rationality is a broader model describing the general constraints on rational decision-making, while Information Overload specifically focuses on the negative consequences of excessive information. Bounded Rationality explains *why* our rationality is limited; Information Overload describes *one major factor* that limits it.
 * **When to choose Information Overload:** Use the Information Overload model when the *primary* issue is the excessive amount of information hindering decision-making or cognitive function.  Use Bounded Rationality when considering the broader limitations of human rationality in decision-making, where information overload might be *one of several* contributing factors.
 
-**2. [Filtering](/docs/thinking-toolkit/classic-mental-models/filtering):**
+**2. Filtering:**
 
 Filtering is a mental model that describes the process of selectively attending to certain information while ignoring other information.  Our brains constantly filter information to manage the overwhelming sensory input we receive.  Effective filtering is crucial for navigating the world and avoiding sensory and cognitive overload.
 
@@ -125,7 +125,7 @@ Filtering is a mental model that describes the process of selectively attending 
 * **Differences:** Filtering is a *solution* or a mechanism for managing information, whereas Information Overload is the *problem* that arises when filtering is insufficient. Filtering is proactive; Information Overload is a reactive state.
 * **When to choose Information Overload:** Use the Information Overload model to diagnose and understand the state of being overwhelmed by information. Use the Filtering model when focusing on strategies and techniques to *manage* information flow and prevent overload.  They are two sides of the same coin: Information Overload highlights the problem, and Filtering suggests the solution.
 
-**3. [Cognitive Bias](/docs/thinking-toolkit/classic-mental-models/cognitive-bias):**
+**3. [Cognitive Bias](/thinking-matters/classic-mental-models/cognitive-biases):**
 
 Cognitive Biases are systematic patterns of deviation from norm or rationality in judgment. They are mental shortcuts our brains use to simplify information processing and make decisions quickly. While often helpful, biases can also lead to errors in judgment, especially in complex situations.
 

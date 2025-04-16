@@ -165,7 +165,7 @@ In each of these diverse domains, the Base Rate Fallacy highlights the danger of
 
 The Base Rate Fallacy is not an isolated cognitive bias; it intersects and overlaps with several other related mental models. Understanding these connections helps us refine our thinking and apply the most relevant model to a given situation. Let's compare it with two key related models:
 
-**5.1 [Availability Heuristic](/docs/thinking-toolkit/classic-mental-models/availability-heuristic)**
+**5.1 [Availability Heuristic](/thinking-matters/classic-mental-models/availability-heuristic)**
 
 * **Relationship:** Both the Base Rate Fallacy and the Availability Heuristic are heuristics – mental shortcuts that can lead to systematic errors in judgment.  They are often intertwined in real-world scenarios.  The Availability Heuristic describes our tendency to overestimate the likelihood of events that are easily recalled or "available" in our minds, often due to vividness, recency, or emotional impact.
 
@@ -175,7 +175,7 @@ The Base Rate Fallacy is not an isolated cognitive bias; it intersects and overl
 
 * **When to Choose:** If the core issue is the neglect of statistical prevalence (base rates) due to overemphasis on specific details, the Base Rate Fallacy is the primary model.  If the issue is more broadly about the overestimation of probability due to the ease of recalling certain events or information (regardless of base rates), the Availability Heuristic is more directly relevant.  Often, both are at play simultaneously. For instance, news reports about plane crashes (vivid and easily recalled - Availability Heuristic) can make people overestimate the risk of flying, neglecting the very low base rate of plane crashes compared to car accidents (Base Rate Fallacy).
 
-**5.2 [Confirmation Bias](/docs/thinking-toolkit/classic-mental-models/confirmation-bias)**
+**5.2 [Confirmation Bias](/thinking-matters/classic-mental-models/confirmation-bias)**
 
 * **Relationship:** Confirmation Bias is the tendency to favor information that confirms pre-existing beliefs and to disregard information that contradicts them.  The Base Rate Fallacy can be amplified by Confirmation Bias.
 

@@ -168,7 +168,7 @@ The Future Wheel is a powerful tool, but it's not the only mental model that hel
 * **Differences:** Systems thinking is a broader philosophical framework and a way of perceiving the world. The Future Wheel is a specific, structured technique within that framework. Systems thinking provides the conceptual foundation, while the Future Wheel offers a concrete method for visualizing and analyzing system dynamics.
 * **When to Choose:** Use Systems Thinking as a general mindset for approaching complex problems. Use the Future Wheel when you need a structured, visual tool to specifically map out the consequences of a particular event or decision within a system. The Future Wheel can be seen as a tool to operationalize systems thinking in a practical context.
 
-**2. [Causal Loop Diagrams](/thinking-matters/classic-mental-models/causal-loop-diagrams):**
+**2. Causal Loop Diagrams:**
 
 * **Relationship:** Causal Loop Diagrams (CLDs) are another visual tool used in systems thinking, focusing on illustrating feedback loops and causal relationships between variables in a system.  While the Future Wheel maps out consequences radiating from a central event, CLDs focus on the ongoing, dynamic relationships within a system over time.
 * **Similarities:** Both are visual tools for understanding system dynamics. Both aim to reveal interconnections and feedback loops. Both are valuable for analyzing complex problems and anticipating system behavior.

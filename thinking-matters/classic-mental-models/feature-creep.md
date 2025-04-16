@@ -90,9 +90,9 @@ These examples illustrate the pervasive nature of Feature Creep across diverse d
 
 ## 5. Comparison with Related Mental Models: Navigating the Cognitive Landscape
 
-Feature Creep, while distinct, shares conceptual overlaps with other mental models that describe similar phenomena related to planning, scope, and unintended consequences. Understanding these relationships helps us refine our thinking and choose the most appropriate model for a given situation. Let's compare Feature Creep with two closely related mental models: [Scope Creep](/thinking-matters/classic-mental-models/scope-creep) and [Parkinson's Law](/thinking-matters/classic-mental-models/parkinsons-law).
+Feature Creep, while distinct, shares conceptual overlaps with other mental models that describe similar phenomena related to planning, scope, and unintended consequences. Understanding these relationships helps us refine our thinking and choose the most appropriate model for a given situation. Let's compare Feature Creep with two closely related mental models: Scope Creep and [Parkinson's Law](/thinking-matters/classic-mental-models/parkinsons-law).
 
-**1. Feature Creep vs. [Scope Creep](/thinking-matters/classic-mental-models/scope-creep):**
+**1. Feature Creep vs. Scope Creep:**
 
 In many contexts, "Feature Creep" and "Scope Creep" are used interchangeably, and for good reason – they describe essentially the same phenomenon. Both refer to the uncontrolled expansion of project boundaries beyond the initially agreed-upon scope.  The terms are nearly synonymous in common usage.
 

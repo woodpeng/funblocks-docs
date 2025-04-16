@@ -119,7 +119,7 @@ Reinforcement Theory, while powerful, is not the only mental model that helps us
 
 **5.1 Cognitive Behavioral Therapy (CBT): Bridging Thoughts and Actions**
 
-[Cognitive Behavioral Therapy](/docs/thinking-toolkit/classic-mental-models/cognitive-behavioral-therapy) (CBT) is a widely used therapeutic approach that, while incorporating principles of Reinforcement Theory, goes beyond purely behavioral explanations. CBT emphasizes the interplay between thoughts, feelings, and behaviors.  It recognizes that our thoughts and interpretations of events significantly influence our emotions and subsequent actions.
+[Cognitive Behavioral Therapy](/thinking-matters/classic-mental-models/cognitive-behavioral-therapy) (CBT) is a widely used therapeutic approach that, while incorporating principles of Reinforcement Theory, goes beyond purely behavioral explanations. CBT emphasizes the interplay between thoughts, feelings, and behaviors.  It recognizes that our thoughts and interpretations of events significantly influence our emotions and subsequent actions.
 
 **Similarities:** Both Reinforcement Theory and CBT acknowledge the role of consequences in shaping behavior. CBT techniques often involve behavioral experiments and exposure therapy, which rely on principles of reinforcement and extinction to modify maladaptive behaviors.  For example, in treating phobias, exposure therapy gradually exposes individuals to feared stimuli in a safe environment, allowing them to learn that the feared consequences don't occur, leading to extinction of the phobic response.
 
@@ -129,7 +129,7 @@ Reinforcement Theory, while powerful, is not the only mental model that helps us
 
 **5.2 Incentive Theory:  The Pull of Rewards**
 
-[Incentive Theory](/docs/thinking-toolkit/classic-mental-models/incentive-theory) is another motivational theory closely related to Reinforcement Theory, but with a slightly different emphasis. Incentive Theory focuses on the *anticipation* of rewards as the primary driver of behavior. It suggests that we are motivated to act because we are drawn to the *incentive* – the expected reward or positive outcome.
+[Incentive Theory](/thinking-matters/classic-mental-models/incentive-theory) is another motivational theory closely related to Reinforcement Theory, but with a slightly different emphasis. Incentive Theory focuses on the *anticipation* of rewards as the primary driver of behavior. It suggests that we are motivated to act because we are drawn to the *incentive* – the expected reward or positive outcome.
 
 **Similarities:** Both Incentive Theory and Reinforcement Theory acknowledge the importance of rewards in motivation. Positive reinforcement, in Reinforcement Theory, often involves incentives – things we find desirable and are motivated to obtain.  Both theories recognize that rewards can increase the likelihood of behaviors.
 
@@ -139,7 +139,7 @@ Reinforcement Theory, while powerful, is not the only mental model that helps us
 
 **5.3 Loss Aversion:  The Sting of Loss**
 
-[Loss Aversion](/docs/thinking-toolkit/classic-mental-models/loss-aversion) is a cognitive bias that describes our tendency to feel the pain of a loss more strongly than the pleasure of an equivalent gain.  While not a comprehensive theory of behavior like Reinforcement Theory, it's a crucial factor to consider when applying reinforcement principles, particularly when using punishment or considering negative reinforcement.
+[Loss Aversion](/thinking-matters/classic-mental-models/loss-aversion) is a cognitive bias that describes our tendency to feel the pain of a loss more strongly than the pleasure of an equivalent gain.  While not a comprehensive theory of behavior like Reinforcement Theory, it's a crucial factor to consider when applying reinforcement principles, particularly when using punishment or considering negative reinforcement.
 
 **Similarities:** Loss aversion relates to Reinforcement Theory in the context of punishment and negative reinforcement.  The effectiveness of punishment and negative reinforcement often stems from our aversion to loss – we avoid behaviors that lead to unpleasant consequences or the removal of something we value.  Loss aversion amplifies the impact of negative consequences, making punishment and negative reinforcement potentially more potent motivators (though not always ethically desirable).
 

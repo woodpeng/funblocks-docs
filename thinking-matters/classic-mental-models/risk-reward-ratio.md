@@ -112,7 +112,7 @@ In each of these diverse scenarios, the Risk Reward Ratio acts as a guiding prin
 
 ## 5. Comparison with Related Mental Models: Navigating the Cognitive Toolkit
 
-The Risk Reward Ratio is a powerful mental model, but it's not the only tool in your cognitive toolkit for decision-making.  Understanding how it relates to other mental models can enhance your strategic thinking and help you choose the most appropriate model for a given situation. Let's compare it with two related mental models: [Opportunity Cost](/thinking-matters/classic-mental-models/opportunity-cost) and [Expected Value](/thinking-matters/classic-mental-models/expected-value).
+The Risk Reward Ratio is a powerful mental model, but it's not the only tool in your cognitive toolkit for decision-making.  Understanding how it relates to other mental models can enhance your strategic thinking and help you choose the most appropriate model for a given situation. Let's compare it with two related mental models: [Opportunity Cost](/thinking-matters/classic-mental-models/opportunity-cost) and Expected Value.
 
 **Risk Reward Ratio vs. Opportunity Cost:**
 
@@ -128,7 +128,7 @@ While the Risk Reward Ratio focuses on the potential gains and losses of a *spec
 
 **Risk Reward Ratio vs. Expected Value:**
 
-[Expected Value](/thinking-matters/classic-mental-models/expected-value) is a more mathematically rigorous model that calculates the average outcome of a decision, considering both the potential values of each outcome and their probabilities.  Expected Value is calculated as:
+Expected Value is a more mathematically rigorous model that calculates the average outcome of a decision, considering both the potential values of each outcome and their probabilities.  Expected Value is calculated as:
 
 **Expected Value = (Probability of Gain * Value of Gain) - (Probability of Loss * Value of Loss)**
 

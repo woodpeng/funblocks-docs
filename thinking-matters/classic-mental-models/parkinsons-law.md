@@ -109,7 +109,7 @@ In each of these domains, the core principle remains the same: **consciously imp
 
 Parkinson's Law is not the only mental model that deals with time management and productivity.  Understanding its relationship to other models can help you choose the most effective tool for a given situation. Let's compare Parkinson's Law with a few related mental models:
 
-**1. Timeboxing:** [Timeboxing](/thinking-matters/classic-mental-models/timeboxing) is a direct application and strategy to counteract Parkinson's Law.  While Parkinson's Law describes the *problem* (work expands to fill time), Timeboxing offers a *solution*.  Timeboxing is a time management technique where you allocate a fixed time period for a specific task or activity in advance.  It's about proactively setting boundaries on time rather than reacting to available time.
+**1. Timeboxing:** Timeboxing is a direct application and strategy to counteract Parkinson's Law.  While Parkinson's Law describes the *problem* (work expands to fill time), Timeboxing offers a *solution*.  Timeboxing is a time management technique where you allocate a fixed time period for a specific task or activity in advance.  It's about proactively setting boundaries on time rather than reacting to available time.
 
     * **Relationship:** Timeboxing is a practical implementation of the principles derived from Parkinson's Law.  Understanding Parkinson's Law explains *why* Timeboxing is effective.  By recognizing that work will expand, Timeboxing intentionally restricts the available time, forcing focus and efficiency.
     * **Similarities:** Both models are concerned with time management and increasing productivity. They both emphasize the importance of structured time allocation and deadlines.

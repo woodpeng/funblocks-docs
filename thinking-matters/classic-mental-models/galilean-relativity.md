@@ -116,7 +116,7 @@ These applications demonstrate that Galilean Relativity, as a mental model, is a
 
 Galilean Relativity, while powerful, is not the only mental model that deals with perspective and understanding complex systems.  Let's compare it with a few related models to better understand its unique strengths and when to apply it most effectively:
 
-**a) [Relativity](/thinking-matters/classic-mental-models/relativity) (Einstein's Special Relativity): Refinement at High Speeds**
+**a) Relativity (Einstein's Special Relativity): Refinement at High Speeds**
 
 While both Galilean Relativity and Einstein's Relativity deal with relative motion, they operate in different domains and with different levels of precision. Galilean Relativity is an excellent approximation for everyday speeds, where speeds are much slower than the speed of light.  However, it breaks down at very high speeds, approaching the speed of light.
 

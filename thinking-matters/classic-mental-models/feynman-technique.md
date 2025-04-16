@@ -126,11 +126,11 @@ These examples demonstrate the broad applicability of the Feynman Technique.  It
 
 ## 5. Comparison with Related Mental Models:  Choosing the Right Tool for the Job
 
-The Feynman Technique is a powerful mental model, but it's not the only tool in your cognitive toolkit.  Understanding how it relates to other mental models will help you choose the most effective approach for different situations. Let's compare it with two related models: [First-Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking) and [Inversion](/docs/thinking-toolkit/classic-mental-models/inversion).
+The Feynman Technique is a powerful mental model, but it's not the only tool in your cognitive toolkit.  Understanding how it relates to other mental models will help you choose the most effective approach for different situations. Let's compare it with two related models: [First-Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking) and [Inversion](/thinking-matters/classic-mental-models/inversion).
 
 **Feynman Technique vs. First-Principles Thinking:**
 
-[First-Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking) is a problem-solving approach that involves breaking down a complex problem into its fundamental truths or basic assumptions.  It's about stripping away assumptions and conventional wisdom to rebuild your understanding from the ground up.  There's a clear synergy between the Feynman Technique and First-Principles Thinking.
+[First-Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking) is a problem-solving approach that involves breaking down a complex problem into its fundamental truths or basic assumptions.  It's about stripping away assumptions and conventional wisdom to rebuild your understanding from the ground up.  There's a clear synergy between the Feynman Technique and First-Principles Thinking.
 
 **Similarities:** Both models emphasize understanding core concepts and going beyond surface-level knowledge.  Both encourage you to question assumptions and build your understanding from a solid foundation. The Feynman Technique can be seen as a method for *testing* your understanding of first principles.  If you can explain a first principle simply, you likely understand it well.
 
@@ -140,7 +140,7 @@ The Feynman Technique is a powerful mental model, but it's not the only tool in 
 
 **Feynman Technique vs. Inversion:**
 
-[Inversion](/docs/thinking-toolkit/classic-mental-models/inversion) is a mental model that encourages you to think about problems and situations in reverse. Instead of asking "How do I achieve X?", you ask "How do I *avoid* X?".  This can reveal hidden obstacles and alternative approaches.
+[Inversion](/thinking-matters/classic-mental-models/inversion) is a mental model that encourages you to think about problems and situations in reverse. Instead of asking "How do I achieve X?", you ask "How do I *avoid* X?".  This can reveal hidden obstacles and alternative approaches.
 
 **Similarities:** Both models promote deeper thinking and challenge conventional approaches.  Both encourage you to look at things from a different perspective.  The Feynman Technique, by forcing simplification, can indirectly reveal potential problems or flaws in your understanding, which is a form of inversion – looking at what you *don't* understand.
 

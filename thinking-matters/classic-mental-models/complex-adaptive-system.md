@@ -203,7 +203,7 @@ Absolutely! Your personal life, relationships, and career are all complex adapti
 
 **5. What is the best way to learn more about Complex Adaptive Systems?**
 
-Start by exploring introductory books and articles on complexity science and systems thinking.  The Santa Fe Institute website ([www.santafe.edu](www.santafe.edu)) is a great resource.  Look for books by John Holland, Melanie Mitchell, and other complexity researchers.  Agent-based modeling software and online courses can also provide hands-on experience with simulating and understanding CASs.  Continuously observe real-world systems through a CAS lens to deepen your understanding.
+Start by exploring introductory books and articles on complexity science and systems thinking.  The Santa Fe Institute website ([www.santafe.edu](https://www.santafe.edu)) is a great resource.  Look for books by John Holland, Melanie Mitchell, and other complexity researchers.  Agent-based modeling software and online courses can also provide hands-on experience with simulating and understanding CASs.  Continuously observe real-world systems through a CAS lens to deepen your understanding.
 
 ---
 
@@ -215,9 +215,9 @@ Start by exploring introductory books and articles on complexity science and sys
     * *Thinking in Systems: A Primer* by Donella H. Meadows
     * *Linked: How Everything Is Connected to Everything Else and What It Means* by Albert-László Barabási
 * **Websites:**
-    * Santa Fe Institute ([www.santafe.edu](www.santafe.edu))
-    * Complexity Science Hub Vienna ([www.csh.ac.at](www.csh.ac.at))
+    * Santa Fe Institute ([www.santafe.edu](https://www.santafe.edu))
+    * Complexity Science Hub Vienna ([www.csh.ac.at](https://www.csh.ac.at))
     * MIT System Dynamics Group ([https://systemdynamics.mit.edu/](https://systemdynamics.mit.edu/))
 * **Online Courses:**
-    * Complexity Explorer (Santa Fe Institute's online learning platform: [www.complexityexplorer.org](www.complexityexplorer.org))
+    * Complexity Explorer (Santa Fe Institute's online learning platform: [www.complexityexplorer.org](https://www.complexityexplorer.org))
     * Coursera and edX offer courses on systems thinking, complexity science, and agent-based modeling.

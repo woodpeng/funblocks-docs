@@ -117,7 +117,7 @@ These diverse applications demonstrate the versatility and importance of the res
 
 ### 5. Comparison with Related Mental Models
 
-Resilience, while powerful, is not the only mental model that addresses navigating challenges and uncertainty.  It's helpful to understand how it relates to and differs from other similar models to choose the most appropriate framework for a given situation.  Let's compare resilience with two related mental models: [Antifragility](/docs/thinking-toolkit/classic-mental-models/antifragility) and [Margin of Safety](/docs/thinking-toolkit/classic-mental-models/margin-of-safety).
+Resilience, while powerful, is not the only mental model that addresses navigating challenges and uncertainty.  It's helpful to understand how it relates to and differs from other similar models to choose the most appropriate framework for a given situation.  Let's compare resilience with two related mental models: [Antifragility](/thinking-matters/classic-mental-models/antifragility) and [Margin of Safety](/thinking-matters/classic-mental-models/margin-of-safety).
 
 **1. Resilience vs. Antifragility:**
 

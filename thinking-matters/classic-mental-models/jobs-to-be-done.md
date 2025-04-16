@@ -200,7 +200,7 @@ These examples illustrate the versatility of the Jobs to Be Done framework.  By 
 
 Jobs to Be Done is a powerful mental model, but it’s not the only framework for understanding customer needs and driving innovation. Let's compare JTBD with a few related mental models to understand their similarities, differences, and when to choose JTBD over others:
 
-**5.1 JTBD vs. [Customer-Centricity](/thinking-matters/classic-mental-models/customer-centricity):**
+**5.1 JTBD vs. Customer-Centricity:**
 
 * **Relationship:** Customer-Centricity is a broader philosophy, while JTBD is a specific framework that *enables* customer-centricity.  Customer-centricity emphasizes putting the customer at the heart of all business decisions. JTBD provides a structured way to understand and act on that customer-centric approach.
 * **Similarities:** Both emphasize understanding the customer's perspective. Both prioritize customer needs and aim to create value for the customer.
@@ -214,7 +214,7 @@ Jobs to Be Done is a powerful mental model, but it’s not the only framework fo
 * **Differences:** Design Thinking is a broader problem-solving methodology, while JTBD is more focused on understanding customer needs and motivations in the context of product development and marketing. Design Thinking is iterative and involves prototyping and testing, while JTBD is more focused on upfront research and analysis to define the problem space.
 * **When to Choose JTBD:** Use JTBD as a foundational step within a Design Thinking process. JTBD provides the "what" – a deep understanding of customer jobs and desired outcomes. Design Thinking then provides the "how" – the process for ideating, prototyping, and testing solutions to address those jobs. JTBD helps to ensure that the Design Thinking process is focused on solving the right problems for the right customers.
 
-**5.3 JTBD vs. [Empathy](/thinking-matters/classic-mental-models/empathy):**
+**5.3 JTBD vs. Empathy:**
 
 * **Relationship:** Empathy is a crucial element within the JTBD framework. JTBD requires deep empathy to understand the customer's perspective, their struggles, and their desired outcomes.  Empathy is the ability to understand and share the feelings of another.
 * **Similarities:** Both prioritize understanding the customer's feelings and experiences. Both require stepping into the customer's shoes and seeing the world from their point of view.

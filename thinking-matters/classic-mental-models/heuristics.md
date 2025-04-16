@@ -98,7 +98,7 @@ These examples illustrate the pervasive nature of heuristics and their diverse a
 
 ## 5. Comparison with Related Mental Models: Navigating the Cognitive Landscape
 
-While heuristics are powerful mental tools, it's important to understand how they relate to other cognitive models and when they are most appropriately applied. Let's compare heuristics with a couple of related concepts: [Algorithms](/thinking-matters/classic-mental-models/algorithms) and [Bias](/thinking-matters/classic-mental-models/bias).
+While heuristics are powerful mental tools, it's important to understand how they relate to other cognitive models and when they are most appropriately applied. Let's compare heuristics with a couple of related concepts: Algorithms and [Bias](/thinking-matters/classic-mental-models/bias).
 
 **Heuristics vs. Algorithms:**
 

@@ -226,8 +226,8 @@ The core concepts of Complexity Theory are surprisingly intuitive and accessible
     *   *Emergence: From Chaos to Order* by John Holland
     *   *Thinking in Systems: A Primer* by Donella H. Meadows
 *   **Organizations and Institutes:**
-    *   The Santa Fe Institute ([www.santafe.edu](www.santafe.edu))
-    *   The Complexity Science Hub Vienna ([www.csh.ac.at](www.csh.ac.at))
+    *   The Santa Fe Institute ([www.santafe.edu](https://www.santafe.edu))
+    *   The Complexity Science Hub Vienna ([www.csh.ac.at](https://www.csh.ac.at))
 *   **Journals and Publications:**
     *   *Complexity* (Wiley)
     *   *Journal of Complex Systems* (MIT Press)

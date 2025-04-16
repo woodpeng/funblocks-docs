@@ -194,11 +194,11 @@ These diverse examples demonstrate the broad applicability of Empathy Mapping.  
 
 ## 5. Comparison with Related Mental Models
 
-Empathy Mapping, while powerful on its own, is often complemented by or sometimes confused with other related mental models that focus on understanding users or customers. Let's compare Empathy Mapping with two closely related models: [User Persona](/thinking-matters/classic-mental-models/user-persona) and [Customer Journey Map](/thinking-matters/classic-mental-models/customer-journey-map).
+Empathy Mapping, while powerful on its own, is often complemented by or sometimes confused with other related mental models that focus on understanding users or customers. Let's compare Empathy Mapping with two closely related models: User Persona and Customer Journey Map.
 
 **1. Empathy Mapping vs. User Persona**
 
-* **[User Persona](/thinking-matters/classic-mental-models/user-persona):** A User Persona is a semi-fictional representation of your ideal customer based on research and data. It provides a detailed profile of a typical user, including demographics, motivations, goals, behaviors, and frustrations.  Personas are often presented as narrative stories, giving them a human-like quality.
+* **User Persona:** A User Persona is a semi-fictional representation of your ideal customer based on research and data. It provides a detailed profile of a typical user, including demographics, motivations, goals, behaviors, and frustrations.  Personas are often presented as narrative stories, giving them a human-like quality.
 
 * **Relationship:** Empathy Mapping and User Personas are highly complementary. In fact, Empathy Maps are often used *to create* or *validate* User Personas.  An Empathy Map can be seen as a focused lens into the inner world of a persona, providing a deeper understanding of their thoughts, feelings, and experiences.
 
@@ -216,7 +216,7 @@ Empathy Mapping, while powerful on its own, is often complemented by or sometime
 
 **2. Empathy Mapping vs. Customer Journey Map**
 
-* **[Customer Journey Map](/thinking-matters/classic-mental-models/customer-journey-map):** A Customer Journey Map visually illustrates the steps a customer takes when interacting with a product or service over time. It maps out the customer's experience across different touchpoints, highlighting their actions, thoughts, and feelings at each stage.
+* **Customer Journey Map:** A Customer Journey Map visually illustrates the steps a customer takes when interacting with a product or service over time. It maps out the customer's experience across different touchpoints, highlighting their actions, thoughts, and feelings at each stage.
 
 * **Relationship:** Empathy Mapping and Customer Journey Mapping can be used together to create a more comprehensive understanding of the customer experience. An Empathy Map can be used to enrich each stage of a Customer Journey Map by providing deeper insights into the user's emotional and cognitive state at each touchpoint.
 

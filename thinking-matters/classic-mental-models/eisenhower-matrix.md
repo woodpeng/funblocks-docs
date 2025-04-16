@@ -123,7 +123,7 @@ The Pareto Principle, often referred to as the 80/20 rule, states that roughly 8
 * **Differences:** The Eisenhower Matrix focuses on urgency and importance as the primary criteria for categorization, while the Pareto Principle focuses on the input-output ratio. The Eisenhower Matrix provides a framework for *categorizing* all tasks, while the Pareto Principle is more about *identifying* the most impactful tasks within a larger set.
 * **When to choose Eisenhower Matrix vs. Pareto Principle:** Use the Eisenhower Matrix when you need to categorize and prioritize a broad range of tasks based on urgency and importance, especially when dealing with daily workloads. Use the Pareto Principle when you want to identify the most impactful activities within a specific area (e.g., which 20% of marketing efforts drive 80% of sales) to maximize efficiency and return on investment. You can often use them together: Eisenhower to categorize, Pareto to refine focus within the "Important" quadrants.
 
-**2. Time Blocking:** [Time Blocking](/thinking-matters/classic-mental-models/time-blocking)
+**2. Time Blocking:** 
 
 Time blocking is a time management method where you schedule specific blocks of time for specific tasks or activities in your calendar. It's about proactively allocating time to different aspects of your work and life.
 

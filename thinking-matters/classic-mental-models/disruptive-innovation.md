@@ -241,5 +241,5 @@ Look for innovations that target underserved customers, non-consumption markets,
 
 *   **Book:** *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* by Clayton M. Christensen
 *   **Book:** *The Innovator's Solution: Creating and Sustaining Successful Growth* by Clayton M. Christensen and Michael E. Raynor
-*   **Website:** Clayton Christensen Institute for Disruptive Innovation ([www.christenseninstitute.org](www.christenseninstitute.org))
+*   **Website:** Clayton Christensen Institute for Disruptive Innovation ([www.christenseninstitute.org](https://www.christenseninstitute.org))
 *   **Article:** "Disruptive Technologies: Catching the Wave" by Joseph L. Bower and Clayton M. Christensen (Harvard Business Review)

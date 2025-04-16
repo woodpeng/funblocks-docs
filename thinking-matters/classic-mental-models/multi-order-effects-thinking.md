@@ -153,7 +153,7 @@ Systems Thinking is a broader and more encompassing framework for understanding 
 
 *   **When to Choose:** Use Systems Thinking when you need to understand the overall structure, dynamics, and behavior of a complex system. It's essential for designing interventions, understanding system-level problems, and developing long-term strategies for complex challenges.  Use Multi-Order Effects Thinking when you have a specific action or decision in mind and want to analyze its potential consequences within a system. It's a more targeted tool for consequence analysis within a systems-thinking framework. Systems Thinking provides the map, and Multi-Order Effects Thinking is a tool to navigate that map and trace specific routes of consequence.
 
-**5.3. Multi-Order Effects Thinking vs. [Causal Loop Diagrams](/thinking-matters/classic-mental-models/causal-loop-diagrams):**
+**5.3. Multi-Order Effects Thinking vs. Causal Loop Diagrams:**
 
 Causal Loop Diagrams (CLDs) are a visual tool used within Systems Thinking to map out the relationships and feedback loops within a system. They are a powerful way to *represent* and *analyze* multi-order effects.
 

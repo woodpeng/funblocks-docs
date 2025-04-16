@@ -143,7 +143,7 @@ These diverse examples illustrate the pervasive nature of abstraction and its po
 
 Abstraction is a powerful mental model, but it's not the only tool in your cognitive toolkit. Understanding how it relates to other mental models helps you choose the right approach for different situations. Let's compare abstraction with a few related models:
 
-**1. [First Principles Thinking](/docs/thinking-toolkit/classic-mental-models/first-principles-thinking): Deconstructing to Fundamentals**
+**1. [First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking): Deconstructing to Fundamentals**
 
 First Principles Thinking, popularized by Elon Musk, involves breaking down a problem to its most fundamental truths or axioms and reasoning up from there.  While both abstraction and First Principles Thinking deal with simplification, they approach it differently.
 
@@ -158,7 +158,7 @@ First Principles Thinking, popularized by Elon Musk, involves breaking down a pr
 
 **When to Choose:** Use Abstraction when you need to manage complexity, simplify communication, or work with systems at a higher level of understanding. Use First Principles Thinking when you need to solve novel problems, challenge assumptions, or innovate by rebuilding your understanding from the ground up.
 
-**2. [Occam's Razor](/docs/thinking-toolkit/classic-mental-models/occam-s-razor): The Principle of Parsimony**
+**2. [Occam's Razor](/thinking-matters/classic-mental-models/occams-razor): The Principle of Parsimony**
 
 Occam's Razor, also known as the principle of parsimony, states that among competing hypotheses, the one with the fewest assumptions should be selected.  It's a principle of simplicity and elegance in explanation.
 
@@ -173,7 +173,7 @@ Occam's Razor, also known as the principle of parsimony, states that among compe
 
 **When to Choose:** Use Abstraction when you need to manage complexity, simplify a system, or create a higher-level understanding. Use Occam's Razor when you are faced with multiple explanations or solutions and need to choose the simplest and most likely one.
 
-**3. [Systems Thinking](/docs/thinking-toolkit/classic-mental-models/systems-thinking): Understanding Interconnections**
+**3. [Systems Thinking](/thinking-matters/classic-mental-models/systems-thinking): Understanding Interconnections**
 
 Systems Thinking emphasizes understanding how different parts of a system interact and influence each other. It focuses on the interconnectedness and interdependence of components within a whole.
 

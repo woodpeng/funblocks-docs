@@ -64,7 +64,7 @@ In each of these application cases, understanding FOMO as a mental model provide
 
 ## 5. Comparison with Related Mental Models
 
-FOMO, while a distinct mental model, shares similarities and overlaps with other related concepts that influence our thinking and behavior.  Understanding these connections helps to refine our understanding of FOMO and appreciate its nuances.  Let's compare FOMO with two related mental models: **[Keeping Up With The Joneses](/thinking-matters/classic-mental-models/keeping-up-with-the-joneses)** and **[Loss Aversion](/thinking-matters/classic-mental-models/loss-aversion)**.
+FOMO, while a distinct mental model, shares similarities and overlaps with other related concepts that influence our thinking and behavior.  Understanding these connections helps to refine our understanding of FOMO and appreciate its nuances.  Let's compare FOMO with two related mental models: **Keeping Up With The Joneses** and **[Loss Aversion](/thinking-matters/classic-mental-models/loss-aversion)**.
 
 **FOMO vs. Keeping Up With The Joneses:**
 

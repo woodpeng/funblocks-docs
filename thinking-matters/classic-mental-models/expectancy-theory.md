@@ -20,7 +20,7 @@ The seeds of Expectancy Theory were sown in the mid-20th century, a period marke
 
 Vroom introduced his groundbreaking work in his seminal book, **"Work and Motivation," published in 1964**. This book laid the foundation for modern Expectancy Theory, presenting a comprehensive model that explained motivation as a process of cognitive calculations.  Vroom argued that individuals make conscious choices about their behavior based on their expectations of what will happen as a result of those choices.  He wasn't the first to consider the role of expectations in motivation, but he was instrumental in developing a structured and testable framework.
 
-Prior to Vroom's work, motivation theories were often dominated by simpler models like [Maslow's Hierarchy of Needs](/docs/thinking-toolkit/classic-mental-models/maslows-hierarchy-of-needs) and [Herzberg's Two-Factor Theory](/docs/thinking-toolkit/classic-mental-models/herzbergs-two-factor-theory). While these theories offered valuable insights, they were often criticized for being overly simplistic and lacking empirical support in certain contexts. Vroom's Expectancy Theory offered a more cognitively sophisticated and empirically testable alternative.
+Prior to Vroom's work, motivation theories were often dominated by simpler models like [Maslow's Hierarchy of Needs](/thinking-matters/classic-mental-models/maslows-hierarchy-of-needs) and [Herzberg's Two-Factor Theory](/thinking-matters/classic-mental-models/herzbergs-two-factor-theory). While these theories offered valuable insights, they were often criticized for being overly simplistic and lacking empirical support in certain contexts. Vroom's Expectancy Theory offered a more cognitively sophisticated and empirically testable alternative.
 
 Vroom's initial model, often referred to as **VIE Theory (Valence-Instrumentality-Expectancy)**, focused primarily on workplace motivation.  It proposed that an employee's motivation to exert effort is a function of three key perceptions:
 
@@ -162,11 +162,11 @@ These examples illustrate the broad applicability of Expectancy Theory. By under
 
 ## 5. Comparison with Related Mental Models
 
-Expectancy Theory, while powerful, is not the only mental model that attempts to explain motivation.  It's beneficial to compare it with related models to understand its unique strengths and limitations and to determine when it's most appropriate to apply. Let's compare Expectancy Theory with two related mental models: [Reinforcement Theory](/docs/thinking-toolkit/classic-mental-models/reinforcement-theory) and [Goal-Setting Theory](/docs/thinking-toolkit/classic-mental-models/goal-setting-theory).
+Expectancy Theory, while powerful, is not the only mental model that attempts to explain motivation.  It's beneficial to compare it with related models to understand its unique strengths and limitations and to determine when it's most appropriate to apply. Let's compare Expectancy Theory with two related mental models: [Reinforcement Theory](/thinking-matters/classic-mental-models/reinforcement-theory) and [Goal-Setting Theory](/thinking-matters/classic-mental-models/goal-setting-theory).
 
 **5.1. Expectancy Theory vs. Reinforcement Theory**
 
-[Reinforcement Theory](/docs/thinking-toolkit/classic-mental-models/reinforcement-theory), primarily associated with B.F. Skinner, focuses on how consequences shape behavior. It suggests that behaviors followed by positive consequences (reinforcement) are more likely to be repeated, while behaviors followed by negative consequences (punishment) are less likely to be repeated.
+[Reinforcement Theory](/thinking-matters/classic-mental-models/reinforcement-theory), primarily associated with B.F. Skinner, focuses on how consequences shape behavior. It suggests that behaviors followed by positive consequences (reinforcement) are more likely to be repeated, while behaviors followed by negative consequences (punishment) are less likely to be repeated.
 
 **Similarities:**
 
@@ -188,7 +188,7 @@ Expectancy Theory, while powerful, is not the only mental model that attempts to
 
 **5.2. Expectancy Theory vs. Goal-Setting Theory**
 
-[Goal-Setting Theory](/docs/thinking-toolkit/classic-mental-models/goal-setting-theory), developed by Edwin Locke and Gary Latham, emphasizes the importance of specific and challenging goals in motivating behavior. It posits that clear, challenging goals direct attention, energize effort, increase persistence, and promote the development of task strategies.
+[Goal-Setting Theory](/thinking-matters/classic-mental-models/goal-setting-theory), developed by Edwin Locke and Gary Latham, emphasizes the importance of specific and challenging goals in motivating behavior. It posits that clear, challenging goals direct attention, energize effort, increase persistence, and promote the development of task strategies.
 
 **Similarities:**
 
