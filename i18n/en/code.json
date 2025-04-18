@@ -2,6 +2,9 @@
   "homepage.head.title": {
     "message": "From Brainstorm to Content — Your Mind Map-Powered AI Tools for Learning, Writing, Slides, Infographics and more"
   },
+  "homepage.head.description": {
+    "message": "Supercharge learning, writing, and creativity with FunBlocks AI! Go beyond ChatGPT with powerful AI-powered mind maps that visualize complex ideas. Instantly transform brainstorms into slides, infographics, and documents. Boost productivity in an all-in-one workspace supporting GPT, Claude & Gemini. Unlock your cognitive potential today!"
+  },
   "homepage.nav.home": {
     "message": "FunBlocks AI"
   },
@@ -493,7 +496,7 @@
     "message": "FunBlocks AIFlow - AI-powered whiteboard & mind mapping tool for enhanced creativity and productivity"
   },
   "aiflow.head.description": {
-    "message": "FunBlocks AIFlow: AI-powered whiteboard & mind mapping tool. Boost creativity by 10x with GPT-4 & Claude LLM. Explore ideas, solve problems & learn faster. Free trial available!"
+    "message": "Supercharge creativity and productivity with FunBlocks AIFlow, the ultimate AI-powered whiteboard & mind mapping tool. Go beyond simple text chats – visualize ideas and AI insights on a boundless canvas using advanced models like GPT & Claude. Effortlessly break down complex problems, brainstorm with structured methods (SWOT, Six Thinking Hats), generate instant mind maps from books, videos, or webpages, and create ready-to-use outputs like presentations and documents. Ideal for learning, strategic planning, content creation, and in-depth analysis. Enhance your thinking, explore topics deeply, and achieve more with your intelligent AI partner. Discover FunBlocks AIFlow today!"
   },
   "aiflow.nav.home": {
     "message": "FunBlocks AIFlow"
@@ -1349,7 +1352,7 @@
     "message": "FunBlocks AI - Smart Reading & Writing Assistant: Boost Productivity, Spark Creativity"
   },
   "extension_welcome.head.description": {
-    "message": "FunBlocks AI Extension: Your smart AI assistant for enhanced reading, writing, and thinking. Features AI Writing, Mind Flow, Reading assistance, and Memo. Compatible with ChatGPT, Claude, Gemini Pro. Boost productivity across all websites"
+    "message": "Your smart AI assistant for enhanced reading, writing, and thinking. Features AI Writing, Mind Flow, Reading assistance, and Memo. Compatible with ChatGPT, Claude, Gemini Pro. Boost productivity across all websites"
   },
   "extension_welcome.nav.home": {
     "message": "FunBlocks - AI Assistant"
@@ -1669,6 +1672,14 @@
   "extension_welcome.faq.a18": {
     "message": "FunBlocks AI offers various personalization options. You can choose from mainstream large language models, build AI prompt applications that meet your needs, and select the required applications from the app market to enhance the functionality of your AI assistant."
   },
+
+  "aidocs.head.title": {
+    "message": "FunBlocks AI Docs: AI-powered Block Editor & Critical Thinking Assistant"
+  },
+  "aidocs.head.description": {
+    "message": "FunBlocks AI Docs combines Notion-like editing with AI assistance to enhance your writing, critical thinking, and productivity. Create better content faster."
+  },
+
   "aidocs.masthead.title": {
     "message": "Write Smarter, Think Deeper"
   },

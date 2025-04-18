@@ -2,6 +2,9 @@
   "homepage.head.title": {
     "message": "FunBlocks AI - 您的创新AI工具箱，通过AI白板、思维导图、幻灯片创建和文档工具，增强创造力和生产力"
   },
+  "homepage.head.description": {
+    "message": "使用FunBlocks AI增强您的学习、写作和创造力！通过强大的AI驱动思维导图超越ChatGPT，直观地展示复杂的想法。即时将头脑风暴转化为幻灯片、信息图表和文档。在支持GPT、Claude和Gemini的一体化工作空间中提升生产力。今天就释放您的认知潜力！"
+  },
   "homepage.nav.home": {
     "message": "FunBlocks AI"
   },
@@ -456,7 +459,7 @@
     "message": "FunBlocks AIFlow - AI驱动的白板思维导图工具，提升创造力和生产力"
   },
   "aiflow.head.description": {
-    "message": "FunBlocks AIFlow：AI驱动的白板思维导图工具。借助GPT-4和Claude LLM，创造力提升10倍。探索想法，解决问题，加速学习。免费试用！"
+    "message": "通过FunBlocks AIFlow，这款终极AI驱动的白板和思维导图工具，极大提升创造力和生产力。超越简单的文本聊天——在无限画布上使用GPT和Claude等先进模型可视化想法和AI洞察。轻松分解复杂问题，运用结构化方法（如SWOT分析、六顶思考帽）进行头脑风暴，从书籍、视频或网页中即时生成思维导图，并创建可直接使用的演示文稿和文档。非常适合学习、战略规划、内容创作和深入分析。提升您的思维能力，深入探索主题，与智能AI伙伴一起实现更多。今天就来发现FunBlocks AIFlow吧！"
   },
   "aiflow.nav.home": {
     "message": "FunBlocks AIFlow"
@@ -1622,6 +1625,12 @@
   },
   "extension_welcome.faq.a18": {
     "message": "FunBlocks AI提供多种个性化选项，您可以选择主流的大语言模型，构建符合您需求的AI提示应用，并从应用市场中挑选所需的应用程序，以增强AI助手的功能。"
+  },
+  "aidocs.head.title": {
+    "message": "FunBlocks AI 文档：AI驱动的块编辑器和批判性思维助手"
+  },
+  "aidocs.head.description": {
+    "message": "FunBlocks AI 文档结合了类似Notion的编辑功能和AI辅助，以提升您的写作、批判性思维和生产力。更快地创建更好的内容。"
   },
   "aidocs.masthead.title": {
     "message": "写作更智能，思考更深入"
