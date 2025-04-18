@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Thinking Toolkit Behind FunBlocks AIFlow
+title: Your Thinking Matters in the Age of AI
 description: Explore powerful thinking methods like Brainstorming, Mind Mapping, Critical & Creative Thinking, and Mental Models. Learn how FunBlocks AIFlow helps you apply them for better clarity, efficiency, and innovation.
 ---
 

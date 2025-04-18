@@ -1,0 +1,102 @@
+.thinkingMattersSection {
+  padding: 6rem 0;
+  background-color: var(--gray);
+}
+
+.sectionTitle {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.sectionDescription {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 3rem;
+  font-size: 1.3rem;
+  color: var(--text-light);
+}
+
+.thinkingGridContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.thinkingCard {
+  padding: 2rem;
+  background-color: var(--light);
+  border-radius: 10px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  height: 100%;
+}
+
+.thinkingCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.cardTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cardTitle h4 {
+  margin: 0;
+  font-size: 1.4rem;
+  color: var(--primary);
+}
+
+.thinkingIcon {
+  font-size: 2.5rem;
+}
+
+.learnMoreContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.learnMoreButton {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  background-color: var(--primary);
+  color: white;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.learnMoreButton:hover {
+  background-color: var(--primary-dark);
+}
+
+@media (max-width: 991px) {
+  .thinkingGridContainer {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .thinkingGridContainer {
+    grid-template-columns: 1fr;
+  }
+  
+  .sectionTitle {
+    font-size: 2rem;
+  }
+  
+  .sectionDescription {
+    font-size: 1.1rem;
+  }
+} 

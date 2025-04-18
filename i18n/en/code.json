@@ -1,6 +1,6 @@
 {
   "homepage.head.title": {
-    "message": "FunBlocks AI - Your AI-powered workspace for enhanced creativity and productivity through innovative whiteboarding, mind mapping, slide creation, and document tools"
+    "message": "From Brainstorm to Content — Your Mind Map-Powered AI Tools for Learning, Writing, Slides, Infographics and more"
   },
   "homepage.nav.home": {
     "message": "FunBlocks AI"
@@ -42,7 +42,7 @@
     "message": "Text chatbox is not the only way to interact with AI. Visualize your thoughts and AI's output in formats that truly enhance your cognitive process."
   },
   "homepage.beyond.visualize.title": {
-    "message": "Visualize Complex Thinking"
+    "message": "Clarify Complex Thinking through Mind Maps"
   },
   "homepage.beyond.visualize.description": {
     "message": "Transform linear conversations into multidimensional mind maps that reveal connections, patterns, and insights that text alone cannot convey."
@@ -54,13 +54,13 @@
     "message": "Combine AI's vast knowledge with visual thinking techniques to break through creative barriers and generate breakthrough ideas."
   },
   "homepage.beyond.streamline.title": {
-    "message": "Enhance Your Productivity"
+    "message": "Boost Productivity with an All-in-One Workflow"
   },
   "homepage.beyond.streamline.description": {
-    "message": "Transform complex information into structured visual outputs that can be instantly converted into professional deliverables."
+    "message": "Transform complex information into structured visual outputs that can be instantly converted into professional deliverables in your workflow."
   },
   "homepage.features.visualize.title": {
-    "message": "Visualize Complex Thinking"
+    "message": "Clarify Complex Thinking through Mind Maps"
   },
   "homepage.features.visualize.description": {
     "message": "Traditional AI chatbots limit thinking to a linear conversation. FunBlocks AIFlow expands your cognitive horizon with multidimensional mind maps on an infinite canvas."
@@ -96,7 +96,7 @@
     "message": "Overcome creative blocks by visually expanding idea spaces in multiple directions simultaneously"
   },
   "homepage.features.streamline.title": {
-    "message": "Enhance Your Productivity"
+    "message": "Boost Productivity with an All-in-One Workflow"
   },
   "homepage.features.streamline.description": {
     "message": "Transform the way you work with information. FunBlocks AIFlow turns complex knowledge work into a visual, collaborative process with immediate, tangible outputs."
@@ -113,6 +113,43 @@
   "homepage.features.streamline.point4": {
     "message": "Convert your visual thinking directly into professional deliverables—slides, infographics, documents—with a single click"
   },
+  "homepage.thinking_matters.title": {
+    "message": "Your Thinking Matters in the Age of AI",
+    "description": "Title for the Thinking Matters section"
+  },
+  "homepage.thinking_matters.description": {
+    "message": "In today's fast-paced world filled with AI tools, effective thinking skills are more valuable than ever. FunBlocks empowers you to enhance your cognitive abilities through structured thinking methods and visualization.",
+    "description": "Description for the Thinking Matters section"
+  },
+  "homepage.thinking_matters.master.title": {
+    "message": "Master Your Mind",
+    "description": "Title for the Master Your Mind card"
+  },
+  "homepage.thinking_matters.master.description": {
+    "message": "In today's information-rich world, effective thinking methods are essential. FunBlocks AI helps you cut through noise, gain clarity, and boost efficiency by integrating proven cognitive techniques with intuitive technology.",
+    "description": "Description for the Master Your Mind card"
+  },
+  "homepage.thinking_matters.concepts.title": {
+    "message": "Core Thinking Frameworks",
+    "description": "Title for the Core Thinking Concepts card"
+  },
+  "homepage.thinking_matters.concepts.description": {
+    "message": "Our platform is built on fundamental thinking methodologies and tools: Brainstorming for idea generation, Mind Mapping for organization, Critical Thinking for analysis, Creative Thinking for innovation, and Mental Models for understanding and action.",
+    "description": "Description for the Core Thinking Concepts card"
+  },
+  "homepage.thinking_matters.empowerment.title": {
+    "message": "AI-Enhanced Thinking",
+    "description": "Title for the AI-Enhanced Thinking card"
+  },
+  "homepage.thinking_matters.empowerment.description": {
+    "message": "FunBlocks AI enhances your thinking with a unified workspace, visualization tools, AI assistance, and seamless collaboration features—all designed to help you think more deeply and effectively.",
+    "description": "Description for the AI-Enhanced Thinking card"
+  },
+  "homepage.thinking_matters.learn_more": {
+    "message": "Learn More About Our Thinking Toolkit",
+    "description": "Text for the Learn More button"
+  },
+
   "homepage.tools.title": {
     "message": "AI Tools Tailored for Diverse Use Cases"
   },

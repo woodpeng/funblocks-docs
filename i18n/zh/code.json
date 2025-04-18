@@ -1,6 +1,6 @@
 {
   "homepage.head.title": {
-    "message": "FunBlocks AI - 您的AI驱动工作空间，通过创新的白板、思维导图、幻灯片创建和文档工具，增强创造力和生产力"
+    "message": "FunBlocks AI - 您的创新AI工具箱，通过AI白板、思维导图、幻灯片创建和文档工具，增强创造力和生产力"
   },
   "homepage.nav.home": {
     "message": "FunBlocks AI"
@@ -54,7 +54,7 @@
     "message": "结合AI的广泛知识与视觉思维技术，突破创造性障碍，产生突破性想法。"
   },
   "homepage.beyond.streamline.title": {
-    "message": "变革学习与工作效率"
+    "message": "一站式工作流变革学习与工作效率"
   },
   "homepage.beyond.streamline.description": {
     "message": "将复杂信息转化为结构化的视觉输出，可以立即转换为专业交付物。"
@@ -96,10 +96,10 @@
     "message": "通过在多个方向上视觉扩展思维空间来克服创造性障碍"
   },
   "homepage.features.streamline.title": {
-    "message": "变革学习与工作效率"
+    "message": "一站式工作流变革学习与工作效率"
   },
   "homepage.features.streamline.description": {
-    "message": "改变您处理信息的方式。FunBlocks AIFlow将复杂的知识工作转变为视觉化、协作的过程，产生即时、可触及的输出。"
+    "message": "形成你的创造性工作流。FunBlocks AIFlow将复杂的知识工作转变为视觉化、协作的过程，产生即时、可触及的输出。"
   },
   "homepage.features.streamline.point1": {
     "message": "在AI的帮助下，立即将压倒性的项目分解为可管理的视觉组件"
@@ -1971,7 +1971,7 @@
     "message": "FunBlocks AI Docs是否提供免费试用，不同定价计划中包含哪些功能？"
   },
   "aidocs.faq.a10": {
-    "message": "是的，FunBlocks AI Docs提供免费试用版本，网站上显著的“免费试用”号召性用语表明了这一点。此试用允许新用户体验平台的核心功能，并评估其如何满足他们的写作和思维需求，然后再决定是否订阅付费版本。虽然当前信息中未提供具体的定价细节，但免费试用可能包括对基本块编辑功能的访问、有限的AI写作辅助和批判性思维增强功能的样本。有关不同定价层、免费版本中的功能限制、使用配额和企业选项的全面信息，我们建议访问官方FunBlocks定价页面。与许多生产力工具一样，付费订阅可能提供额外的好处，例如增加使用限制、优先支持、团队协作功能和访问高级AI能力。"
+    "message": "是的，FunBlocks AI Docs提供免费试用版本，网站上显著的\"免费试用\"号召性用语表明了这一点。此试用允许新用户体验平台的核心功能，并评估其如何满足他们的写作和思维需求，然后再决定是否订阅付费版本。虽然当前信息中未提供具体的定价细节，但免费试用可能包括对基本块编辑功能的访问、有限的AI写作辅助和批判性思维增强功能的样本。有关不同定价层、免费版本中的功能限制、使用配额和企业选项的全面信息，我们建议访问官方FunBlocks定价页面。与许多生产力工具一样，付费订阅可能提供额外的好处，例如增加使用限制、优先支持、团队协作功能和访问高级AI能力。"
   },
   "aidocs.faq.q11": {
     "message": "FunBlocks AI Docs如何帮助内容创作者、博主和专业作家提高内容质量和生产效率？"
@@ -1983,6 +1983,42 @@
     "message": "我如何开始使用FunBlocks AI Docs？"
   },
   "aidocs.faq.a12": {
-    "message": "只需点击“免费试用”按钮，创建一个帐户，您就可以立即免费使用FunBlocks AI。试用不需要信用卡，您将可以访问所有功能。"
+    "message": "只需点击\"免费试用\"按钮，创建一个帐户，您就可以立即免费使用FunBlocks AI。试用不需要信用卡，您将可以访问所有功能。"
+  },
+  "homepage.thinking_matters.title": {
+    "message": "在人工智能时代，您的思考很重要",
+    "description": "Title for the Thinking Matters section"
+  },
+  "homepage.thinking_matters.description": {
+    "message": "在当今充满AI工具的快节奏世界中，有效的思考能力比以往任何时候都更加重要。FunBlocks通过结构化思考方法和可视化帮助您增强认知能力。",
+    "description": "Description for the Thinking Matters section"
+  },
+  "homepage.thinking_matters.master.title": {
+    "message": "掌控您的思维",
+    "description": "Title for the Master Your Mind card"
+  },
+  "homepage.thinking_matters.master.description": {
+    "message": "在当今信息丰富的世界中，有效的思考方法至关重要。FunBlocks AIFlow通过将经过验证的认知技术与直观的技术相结合，帮助您消除噪音，获得清晰度，提高效率。",
+    "description": "Description for the Master Your Mind card"
+  },
+  "homepage.thinking_matters.concepts.title": {
+    "message": "核心思维工具",
+    "description": "Title for the Core Thinking Concepts card"
+  },
+  "homepage.thinking_matters.concepts.description": {
+    "message": "我们的平台建立在最本质的思维方法和工具之上：头脑风暴用于生成想法，思维导图用于组织，批判性思维用于分析，创造性思维用于创新，思维模型用于理解。",
+    "description": "Description for the Core Thinking Concepts card"
+  },
+  "homepage.thinking_matters.empowerment.title": {
+    "message": "AI增强思考",
+    "description": "Title for the AI-Enhanced Thinking card"
+  },
+  "homepage.thinking_matters.empowerment.description": {
+    "message": "FunBlocks AIFlow通过统一的工作空间、可视化工具、AI辅助和无缝协作功能增强您的思维能力—所有这些都旨在帮助您更深入、更有效地思考。",
+    "description": "Description for the AI-Enhanced Thinking card"
+  },
+  "homepage.thinking_matters.learn_more": {
+    "message": "了解更多关于我们的思考工具箱",
+    "description": "Text for the Learn More button"
   }
 }

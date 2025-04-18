@@ -14,6 +14,7 @@ import TestimonialsSection from '../components/TestimonialsSection';
 import ImageModal from '../components/ImageModal';
 import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 import CTASection from '../components/CTASection';
+import ThinkingMattersSection from '../components/ThinkingMattersSection';
 
 function HomepageHeader({ setShowImageSrc, toApp }) {
   const { siteConfig } = useDocusaurusContext();
@@ -43,6 +44,9 @@ function HomepageHeader({ setShowImageSrc, toApp }) {
               <Translate id="homepage.hero.trial">Free Trial Now</Translate>
             </Link>
           </div>
+          <p style={{ marginTop: '20px', fontStyle: 'italic' }}>
+            <Translate id="homepage.thinking_matters.title">Your Thinking Matters in the Age of AI</Translate>
+          </p>
         </div>
         <div style={{ cursor: 'pointer' }}>
           <img
@@ -614,7 +618,7 @@ export default function Home() {
     <Layout
       title={translate({
         id: 'head.title',
-        message: 'FunBlocks AI - Your AI-powered workspace for enhanced creativity and productivity'
+        message: 'From Brainstorm to Content — Your Mind Map-Powered AI Tools for Learning, Writing, Slides, Infographics and more'
       })}
       description={translate({
         id: 'head.description',
@@ -623,6 +627,7 @@ export default function Home() {
     >
       <HomepageHeader setShowImageSrc={setShowImageSrc} toApp={toApp} />
       <main>
+        <ThinkingMattersSection />
         <BeyondChatGPTSection />
         <DeepenThinkingSection setShowImageSrc={setShowImageSrc} />
         <BoostCreativitySection setShowImageSrc={setShowImageSrc} />
@@ -644,7 +649,7 @@ export default function Home() {
       <Footer />
 
       {showImageSrc && <ImageModal imageSrc={showImageSrc} setImageSrc={setShowImageSrc} />}
-      <GoogleAccountAnalytics page={'homepage'}/>
+      <GoogleAccountAnalytics page={'homepage'} />
     </Layout>
   );
 }

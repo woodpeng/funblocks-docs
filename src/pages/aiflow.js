@@ -16,6 +16,7 @@ import ImageModal from '../components/ImageModal';
 import GoogleAccountAnalytics from '../components/GoogleAccountAnalytics';
 import IntroSection from '../components/IntroSection';
 import CTASection from '../components/CTASection';
+import ThinkingMattersSection from '../components/ThinkingMattersSection';
 
 function AIFlowHeader({ setShowImageSrc, toApp }) {
   return (
@@ -50,6 +51,9 @@ function AIFlowHeader({ setShowImageSrc, toApp }) {
             <Translate id="aiflow.masthead.cta">Free Trial Now</Translate>
           </Link>
         </div>
+        <p style={{ marginTop: '20px', fontStyle: 'italic' }}>
+          <Translate id="homepage.thinking_matters.title">Your Thinking Matters in the Age of AI</Translate>
+        </p>
       </div>
     </section>
   );
@@ -472,6 +476,7 @@ export default function AIFlow() {
         <UseCasesSection setShowImageSrc={setShowImageSrc} />
         <AIToolsSection />
         <TestimonialsSection avatars={testimonials_avatars} page={'aiflow'} />
+        <ThinkingMattersSection />
         <CTASection toApp={toApp} page={'aiflow'} />
         <FAQSection
           page={'aiflow'}
