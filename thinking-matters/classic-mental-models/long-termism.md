@@ -254,3 +254,7 @@ Avoid becoming overly rigid or dogmatic, neglecting present needs, and assuming 
     * Effective Altruism Forum (Online community focused on effective giving and long-term impact)
     * LessWrong (Online forum for rationality and forecasting)
     * Articles and essays by Toby Ord, Nick Bostrom, and William MacAskill online.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

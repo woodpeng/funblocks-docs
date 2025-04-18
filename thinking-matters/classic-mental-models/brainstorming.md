@@ -383,3 +383,7 @@ Evaluating and selecting ideas after brainstorming is crucial for turning genera
     *   MindTools website for articles and tools on brainstorming and problem-solving
 
 By exploring these resources and continuing to practice and refine your brainstorming skills, you can further enhance your creative thinking abilities and unlock even greater innovation potential.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

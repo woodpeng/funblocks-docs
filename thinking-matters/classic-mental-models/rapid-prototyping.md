@@ -227,3 +227,7 @@ Integrating Rapid Prototyping into your thinking processes can transform how you
     - Coursera & edX (Search for courses on "Design Thinking," "UX Design," "Agile Development")
 
 By continuously learning and practicing, you can master the mental model of Rapid Prototyping and unlock its full potential in your personal and professional life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

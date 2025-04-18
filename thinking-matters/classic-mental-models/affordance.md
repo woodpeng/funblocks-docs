@@ -373,3 +373,7 @@ Improve your affordance thinking through conscious observation of everyday objec
 *   **Article:** "Affordances and Design" by Donald A. Norman (available online)
 *   **Website:** Nielsen Norman Group (articles and resources on usability and UX design)
 *   **Online Courses:** Platforms like Coursera, edX, and Udemy offer courses on UX design and human-computer interaction that often cover affordance.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

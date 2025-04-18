@@ -264,3 +264,7 @@ By employing these strategies, researchers can strive to minimize the confoundin
 *   **Online Resources:**
     *   Wikipedia and other encyclopedic entries on "Hawthorne Effect" (for introductory overviews)
     *   Websites and blogs focused on behavioral economics, psychology, and organizational behavior often discuss the Hawthorne Effect and its implications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

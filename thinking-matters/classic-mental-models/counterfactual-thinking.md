@@ -276,3 +276,7 @@ For those interested in delving deeper into counterfactual thinking, here are so
 *   **Research Papers by Neal Roese and Patricia Bauer:** Explore the published research of leading experts in the field, such as Neal Roese and Patricia Bauer, to gain a deeper understanding of the latest findings and theoretical developments in counterfactual thinking research.
 
 By exploring these resources and continuing to practice and refine your counterfactual thinking skills, you can unlock even greater benefits from this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

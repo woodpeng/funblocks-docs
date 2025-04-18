@@ -248,3 +248,7 @@ Yes, experts are also susceptible to Availability Bias, although perhaps in diff
     *   Wikipedia: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
 
 These resources offer deeper dives into the fascinating world of cognitive biases and provide further insights into how to improve your thinking and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

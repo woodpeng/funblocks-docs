@@ -260,3 +260,7 @@ Absolutely, the Cobra Effect can apply to personal life just as much as to large
 *   **Books:**  "Thinking, Fast and Slow" by Daniel Kahneman, "Poor Charlie's Almanack" by Peter Kaufman (collects wisdom of Charlie Munger), "Antifragile" by Nassim Nicholas Taleb.
 *   **Websites/Blogs:** Farnam Street (fs.blog), LessWrong (lesswrong.com), articles and resources on mental models and cognitive biases.
 *   **Academic Papers:** Search for articles on "unintended consequences," "perverse incentives," and "policy failures" in economics, sociology, and political science journals.  Exploring the history of specific policy failures (like the Delhi cobra bounty) can also provide valuable insights.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

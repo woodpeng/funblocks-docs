@@ -278,3 +278,7 @@ Start by simply becoming more aware of the concept.  Begin to question assumptio
     *   Financial news and analysis sites that discuss tail risks in markets and the global economy.
 
 By exploring these resources and continuing to practice Fat-Tail Risk Thinking, you can deepen your understanding and become more adept at navigating the complexities and uncertainties of our world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

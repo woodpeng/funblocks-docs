@@ -264,3 +264,7 @@ While envy might be a component, relative deprivation is more than just envy. It
 * **"The American Soldier" by Samuel Stouffer et al.:** The seminal work that introduced the concept of relative deprivation.
 * **"Social Psychology" textbooks:** Chapters on social comparison, attitudes, and social movements often cover relative deprivation theory.
 * **"Feeling of What is Fair: Americas for Equality" by Jennifer Hochschild:**  A contemporary analysis of fairness and relative deprivation in the context of American society.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

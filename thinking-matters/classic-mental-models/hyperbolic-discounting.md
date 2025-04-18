@@ -271,3 +271,7 @@ Examples are everywhere! Procrastination (TV now vs. studying for the future), i
 * **Websites & Blogs:**
     * Behavioral Economics websites and blogs (search for "behavioral economics blog").
     * Websites of behavioral economics research centers and universities.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

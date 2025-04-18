@@ -190,3 +190,7 @@ You can observe their reactions to challenges, feedback, and the success of othe
 * **Website:** Mindset Works (Carol Dweck's organization): [https://www.mindsetworks.com/](https://www.mindsetworks.com/)
 * **TED Talk:** "The power of believing that you can improve" by Carol S. Dweck: [https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
 * **Article:** "What Having a 'Growth Mindset' Actually Means" by Carol S. Dweck (Harvard Business Review): [https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -240,3 +240,7 @@ Practice is key. Start by consciously applying the OODA Loop to smaller decision
 *   **"Patterns of Conflict"** by John Boyd (Briefing Slides):  Boyd's original briefing slides, available online, offer a direct look into his strategic concepts and the foundations of the OODA Loop. (Search online for "John Boyd Patterns of Conflict briefing")
 *   **"The Art of Action: How Leaders Close the Gaps Between Plans, Actions and Results"** by Stephen Bungay:  While not solely focused on the OODA Loop, this book explores related concepts of decision-making, adaptation, and strategic execution in dynamic environments.
 *   **Various articles and blog posts online:** A quick web search for "OODA Loop" will reveal numerous articles and blog posts that further explain and apply the model in different contexts. Look for reputable sources and diverse perspectives.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

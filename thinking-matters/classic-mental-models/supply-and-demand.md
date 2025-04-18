@@ -275,3 +275,7 @@ Mastering Supply and Demand is not just about understanding economics; it's abou
 *   **"Freakonomics" by Steven Levitt and Stephen Dubner:** A popular economics book that applies economic principles, including Supply and Demand, to analyze everyday phenomena in engaging and often surprising ways.
 *   **Investopedia (www.investopedia.com):** An online resource providing definitions, explanations, and articles on various economic and financial concepts, including Supply and Demand.
 *   **Khan Academy (www.khanacademy.org):** Offers free online courses and videos on economics, including comprehensive modules on Supply and Demand, suitable for learners of all levels.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -204,3 +204,7 @@ Practice is key! Start by consciously applying the step-by-step guide in everyda
     * LessWrong Wiki - Online community discussing rationality and cognitive biases, with discussions relevant to filtering information and improving reasoning.
 
 By continually learning and practicing, you can master Relevance Logic and unlock its transformative potential for clearer, more focused, and more effective thinking in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

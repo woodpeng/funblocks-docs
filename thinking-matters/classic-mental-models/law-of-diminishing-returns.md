@@ -236,3 +236,7 @@ No, while it originated in economics, it's a much broader concept. It applies to
 * **"Microeconomics" textbooks by authors like Gregory Mankiw, Paul Samuelson, or Hal Varian:**  Modern microeconomics textbooks provide comprehensive explanations of production theory, cost curves, and the Law of Diminishing Returns within a contemporary economic framework.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** While not directly about diminishing returns, this book explores cognitive biases and decision-making, providing context for understanding why we might sometimes fall prey to suboptimal decisions related to resource allocation and efficiency.
 * **Articles and research papers on "Productivity" and "Efficiency" in various fields:**  Searching for these terms in academic databases related to your specific area of interest (e.g., "productivity in software development," "efficiency in marketing") can provide deeper insights into how diminishing returns manifest and are addressed in those domains.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

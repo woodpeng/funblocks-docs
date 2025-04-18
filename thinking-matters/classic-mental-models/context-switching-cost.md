@@ -250,3 +250,7 @@ Embrace this mental model, experiment with its practical applications, and integ
     * Cal Newport's Blog (calnewport.com) - Focuses on deep work and productivity.
     * Farnam Street (fs.blog) - Features articles on mental models and decision-making.
     * Psychology Today (psychologytoday.com) - Offers articles on cognitive psychology and attention.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

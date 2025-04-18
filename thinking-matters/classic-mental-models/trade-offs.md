@@ -240,3 +240,7 @@ Mastering the art of trade-offs is not about accepting limitations passively, bu
     * Farnam Street (fs.blog) - Articles and resources on mental models and decision-making.
     * LessWrong (lesswrong.com) - Community and articles on rationality and cognitive biases.
     * Psychology Today (psychologytoday.com) - Articles on decision-making and cognitive psychology.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -373,3 +373,7 @@ No, PESTLE analysis is not a predictive tool.  It's a framework for understandin
 *   **Porter, M. E. (1980).** *Competitive Strategy: Techniques for Analyzing Industries and Competitors*. Free Press. (Classic text on competitive analysis, relevant to understanding industry context).
 *   **Mintzberg, H., Ahlstrand, B., & Lampel, J. (2009).** *Strategy Safari: A Guided Tour Through the Wilds of Strategic Management*. Simon and Schuster. (Comprehensive overview of strategic management schools of thought).
 *   **Harvard Business Review.** (Search for articles on "strategic planning," "environmental analysis," "PESTLE analysis"). (Provides practical insights and case studies on strategic management topics).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

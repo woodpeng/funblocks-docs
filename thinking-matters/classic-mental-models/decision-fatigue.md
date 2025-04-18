@@ -261,3 +261,7 @@ Common signs of decision fatigue include: increased impulsivity, poor judgment (
 **5. How quickly does decision fatigue set in? Is it after just a few decisions, or does it take many hours?**
 
 The onset of decision fatigue is not fixed and depends on various factors, including the complexity of the decisions, the individual's cognitive capacity, stress levels, and overall mental state.  For simple, low-stakes decisions, it might take many hours and numerous choices to experience significant fatigue. However, for complex, high-stakes, or emotionally charged decisions, fatigue can set in much faster, even after just a few demanding choices.  The key is to be mindful of your own cognitive limits and take proactive breaks and implement simplifying strategies before fatigue becomes overwhelming.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

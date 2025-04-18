@@ -259,3 +259,7 @@ Actively seek out data on "non-survivors."  Question readily available success n
     * LessWrong Wiki articles on cognitive biases ([https://www.lesswrong.com/](https://www.lesswrong.com/))
     * Wikipedia page on Survivorship Bias ([https://en.wikipedia.org/wiki/Survivorship_bias](https://en.wikipedia.org/wiki/Survivorship_bias))
 * **Academic Papers:**
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

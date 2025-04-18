@@ -272,3 +272,7 @@ Initially, learning and applying Visual Thinking might feel slightly slower as y
     *   **Diagramming Software:** Lucidchart, Miro, Draw.io
     *   **Sketching & Drawing Apps:** Procreate (iPad), Adobe Fresco, Autodesk Sketchbook
     *   **Data Visualization Tools:** Tableau, Power BI, Google Data Studio
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

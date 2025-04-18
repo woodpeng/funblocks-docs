@@ -282,3 +282,7 @@ While some instrumental values are character traits (e.g., honesty, courage), th
 * **"Man's Search for Meaning" by Viktor Frankl:** While not directly about terminal values, Frankl's work on logotherapy emphasizes the importance of meaning and purpose in life, resonating with the concept of terminal values.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:**  Provides insights into cognitive biases and decision-making processes, which can be helpful in applying the Terminal vs. Instrumental Values model more effectively.
 * **Research articles on the Rokeach Value Survey (RVS):**  Search academic databases for contemporary research utilizing and building upon Rokeach's framework to deepen your understanding of current applications and advancements in value studies.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

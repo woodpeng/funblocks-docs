@@ -303,3 +303,7 @@ Yes, like any tool, meta-cognition can be misused or overused. Excessive meta-co
 
 *   **Academic Journals:**
     *   Journals like "Educational Psychology Review," "Cognition and Instruction," and "Metacognition and Learning" publish cutting-edge research on meta-cognition. (For more advanced and research-oriented readers).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

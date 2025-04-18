@@ -310,3 +310,7 @@ Yes, strong correlations can be useful for prediction, *but with caution*.  If a
 *   **Websites and Articles:**
     *   "Spurious Correlations" website (entertaining examples of spurious correlations)
     *   Blogs and articles on statistical thinking, critical thinking, and cognitive biases from reputable sources like Psychology Today, Scientific American, and academic institutions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

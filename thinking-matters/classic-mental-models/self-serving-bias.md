@@ -232,3 +232,7 @@ For those seeking a deeper dive into the self-serving bias and related concepts,
 *   **Online Resource:** The Cognitive Bias Codex (available online) provides a visual map and descriptions of various cognitive biases, including self-serving bias, contextualizing it within the broader landscape of cognitive psychology.
 
 These resources offer a starting point for further exploration and a more nuanced understanding of the self-serving bias and its place in the fascinating world of human cognition.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

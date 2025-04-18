@@ -213,3 +213,8 @@ Integrating heuristics into your thinking process is not about abandoning ration
 **Thinking Exercise: Restaurant Choice Worksheet**
 
 Let's apply heuristics to a common scenario: choosing a restaurant for dinner.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

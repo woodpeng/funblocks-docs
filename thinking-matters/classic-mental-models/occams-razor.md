@@ -288,3 +288,7 @@ No, Occam's Razor is not about laziness. It's about efficiency and effectiveness
 * **"Farnam Street Blog" (fs.blog):**  Offers numerous articles and resources on mental models, including Occam's Razor, and their practical applications.
 * **"Poor Charlie's Almanack" edited by Peter Kaufman:**  A compilation of wisdom from Charlie Munger, emphasizing the importance of mental models and multidisciplinary thinking.
 * **Stanford Encyclopedia of Philosophy entry on William of Ockham:** For a deeper dive into the historical and philosophical context of Occam's Razor.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

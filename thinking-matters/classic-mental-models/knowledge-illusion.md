@@ -213,3 +213,7 @@ A:  The best way is to regularly practice the "explanation task."  When you feel
 * **Book:** "The Knowledge Illusion: Why We Never Think Alone" by Steven Sloman and Philip Fernbach
 * **Articles and Interviews:** Search for articles and interviews with Steven Sloman and Philip Fernbach online to find accessible summaries and further insights into their research.
 * **Cognitive Science Journals:** Explore academic journals in cognitive science and psychology for more in-depth research articles on the Knowledge Illusion and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

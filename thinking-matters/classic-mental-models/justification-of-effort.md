@@ -286,3 +286,7 @@ While the underlying psychological mechanism is likely universal, cultural norms
 *   **"Influence: The Psychology of Persuasion" by Robert Cialdini:**  While not solely focused on Justification of Effort, this book extensively covers related principles of persuasion and cognitive biases, including commitment and consistency.
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:**  A broader exploration of cognitive biases and heuristics, providing context for understanding Justification of Effort within the larger framework of human decision-making.
 *   **Academic Journals:** Search for articles on "effort justification," "cognitive dissonance," and "the IKEA effect" in journals like the *Journal of Personality and Social Psychology*, *Journal of Experimental Social Psychology*, and *Organizational Behavior and Human Decision Processes* for the latest research and deeper insights.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

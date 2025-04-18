@@ -188,3 +188,7 @@ The first step is simply acknowledging and accepting that you are susceptible to
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** A foundational book on cognitive biases and heuristics.
 * **"Mistakes Were Made (but not by me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts" by Carol Tavris and Elliot Aronson:** Explores the psychology of self-justification and cognitive dissonance, related to the Blind Spot Bias.
 * **Emily Pronin's Research Papers:** Search for publications by Emily Pronin on "bias blind spot" on academic databases like Google Scholar to delve deeper into the empirical research.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

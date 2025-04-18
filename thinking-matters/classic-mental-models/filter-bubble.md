@@ -228,3 +228,7 @@ Integrating the Filter Bubble mental model into your thinking process is an ongo
 * **Article:** "Filter Bubble" Wikipedia page for a comprehensive overview and further resources.
 * **Website:** AllSides (AllSides.com) - Presents news stories from the left, center, and right, aiming to expose readers to diverse perspectives.
 * **Browser Extension:** Consider researching and trying browser extensions designed to reduce personalization or promote diverse information consumption. (Search for "anti-filter bubble browser extensions").
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

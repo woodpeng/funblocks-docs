@@ -445,3 +445,7 @@ For readers seeking a deeper understanding of Simpson's Paradox and related topi
     * **Yule, G. U. (1903). *Notes on the Theory of Association of Attributes in Statistics*. London: Royal Statistical Society.** Yule's earlier work that foreshadowed Simpson's Paradox and highlighted the phenomenon of association reversals.
 
 By exploring these resources, you can deepen your understanding of Simpson's Paradox and its broader implications for statistical thinking, causal reasoning, and data-driven decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -330,3 +330,7 @@ Definitely! By consciously applying base rate thinking, you can significantly im
 *   **Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard H. Thaler and Cass R. Sunstein:** Explores how understanding cognitive biases, including base rate neglect, can be used to "nudge" people towards better decisions.
 *   **The Art of Thinking Clearly by Rolf Dobelli:** A concise and accessible guide to various cognitive biases, including the Base Rate Fallacy, with practical advice for overcoming them.
 *   **Websites and Online Courses:** Search for online resources on "cognitive biases," "behavioral economics," and "critical thinking" on platforms like Coursera, edX, and websites like Farnam Street Blog and LessWrong. These often contain articles, videos, and courses that delve deeper into the Base Rate Fallacy and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

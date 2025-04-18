@@ -277,3 +277,7 @@ A: To avoid reciprocity burnout:
     * *The Gift* by Marcel Mauss
     * *Give and Take: Why Helping Others Drives Our Success* by Adam Grant
 * **Articles and Academic Papers:** Search for "Reciprocity Psychology," "Social Norms of Reciprocity," "Anthropology of Gift Exchange" on academic databases like JSTOR, Google Scholar, and PubMed.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

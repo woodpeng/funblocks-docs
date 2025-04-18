@@ -216,3 +216,7 @@ You can improve your Win-Win Thinking skills through consistent practice and sel
 * **"Getting to Yes: Negotiating Agreement Without Giving In" by Roger Fisher and William Ury:** A classic guide to Principled Negotiation, a practical approach to achieving win-win outcomes in negotiations.
 * **"Influence: The Psychology of Persuasion" by Robert Cialdini:** Understanding the principles of influence can help you communicate your Win-Win proposals more effectively.
 * **"Difficult Conversations: How to Discuss What Matters Most" by Douglas Stone, Bruce Patton, and Sheila Heen:**  Provides tools for navigating challenging conversations and applying Win-Win Thinking in conflict resolution.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

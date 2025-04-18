@@ -214,3 +214,7 @@ Start small!  Think about a recent decision you made or an event that happened. 
     * Wikipedia: Search for "Domino Effect," "Domino Theory," "Butterfly Effect," "Systems Thinking" for detailed background information and further reading.
 
 By exploring these resources and continuing to practice applying the Domino Effect, you can deepen your understanding and master this valuable mental model for navigating the complexities of our interconnected world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

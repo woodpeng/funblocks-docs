@@ -201,3 +201,7 @@ No, awareness is not immunity.  The Scarcity Principle taps into deep-seated psy
 * **"Predictably Irrational" by Dan Ariely:**  Examines various aspects of irrational decision-making, providing further context for understanding the Scarcity Principle.
 * **Articles and research papers on behavioral economics and consumer psychology:** Search academic databases (like JSTOR, Google Scholar) for in-depth studies on scarcity and related concepts.
 * **Websites and blogs on mental models and cognitive biases:** Explore resources like Farnam Street (fs.blog) and others that delve into various mental models and their applications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

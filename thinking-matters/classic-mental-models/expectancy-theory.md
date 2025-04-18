@@ -356,3 +356,7 @@ While the core principles of Expectancy Theory are likely to be relevant across 
 *   **"Motivation and Personality" by Abraham Maslow:** For understanding needs-based motivation, providing context to Expectancy Theory.
 *   **"Drive: The Surprising Truth About What Motivates Us" by Daniel H. Pink:** A more contemporary and accessible book discussing motivation, including intrinsic motivation and its importance.
 *   **"Principles of Psychology" by B.F. Skinner:** To delve deeper into Reinforcement Theory and understand its behavioral perspective on motivation.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

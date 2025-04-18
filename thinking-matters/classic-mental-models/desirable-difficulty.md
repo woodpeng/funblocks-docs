@@ -283,3 +283,8 @@ For deeper reading, you can explore the research of Robert and Elizabeth Bjork, 
 *   **Book:** Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). *Make it stick: The science of successful learning*. Belknap Press of Harvard University Press.
 *   **Website/Blog:** Learning Scientists ([www.learningscientists.org](https://www.learningscientists.org)) - Offers evidence-based learning strategies, including those related to Desirable Difficulty.
 *   **Podcast Episode:** "The Bjork Learning and Forgetting Lab" - Look for interviews with Robert or Elizabeth Bjork on podcasts related to cognitive psychology or education.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

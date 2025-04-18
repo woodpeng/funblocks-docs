@@ -306,3 +306,7 @@ Practice is key! Start by applying the step-by-step guide and worksheet provided
     * "Antifragile: Things That Gain from Disorder" by Nassim Nicholas Taleb (touches upon related concepts)
 * **Academic Papers:** Search for articles on "Real Options Theory," "Option Pricing Models," and "Strategic Flexibility" in academic databases like JSTOR, Google Scholar, or SSRN.
 * **Online Courses:** Platforms like Coursera, edX, and Udemy may offer courses on decision-making under uncertainty, strategic management, or financial options that touch upon Option Value Thinking principles.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

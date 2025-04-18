@@ -207,3 +207,7 @@ By integrating the principles and practices outlined in this article into your d
     *   Coursera, edX, and other online learning platforms often offer courses related to cognitive psychology, decision-making, and systems thinking, which can enhance your understanding of mental models.
 
 By continuously learning and practicing, you can deepen your understanding of mental models and harness their power to become a more effective thinker and decision-maker.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -241,3 +241,7 @@ Research suggests there might be some cultural variations in susceptibility to t
     *   Academic journals in behavioral economics and psychology (accessible through university libraries or online databases) provide more in-depth research on the sunk cost fallacy.
 
 By exploring these resources, you can deepen your understanding of the sunk cost fallacy and related cognitive biases, further enhancing your decision-making skills and critical thinking abilities.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

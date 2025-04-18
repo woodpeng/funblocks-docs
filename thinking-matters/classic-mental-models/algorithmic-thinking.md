@@ -349,3 +349,7 @@ Practice is key! Start by applying algorithmic thinking to simple, everyday task
 
 *   **Articles & Websites:**
     *   Articles on "Computational Thinking" from educational and technology websites.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

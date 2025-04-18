@@ -213,3 +213,7 @@ To mitigate the negative effects of scarcity, focus on building slack in your li
 * **Academic Research:** Explore academic journals in behavioral economics, psychology, and decision science for in-depth research on scarcity and its effects.
 
 This article provides a comprehensive overview of the scarcity mental model, equipping you with the knowledge and tools to understand and apply it in your life and work. By mastering this mental model, you can gain a significant advantage in navigating the complexities of a world shaped by limitations and choices.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -277,3 +277,7 @@ No, Idea Farming is applicable to anyone in any field. It's a mental model for e
 *   **Books:** "A Whack on the Side of the Head" by Roger von Oech, "Creative Confidence" by Tom Kelley and David Kelley, "Thinking in Systems" by Donella H. Meadows, "The Design of Everyday Things" by Don Norman.
 *   **Articles & Websites:** Resources on Design Thinking from the Stanford d.school, articles on Systems Thinking from the Waters Foundation, websites and blogs dedicated to creativity and innovation.
 *   **Courses & Workshops:** Look for workshops or online courses on creativity, innovation, design thinking, and problem-solving. Many universities and online learning platforms offer relevant programs.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

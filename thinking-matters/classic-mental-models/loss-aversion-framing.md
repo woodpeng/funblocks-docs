@@ -297,3 +297,7 @@ While Loss Aversion is a widespread human tendency, its strength can vary betwee
 * **"Nudge" by Richard Thaler and Cass Sunstein:**  Explores how behavioral economics, including understanding Loss Aversion, can be used to "nudge" people towards better decisions in various domains.
 * **Research papers by Daniel Kahneman and Amos Tversky on Prospect Theory:** For a deeper dive into the original research and theoretical foundations of Loss Aversion Framing. (Search academic databases like JSTOR or Google Scholar).
 * **Behavioral Economics websites and blogs:** Websites like "BehavioralEconomics.com" and blogs by behavioral economists offer ongoing insights and applications of Loss Aversion and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

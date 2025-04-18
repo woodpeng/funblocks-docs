@@ -298,3 +298,7 @@ No, memorization is not the goal. The real value lies in *understanding* the und
 *   **Online Courses:** Platforms like Coursera, edX, and Khan Academy offer introductory courses in various disciplines like psychology, economics, physics, etc.
 
 By continuously exploring these resources and actively applying the principles of the Mental Latticework, you can embark on a journey of intellectual growth and enhanced understanding that will benefit you in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

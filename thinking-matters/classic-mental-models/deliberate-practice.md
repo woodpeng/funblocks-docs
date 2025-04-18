@@ -262,3 +262,7 @@ No, Deliberate Practice is beneficial for learners at all levels, from beginners
 * **Book:** *Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else* by Geoff Colvin
 * **Article:** "The Making of an Expert" by K. Anders Ericsson, Michael J. Prietula, and Edward T. Cokely (Harvard Business Review)
 * **Website:**  Search for interviews and lectures by Anders Ericsson online for direct insights from the originator of the concept.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

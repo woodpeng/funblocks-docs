@@ -183,3 +183,7 @@ Ready to start applying second-order thinking in your daily life? Here's a step-
 Let's say you're considering opening a new coffee shop in your neighborhood.  Use the following worksheet to practice second-order thinking:
 
 | Order of Thinking | Question                                       | Potential Consequences (List)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

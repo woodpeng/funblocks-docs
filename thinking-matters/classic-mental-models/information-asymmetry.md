@@ -212,3 +212,7 @@ Focus on screening and signaling. Ask questions, do your research, get expert op
 *   **"Signaling Job Markets" by A. Michael Spence (1973):**  Spence's groundbreaking work on signaling in labor markets. (Academic, but insightful)
 *   **"Information and Competitive Analysis" by Michael Porter (1998):**  While broader, this book touches upon information advantages in competitive strategy. (Business-focused)
 *   **"Thinking, Fast and Slow" by Daniel Kahneman (2011):** Explores cognitive biases, including how we process information (relevant to understanding limitations of rational models of Information Asymmetry). (Behavioral Economics)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

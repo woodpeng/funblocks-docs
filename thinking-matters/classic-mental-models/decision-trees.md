@@ -344,3 +344,7 @@ Practice is key! Start with simple, everyday decisions and gradually work your w
 *   **Websites and Articles:**
     *   Investopedia and other financial websites often use Decision Trees to explain investment decisions.
     *   Machine learning and data science websites and tutorials offer resources on Decision Tree algorithms and applications (for more advanced readers).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

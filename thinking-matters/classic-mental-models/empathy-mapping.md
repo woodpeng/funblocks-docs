@@ -411,3 +411,7 @@ While it's important to be mindful of its limitations and potential for misuse, 
     * Look for workshops and training programs offered by design consultancies and UX/UI design agencies.
 
 By exploring these resources and continuing to practice, you can deepen your understanding of Empathy Mapping and master its application for more effective and empathetic thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

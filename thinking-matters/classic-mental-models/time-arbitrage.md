@@ -243,3 +243,7 @@ Embrace Time Arbitrage not as a rigid formula, but as a flexible framework for t
     * Wait But Why (waitbutwhy.com) - for engaging and insightful articles on various topics, including time and productivity.
 * **Podcasts:**
     * The Knowledge Project by Shane Parrish (Farnam Street) - for interviews and discussions on mental models and strategic thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

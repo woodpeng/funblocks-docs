@@ -340,3 +340,7 @@ In a world that constantly demands innovation and effective problem-solving, Rev
     * MindTools: [https://www.mindtools.com/ab00r40/reverse-brainstorming](https://www.mindtools.com/ab00r40/reverse-brainstorming)
     * SessionLab: [https://www.sessionlab.com/methods/reverse-brainstorming](https://www.sessionlab.com/methods/reverse-brainstorming)
     * Innovation Management: [https://innovationmanagement.se/2015/07/23/reverse-brainstorming-a-powerful-technique-for-creative-problem-solving/](https://innovationmanagement.se/2015/07/23/reverse-brainstorming-a-powerful-technique-for-creative-problem-solving/)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

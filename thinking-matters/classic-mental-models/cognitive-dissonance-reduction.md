@@ -169,3 +169,7 @@ Understanding cognitive dissonance is valuable, but the real power lies in apply
 **Cognitive Dissonance Self-Reflection Worksheet**
 
 1.  **Describe a recent situation where you felt mentally uncomfortable or conflicted.** (What happened? What were you thinking and feeling?)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

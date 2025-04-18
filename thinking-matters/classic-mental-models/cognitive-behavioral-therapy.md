@@ -414,3 +414,7 @@ For those who want to delve deeper into Cognitive Behavioral Therapy, here are s
 * **Woebot:** An AI-powered chatbot that provides CBT-based support and guidance for managing mental health.
 
 These resources can provide further learning and support as you continue to explore and integrate Cognitive Behavioral Therapy into your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -256,3 +256,7 @@ Yes, for deeper understanding, you can explore:
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** Explores cognitive biases and heuristics, including related concepts like Present Bias and Availability Heuristic.
 * **"Predictably Irrational" by Dan Ariely:** Discusses irrational decision-making, including the influence of time perception on financial and other choices.
 * **"Flow: The Psychology of Optimal Experience" by Mihaly Csikszentmihalyi:** Explores the concept of "flow states" and how engaging activities can alter time perception.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -280,3 +280,7 @@ Absolutely. In fact, Alfred Kahn's original concept arose in the context of regu
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** (Broader context of decision-making biases, relevant to understanding why we often fall prey to the Tyranny of Small Decisions)
 * **"Atomic Habits" by James Clear:** (Practical strategies for building positive habits and breaking negative ones, relevant to counteracting negative small decision patterns)
 * **Articles and blogs on "Systems Thinking" and "Mental Models":** (Explore broader frameworks for understanding complex systems and improving decision-making)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

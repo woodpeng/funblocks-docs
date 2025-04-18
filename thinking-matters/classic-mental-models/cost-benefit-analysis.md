@@ -363,3 +363,7 @@ CBA can provide insights into the potential consequences of different ethical ch
     *   *Policy Analysis and Management*
 
 By continuously learning and practicing, you can deepen your understanding and mastery of Cost Benefit Analysis and its powerful applications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

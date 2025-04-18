@@ -192,3 +192,7 @@ While the Latency Principle is broadly applicable, there might be situations whe
     * "Complexity Explorer" (complexityexplorer.org): Provides online courses and resources on complex systems, offering deeper insights into system dynamics and emergent behavior, where latency often plays a significant role.
 
 By exploring these resources and continuing to practice applying the Latency Principle in your daily life, you can deepen your understanding and enhance your ability to navigate the complexities of a world where effects are often delayed, but ultimately powerful.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

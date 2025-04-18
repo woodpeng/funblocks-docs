@@ -294,3 +294,7 @@ A5: To benefit from positive Black Swans, create optionality – give yourself m
 *   **Articles and Essays:** Search for articles and essays by Nassim Nicholas Taleb on topics related to uncertainty, randomness, and risk management.
 *   **Websites and Blogs:** Explore websites and blogs focused on mental models, decision-making, and risk management, many of which discuss the Black Swan theory in detail.
 *   **Academic Papers:** Search for academic research papers that build upon or critique the Black Swan theory in fields like finance, economics, and sociology.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

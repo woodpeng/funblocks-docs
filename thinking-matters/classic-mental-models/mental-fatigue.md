@@ -247,3 +247,7 @@ Short-term recovery strategies include taking brief breaks to step away from the
     * Research papers on mental fatigue and cognitive load available through databases like PubMed and Google Scholar (for more in-depth academic study).
 
 By continuing to learn and explore resources related to mental fatigue, you can deepen your understanding and refine your strategies for effectively managing this crucial aspect of cognitive well-being.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

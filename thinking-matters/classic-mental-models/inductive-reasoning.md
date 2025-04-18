@@ -316,3 +316,7 @@ Inductive reasoning is incredibly useful in:
     * Internet Encyclopedia of Philosophy (entries on Inductive Reasoning)
     * Coursera and edX courses on Logic, Critical Thinking, and Cognitive Biases
     * Websites and articles on mental models and thinking frameworks.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

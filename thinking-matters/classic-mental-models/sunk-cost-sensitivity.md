@@ -256,3 +256,7 @@ Cultural factors can influence the *expression* of sunk cost sensitivity, but th
     * Farnam Street (fs.blog) - Articles on mental models and cognitive biases
     * LessWrong (lesswrong.com) - Community and resources on rationality and cognitive biases
     * Behavioral Economics websites and blogs
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -288,3 +288,7 @@ For deeper learning, explore resources like:
     *   Nielsen Norman Group (NN/g): Offers articles, reports, and training on UX research and usability.
     *   UXPA (User Experience Professionals Association): A global community for UX professionals, with resources and events.
     *   Interaction Design Foundation (IDF): Provides online courses and resources on UX design and research methodologies.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

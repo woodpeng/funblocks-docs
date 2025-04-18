@@ -286,3 +286,7 @@ Not necessarily. While it highlights the potential for negative Black Swans, it 
 *   **Articles and Essays by Nassim Nicholas Taleb:** Available on his website and various online platforms.
 *   **Academic Research on Black Swan Events:** Search databases like JSTOR, Google Scholar for articles related to "Black Swan events," "tail events," "extreme events," and "fat tails."
 *   **Thinking, Fast and Slow by Daniel Kahneman:** Provides deeper insights into cognitive biases, which are relevant to understanding why Black Swans are often missed and retrospectively rationalized.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

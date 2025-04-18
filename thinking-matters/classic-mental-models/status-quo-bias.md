@@ -254,3 +254,7 @@ Ethical use of Status Quo Bias in marketing involves leveraging it to benefit cu
 * **Academic Papers:** Search for research papers on "Status Quo Bias," "Loss Aversion," and "Prospect Theory" in academic databases like Google Scholar or JSTOR.  The original paper by Samuelson and Zeckhauser "Status Quo Bias in Decision Making" is a seminal work.
 
 By continuing to learn and explore, you can deepen your understanding of the Status Quo Bias and other cognitive biases, further enhancing your ability to make more informed and rational decisions in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

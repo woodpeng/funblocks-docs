@@ -268,3 +268,7 @@ For deeper reading, you can explore books and articles on the psychology of time
     *   Websites like "Psychology Today" and "Scientific American" often feature articles on time perception and related topics in accessible language.
 
 This comprehensive article provides a solid foundation in Time Dilation Perception. By understanding and applying this mental model, you can gain a valuable edge in navigating the temporal dimensions of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -245,3 +245,7 @@ The most effective approach is to actively challenge and reframe low expectation
 * **Eden, D. (1990). Pygmalion in Management.** Lexington Books/D.C. Heath and Com. - *A seminal work by Dov Eden exploring both the Pygmalion and Golem Effects in organizational settings.*
 * **Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom.** *Classic study on the Pygmalion Effect in education, providing foundational context for expectation effects.*
 * **Livingston, J. Sterling. (1969). Pygmalion in Management.** *Harvard Business Review article that popularized the Pygmalion Effect and its implications for management.*
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

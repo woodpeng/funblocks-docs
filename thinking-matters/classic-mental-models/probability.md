@@ -363,3 +363,7 @@ Probability is used everywhere! Weather forecasts are probabilistic. Medical dia
     *   FiveThirtyEight (Website focused on data journalism and probabilistic forecasting)
     *   LessWrong (Online community discussing rationality, cognitive biases, and probabilistic thinking)
     *   Statistical blogs and journals (For more in-depth explorations of specific probability topics and applications)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

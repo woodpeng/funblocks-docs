@@ -221,3 +221,7 @@ Start by exploring introductory books and articles on complexity science and sys
 * **Online Courses:**
     * Complexity Explorer (Santa Fe Institute's online learning platform: [www.complexityexplorer.org](https://www.complexityexplorer.org))
     * Coursera and edX offer courses on systems thinking, complexity science, and agent-based modeling.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -242,3 +242,7 @@ There's no set timeline, as it varies from person to person. However, with consi
 *   **Book:** "The Optimistic Child: A Proven Program to Safeguard Children Against Depression and Build Lifelong Resilience" by Martin Seligman
 *   **Book:** "Flourish: A Visionary New Understanding of Happiness and Well-being" by Martin Seligman
 *   **Website:** The University of Pennsylvania's Positive Psychology Center ([https://ppc.sas.upenn.edu/](https://ppc.sas.upenn.edu/)) - Offers resources and information on positive psychology, including learned optimism.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

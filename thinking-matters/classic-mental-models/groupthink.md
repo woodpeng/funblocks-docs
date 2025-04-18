@@ -257,3 +257,7 @@ Groups that are highly cohesive, isolated from outside perspectives, led by dire
 *   **Book:** *Victims of Groupthink* by Irving Janis
 *   **Article:** *Groupthink* by Irving Janis (Psychology Today, 1971)
 *   **Article:** *The Abilene Paradox: The Management of Agreement* by Jerry B. Harvey (Organizational Dynamics, 1974) - While not directly about Groupthink, it explores a related phenomenon of "false agreement" in groups.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

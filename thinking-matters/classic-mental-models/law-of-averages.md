@@ -308,3 +308,7 @@ There's no single answer. "Large enough" depends on the specific context, the va
     * Investopedia (for financial applications of statistical concepts)
     * Towards Data Science (articles on data science and statistical thinking)
     * Statistics How To (explanations of statistical terms and concepts)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

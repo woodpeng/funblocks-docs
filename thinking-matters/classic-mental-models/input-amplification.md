@@ -274,3 +274,7 @@ For those seeking a deeper understanding of Input Amplification and related conc
     * Study examples of effective social movements and marketing campaigns that have utilized viral spread and positive feedback loops to amplify their message and impact.
 
 By exploring these resources, you can deepen your understanding of Input Amplification and its related concepts, and further develop your ability to apply this powerful mental model in your own thinking and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

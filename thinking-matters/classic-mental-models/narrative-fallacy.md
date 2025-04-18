@@ -183,3 +183,7 @@ Integrating the Narrative Fallacy into our thinking processes is not about aband
 * **Article/Essay:** "The Narrative Fallacy" by Nassim Nicholas Taleb (Often available online in various forms and excerpts from *The Black Swan*).
 * **Online Courses/Lectures:** Search for online lectures or courses on "Cognitive Biases," "Critical Thinking," or "Nassim Nicholas Taleb" on platforms like Coursera, edX, or YouTube.
 * **Blogs and Websites:** Explore blogs and websites dedicated to mental models, critical thinking, and behavioral economics, many of which discuss the Narrative Fallacy in accessible terms.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

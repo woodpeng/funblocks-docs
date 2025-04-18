@@ -229,3 +229,7 @@ While "Form Follows Function" is generally a robust principle, there might be sp
 *   **"Dieter Rams: Ten Principles of Good Design":**  While not explicitly "Form Follows Function," Rams' principles embody a similar philosophy of functional and minimalist design.
 *   **Articles and essays on Functionalism and Bauhaus design:** Explore the design movement that heavily embraced "Form Follows Function" in the 20th century.
 *   **Books and articles on User-Centered Design and Design Thinking:** These modern approaches build upon the principles of "Form Follows Function" by emphasizing user needs and functionality in the design process.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

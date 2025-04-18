@@ -253,3 +253,7 @@ By understanding and consciously applying Moral Intuitionism, you can enhance yo
     * Research papers on moral psychology and neuroscience exploring the neural basis of moral intuitions.
 
 These resources offer deeper dives into the philosophical and psychological underpinnings of Moral Intuitionism and related concepts, for those seeking a more advanced understanding.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

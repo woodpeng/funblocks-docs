@@ -211,3 +211,7 @@ Be prepared for some misunderstandings.  Explain your choices calmly and clearly
     * *Minimalism: A Documentary About the Important Things* (Netflix)
 
 These resources offer deeper insights and practical guidance for further exploration of minimalism as a mental model and lifestyle.  Embark on your journey with curiosity and an open mind, and discover the transformative potential of living with less, but with more intention.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

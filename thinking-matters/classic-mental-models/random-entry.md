@@ -349,3 +349,7 @@ Random Entry is more of a practical, heuristic approach inspired by these broade
     * Courses on creative problem-solving, design thinking, and innovation methodologies often incorporate elements of randomness and unexpected input.
 
 By exploring these resources and continuing to practice and experiment with the Random Entry mental model, you can deepen your understanding and further refine your ability to harness the power of the unexpected in your thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

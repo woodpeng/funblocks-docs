@@ -272,3 +272,7 @@ Learning from experience is often passive and can be biased by our interpretatio
     * Ethics & Society journals and publications (for academic perspectives on applied ethics)
 
 By exploring these resources and continuing to practice Counterfactual Ethics, you can deepen your understanding and master this powerful mental model for ethical thinking and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

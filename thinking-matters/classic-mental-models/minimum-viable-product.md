@@ -224,3 +224,7 @@ No, while MVP is often associated with startups, it's applicable to businesses o
 * **Online Courses & Communities:**
     * Lean Startup Co.: [leanstartup.co](https://leanstartup.co/)
     * Udemy and Coursera offer courses on Lean Startup and MVP methodologies.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

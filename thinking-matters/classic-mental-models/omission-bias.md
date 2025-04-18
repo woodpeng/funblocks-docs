@@ -226,3 +226,7 @@ For those interested in delving deeper into the topic of omission bias and relat
     * **Wikipedia and Stanford Encyclopedia of Philosophy:** Provide good overviews of omission bias and related philosophical and psychological concepts.
 
 Exploring these resources will provide a more comprehensive and nuanced understanding of omission bias and its place within the broader field of cognitive psychology and behavioral economics, empowering you to further refine your decision-making skills and navigate the complexities of human judgment.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

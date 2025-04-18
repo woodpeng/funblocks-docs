@@ -275,3 +275,7 @@ The key is to balance planning and action. Start with small, incremental changes
 *   **Articles and Websites:**
     *   Search for "metacognition," "learning strategies," and "self-regulated learning" on academic databases like Google Scholar.
     *   Explore websites and blogs dedicated to learning, productivity, and personal development.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

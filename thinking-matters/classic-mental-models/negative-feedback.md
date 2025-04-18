@@ -298,3 +298,7 @@ For readers seeking a deeper dive into the concepts of negative feedback and rel
     *   MIT OpenCourseware - various courses on systems dynamics, control theory, and cybernetics offer in-depth learning materials.
 
 These resources provide a starting point for exploring negative feedback in more detail, whether you're interested in its theoretical foundations, practical applications, or technical aspects.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

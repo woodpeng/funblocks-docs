@@ -237,3 +237,7 @@ Focus on developing timeless skills like critical thinking, communication, and p
     *   Benoit Mandelbrot's original essay on the Lindy Effect in "Fractals and the Geometry of Nature."
     *   Articles and blog posts discussing mental models and the Lindy Effect on websites like Farnam Street (fs.blog) and LessWrong.
 *   **Academic Papers (Advanced):**
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

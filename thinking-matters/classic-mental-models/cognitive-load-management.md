@@ -292,3 +292,7 @@ Measuring cognitive load directly is challenging, but there are methods. Subject
     * Search for "Cognitive Load Theory" and "Cognitive Load Management" on academic databases like Google Scholar.
     * Explore resources on instructional design and user experience (UX) design that incorporate CLT principles.
     * Websites and blogs focused on learning science and cognitive psychology often discuss Cognitive Load Management.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

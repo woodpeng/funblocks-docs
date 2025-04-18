@@ -247,3 +247,7 @@ Measuring compounding in non-financial areas can be less precise than in finance
 * **"Atomic Habits" by James Clear:** Provides a practical framework for building good habits and breaking bad ones, directly applicable to leveraging compounding in personal development.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** Delves into the cognitive biases that can hinder effective decision-making, including long-term thinking and appreciating the power of compounding.
 * **Benjamin Graham's "The Intelligent Investor":** A classic text on value investing, emphasizing the importance of long-term investing and understanding compound interest.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

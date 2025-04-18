@@ -338,3 +338,7 @@ You can improve your Marginal Thinking skills by:
     *   **Economics Online (economicsonline.co.uk):** Offers resources and explanations of economic principles, including marginal analysis in various contexts.
 
 By exploring these resources and consistently applying Marginal Thinking in your own life, you can deepen your understanding and mastery of this powerful mental model, enhancing your decision-making skills and achieving more optimal outcomes in all your endeavors.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -265,3 +265,7 @@ The value of Integrative Thinking extends far beyond the realm of business strat
 *   **Harvard Business Review Articles by Roger Martin:** Search for articles on "Integrative Thinking" on hbr.org
 *   **Rotman School of Management - Integrative Thinking:** Explore resources and articles on the Rotman School website related to Integrative Thinking.
 *   **IDEO.org:** Explore resources on design thinking, which shares conceptual overlaps with Integrative Thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

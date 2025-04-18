@@ -255,3 +255,7 @@ No, Feature Creep can affect projects of all sizes, even small personal projects
     * Various articles and blog posts online by searching for "Scope Creep," "Feature Creep," and "Project Scope Management."
 * **Courses:**
     * Online courses on project management, product management, and Agile methodologies often cover scope management and Feature Creep prevention. Platforms like Coursera, Udemy, and edX offer relevant courses.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

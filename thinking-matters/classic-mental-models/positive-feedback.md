@@ -306,3 +306,7 @@ Understanding positive feedback helps you see patterns and predict outcomes. It 
     *   Coursera and edX offer courses on systems thinking, complexity science, and related topics. Search for keywords like "systems thinking," "cybernetics," or "complexity."
 
 By exploring these resources and continuing to practice applying the positive feedback mental model, you'll deepen your understanding and unlock its full potential in your thinking toolkit.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

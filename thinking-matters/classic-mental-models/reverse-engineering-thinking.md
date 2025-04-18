@@ -314,3 +314,8 @@ It's rare to have complete information, especially when analyzing complex system
     * Farnam Street (fs.blog): Offers numerous articles and resources on mental models, including related concepts like systems thinking and first principles thinking.
     * LessWrong (lesswrong.com): A community and website focused on rationality, cognitive biases, and effective thinking, with discussions relevant to reverse engineering and analytical thinking.
     * Academic papers on reverse engineering in specific fields like software engineering, competitive intelligence, and forensic science (search databases like Google Scholar or JSTOR).
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

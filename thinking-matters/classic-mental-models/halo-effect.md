@@ -217,3 +217,7 @@ Completely eliminating the Halo Effect is likely impossible, as it's a deeply in
 * **"Predictably Irrational" by Dan Ariely:**  Examines the hidden forces that shape our decisions, including cognitive biases and their impact on our choices.
 * **"Judgment in Managerial Decision Making" by Max Bazerman and Don Moore:**  A more academic text delving into decision-making biases in organizational contexts, including the Halo Effect's role in performance evaluations and hiring.
 * **Research papers by Edward Thorndike and subsequent researchers:**  For a deeper dive into the original research and ongoing studies on the Halo Effect, explore academic databases like Google Scholar using keywords like "Halo Effect," "cognitive bias," and "Edward Thorndike."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

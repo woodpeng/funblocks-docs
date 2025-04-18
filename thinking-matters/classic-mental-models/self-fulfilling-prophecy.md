@@ -214,3 +214,7 @@ Look for patterns where your initial expectations seem to be consistently confir
 * **Books:** "Social Theory and Social Structure" by Robert K. Merton (for the original sociological framework), "Pygmalion in the Classroom" by Robert Rosenthal and Lenore Jacobson (for the Pygmalion effect), books on cognitive biases and social psychology.
 * **Articles:**  Search for academic articles on "self-fulfilling prophecy," "expectancy effects," "behavioral confirmation" in psychology and sociology journals.
 * **Websites:**  Psychology Today, websites dedicated to mental models and cognitive biases often feature articles and explanations of the self-fulfilling prophecy. Look for resources on critical thinking and cognitive psychology.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

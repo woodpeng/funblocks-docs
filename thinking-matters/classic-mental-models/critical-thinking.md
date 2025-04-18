@@ -238,3 +238,7 @@ You can also find online Critical Thinking tests and assessments to track your p
     * YouTube channels like "Crash Course Philosophy" and "Wireless Philosophy" offer accessible explanations of philosophical concepts related to reasoning and logic.
 
 By continuously learning and practicing, you can deepen your understanding and mastery of Critical Thinking, unlocking its full potential to enhance your thinking and your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -316,3 +316,7 @@ We encourage you to integrate the mental model of selective attention into your 
     *   Websites of prominent cognitive psychologists and neuroscientists.
 
 By exploring these resources, you can delve deeper into the fascinating world of selective attention and continue to refine your understanding and application of this invaluable mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

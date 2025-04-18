@@ -287,3 +287,7 @@ Think of the Spacing Effect as the key to unlocking the full potential of your m
     * Anki: [https://apps.ankiweb.net/](https://apps.ankiweb.net/) (Free and highly customizable SRS)
     * Memrise: [https://www.memrise.com/](https://www.memrise.com/) (Gamified language learning SRS)
     * Quizlet: [https://quizlet.com/](https://quizlet.com/) (Flashcard platform with spaced repetition features)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

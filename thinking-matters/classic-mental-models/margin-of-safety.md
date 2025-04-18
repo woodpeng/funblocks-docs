@@ -282,3 +282,7 @@ Embracing the Margin of Safety is not about being pessimistic or fearful.  It's 
     * Investopedia (investopedia.com) - Offers comprehensive definitions and explanations of financial concepts, including Margin of Safety.
 
 By exploring these resources and continuing to practice applying the Margin of Safety, you can deepen your understanding and master this powerful mental model for better decision-making and a more resilient life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

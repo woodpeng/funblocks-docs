@@ -329,3 +329,8 @@ To learn more about Cognitive Psychology, here are some resource suggestions:
 *   **Online Courses:** Platforms like Coursera, edX, and Khan Academy offer introductory courses on Cognitive Psychology. Search for "Cognitive Psychology" on these platforms.
 *   **Websites and Blogs:** Websites like "Psychology Today" and blogs by cognitive psychologists often publish articles and insights on cognitive topics for a general audience.
 *   **Podcasts:** Psychology podcasts often feature episodes on cognitive topics. Search for "Cognitive Psychology podcast" in your podcast app.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

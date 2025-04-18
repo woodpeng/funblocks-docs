@@ -249,3 +249,7 @@ A sign of potential over-reliance is feeling completely lost or helpless without
 *   **Websites & Blogs:**
     *   Websites dedicated to mental models and thinking frameworks (like Farnam Street's blog) often feature articles related to cognitive offloading and distributed cognition.
     *   Blogs focused on productivity and technology often discuss tools and strategies for effective cognitive offloading.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -200,3 +200,7 @@ The Dunning-Kruger Effect is considered a universal cognitive bias, meaning it c
 * **Original Paper:** Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology, 77*(6), 1121–1134.
 * **Book Suggestion:** "Think Again: The Power of Knowing What You Don't Know" by Adam Grant (Explores related themes of intellectual humility and rethinking assumptions).
 * **Online Articles/Videos:** Search for "Dunning-Kruger Effect explained" on platforms like YouTube, TED Talks, and reputable psychology websites for accessible explanations and real-world examples.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

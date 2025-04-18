@@ -262,3 +262,7 @@ By integrating the Pre-Mortem into your thinking toolkit, you equip yourself wit
 * **Article:** "Performing a Project Premortem" by Gary Klein (Harvard Business Review, September 2007) - A classic article introducing the Pre-Mortem concept in a business context.
 * **Website:** Farnam Street Blog (fs.blog) - Search for "Pre-Mortem" on this website for insightful articles and explanations of the mental model.
 * **Online Course:** Platforms like Coursera or Udemy may offer courses on decision-making or risk management that include modules on Pre-Mortem techniques. Search for relevant keywords.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

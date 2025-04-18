@@ -243,3 +243,7 @@ Absolutely! It's highly applicable to personal finance, routines, habits, relati
 *   **"Poor Charlie's Almanack" by Peter Kaufman:** This book, highlighting the wisdom of Charlie Munger, discusses various mental models, including the importance of questioning assumptions, which aligns with Zero-Based Thinking.
 *   **Articles and books on Critical Thinking and First Principles Thinking:** Exploring these related mental models will deepen your understanding and application of Zero-Based Thinking.
 *   **Case studies of companies using zero-based budgeting or zero-based approaches:** Research companies that have successfully implemented zero-based budgeting or similar strategies to learn from real-world examples.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

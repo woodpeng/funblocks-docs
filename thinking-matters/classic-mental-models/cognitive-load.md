@@ -258,3 +258,7 @@ Therefore, effective cognitive load management often requires considering indivi
     *   "Cognitive Load Theory" by John Sweller, Paul Ayres, and Slava Kalyuga
     *   "Efficiency in Learning: Evidence-Based Guidelines to Manage Cognitive Load" by Ruth Clark, Frank Nguyen, and John Sweller
 *   **Articles & Papers:** Search for publications by John Sweller and other researchers in Cognitive Load Theory on Google Scholar or academic databases.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

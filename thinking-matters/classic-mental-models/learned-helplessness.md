@@ -297,3 +297,7 @@ For deeper understanding and practical strategies, consider these resources:
     *   Cognitive Behavioral Therapy (CBT) and Acceptance and Commitment Therapy (ACT) are therapeutic approaches that can be particularly effective in addressing learned helplessness by challenging negative thought patterns and promoting behavioral activation.
 
 By exploring these resources and continuing to learn about learned helplessness, you can deepen your understanding and further empower yourself or others to break free from its grip and cultivate a more hopeful and agentic approach to life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

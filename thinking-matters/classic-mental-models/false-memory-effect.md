@@ -237,3 +237,7 @@ Stress and trauma can have complex effects on memory.  In some cases, traumatic 
     * The Elizabeth Loftus Website (for information on her research)
     * Wikipedia page on "False memory" (for a broad overview and further links)
     * Psychology Today articles on memory and false memories.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -254,3 +254,7 @@ While downward social comparison can boost self-esteem temporarily, excessive or
 *   **Wills, T. A. (1981).** Downward comparison principles in social psychology. *Psychological Bulletin, 90*(2), 245–271. (Introduction of Downward Comparison)
 *   **Buunk, B. P., & Gibbons, F. X. (2007).** Social comparison: The end of a theory and the emergence of a perspective. *Organizational Behavior and Human Decision Processes, 102*(1), 3-21. (Modern perspective on Social Comparison Theory)
 *   **Myers, D. G., & Twenge, J. M. (2019).** *Social Psychology* (13th ed.). McGraw-Hill Education. (Textbook chapter on Social Comparison and related topics)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

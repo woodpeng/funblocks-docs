@@ -349,3 +349,7 @@ While "breaking down tasks" is a part of Problem Chunking, it's not the whole pi
 
 * **Online Courses:**
     * Coursera and edX offer courses on cognitive psychology, problem-solving, and critical thinking, which can deepen your understanding of the underlying principles of Problem Chunking.  Search for keywords like "cognitive psychology," "problem-solving," "design thinking," or "systems thinking."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -240,3 +240,7 @@ Start small and focus on one discipline or a few key mental models at a time.  D
 *   **Podcasts:** The Knowledge Project (Farnam Street), Invest Like the Best, Acquired.
 *   **Books (Advanced):**  "Thinking in Systems" by Donella H. Meadows, "Gödel, Escher, Bach: an Eternal Golden Braid" by Douglas Hofstadter (for systems and interdisciplinary thinking),  "The Selfish Gene" by Richard Dawkins (for evolutionary biology).
 *   **Charlie Munger's Writings and Speeches:** Available online through Berkshire Hathaway's website and various online resources.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

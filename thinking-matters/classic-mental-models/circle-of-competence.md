@@ -268,3 +268,7 @@ No, while it's particularly crucial for complex decisions, the Circle of Compete
 *   **"Seeking Wisdom: From Darwin to Munger" by Peter Bevelin:** This book provides a comprehensive overview of mental models, including the Circle of Competence, and offers practical guidance on applying them.
 *   **Farnam Street Blog (fs.blog):**  This blog, curated by Shane Parrish, offers in-depth articles and resources on mental models, including extensive coverage of the Circle of Competence and related concepts. Search for "Circle of Competence" on the site.
 *   **Online Courses on Investing and Decision-Making:** Platforms like Coursera, edX, and Khan Academy offer courses on investing, finance, and critical thinking that can further enhance your understanding of the Circle of Competence in practical contexts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

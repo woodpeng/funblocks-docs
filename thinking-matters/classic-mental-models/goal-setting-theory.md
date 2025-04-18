@@ -243,3 +243,7 @@ Yes, Goal Setting Theory is highly applicable to team goals. In fact, it's widel
     *   *Organizational Behavior and Human Decision Processes*
 
 These resources will provide you with deeper insights into Goal Setting Theory and its applications, allowing you to further enhance your understanding and implementation of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

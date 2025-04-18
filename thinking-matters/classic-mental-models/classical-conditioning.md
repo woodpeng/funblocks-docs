@@ -248,3 +248,7 @@ Absolutely. Classical conditioning remains highly relevant.  Think about user in
     *   Journal of Applied Behavior Analysis (for applied aspects)
 
 By exploring these resources, you can delve even deeper into the fascinating world of classical conditioning and further refine your understanding of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

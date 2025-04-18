@@ -268,3 +268,7 @@ Temporal Discounting plays a significant role in addiction. Addictive substances
 *   **Online Resources:**
     *   Behavioral Economics websites and blogs (e.g., BehavioralEconomics.com, Irrational Labs)
     *   TED Talks and YouTube videos on behavioral economics and decision-making
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -275,3 +275,7 @@ The key is to remember that Oppositional Thinking is a *tool* for analysis, not 
     * Wikipedia entries on "Dialectic," "Devil's Advocate," and "Critical Thinking" can provide historical and conceptual background.
 
 By exploring these resources and continuing to practice, you can deepen your understanding of Oppositional Thinking and further refine your critical thinking skills.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

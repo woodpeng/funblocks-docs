@@ -293,3 +293,7 @@ Start by practicing curiosity and openness. Try something new each week, like re
 *   **Communities and Networks:**
     *   Join professional organizations and online communities related to your field or interests to expand your network and increase opportunities for serendipitous encounters.
     *   Attend industry conferences and workshops to connect with diverse individuals and expose yourself to new ideas.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

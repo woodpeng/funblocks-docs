@@ -207,3 +207,7 @@ To delve deeper, explore books on cognitive psychology and behavioral economics.
     *   "Thinking, Fast and Slow" by Daniel Kahneman
     *   "Predictably Irrational" by Dan Ariely
 *   **Academic Articles:** Search for research papers on "Effort Justification," "Cognitive Dissonance," and "Justification of Effort" in psychology journals like the *Journal of Personality and Social Psychology* and the *Journal of Experimental Social Psychology*.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

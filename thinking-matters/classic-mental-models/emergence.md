@@ -246,3 +246,7 @@ To delve deeper into emergence, you can explore resources in complexity science 
     * *Complexity*
     * *Adaptive Behavior*
     * *Journal of Complex Systems*
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

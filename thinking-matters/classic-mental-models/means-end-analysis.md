@@ -361,3 +361,7 @@ No mental model can guarantee success.  Means-End Analysis increases the *likeli
 *   **Online Resources:** Websites and articles on cognitive psychology, problem-solving strategies, and decision-making often discuss Means-End Analysis in the context of effective thinking. Search for "Means-End Analysis cognitive psychology" or "problem-solving techniques."
 
 By continually learning and practicing, you can further refine your understanding and application of Means-End Analysis, making it an even more powerful asset in your cognitive toolkit.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

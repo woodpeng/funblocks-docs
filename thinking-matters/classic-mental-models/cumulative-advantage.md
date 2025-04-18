@@ -245,3 +245,7 @@ The "snowball effect" is a powerful force in the universe, and Cumulative Advant
     * Search for "Cumulative Advantage" or "Matthew Effect" on academic databases like JSTOR or Google Scholar for scholarly articles.
     * Explore resources on systems thinking and feedback loops to understand the underlying mechanisms of Cumulative Advantage.
     * Websites focused on mental models and decision-making often discuss Cumulative Advantage in the context of strategic thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

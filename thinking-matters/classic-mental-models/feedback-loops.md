@@ -257,3 +257,7 @@ Consciously design positive feedback loops for desired habits and goals. For exa
 *   **Online Courses:** Platforms like Coursera, edX, and Udemy offer courses on Systems Thinking and related topics that often cover feedback loops in detail.
 
 By continuing to explore these resources and actively applying the Feedback Loops mental model, you can deepen your understanding and unlock its full potential for insightful thinking and effective action.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

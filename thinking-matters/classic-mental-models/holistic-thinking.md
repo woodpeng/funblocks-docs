@@ -249,3 +249,7 @@ Holistic Thinking is not just about feeling or intuition. It's a balanced approa
     
 
 By exploring these resources, you can deepen your understanding of Holistic Thinking and related concepts, and further develop your ability to apply this powerful mental model in your life and work.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

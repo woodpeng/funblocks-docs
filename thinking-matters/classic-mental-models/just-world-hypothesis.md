@@ -267,3 +267,7 @@ The concept of karma is closely related to the Just-World Hypothesis, particular
 *   **Article:** "Victim Derogation and the Just World Hypothesis" by Faye Crosby and Brenda Major (1989) -  A review article summarizing research on victim derogation and its connection to the Just-World Hypothesis.
 *   **Website:**  Simply Psychology - Just World Hypothesis: [https://www.simplypsychology.org/just-world-hypothesis.html](https://www.simplypsychology.org/just-world-hypothesis.html) -  A concise and accessible overview of the concept.
 *   **Podcast Episode:** "You Are Not So Smart Podcast" - Episode on the Just-World Fallacy - Explores the Just-World Hypothesis in an engaging and accessible audio format.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

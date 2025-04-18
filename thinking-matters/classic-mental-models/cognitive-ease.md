@@ -243,3 +243,7 @@ Be aware of the techniques marketers use to enhance cognitive ease, such as repe
 *   **Academic Papers:** Explore research papers on cognitive fluency and related topics on databases like Google Scholar (search terms: "cognitive fluency," "ease of processing," "mere-exposure effect").
 
 By continuing to learn and explore, you can deepen your understanding of cognitive ease and its profound impact on our thinking and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

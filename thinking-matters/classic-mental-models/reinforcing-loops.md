@@ -218,3 +218,7 @@ Reinforcing loops are a fundamental building block of systems thinking. Systems 
 *   **"Business Dynamics: Systems Thinking and Modeling for a Complex World" by John Sterman:** A comprehensive textbook on system dynamics, including advanced techniques for modeling and analyzing feedback loops.
 *   **Causal Loop Diagramming Software (e.g., Vensim, Stella):** Explore software tools for creating and simulating causal loop diagrams to deepen your understanding of reinforcing loops and system dynamics.
 *   **The Systems Thinking World Website and Community:** Online resources and communities dedicated to systems thinking, offering articles, discussions, and learning opportunities related to reinforcing loops and other systems concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -230,3 +230,7 @@ Start by identifying situations in your life that resemble the dilemma. Consider
 * **"Game Theory Evolving" by Herbert Gintis:** A comprehensive textbook on game theory, including in-depth coverage of the Prisoner's Dilemma and its variations.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** While not solely focused on Prisoner's Dilemma, this book explores cognitive biases and decision-making, providing valuable context for understanding why people sometimes deviate from "rational" choices in strategic situations.
 * **Research papers on "Behavioral Game Theory":** Explore academic articles that examine how real human behavior deviates from the predictions of classical game theory and incorporates psychological factors into the analysis of strategic interactions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

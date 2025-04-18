@@ -240,3 +240,7 @@ Understanding the placebo effect can empower you to take a more proactive and po
 * **Websites and Organizations:**
     * The Society for Interdisciplinary Placebo Studies (SIPS)
     * National Center for Complementary and Integrative Health (NCCIH) - NIH
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

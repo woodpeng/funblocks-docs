@@ -346,3 +346,7 @@ Primarily, social loafing is viewed as negative as it reduces group productivity
 * **Websites:**
     * Simply Psychology: [https://www.simplypsychology.org/social-loafing.html](https://www.simplypsychology.org/social-loafing.html) (Accessible overview of social loafing)
     * Psychology Today: Search for "social loafing" on [https://www.psychologytoday.com/us](https://www.psychologytoday.com/us) (Articles and insights on social loafing and related topics)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

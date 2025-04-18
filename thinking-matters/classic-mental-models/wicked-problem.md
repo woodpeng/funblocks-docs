@@ -287,3 +287,7 @@ The most important takeaway is the need to shift your mindset when facing comple
 *   **Original Paper:** Rittel, H. W. J., & Webber, M. M. (1973). Dilemmas in a general theory of planning. *Policy Sciences*, *4*(2), 155-169. (Academic, but foundational)
 *   **Book Chapter:**  Conklin, J. (2006). Dialogue Mapping: Building Shared Understanding of Wicked Problems. John Wiley & Sons. (Practical application of Wicked Problems)
 *   **Website/Blog:**  Search for articles and discussions on "Wicked Problems" on platforms like Medium, Harvard Business Review, and academic blogs related to design thinking, systems thinking, and public policy. (Numerous articles and perspectives available online)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

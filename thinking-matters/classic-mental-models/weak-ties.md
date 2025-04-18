@@ -322,3 +322,7 @@ Strong ties should always be prioritized for emotional support, personal crises,
 * **Burt, Ronald S. (2005). *Brokerage and Closure: An Introduction to Social Capital*. Oxford University Press.** (Explores the concept of "brokerage" and how weak ties facilitate bridging structural holes in social networks)
 * **Christakis, Nicholas A., & Fowler, James H. (2009). *Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives*. Little, Brown and Company.** (Popular science book exploring the broader impact of social networks, including insights related to weak ties)
 * **"Never Eat Alone, Expanded and Updated: Updated Edition" by Keith Ferrazzi (2014).** (Practical guide to networking, emphasizing building relationships and leveraging connections, including weak ties, for professional success).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

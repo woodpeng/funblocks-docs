@@ -238,3 +238,7 @@ Probably not completely eliminate it, as it's a deeply ingrained cognitive tende
     * Podcasts on behavioral economics and cognitive biases often discuss survivorship bias in relevant episodes.
 
 By continuously learning and practicing, you can deepen your understanding of survivorship bias and its pervasive influence, ultimately becoming a more critical and effective thinker in all areas of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

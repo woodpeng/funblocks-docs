@@ -225,3 +225,8 @@ While there isn't a specific "Opportunity Cost Neglect app," tools for budgeting
     *   "Nudge" by Richard Thaler and Cass Sunstein (Explores how behavioral economics can be applied to improve decision-making).
 
 *   **Academic Articles:** Search for research papers on "opportunity cost neglect," "decision-making under uncertainty," and "behavioral economics" in academic databases like JSTOR, Google Scholar, or PubMed.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

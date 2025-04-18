@@ -262,3 +262,7 @@ The time commitment depends on the complexity and scope of your project.  For sm
     *   Websites and blogs focused on creativity, innovation, design thinking, and mental models (e.g., Farnam Street, Mind Tools).
 
 By continuing to explore these resources and actively practicing Inspiration Mining, you can further deepen your understanding and hone your skills in this powerful mental model. Happy mining!
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

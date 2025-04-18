@@ -274,3 +274,7 @@ For those who want to delve deeper into Prospect Theory and related concepts, he
     * **Khan Academy:** Offers free educational videos and articles, including introductions to behavioral economics and cognitive biases.
 
 By exploring these resources and continuing to practice applying Prospect Theory in your own life, you can deepen your understanding of this powerful mental model and enhance your decision-making abilities.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

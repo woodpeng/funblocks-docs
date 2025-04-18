@@ -277,3 +277,7 @@ Embracing the Pygmalion Effect is an invitation to see the world and the people 
 *   **Mindset: The New Psychology of Success** by Carol S. Dweck (Related to Growth Mindset and potential)
 *   **Social Psychology** textbooks (Chapters on Expectancy Effects, Social Perception, and Motivation)
 *   **Research articles on the Pygmalion Effect** (available through academic databases like PsycINFO, JSTOR, Google Scholar)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

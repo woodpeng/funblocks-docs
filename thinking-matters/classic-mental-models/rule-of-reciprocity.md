@@ -240,3 +240,7 @@ While the general principle is considered universal, the specific expressions an
 *   **Academic Journals:** Search for research articles on "reciprocity," "social norms," and "social influence" in psychology, sociology, and marketing journals.
 
 This comprehensive guide provides a solid foundation for understanding and applying the Rule of Reciprocity.  Continue to observe, reflect, and practice, and you will increasingly recognize and leverage the power of this fundamental social principle in your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

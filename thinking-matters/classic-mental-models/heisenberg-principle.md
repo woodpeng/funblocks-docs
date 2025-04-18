@@ -226,3 +226,7 @@ The Heisenberg Principle is surprisingly relevant in everyday life.  Consider si
 * **"Quantum Theory: Concepts and Methods" by Asher Peres:** A comprehensive textbook on quantum mechanics, providing a deeper understanding of the Heisenberg Uncertainty Principle in its original context.
 * **"Influence: The Psychology of Persuasion" by Robert Cialdini:** While not directly about the Heisenberg Principle, this book explores the psychology of influence and persuasion, which is relevant to understanding how observation and attention can shape behavior.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:**  Explores cognitive biases and heuristics, providing a broader context for understanding how our own minds and observation processes can be influenced and sometimes distorted.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -276,3 +276,7 @@ Embracing the Productivity Frontier mindset is not about achieving perfection, b
     * Investopedia: Search for "Production Possibility Frontier" for economic definitions and explanations.
     * Farnam Street (fs.blog): Explore their collection of mental models, including related concepts like opportunity cost and efficiency.
     * Academic journals in economics, operations research, and management science for more in-depth theoretical and empirical research on productivity and efficiency.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

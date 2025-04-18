@@ -221,3 +221,7 @@ Yes, the Paradox of Choice can be mitigated through conscious strategies. By bec
 
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:**  Provides a broader framework for understanding cognitive biases and decision-making processes, including concepts related to the Paradox of Choice.
 *   **"Predictably Irrational" by Dan Ariely:** Explores various aspects of irrational human behavior in decision-making, offering further context for understanding why we are susceptible to choice overload.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

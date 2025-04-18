@@ -307,3 +307,7 @@ For those eager to delve deeper into Cultural Evolution Thinking, here are some 
     *   Online courses and lectures on evolutionary biology, anthropology, and social sciences (Platforms like Coursera, edX, and YouTube often host relevant content)
 
 By exploring these resources, you can deepen your understanding of Cultural Evolution Thinking and further develop your ability to apply this powerful mental model to the world around you.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

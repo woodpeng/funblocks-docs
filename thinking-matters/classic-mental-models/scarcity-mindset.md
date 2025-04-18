@@ -261,3 +261,7 @@ Scarcity mindset can negatively impact relationships by fostering jealousy, comp
 *   **Online Courses and Workshops:** Explore platforms like Coursera, edX, and Udemy for courses on behavioral economics, positive psychology, and mindset development.
 *   **Podcasts:** Listen to podcasts on behavioral economics, psychology, and personal development that discuss scarcity mindset and related concepts.
 *   **Websites and Blogs:** Follow reputable blogs and websites focused on psychology, behavioral science, and personal growth for articles and insights on scarcity mindset.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

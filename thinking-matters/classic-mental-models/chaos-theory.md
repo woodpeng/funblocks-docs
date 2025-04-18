@@ -325,3 +325,7 @@ Start with accessible resources like James Gleick's book "Chaos: Making a New Sc
     *   The Santa Fe Institute (SFI) - a leading research institute for complexity science.
     *   The New England Complex Systems Institute (NECSI).
     *   Complexity Explorer - online educational platform by SFI.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

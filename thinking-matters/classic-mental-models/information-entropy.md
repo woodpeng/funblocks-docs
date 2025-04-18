@@ -301,3 +301,7 @@ Embrace information entropy as a lens through which to view the world.  It's a p
 * **"Information Theory, Inference, and Learning Algorithms" by David J.C. MacKay:** A comprehensive and accessible textbook on information theory with detailed explanations of entropy and its applications.
 * **"Elements of Information Theory" by Thomas M. Cover and Joy A. Thomas:** Another classic and rigorous textbook covering information theory in depth.
 * **Online courses on Coursera, edX, or platforms like MIT OpenCourseware:** Search for courses on "Information Theory," "Probability and Statistics," or "Machine Learning" which often cover information entropy in detail.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

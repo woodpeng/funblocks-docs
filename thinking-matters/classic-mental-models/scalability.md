@@ -189,3 +189,7 @@ Common mistakes include: premature optimization for scalability, over-engineerin
     * High Scalability blog (highscalability.com) - Case studies and articles on scalable architectures.
     * AWS Architecture Blog (aws.amazon.com/blogs/architecture/) - Articles and best practices on building scalable cloud applications.
 * **Online Courses:**
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

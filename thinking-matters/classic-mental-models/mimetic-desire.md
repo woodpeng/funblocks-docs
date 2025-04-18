@@ -233,3 +233,7 @@ No, and you probably shouldn't want to. Mimetic Desire is a fundamental aspect o
 *   **Books by René Girard:** *Deceit, Desire, and the Novel*, *Violence and the Sacred*, *Things Hidden Since the Foundation of the World*.
 *   **Works by Scholars on Mimetic Theory:**  Gil Bailie, James Alison, Wolfgang Palaver.
 *   **Online Resources:** Websites and articles dedicated to Mimetic Theory and René Girard's work (search for "Mimetic Theory," "René Girard," "Mimetic Desire").
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

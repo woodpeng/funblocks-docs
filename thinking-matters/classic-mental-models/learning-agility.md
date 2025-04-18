@@ -266,3 +266,7 @@ No, Learning Agility is not about being a generalist in the sense of lacking dee
     *   Coursera and edX courses on related topics like design thinking, innovation, and leadership in disruptive times.
 
 By exploring these resources and continuing your learning journey, you can deepen your understanding of Learning Agility and further enhance your ability to thrive in a world of constant change.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

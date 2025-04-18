@@ -283,3 +283,7 @@ No! Correlation is valuable:
 *   **Websites and Articles:**
     *   Websites like "Understanding Science" (University of California Museum of Paleontology) offer resources on the scientific method and critical thinking.
     *   Blogs and articles on statistics and data science often discuss correlation vs. causation. Search for articles with keywords like "correlation vs. causation," "spurious correlation," "causal inference."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

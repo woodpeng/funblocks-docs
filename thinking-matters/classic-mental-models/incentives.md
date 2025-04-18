@@ -223,3 +223,7 @@ The ethics of using incentives depend on the intent and the impact.  Incentives 
 *   **"Agency Theory" in Economics and Management:**  Delves into the principal-agent problem and the design of contracts and incentives to align the interests of principals and agents.
 *   **"Operant Conditioning" in Psychology:** Explore the foundational work of B.F. Skinner and the principles of reinforcement and punishment in shaping behavior.
 *   **"Game Theory" in Economics and Mathematics:**  Provides a framework for analyzing strategic interactions and the role of incentives in decision-making in competitive situations.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

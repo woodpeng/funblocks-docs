@@ -254,3 +254,7 @@ Network Thinking is particularly useful when dealing with complex problems invol
     *   *Network Science* (Cambridge University Press)
     *   *Social Networks* (Elsevier)
     *   *Journal of Complex Networks* (Oxford University Press)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

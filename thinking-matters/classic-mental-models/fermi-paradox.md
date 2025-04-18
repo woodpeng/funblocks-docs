@@ -277,3 +277,7 @@ Here are some resources for further exploration:
 *   **Documentaries and Podcasts:**  Explore documentaries and podcasts about astrobiology, SETI, and related topics. Many science podcasts and YouTube channels discuss the Fermi Paradox in accessible ways.
 
 By continuing to explore the Fermi Paradox and its implications, you can deepen your understanding of this fascinating mental model and enhance your critical thinking skills in a variety of contexts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

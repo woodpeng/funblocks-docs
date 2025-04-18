@@ -236,3 +236,7 @@ The value of anchoring and adjustment lies in its ability to illuminate a fundam
 *   **"Thinking, Fast and Slow" by Daniel Kahneman (2011):** A comprehensive and accessible book that explores anchoring and adjustment and other cognitive biases in detail.
 *   **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard H. Thaler and Cass R. Sunstein (2008):**  Explores how understanding cognitive biases, including anchoring, can be used for "choice architecture" to improve decision-making in various domains.
 *   **Research papers on anchoring and adjustment in journals like "Cognitive Psychology," "Journal of Behavioral Decision Making," and "Organizational Behavior and Human Decision Processes":** For deeper dives into specific aspects of anchoring and current research in the field.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

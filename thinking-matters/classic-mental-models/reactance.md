@@ -226,3 +226,7 @@ In a world that often feels increasingly controlling and persuasive, understandi
 * **Journal Articles:** Search for articles on "Psychological Reactance" in psychology databases like PsycINFO or JSTOR. Look for review articles and studies on specific applications of Reactance Theory.
 * **Books on Persuasion and Influence:** Many books on persuasion and influence discuss Reactance as a factor to consider. Look for books that address ethical persuasion and strategies for building rapport and trust.
 * **Online Resources:** Websites and blogs related to behavioral economics, social psychology, and mental models often discuss Reactance in an accessible way. Search for articles and summaries of Reactance Theory online.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

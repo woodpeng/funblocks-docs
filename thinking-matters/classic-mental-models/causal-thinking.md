@@ -275,3 +275,7 @@ Yes, causal thinking can be applied to subjective experiences.  You can explore 
     *   Academic articles and research papers on causal inference (search on Google Scholar).
 
 By continuing to learn and practice, you can further develop your causal thinking skills and unlock its full potential in your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

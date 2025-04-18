@@ -237,3 +237,7 @@ Practice is key! Start by consciously applying statistical thinking to everyday 
     * Simply Statistics (blog on statistics and data science)
 
 By exploring these resources and actively practicing statistical thinking, you can deepen your understanding and enhance your ability to make data-driven decisions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

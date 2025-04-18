@@ -381,3 +381,7 @@ Common mistakes include:
     * Python with libraries like NumPy, SciPy, and Matplotlib (For statistical analysis and visualization) [https://www.python.org/](https://www.python.org/)
 
 By exploring these resources and continuing to practice, you can deepen your understanding of the Normal Distribution and its applications, further enhancing your mental toolkit for thinking and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

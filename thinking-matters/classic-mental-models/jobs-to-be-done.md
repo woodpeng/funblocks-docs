@@ -368,3 +368,7 @@ No, JTBD is applicable across various domains, including marketing, sales, perso
     * Harvard Business Review articles by Clayton M. Christensen on Innovation and JTBD.
 * **Online Courses and Communities:**
     * Look for online courses on platforms like Coursera or Udemy by JTBD experts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

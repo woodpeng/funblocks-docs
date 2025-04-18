@@ -306,3 +306,7 @@ For those looking to explore the Six Thinking Hats model further, here are some 
     *   Educational Institutions: Many universities and business schools incorporate the Six Thinking Hats into leadership, management, and creativity courses; related academic articles might be found through academic search engines.
 *   **Workshops and Training:**
     *   Certified trainers and organizations offer workshops and courses for teams and individuals seeking in-depth training and practical application skills. Searching for "Six Thinking Hats training" can provide local or online options.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

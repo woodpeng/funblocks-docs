@@ -239,3 +239,7 @@ Practice is key.  Start by summarizing articles and conversations.  Actively see
 * **"Seeking Wisdom: From Darwin to Munger" by Peter Bevelin:** This book delves into various mental models, including those related to efficient thinking and decision-making, providing a broader context for Compression Thinking.
 * **"The Art of Explanation" by Lee LeFever:** This book focuses on simplifying complex topics for effective communication, offering practical techniques relevant to the simplification aspect of Compression Thinking.
 * **Articles and resources on Information Theory and Data Compression:** Exploring the principles of information theory can provide a deeper understanding of the theoretical underpinnings of efficient information processing.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

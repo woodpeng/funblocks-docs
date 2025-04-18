@@ -285,3 +285,7 @@ While visual learners might naturally gravitate towards it, anyone can benefit f
     * "Visual Learning Strategies" research
 
 These resources provide deeper insights into the theory, methodology, and applications of Idea Mapping and related visual thinking techniques for those seeking to explore the topic further.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

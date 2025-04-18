@@ -265,3 +265,7 @@ Mastering the Collective Action Problem mental model is an invaluable asset in t
     *   Stanford Encyclopedia of Philosophy: [Collective Action](https://plato.stanford.edu/entries/collective-action/)
     *   Investopedia: [Collective Action](https://www.investopedia.com/terms/c/collective-action.asp)
     *   Various academic journals in political science, economics, and sociology often publish articles related to collective action. Search databases like JSTOR or Google Scholar using keywords like "collective action," "public goods," "free-riding," and "tragedy of the commons."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

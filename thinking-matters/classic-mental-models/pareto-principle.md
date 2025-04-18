@@ -314,3 +314,7 @@ Yes, the Pareto Principle can be applied to personal relationships. For example,
 *   **Article:** "Pareto Principle" on Wikipedia: [https://en.wikipedia.org/wiki/Pareto_principle](https://en.wikipedia.org/wiki/Pareto_principle)
 *   **Website:** Investopedia - "Pareto Principle": [https://www.investopedia.com/terms/p/paretoprinciple.asp](https://www.investopedia.com/terms/p/paretoprinciple.asp)
 *   **Video:** "The Pareto Principle - 80/20 Rule" by Practical Psychology on YouTube (for a visual explanation).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

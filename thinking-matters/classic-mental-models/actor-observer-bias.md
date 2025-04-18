@@ -280,3 +280,7 @@ Empathy is the ability to understand and share the feelings of another. The Acto
 * **Podcast:** "Thinking, Fast and Slow" by Daniel Kahneman (Although not solely focused on the Actor-Observer Bias, it provides a broader understanding of cognitive biases and decision-making, providing valuable context).
 
 By exploring these resources and continuing to practice applying the Actor-Observer Bias in your daily life, you can deepen your understanding and harness the power of this valuable mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

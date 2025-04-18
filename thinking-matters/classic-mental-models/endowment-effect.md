@@ -306,3 +306,7 @@ The Endowment Effect is generally weaker or absent in situations involving:
 * **Online Resources:**
     * Behavioral Economics websites and blogs (e.g., websites of behavioral economics research centers at universities).
     * Articles and videos explaining behavioral economics concepts on platforms like YouTube, Coursera, edX.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

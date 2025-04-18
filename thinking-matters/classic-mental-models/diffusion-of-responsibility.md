@@ -286,3 +286,7 @@ While situational factors are the primary drivers of Diffusion of Responsibility
 * **"The Lucifer Effect: Understanding How Good People Turn Evil" by Philip Zimbardo:** While focusing on situational influences on behavior more broadly, Zimbardo's work provides valuable context for understanding how social situations can powerfully shape individual actions and inactions.
 * **Websites and Organizations focused on Bystander Intervention Training:**  Numerous organizations offer resources and training programs designed to teach individuals how to effectively intervene in emergencies and overcome the Bystander Effect. Search for "Bystander Intervention Training" online to find relevant resources in your area.
 * **Academic Journals:**  For the most up-to-date research, explore academic journals in social psychology, particularly those focusing on group dynamics, prosocial behavior, and bystander intervention. Databases like PsycINFO and Google Scholar can be valuable resources for finding scholarly articles.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

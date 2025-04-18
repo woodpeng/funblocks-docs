@@ -258,3 +258,7 @@ Yes, it can be a tool for ethical analysis. By systematically weighing the costs
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:**  Provides a comprehensive overview of behavioral economics and cognitive biases, offering a valuable counterpoint and complement to Rational Choice Theory.
 *   **"Predictably Irrational" by Dan Ariely:**  Explores various ways in which human behavior systematically deviates from rationality, with engaging examples and experiments.
 *   **"Nudge" by Richard Thaler and Cass Sunstein:**  Discusses how to apply behavioral economics and nudge principles (which are informed by critiques of pure rationality) to design policies that improve decision-making and welfare.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

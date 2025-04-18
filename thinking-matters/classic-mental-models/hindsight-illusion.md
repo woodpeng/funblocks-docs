@@ -214,3 +214,7 @@ For those seeking a deeper understanding of the hindsight illusion and related c
     * **Behavioral Economics websites and blogs:** Explore resources from organizations and academics working in behavioral economics for insights into cognitive biases and decision-making.
 
 By delving into these resources, you can further expand your knowledge of the hindsight illusion and its implications, enhancing your ability to recognize and manage this powerful mental model in your own life and work.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

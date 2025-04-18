@@ -270,3 +270,7 @@ Spaced Repetition is most effective for learning factual information, vocabulary
     * RemNote: A note-taking and Spaced Repetition tool that integrates knowledge management with spaced reviews.
 
 These resources offer deeper insights into the science, theory, and practical application of Spaced Repetition, enabling you to further refine your understanding and implementation of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

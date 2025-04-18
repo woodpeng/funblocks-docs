@@ -255,3 +255,7 @@ The value of Third Path Thinking lies in its ability to unlock possibilities tha
     * Articles and resources on Design Thinking from IDEO and Stanford d.school.
     * Publications and research papers on Integrative Negotiation and Conflict Resolution.
     * Websites and blogs focusing on mental models, cognitive biases, and creative problem-solving.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

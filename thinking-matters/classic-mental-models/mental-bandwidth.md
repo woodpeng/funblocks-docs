@@ -247,3 +247,7 @@ The core principles of the mental bandwidth model are strongly supported by rese
 * **"Deep Work: Rules for Focused Success in a Distracted World" by Cal Newport:**  Offers practical strategies for cultivating focused work habits and minimizing distractions in the attention economy, directly related to managing and maximizing mental bandwidth for productive output.
 * **"The Organized Mind: Thinking Straight in the Age of Information Overload" by Daniel J. Levitin:** Provides a neuroscientific perspective on how our brains handle information overload and offers strategies for organizing our physical and digital worlds to reduce cognitive strain.
 * **Research papers and articles by Sendhil Mullainathan and Eldar Shafir:**  Explore their academic publications for deeper dives into the research behind the mental bandwidth concept and its various applications.  Search databases like Google Scholar or JSTOR using keywords like "cognitive bandwidth," "scarcity mindset," and "cognitive load."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

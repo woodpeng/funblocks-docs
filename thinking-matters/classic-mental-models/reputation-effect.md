@@ -262,3 +262,7 @@ While the Reputation Effect is a potent tool, critical thinking is essential.  B
     *   Harvard Business Review (articles on leadership and management, often touching on reputation)
     *   Psychology Today (articles on social psychology and human behavior)
     *   Academic databases like JSTOR, Google Scholar (for scholarly articles on reputation and related topics)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

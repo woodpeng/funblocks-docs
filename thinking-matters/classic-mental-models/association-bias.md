@@ -332,3 +332,7 @@ For those eager to delve deeper into association bias and related concepts, here
     - **Cognitive Psychology:** (Academic journal covering research on cognitive processes, including biases and heuristics)
 
 By exploring these resources and continuing to reflect on your own thinking, you can further deepen your understanding of association bias and master the art of connection in your cognitive landscape.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

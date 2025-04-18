@@ -232,3 +232,7 @@ Constantly applying Zero-Sum Thinking can lead to a competitive and adversarial 
     *   Stanford Encyclopedia of Philosophy entry on Game Theory ([https://plato.stanford.edu/entries/game-theory/](https://plato.stanford.edu/entries/game-theory/))
     *   Behavioral Economics websites and journals (Search for articles on cognitive biases, negotiation, and decision-making under scarcity)
     *   Academic papers on Realpolitik and International Relations theory (Explore realist perspectives that often utilize zero-sum assumptions in international politics)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

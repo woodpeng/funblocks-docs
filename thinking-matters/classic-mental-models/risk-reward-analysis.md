@@ -324,3 +324,7 @@ We encourage you to actively integrate this mental model into your daily thinkin
 *   **"Decision Analysis for Management Judgment" by Paul Goodwin and Ward Edwards:** A comprehensive text on decision analysis techniques.
 *   **"Risk Savvy: How to Make Good Decisions" by Gerd Gigerenzer:** Focuses on developing practical risk literacy.
 *   **Journals like "Decision Analysis," "Risk Analysis," and "Journal of Behavioral Decision Making":** Academic publications for deeper dives into the field.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

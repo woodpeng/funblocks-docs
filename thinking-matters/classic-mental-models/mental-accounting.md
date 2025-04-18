@@ -300,3 +300,7 @@ For readers interested in delving deeper into mental accounting and behavioral e
     *   Articles and podcasts on behavioral economics and personal finance from reputable sources.
 
 By exploring these resources, you can gain a more comprehensive and nuanced understanding of mental accounting and its broader context within behavioral economics, further enhancing your ability to make informed and rational decisions in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

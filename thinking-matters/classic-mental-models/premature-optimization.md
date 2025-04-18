@@ -278,3 +278,7 @@ For software development and related fields, consider exploring these resources:
 *   **Agile and Lean methodologies:**  These methodologies inherently emphasize iteration, feedback, and avoiding waste, which directly aligns with the principles of avoiding premature optimization.
 
 By continuously learning and applying these principles, you can hone your ability to recognize and avoid premature optimization, leading to more efficient and effective outcomes in all your endeavors.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

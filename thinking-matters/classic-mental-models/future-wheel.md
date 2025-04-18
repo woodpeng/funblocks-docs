@@ -351,3 +351,7 @@ The Future Wheel is particularly useful in situations where:
 * **"The Art of Foresight" by Sohail Inayatullah:** (Book exploring different foresight methodologies and frameworks, often referencing and utilizing the Future Wheel in practical contexts)
 * **"Thinking in Systems: A Primer" by Donella H. Meadows:** [Systems Thinking](/thinking-matters/classic-mental-models/systems-thinking) (While not specifically about the Future Wheel, this book provides a foundational understanding of systems thinking principles that are essential for effectively using the Future Wheel)
 * **Online search for "Future Wheel examples" and "Future Wheel templates":** (Numerous online resources, articles, and templates are available to further explore and practically apply the Future Wheel)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -193,3 +193,7 @@ Focus on creating environments of psychological safety and open communication.  
 *   **Online Article:** "The Emperor’s New Clothes: Preference Falsification" by Farnam Street - A blog post providing a clear explanation of the model.
 *   **Podcast:** "Preference Falsification" - Explore podcasts discussing mental models and social psychology, many of which touch upon preference falsification.  Search your favorite podcast platform.
 *   **Academic Databases:** Search for "preference falsification" in academic databases like JSTOR, Google Scholar, or ResearchGate to find recent research and applications in various fields.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

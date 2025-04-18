@@ -254,3 +254,7 @@ No, Via Negativa is not a universal solution for every situation.  It's most eff
 * **Letters from a Stoic by Seneca:**  A classic text that explores Stoic philosophy, which heavily influences Via Negativa principles.
 * **Meditations by Marcus Aurelius:** Another foundational text of Stoicism, offering insights into self-control and focusing on what is within your control (and avoiding what is not).
 * **Articles and websites on Mental Models and Stoicism:** Explore online resources that delve into mental models and Stoic philosophy for broader context and further insights.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

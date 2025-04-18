@@ -224,3 +224,7 @@ Alongside the Dark Forest Theory, it's beneficial to consider alternative models
 *   **Works on the Fermi Paradox and SETI:** Explore scientific literature and articles discussing the Fermi Paradox and the Search for Extraterrestrial Intelligence to understand the broader scientific context.
 *   **Books on Game Theory and Strategic Thinking:** Deepen your understanding of game theory principles and strategic decision-making in uncertain environments.
 *   **Articles and essays on existential risk and longtermism:**  Explore discussions about existential risks facing humanity and the long-term implications of our actions, often drawing upon Dark Forest-related themes.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

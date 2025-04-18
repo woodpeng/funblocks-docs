@@ -318,3 +318,7 @@ For those seeking a deeper dive into Sampling Bias and related statistical and c
     * **Cross Validated (stats.stackexchange.com):** Question-and-answer site for statistics and data analysis, useful for exploring specific statistical questions related to bias.
 
 By continually exploring these resources and practicing critical thinking, you can further refine your understanding of Sampling Bias and its impact on your perception of the world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

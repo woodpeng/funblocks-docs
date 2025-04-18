@@ -248,3 +248,8 @@ Excellent resources to explore further include:
 * **Websites and Blogs:**  Websites and blogs focused on value investing and financial analysis (search for "value investing blogs," "investing resources").
 * **Online Courses:** Platforms like Coursera, edX, and Udemy offer courses on investing and financial analysis that touch upon value investing principles.
 * **Investor Letters:** Reading letters from successful value investors like Warren Buffett, Seth Klarman, and Howard Marks provides invaluable insights into their thinking processes.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

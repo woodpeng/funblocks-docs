@@ -230,3 +230,7 @@ For those seeking a deeper understanding of Reciprocity Bias and related concept
     *   **Articles on the neuroscience of reciprocity:** Explore research on brain regions and neural mechanisms associated with feelings of obligation, fairness, and social reward.
 
 By delving into these resources, you can gain a more nuanced and comprehensive understanding of Reciprocity Bias and its broader implications for human behavior and social interaction.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

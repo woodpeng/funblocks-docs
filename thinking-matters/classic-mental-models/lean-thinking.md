@@ -250,3 +250,7 @@ Lean Thinking is fundamentally about **both efficiency and quality**.  By elimin
     * Lean Enterprise Institute (LEI): [www.lean.org](https://www.lean.org) (A leading resource for Lean education and resources)
 
 By exploring these resources and continuing to practice Lean Thinking, you can deepen your understanding and become more proficient in applying this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

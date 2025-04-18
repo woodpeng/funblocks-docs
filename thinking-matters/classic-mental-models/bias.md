@@ -227,3 +227,7 @@ Common biases in the workplace include confirmation bias (seeking information th
     *   Project Implicit: [https://implicit.harvard.edu/implicit/](https://implicit.harvard.edu/implicit/) (Take Implicit Association Tests)
     *   The Decision Lab: [https://thedecisionlab.com/reference-guide/bias](https://thedecisionlab.com/reference-guide/bias) (Comprehensive resource on cognitive biases)
     *   Behavioral Economics.com: [https://www.behavioraleconomics.com/](https://www.behavioraleconomics.com/) (General resource on behavioral economics and cognitive biases)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

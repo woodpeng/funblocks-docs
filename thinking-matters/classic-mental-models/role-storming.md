@@ -306,3 +306,7 @@ Practice is key! Start with simple situations and gradually work your way up to 
 
 *   **Books on Design Thinking:** Explore resources on Design Thinking to delve deeper into empathy mapping and user-centered approaches, which are closely related to Role Storming.
 *   **Articles on Stakeholder Analysis:**  Learn more about stakeholder analysis techniques used in business and project management to enhance your role identification skills.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

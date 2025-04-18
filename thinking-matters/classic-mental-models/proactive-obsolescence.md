@@ -192,3 +192,7 @@ Individuals can apply it by continuously assessing their skills and knowledge ag
     *   Harvard Business Review articles on Innovation and Strategy
     *   Foresight blogs and publications (e.g., Institute for the Future, World Futures Studies Federation)
     *   Technology trend reports from consulting firms (e.g., McKinsey, Deloitte, Accenture)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -234,3 +234,7 @@ The core concepts of Complexity Theory are surprisingly intuitive and accessible
     *   *Adaptive Behavior* (SAGE Publications)
 
 These resources offer deeper dives into the theoretical foundations and advanced applications of Complexity Theory for those seeking further exploration.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

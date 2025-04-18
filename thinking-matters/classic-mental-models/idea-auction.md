@@ -280,3 +280,7 @@ While often used in team settings, the Idea Auction is highly adaptable for indi
 * **"Decision Quality: Value Creation from Better Decisions" by Carl Spetzler, Hannah Winter, and Jennifer Meyer:** A comprehensive guide to decision-making frameworks, including structured approaches to evaluating alternatives and managing uncertainty.
 * **"Innovator's Dilemma" by Clayton M. Christensen:**  Discusses disruptive innovation and the challenges of evaluating and prioritizing new ideas in established organizations, offering valuable insights into the context of idea selection.
 * **Research papers on Auction Theory in Economics and Game Theory:** For readers interested in the mathematical and theoretical foundations of auction mechanisms and competitive bidding.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

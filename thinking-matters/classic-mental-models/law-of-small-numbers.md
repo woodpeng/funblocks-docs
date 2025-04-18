@@ -225,3 +225,8 @@ Integrating the Law of Small Numbers into your thinking process is a valuable sk
 **7.2. Thinking Exercise: "Spot the Small Sample Fallacy" Worksheet:**
 
 **Instructions:** Read each scenario below and identify where the Law of Small Numbers is likely to be influencing someone's judgment.  Explain why it's a fallacy and suggest how to avoid it.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

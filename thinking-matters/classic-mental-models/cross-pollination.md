@@ -219,3 +219,7 @@ Some risks include superficial application ("idea tourism"), forcing irrelevant 
     * "Hidden Brain" by Shankar Vedantam (explores psychology and human behavior)
     * "TED Radio Hour" (features diverse ideas across disciplines)
     * "99% Invisible" (explores design and architecture, often drawing on diverse influences)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

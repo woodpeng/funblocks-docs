@@ -361,3 +361,7 @@ Building a positive Psychological Contract involves:
 *   **Articles:**
     *   Search for "Psychological Contract" on Google Scholar or JSTOR for academic articles and research papers.
     *   Harvard Business Review and other reputable business publications often feature articles related to employee engagement and the Psychological Contract in the workplace.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

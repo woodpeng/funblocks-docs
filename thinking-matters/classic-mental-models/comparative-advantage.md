@@ -359,3 +359,7 @@ Common mistakes include: focusing only on absolute advantage, ignoring opportuni
 * **"International Economics" by Paul Krugman, Maurice Obstfeld, and Marc Melitz:** A standard textbook for international trade theory, delving deeply into the theory and applications of Comparative Advantage in international trade.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** While not directly about Comparative Advantage, this book explores cognitive biases and decision-making, providing a broader context for understanding how mental models like Comparative Advantage can improve our thinking.
 * **Online resources:** Investopedia, Khan Academy, and economics blogs offer accessible explanations and examples of Comparative Advantage.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

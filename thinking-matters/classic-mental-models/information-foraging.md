@@ -321,3 +321,7 @@ Initially, consciously applying Information Foraging principles requires effort.
 *   **Research Paper:** "Information Foraging" by Peter Pirolli, Stuart Card, and Jock Mackinlay (1999). (The original paper introducing the model - more academic)
 *   **Website/Blog:** Search for articles and blog posts on "Information Foraging" in UX design, HCI, and cognitive science contexts. (Many practical applications are discussed in these fields)
 *   **Online Courses:** Explore courses on "Information Architecture," "User Experience Design," or "Information Retrieval" on platforms like Coursera or edX, which often touch upon Information Foraging principles.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -325,3 +325,7 @@ While generally beneficial, interleaving can feel more challenging and initially
 * **Research Paper:** "Interleaved Practice Enhances Memory and Problem-Solving Skill" by Doug Rohrer, Katherine A. Taylor, Robert F. Pashler, Hal Pashler, and Nicholas J. Cepeda - A seminal research paper demonstrating the benefits of interleaving in mathematics.
 * **Website/Blog:** "The Learning Scientists" (learningscientists.org) - Offers accessible articles and resources on evidence-based learning strategies, including interleaving.
 * **Online Course:** Search for online courses on "Learning How to Learn" or "Effective Learning Strategies" on platforms like Coursera or edX, many of which cover the Interleaving Effect.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -294,3 +294,7 @@ For readers seeking to delve deeper into First Principles Thinking and related c
     *   *Thinking, Fast and Slow* by Daniel Kahneman: While not directly about first principles, understanding cognitive biases (System 1 vs. System 2 thinking) helps appreciate why reasoning by analogy is common and first principles requires deliberate effort (System 2).
 *   **Online Learning:**
     *   Look for courses on critical thinking, problem-solving, or specific domains (like physics or economics) that emphasize foundational understanding. Platforms like Coursera, edX, or Khan Academy can be valuable resources.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

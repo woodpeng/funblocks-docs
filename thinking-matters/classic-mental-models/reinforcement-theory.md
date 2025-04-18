@@ -265,3 +265,7 @@ Here are some resources for further learning:
 *   **Websites and Articles:** Psychology Today, Verywell Mind, and Simply Psychology offer accessible articles and explanations of psychological concepts, including Reinforcement Theory. Search for "Reinforcement Theory," "Operant Conditioning," or "Behavioral Psychology."
 
 By continuing to explore these resources and actively applying Reinforcement Theory in your life, you can deepen your understanding and master this valuable mental model for shaping behavior and making better decisions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

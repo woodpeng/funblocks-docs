@@ -202,3 +202,7 @@ Simple ways to start include: using flashcards, self-quizzing with questions you
 * **Books:** "Make It Stick: The Science of Successful Learning" by Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel; "Understanding How We Learn: A Visual Guide" by Yana Weinstein and Megan Sumeracki.
 * **Websites/Blogs:** Learning Scientists website (www.learningscientists.org), RetrievalPractice.org.
 * **Research Papers:** Search for articles by Jeffrey Karpicke and Henry Roediger III on Google Scholar or academic databases to delve into the primary research on Retrieval Practice and the testing effect.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

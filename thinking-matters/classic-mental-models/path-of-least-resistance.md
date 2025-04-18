@@ -193,3 +193,7 @@ Practice and observation are key. Start by consciously looking for examples of t
     * Farnam Street Blog (fs.blog) - Offers numerous articles on mental models, including related concepts like systems thinking and heuristics.
     * LessWrong (lesswrong.com) - A community and website focused on rationality and cognitive biases, explores related concepts in depth.
     * Wikipedia articles on "Path of Least Resistance," "Thermodynamics," and "Systems Thinking" for foundational understanding.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -290,3 +290,7 @@ You can use Maslow's Hierarchy as a framework for self-reflection and personal g
 *   **Book:** "Motivation and Personality" by Abraham Maslow (The original and foundational text on Maslow's Hierarchy).
 *   **Article:** "A Theory of Human Motivation" by Abraham Maslow (Maslow's seminal 1943 paper introducing the hierarchy). Available online through academic databases and psychology resources.
 *   **Online Resources:** Reputable psychology websites like *Psychology Today*, *Verywell Mind*, and academic platforms like *JSTOR* and *Google Scholar* offer articles and research papers discussing Maslow's Hierarchy and related motivation theories. Look for critical analyses and modern interpretations of the model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

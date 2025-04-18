@@ -267,3 +267,7 @@ Start with relatable examples from everyday life that illustrate common biases, 
     *   *Judgment and Decision Making*
     *   *Behavioral and Brain Sciences*
     *   *Journal of Behavioral Economics*
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

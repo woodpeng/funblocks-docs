@@ -193,3 +193,7 @@ Not at all. While its origins are in engineering, Murphy's Law is universally ap
 * **Books:** "Thinking, Fast and Slow" by Daniel Kahneman (for broader context on cognitive biases and decision-making), "Antifragile: Things That Gain from Disorder" by Nassim Nicholas Taleb (for concepts of resilience and robustness).
 * **Articles:** Search online for articles and essays discussing risk management, contingency planning, and systems thinking.  Look for resources related to specific application areas of Murphy's Law that interest you (e.g., project management, cybersecurity, personal finance).
 * **Online Courses/Workshops:** Explore online platforms like Coursera, edX, or Udemy for courses on risk management, project management, and decision-making under uncertainty.  These can provide more structured learning and practical tools related to the principles underlying Murphy's Law.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

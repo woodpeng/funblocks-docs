@@ -302,3 +302,7 @@ It's perfectly normal to find Cognitive Reframing challenging at times, especial
     * Calm (offers mindfulness and CBT-based content)
 
 These resources can provide you with a deeper understanding of Cognitive Reframing and related techniques, helping you further develop your skills and integrate this powerful mental model into your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

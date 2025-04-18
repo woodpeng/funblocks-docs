@@ -295,3 +295,7 @@ By fostering these elements, you can create a mindset and organizational culture
 *   **"Lateral Thinking: Creativity Step by Step" by Edward de Bono:**  A classic guide to enhancing creative problem-solving and responding innovatively to triggers.
 *   **"Thinking in Systems: A Primer" by Donella H. Meadows:**  Provides a strong foundation in systems thinking, valuable for identifying systemic triggers for innovation.
 *   **"Creative Confidence: Unleashing the Creative Potential Within Us All" by David Kelley and Tom Kelley:**  Focuses on building creative confidence and cultivating a mindset receptive to innovation triggers.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

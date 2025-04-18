@@ -398,3 +398,7 @@ Yes, significantly. Anxiety often stems from feeling overwhelmed and out of cont
     *   Podcasts on mindfulness, stress management, and mental well-being that touch upon similar concepts.
 
 By exploring these resources, you can deepen your understanding of the Circle of Control and related concepts, further enhancing your ability to apply this powerful mental model in your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

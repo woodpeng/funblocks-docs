@@ -353,3 +353,7 @@ Yes, convergent thinking skills can and should be fostered in children from a yo
 * **Online Courses & Platforms:**
     * Platforms like Coursera, edX, and Udemy offer courses on critical thinking, problem-solving, and cognitive psychology that may cover convergent thinking in more detail.
     * Websites and blogs dedicated to mental models and cognitive biases often feature articles and resources on convergent thinking and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

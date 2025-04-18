@@ -286,3 +286,7 @@ Absolutely. What is considered "noise" or "signal" is highly context-dependent a
     * Wikipedia articles on "Signal-to-noise ratio," "Information Theory," and "Critical Thinking."
 
 By exploring these resources and continuously practicing the "Noise vs Signal" mental model, you can significantly enhance your critical thinking abilities and become a more effective information processor and decision-maker in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

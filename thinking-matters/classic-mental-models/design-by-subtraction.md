@@ -237,3 +237,7 @@ Start by consciously applying it in small, everyday situations (as suggested in 
 * **Videos and Documentaries:**
     * Documentaries about minimalism and minimalist lifestyles (e.g., *Minimalism: A Documentary About the Important Things*).
     * Interviews and talks with designers and thinkers who champion simplicity and clarity.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

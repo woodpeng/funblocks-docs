@@ -243,3 +243,7 @@ While brainstorming can be part of "What If Thinking," it's a broader mental mod
     * Farnam Street Blog (fs.blog) - Offers numerous articles on mental models, including related concepts like Second-Order Thinking and Scenario Planning.
     * LessWrong.com - A community and resource focused on rationality and effective thinking, with discussions relevant to hypothetical reasoning.
     * McKinsey.com - Consulting firm McKinsey often publishes articles and reports on scenario planning and strategic foresight in business.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

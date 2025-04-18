@@ -258,3 +258,7 @@ Practice and conscious observation are key.  Start by asking yourself "Who benef
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:**  A deep dive into cognitive biases and decision-making, providing the psychological foundation for understanding Incentive-Caused Bias.
 *   **"Freakonomics" by Steven D. Levitt and Stephen J. Dubner:**  A highly accessible exploration of how incentives shape behavior in unexpected ways across various domains.
 *   **"Nudge" by Richard H. Thaler and Cass R. Sunstein:**  Explores how to use behavioral economics principles, including incentives, to "nudge" people towards better choices.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

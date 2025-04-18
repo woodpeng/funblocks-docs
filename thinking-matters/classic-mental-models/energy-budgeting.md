@@ -216,3 +216,7 @@ If you consistently feel depleted of mental energy, it's important to address po
     * Courses on time management, productivity, mindfulness, and stress management platforms.
 
 By exploring these resources and continuing to practice Energy Budgeting, you can deepen your understanding and master this valuable mental model for greater cognitive effectiveness and overall well-being.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

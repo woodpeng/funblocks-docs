@@ -215,3 +215,7 @@ While there isn't one definitive book solely dedicated to "Concept Creep," you c
 *   **Sociology & Political Science:** Works on social change, normalization, and the evolution of societal norms can offer broader perspectives.
 
 By exploring these areas and continuing to observe and analyze the world around you through the lens of Concept Creep, you can deepen your understanding and mastery of this valuable mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

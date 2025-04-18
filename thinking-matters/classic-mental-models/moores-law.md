@@ -205,3 +205,7 @@ You can use Moore's Law as a mental model to anticipate future technological cap
 *   **"Exponential Organizations" by Salim Ismail, Michael S. Malone, and Yuri van Geest:**  Discusses how organizations can leverage exponential technologies and growth patterns.
 *   **"Life 3.0: Being Human in the Age of Artificial Intelligence" by Max Tegmark:**  Explores the broader societal implications of rapidly advancing technologies, driven in part by Moore's Law.
 *   **Websites and Publications:**  Stay updated on technology news and trends through reputable sources like *Wired*, *TechCrunch*, *MIT Technology Review*, and *The Economist*'s technology section.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

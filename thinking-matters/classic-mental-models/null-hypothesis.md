@@ -455,3 +455,7 @@ We encourage you to integrate the Null Hypothesis mental model into your everyda
 *   **Online Courses:** Coursera and edX offer courses on statistics and hypothesis testing from universities worldwide. Khan Academy also has excellent free resources on statistics.
 *   **Websites:** StatQuest with Josh Starmer (YouTube channel and website) explains statistical concepts in a clear and engaging way.
 *   **Books on Critical Thinking:** "Thinking, Fast and Slow" by Daniel Kahneman, "The Demon-Haunted World" by Carl Sagan.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

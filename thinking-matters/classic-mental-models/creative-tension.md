@@ -364,3 +364,7 @@ It's natural to feel discouraged if your Current Reality assessment reveals sign
 *   **"Presence: Human Purpose and Field of the Future" by Peter Senge, C. Otto Scharmer, Joseph Jaworski, and Betty Sue Flowers:** Explores deeper aspects of presence, awareness, and intention in relation to creating desired futures.
 *   **"The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization" by Peter Senge, Richard Ross, Bryan Smith, Charlotte Roberts, and Art Kleiner:** A practical guide with tools and exercises for applying the principles of "The Fifth Discipline," including Creative Tension.
 *   **"Leading Change" by John Kotter:**  While not directly focused on Creative Tension, Kotter's work on change management complements the model by providing insights into leading organizational transformations.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

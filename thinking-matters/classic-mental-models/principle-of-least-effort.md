@@ -201,3 +201,7 @@ Start by identifying areas in your life where you want to be more efficient. Ana
 *   **Book:** *Thinking, Fast and Slow* by Daniel Kahneman. (Explores cognitive biases and heuristics, related to effort minimization in thinking).
 *   **Article:** "Zipf's Law" on Wikipedia. (Provides a good overview of Zipf's Law and its connection to the Principle of Least Effort).
 *   **Online Course/Resource:** Courses or articles on "Productivity," "Time Management," and "Behavioral Economics" often touch upon concepts related to efficiency and effort minimization.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

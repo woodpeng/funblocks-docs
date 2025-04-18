@@ -239,3 +239,7 @@ Start by encouraging questioning and curiosity. Teach children to ask "why?" and
     *   "Obedience to Authority" by Stanley Milgram
 *   **Academic Articles:** Search for research papers on "Authority Heuristic," "Obedience to Authority," and "Social Influence" in academic databases like Google Scholar or JSTOR.
 *   **Websites and Online Courses:** Explore websites like the "Behavioral Economics" website or platforms like Coursera and edX for courses on cognitive biases and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

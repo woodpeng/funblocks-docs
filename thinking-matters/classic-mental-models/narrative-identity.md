@@ -218,3 +218,7 @@ No, there is no single "right" or "wrong" Narrative Identity.  The goal is not t
     * Podcasts and interviews with experts in narrative psychology.
 
 By exploring these resources and continuing to reflect on your own narrative, you can deepen your understanding of this powerful mental model and its transformative potential.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

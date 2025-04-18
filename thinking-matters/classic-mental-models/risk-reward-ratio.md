@@ -273,3 +273,7 @@ One of the most common mistakes is focusing solely on the potential reward and m
 
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** Explores the psychology of decision-making and cognitive biases, providing a deeper understanding of how our minds process risk and reward.
 *   **"The Intelligent Investor" by Benjamin Graham:** A classic text on value investing, emphasizing the importance of margin of safety and risk management in investment decisions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

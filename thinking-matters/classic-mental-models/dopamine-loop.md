@@ -244,3 +244,8 @@ While it's generally beneficial to cultivate positive dopamine loops, it's impor
     *   Articles on neuroscience and dopamine from reputable sources like Psychology Today, Scientific American, and NIH websites.
 *   **Online Courses:**
     *   Courses on habit formation and behavioral psychology platforms like Coursera, edX, and Udemy.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

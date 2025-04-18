@@ -206,3 +206,7 @@ To improve estimations with Hofstadter's Law, follow these steps:
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** Provides a deep dive into cognitive biases, including the Planning Fallacy, which underlies the principles of Hofstadter's Law.
 * **"Project Management Body of Knowledge (PMBOK Guide)" by Project Management Institute (PMI):**  Offers comprehensive methodologies and techniques for project planning and estimation, providing a broader context for applying Hofstadter's Law within formal project management frameworks.
 * **Articles and Research Papers on Cognitive Biases in Project Estimation:** Explore academic literature on cognitive biases that affect project planning to gain a deeper understanding of the psychological roots of estimation errors and how to mitigate them.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

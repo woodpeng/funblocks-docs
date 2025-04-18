@@ -274,3 +274,7 @@ No, Path Dependence is not inherently negative.  It can lead to both positive an
     * Santa Fe Institute website (for W. Brian Arthur's work)
     * Stanford University's Economics Department website (for Paul David's research)
     * Investopedia and other financial literacy websites often have accessible explanations of Path Dependence in business and economics.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

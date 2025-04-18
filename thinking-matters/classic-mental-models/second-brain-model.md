@@ -378,3 +378,7 @@ Not at all! Life happens, and it's normal to have periods where you're less cons
 * **Praxis Blog:**  Blog with in-depth articles and practical advice on building a Second Brain.
 * **YouTube Channels:** Search for "Second Brain" on YouTube for tutorials, workflow examples, and community discussions.
 * **Online Communities:** Explore online forums and communities dedicated to personal knowledge management and the Second Brain Model (e.g., Reddit, Discord).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -243,3 +243,7 @@ Marketers frequently use Anchoring Bias to make products seem more appealing.  "
 * **"Predictably Irrational" by Dan Ariely:**  A fascinating and engaging book that delves into the various ways we make irrational decisions, including the influence of anchors.
 * **Research papers by Tversky and Kahneman:**  For a deeper dive into the original research, search for academic papers by Amos Tversky and Daniel Kahneman on "judgment under uncertainty" and "anchoring and adjustment."
 * **Behavioral Economics websites and blogs:** Websites and blogs dedicated to behavioral economics often feature articles and discussions on Anchoring Bias and related cognitive biases.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

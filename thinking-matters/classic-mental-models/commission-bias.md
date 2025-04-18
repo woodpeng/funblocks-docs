@@ -217,3 +217,7 @@ In very rare and specific circumstances, Commission Bias might offer a short-ter
 
 * **Research Papers:**
     * Search academic databases (like JSTOR or Google Scholar) for research papers on "Action Bias," "Omission Bias," and related topics in behavioral economics and psychology.  Look for papers by researchers like Ilana Ritov, Jonathan Baron, Daniel Kahneman, and Amos Tversky.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

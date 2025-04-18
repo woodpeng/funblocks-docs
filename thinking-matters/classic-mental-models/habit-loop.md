@@ -292,3 +292,7 @@ Like any powerful tool, the Habit Loop can be used ethically or unethically.  Us
 *   **Website/Blog:** JamesClear.com - Offers numerous articles and resources on habit formation, productivity, and self-improvement, often referencing the Habit Loop.
 *   **Research Papers:** Search for scientific articles on "basal ganglia and habit formation" or "neural mechanisms of procedural learning" on databases like PubMed or Google Scholar for a deeper dive into the neuroscience behind habits.
 *   **TED Talks and YouTube Videos:** Search for "Charles Duhigg Habit Loop" or "Habit Formation" on YouTube or TED.com for accessible video explanations and discussions of the concept.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -301,3 +301,7 @@ While there isn't specific "Nonlinear Thinking software," various tools can supp
     *   Online communities and forums dedicated to Systems Thinking and Complexity Science can provide opportunities for discussion and learning.
 
 By exploring these resources and continuing to practice applying Nonlinear Thinking, you can deepen your understanding and master this valuable mental model for navigating the complexities of our world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

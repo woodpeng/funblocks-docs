@@ -303,3 +303,7 @@ Yes, individual differences exist. Personality traits like narcissism and sensat
     * Articles on behavioral economics and cognitive biases from websites like Psychology Today, BehavioralEconomics.com, and Farnam Street Blog.
 * **Online Courses and Platforms:**
     * Courses on behavioral economics, cognitive psychology, and decision-making on platforms like Coursera, edX, and Khan Academy.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

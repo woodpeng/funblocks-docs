@@ -252,3 +252,7 @@ For those seeking a deeper understanding of the Focusing Illusion and related co
 * **"Misbehaving: The Making of Behavioral Economics" by Richard Thaler:** This book offers a broader context for understanding the development of behavioral economics, including the contributions of Kahneman and Tversky, and provides further insights into the real-world applications of cognitive biases.
 * **Websites and Blogs on Mental Models and Cognitive Biases:** Explore online resources like Farnam Street (fs.blog), LessWrong, and others that delve into various mental models and cognitive biases, often providing practical examples and strategies for application.
 * **Academic Journals in Behavioral Economics and Psychology:** For the most in-depth and current research, explore journals like the *Journal of Behavioral Economics*, *Psychological Science*, and *Cognition*, searching for articles related to "Focusing Illusion," "cognitive biases," and "decision-making."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

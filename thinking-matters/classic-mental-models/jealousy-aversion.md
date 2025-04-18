@@ -238,3 +238,7 @@ Absolutely! In fact, Jealousy Aversion might be even *more* important in online 
 *   **Articles and Online Resources:**
     *   Search for articles on "social comparison theory," "envy in social psychology," and "humility in leadership."
     *   Explore online resources on effective communication, interpersonal skills, and emotional intelligence.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

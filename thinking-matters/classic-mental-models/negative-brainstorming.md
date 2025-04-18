@@ -232,3 +232,7 @@ Start by understanding the core principles, follow the step-by-step guide provid
     * Resources on "Risk Management" and "Scenario Planning" (Project Management Institute, business strategy websites)
 
 By exploring these resources, you can deepen your understanding of related concepts and further enhance your mastery of Negative Brainstorming.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

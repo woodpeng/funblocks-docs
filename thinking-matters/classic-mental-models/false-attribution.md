@@ -247,3 +247,7 @@ For those seeking a deeper dive into the concepts related to False Attribution, 
 * **"Social Psychology" by David Myers and Jean Twenge (or similar Social Psychology textbooks):**  Provides a broad overview of attribution theory, social perception, and related concepts within the field of social psychology.
 
 * **Research articles on Attribution Theory and Fundamental Attribution Error:** Search academic databases like JSTOR, PubMed, or Google Scholar for recent research on these topics to explore the latest findings and nuances in the field.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -263,3 +263,8 @@ For those interested in delving deeper into the Horn Effect and related cognitiv
     * Farnam Street (fs.blog): Offers articles and resources on mental models, including discussions of cognitive biases like the Horn Effect.
     * Psychology Today (psychologytoday.com): Provides accessible articles on various psychological topics, including cognitive biases and impression formation.
     * Wikipedia and other online encyclopedias: Offer introductory overviews of the Horn Effect and related concepts, providing starting points for further research.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

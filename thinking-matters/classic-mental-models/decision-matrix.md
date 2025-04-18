@@ -319,3 +319,7 @@ To deepen your understanding of Decision Matrices and related decision-making te
 *   **Academic Resources:** For a more in-depth understanding, explore academic papers and research in the fields of operations research, management science, and decision theory.
 
 By continuously learning and practicing, you can become more proficient in using the Decision Matrix and enhance your overall decision-making skills.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

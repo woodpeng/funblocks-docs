@@ -209,3 +209,8 @@ In a world that often feels relentless, embracing the concept of surge capacity 
     * Explore resources from organizations focused on mental health and well-being, such as the American Psychological Association (APA) and the National Institute of Mental Health (NIMH).
 * **Online Courses and Workshops:**
     * Platforms like Coursera, edX, and Udemy offer courses on stress management, resilience building, and mindfulness practices.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

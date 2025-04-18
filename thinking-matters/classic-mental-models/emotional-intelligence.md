@@ -312,3 +312,7 @@ The benefits of EQ in the workplace are numerous. It leads to improved teamwork,
 *   *Psychology Today* articles on Emotional Intelligence
 *   The Consortium for Research on Emotional Intelligence in Organizations (www.eiconsortium.org)
 *   MindTools resources on Emotional Intelligence (www.mindtools.com)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

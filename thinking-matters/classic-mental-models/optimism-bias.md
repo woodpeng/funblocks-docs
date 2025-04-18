@@ -193,3 +193,7 @@ Research suggests some cultural variations in the expression and acceptance of o
 * **Book:** "The Optimism Bias: A Tour of the Irrationally Positive Brain" by Tali Sharot
 * **Book:** "Thinking, Fast and Slow" by Daniel Kahneman (relevant sections on cognitive biases)
 * **Article:** "Unrealistic Optimism About Future Life Events: A Further Test of the Theoretical Distinction Between Uncontrollable and Controllable Events" by Neil D. Weinstein (Journal of Personality and Social Psychology, 1989)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -252,3 +252,8 @@ Focus on connecting users and creating value from those connections.  Identify u
     *   "Understanding and Profiting from Network Effects: A Guide for Managers" by Harvard Business Review
     *   Blog posts and articles by venture capitalists and tech strategists on platforms like Andreessen Horowitz, First Round Review, and Stratechery (Ben Thompson).
     *   Academic papers on network economics and platform strategy available on Google Scholar and research databases.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -314,3 +314,7 @@ The SPS model is versatile and can be effectively used for both analytical and c
 * **Online Articles and Websites:**
     * Farnam Street (fs.blog) - Articles and resources on mental models and decision-making.
     * LessWrong (lesswrong.com) - Community and articles on rationality, cognitive biases, and effective thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

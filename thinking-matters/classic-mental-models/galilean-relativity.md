@@ -281,3 +281,7 @@ Start by consciously practicing perspective-taking.  When faced with a disagreem
     * Coursera and edX (Online courses on physics and critical thinking)
 
 By exploring these resources and continuing to practice applying Galilean Relativity, you can further deepen your understanding and enhance your ability to think critically and effectively in a world of diverse perspectives.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

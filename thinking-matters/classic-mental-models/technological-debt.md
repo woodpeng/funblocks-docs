@@ -242,3 +242,7 @@ Prevention is better than cure. Avoid accumulating excessive debt by emphasizing
 *   **Martin Fowler on Technical Debt:** Explore articles and talks by Martin Fowler on his website (martinfowler.com) related to refactoring and technical debt. He provides in-depth explanations and practical guidance.
 *   **Books on Software Architecture and Design:** Books like "Clean Code" by Robert C. Martin and "Refactoring" by Martin Fowler offer valuable insights into preventing and managing technical debt in software development, and many principles are transferable to other domains.
 *   **Online Articles and Blogs:** Search for "Technological Debt management," "Agile technical debt," or "business technical debt" to find numerous articles and blog posts offering diverse perspectives and practical advice on managing debt in various contexts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

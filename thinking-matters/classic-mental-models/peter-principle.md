@@ -229,3 +229,7 @@ By integrating the Peter Principle into our thinking processes, we can move beyo
 * **Articles:** Search for academic articles and management publications discussing "Peter Principle," "organizational incompetence," and "promotion strategies."
 * **Websites/Blogs:** Explore websites and blogs dedicated to mental models, organizational behavior, and career development, often featuring discussions and applications of the Peter Principle.
 * **Online Courses:** Look for online courses on leadership, management, and organizational behavior, which may include modules or sections dedicated to understanding and mitigating the Peter Principle.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

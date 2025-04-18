@@ -284,3 +284,7 @@ While high cognitive flexibility is generally beneficial, excessive flexibility 
     * Online courses on learning platforms like Coursera or edX that cover topics like cognitive psychology, executive functions, or learning skills.
 
 By exploring these resources and continuing your journey of learning and practice, you can deepen your understanding of cognitive flexibility and further enhance your mental agility.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -356,3 +356,7 @@ You can improve your metaphorical thinking skills by:
 *   **Article:** "The Contemporary Theory of Metaphor" by Zoltán Kövecses (A comprehensive overview of contemporary metaphor theory).
 *   **Website:** The Conceptual Metaphor Home Page (Resources and information related to conceptual metaphor theory).
 *   **Online Course:** Consider searching for online courses or lectures on cognitive linguistics or metaphor theory on platforms like Coursera or edX.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

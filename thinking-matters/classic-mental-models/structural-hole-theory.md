@@ -208,3 +208,7 @@ While brokerage often brings advantages, it's not always automatically beneficia
 * **Burt, R. S. (2005). *Brokerage and closure: An introduction to social capital*. Oxford university press.** (A more accessible overview of Burt's work and related concepts)
 * **Granovetter, M. S. (1973). The strength of weak ties. *American journal of sociology*, *78*(6), 1360-1380.** ([Weak Ties](/thinking-matters/classic-mental-models/weak-ties) are fundamental to understanding structural holes)
 * **Lin, N. (2001). *Social capital: A theory of social structure and action*. Cambridge university press.** (Provides a broader context of social capital and network theory)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

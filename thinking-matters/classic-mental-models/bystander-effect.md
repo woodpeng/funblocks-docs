@@ -179,3 +179,7 @@ While anyone can be susceptible to the Bystander Effect, individual differences 
 * **"The Responsive Bystander: Why Do People Help in Emergencies?" by John Darley and Bibb Latané (1970).**  A foundational book detailing their original research.
 * **"Bystander Behavior: Classic Theory and Current Issues" edited by Robert Levine and Allen Nidiffer (2014).** A more recent collection of essays exploring various facets of bystander research.
 * **Articles and research papers by social psychologists such as Catherine Sanderson, C. Daniel Batson, and Ervin Staub.**  Further explore contemporary research and applications of bystander intervention.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

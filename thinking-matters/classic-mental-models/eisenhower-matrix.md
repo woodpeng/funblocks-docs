@@ -261,3 +261,7 @@ Yes, you can absolutely use it for both short-term and long-term planning! While
     * Websites dedicated to mental models and thinking frameworks often include detailed explanations of the Eisenhower Matrix.
 * **Apps & Tools:**
     * Task management apps with Eisenhower Matrix templates or quadrant tagging features (search app stores for "Eisenhower Matrix app").
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

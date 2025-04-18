@@ -317,3 +317,7 @@ Choose metrics relevant to your specific creative goals and context.  Remember t
     * MIT Sloan Management Review (Innovation and Systems Thinking articles)
 
 By continuously learning and applying the principles of Systemic Creativity, you can unlock your own creative potential and become a more effective innovator and problem-solver in an increasingly complex world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

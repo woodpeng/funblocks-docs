@@ -258,3 +258,7 @@ In a world often fixated on extremes, Regression to the Mean provides a valuable
 * **Online Statistics Courses (e.g., Coursera, edX):**  For a deeper dive into statistical concepts, consider taking introductory courses in statistics and probability.
 
 By continually learning and practicing, you can effectively integrate Regression to the Mean into your mental toolkit and enhance your ability to navigate the complexities of the world around you.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -296,3 +296,7 @@ No, it's not realistic or even necessarily desirable to eliminate dissonance ent
 *   **Cooper, J. (2007). *Cognitive dissonance: Fifty years of classic theory*. Sage Publications.** (A comprehensive overview of the theory and its evolution)
 *   **Tavris, C., & Aronson, E. (2007). *Mistakes were made (but not by me): Why we justify foolish beliefs, bad decisions, and hurtful acts*. Harcourt.** (A highly readable and engaging exploration of dissonance in everyday life)
 *   **Harmon-Jones, E., & Mills, J. (Eds.). (2019). *Cognitive dissonance theory: Revisiting a classic*. American Psychological Association.** (An edited volume presenting contemporary perspectives on the theory)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

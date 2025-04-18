@@ -261,3 +261,7 @@ Ultimately, mastering System 1 and System 2 Thinking is about developing cogniti
 *   **Article:** "Individual differences in reasoning: Implications for the rationality debate?" by Keith E. Stanovich and Richard F. West (2000)
 *   **Online Course:** Coursera and edX offer courses on behavioral economics and cognitive psychology that often cover System 1 and System 2 Thinking.
 *   **Website:**  LessWrong (lesswrong.com) – a community and website dedicated to rationality, cognitive biases, and improving thinking, often discussing System 1 and System 2 concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

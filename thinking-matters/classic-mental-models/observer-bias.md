@@ -251,3 +251,8 @@ It's challenging to definitively know if you are experiencing Observer Bias in t
 *   **Websites:**  [LessWrong](https://www.lesswrong.com/), [Effectiviology](https://effectiviology.com/), [The Decision Lab](https://thedecisionlab.com/).
 *   **Online Courses:** Platforms like Coursera, edX, and Udacity offer courses on cognitive psychology, behavioral economics, and critical thinking that cover Observer Bias and related concepts.
 *   **Academic Articles:** Search for "Observer Bias," "Experimenter Bias," "Confirmation Bias," and "Cognitive Bias" in academic databases like Google Scholar, JSTOR, or PubMed.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

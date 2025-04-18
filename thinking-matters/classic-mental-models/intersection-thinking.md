@@ -262,3 +262,8 @@ This simple worksheet can help you practice applying Intersection Thinking to a 
         *   _________________________
 
 **Intersection Insights:** (How can you combine the key concepts and perspectives from these different disciplines to reframe the problem or generate new solutions?)
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

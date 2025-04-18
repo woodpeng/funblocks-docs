@@ -222,3 +222,8 @@ Other examples include:
 * **Online Resources:**
     * Websites and blogs focusing on behavioral economics, social psychology, and mental models often discuss Behavioral Contagion.
     * TED Talks and YouTube videos by experts in social influence and behavioral science can provide accessible explanations.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

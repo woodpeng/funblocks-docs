@@ -360,3 +360,7 @@ Avoid these pitfalls by being specific, realistic, flexible, present-focused, an
 *   **Articles:**
     *   "Backcasting for sustainability transitions: introduction to the special issue" by John B. Robinson (Journal of Cleaner Production)
     *   "Visioning and backcasting for sustainable development: a synthesis of approaches and experiences" by Jill Jepson, John B. Robinson, and Dana VanNijnatten (Sustainability Science)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

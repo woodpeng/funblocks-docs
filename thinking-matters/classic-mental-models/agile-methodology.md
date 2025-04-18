@@ -274,3 +274,7 @@ Start by highlighting the benefits of Agile, such as increased adaptability, fas
 * **"Agile Software Development with Scrum" by Ken Schwaber and Mike Beedle:** A classic book on Scrum.
 * **"Lean Thinking" by James P. Womack and Daniel T. Jones:**  A foundational book on Lean principles that heavily influenced Agile.
 * **"The Principles of Product Development Flow: Second Generation Lean Product Development" by Donald G. Reinertsen:** A deeper dive into Lean product development principles.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

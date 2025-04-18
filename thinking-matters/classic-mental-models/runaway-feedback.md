@@ -220,3 +220,8 @@ For deeper understanding, explore resources on:
 *   **Cybernetics:**  "Cybernetics: Or Control and Communication in the Animal and the Machine" by Norbert Wiener (more academic, but foundational).
 *   **Complexity Science:**  "Complexity: A Guided Tour" by Melanie Mitchell and "Linked" by Albert-Laszlo Barabasi.
 *   **Climate Change Science:** IPCC reports and resources from organizations like NASA and NOAA for understanding climate feedback loops.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

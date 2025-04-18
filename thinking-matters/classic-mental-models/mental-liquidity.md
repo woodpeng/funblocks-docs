@@ -254,3 +254,7 @@ Reflecting on these questions and tracking your progress in practicing the exerc
     * Workshops and training programs focused on leadership agility and adaptive leadership.
 
 By exploring these resources and continuing to practice the principles of Mental Liquidity, you can deepen your understanding and further enhance your cognitive agility for navigating the complexities of the world around you.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

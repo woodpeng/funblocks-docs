@@ -220,3 +220,7 @@ Becoming aware of the concept is the first step.  Reflect on your own purchasing
 * **Book:** "Luxury Fever: Why Money Fails to Satisfy in an Era of Excess" by Robert H. Frank
 * **Article:** "Conspicuous Consumption" entry in the *New Palgrave Dictionary of Economics*
 * **Online Course:** Courses on Consumer Behavior or Behavioral Economics (platforms like Coursera, edX, etc.) - search for keywords like "consumer behavior," "marketing psychology," or "behavioral economics."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

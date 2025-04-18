@@ -214,3 +214,7 @@ The model highlights the subjective and constructed nature of our understanding,
 *   **"General Semantics Bulletin":** A journal dedicated to exploring and applying the principles of General Semantics.
 *   **Works by S.I. Hayakawa:** Hayakawa popularized General Semantics and made it more accessible to a wider audience. His books, like "Language in Thought and Action," are excellent introductions.
 *   **Books on Mental Models and Critical Thinking:** Explore resources that delve into various mental models and critical thinking techniques, placing "The Map is Not the Territory" within a broader framework of cognitive tools.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

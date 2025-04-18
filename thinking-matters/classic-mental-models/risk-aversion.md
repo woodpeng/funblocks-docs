@@ -279,3 +279,7 @@ While risk aversion is a deeply ingrained tendency, you can learn to manage and 
 * **Online Resources:**
     * Behavioral Economics websites and blogs
     * Financial psychology resources and articles
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

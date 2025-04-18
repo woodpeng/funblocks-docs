@@ -190,3 +190,8 @@ Loss aversion and risk aversion are related but distinct concepts. Risk aversion
     *   BehavioralEconomics.com: A comprehensive resource on behavioral economics, with articles and explanations of loss aversion and related concepts.
     *   The Decision Lab: Offers articles and insights on cognitive biases and decision-making, including detailed explanations of loss aversion.
     *   Research papers on Prospect Theory and Loss Aversion available on academic databases like Google Scholar and JSTOR.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

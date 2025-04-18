@@ -304,3 +304,8 @@ Use simple, relatable examples from their daily lives.  For instance, discuss a 
 *   **Academic Articles:**
     *   Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. In L. Berkowitz (Ed.), *Advances in experimental social psychology* (Vol. 10, pp. 173-220). Academic Press. (The original paper introducing the Fundamental Attribution Error)
     *   Gilbert, D. T., & Malone, P. S. (1995). The correspondence bias. *Psychological Bulletin, 117*(1), 21-38. (A comprehensive review of research on the correspondence bias, another term for the Fundamental Attribution Error)
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

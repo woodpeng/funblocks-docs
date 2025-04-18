@@ -239,3 +239,7 @@ No, forgetting is a natural and unavoidable part of memory.  The goal isn't to e
 *   **"Spaced Repetition for Efficient Learning: Cognitive Psychology, Ebbinghaus Forgetting Curve, and Algorithm Implementation" by Piotr Wozniak (1990):** A more technical paper delving into the cognitive psychology and algorithmic implementation of spaced repetition systems. (Academic/Technical)
 *   **Anki Spaced Repetition Software:** Explore and experiment with this popular and powerful free software to practically apply spaced repetition in your learning. (Tool/Practical)
 *   **RemNote:** Another powerful note-taking and spaced repetition tool that integrates learning and recall within a single platform. (Tool/Practical)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -250,3 +250,7 @@ Individuals can become more algorithmically aware, critically evaluate the syste
     *   "Fairness and Explainability in AI" (Coursera)
     *   MIT Technology Review articles on AI Bias
     *   ProPublica series on Machine Bias
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

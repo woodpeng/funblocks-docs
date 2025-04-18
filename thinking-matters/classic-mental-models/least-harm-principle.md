@@ -200,3 +200,7 @@ Like any principle, the Least Harm Principle can be misused or misinterpreted.  
     * Ethics Unwrapped (University of Texas at Austin): Offers accessible resources and videos on various ethical concepts, including harm and ethical decision-making.
 
 By continuing to learn and explore these resources, you can deepen your understanding of the Least Harm Principle and further refine your ability to apply it effectively in your life and work.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

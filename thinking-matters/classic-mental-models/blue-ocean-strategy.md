@@ -282,3 +282,7 @@ For readers seeking to delve deeper into Blue Ocean Strategy:
     *   [www.blueoceanstrategy.com](https://www.blueoceanstrategy.com) - Offers articles, case studies, tools, and information about workshops and initiatives.
 *   **Academic Articles:**
     *   Search academic databases (like Harvard Business Review, MIT Sloan Management Review) for articles authored by W. Chan Kim and Renée Mauborgne for foundational research and further insights.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

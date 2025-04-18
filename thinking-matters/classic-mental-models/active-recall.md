@@ -256,3 +256,8 @@ Ready to start using Active Recall? Here's a step-by-step guide and practical ti
    e) _________________________ (Optional)
 
 2. **Explain Concept 1 in Your Own Words:**  Choose one concept from the list above and explain it in simple terms, as if you were teaching it to someone who knows nothing about the topic.  ( *Active Recall & Elaboration Step: Retrieve and explain, simplifying for understanding*)
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

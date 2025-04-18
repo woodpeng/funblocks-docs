@@ -253,3 +253,7 @@ Moral licensing can affect both big and small ethical decisions. While the examp
 * **Merritt, A. C., Effron, D. A., & Monin, B. (2010). Moral self-licensing: When being good frees us to be bad. *Social and Personality Psychology Compass, 4*(5), 333-344.** (A comprehensive review of the moral licensing literature)
 * **Miller, D. T., & Monin, B. (2016). Moral credentials and the expression of prejudice. *Perspectives on Psychological Science, 11*(2), 253-269.** (Explores the link between moral licensing and prejudice expression)
 * **Khan, U., & Dhar, R. (2006). Licensing effect in consumer choice. *Journal of Marketing Research, 43*(2), 259-268.** (Examines moral licensing in the context of consumer behavior)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

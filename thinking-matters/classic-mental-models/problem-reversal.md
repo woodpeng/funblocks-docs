@@ -317,3 +317,7 @@ The core concept of Problem Reversal is simple to understand. However, like any 
 * **"Seeking Wisdom: From Darwin to Munger" by Peter Bevelin:** Explores a wide range of mental models, including related concepts like inversion and negative thinking, within a framework of rational decision-making.
 * **Articles and Essays by Shane Parrish at Farnam Street (fs.blog):** Farnam Street is a leading resource on mental models, and Shane Parrish often discusses inversion and related thinking techniques in his articles and podcasts.
 * **"The Art of Problem Solving" by Russell L. Ackoff:** While a broader text on systems thinking and problem-solving, Ackoff's work touches upon the importance of reframing problems and considering different perspectives, which resonates with Problem Reversal.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

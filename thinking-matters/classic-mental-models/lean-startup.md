@@ -298,3 +298,7 @@ The ideal cycle length depends on the context and the type of experiment.  The g
 *   **Website:** Lean Startup Co. ([https://leanstartup.co/](https://leanstartup.co/))
 *   **Online Course:** "How to Build a Startup" by Steve Blank (available on platforms like Udacity)
 *   **Blog:** Steve Blank's Blog ([https://steveblank.com/](https://steveblank.com/))
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

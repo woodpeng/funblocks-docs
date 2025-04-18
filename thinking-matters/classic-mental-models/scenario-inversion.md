@@ -302,3 +302,7 @@ A: No mental model can guarantee success.  Scenario Inversion is a tool to *incr
 * **"Thinking, Fast and Slow" by Daniel Kahneman** - To understand cognitive biases and how mental models can improve decision-making.
 * **"The Black Swan: The Impact of the Highly Improbable" by Nassim Nicholas Taleb** - For a deeper understanding of unpredictable events and the limits of prediction, relevant to the limitations of Scenario Inversion.
 * **"Seeking Wisdom: From Darwin to Munger, 3rd Edition" by Peter Bevelin** -  A comprehensive guide to various mental models, including inversion, with practical applications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

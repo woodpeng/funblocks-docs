@@ -203,3 +203,7 @@ Let's apply bounded rationality to a common decision: finding an apartment.
 **Instructions:**  Imagine you need to find a new apartment in a month.  Use the following worksheet to apply bounded rationality principles.
 
 | Step | Action                                         | Your Notes & Considerations
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

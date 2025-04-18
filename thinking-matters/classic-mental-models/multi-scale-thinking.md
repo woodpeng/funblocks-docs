@@ -329,3 +329,8 @@ We encourage you to actively integrate Multi-Scale Thinking into your everyday c
     * The Systems Thinking Society
     * The Santa Fe Institute
     * The International Society for the Systems Sciences (ISSS)
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

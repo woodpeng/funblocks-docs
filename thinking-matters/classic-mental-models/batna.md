@@ -1,5 +1,5 @@
 ---
-title: batna
+title: BATNA
 ---
 
 # Unlock Your Negotiation Power: Mastering the Mental Model of BATNA
@@ -280,3 +280,7 @@ While knowing the other party's BATNA is not *essential*, it's highly advantageo
 *   **Book:** *Getting Past No: Negotiating Your Way from Confrontation to Cooperation* by William Ury - A follow-up to "Getting to Yes," focusing on navigating difficult negotiations and dealing with challenging personalities.
 *   **Website:** The Harvard Negotiation Project - [https://www.pon.harvard.edu/](https://www.pon.harvard.edu/) - The official website of the Harvard Negotiation Project, offering resources, articles, and programs on negotiation and conflict resolution.
 *   **Article:** "BATNA: Best Alternative to a Negotiated Agreement" - [https://www.pon.harvard.edu/daily/batna/batna-best-alternative-negotiated-agreement/](https://www.pon.harvard.edu/daily/batna/batna-best-alternative-negotiated-agreement/) - A concise article from the Program on Negotiation at Harvard Law School explaining BATNA.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

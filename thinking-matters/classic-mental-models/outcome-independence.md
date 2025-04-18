@@ -260,3 +260,7 @@ No, developing Outcome Independence is a gradual process that requires conscious
     *   Happier with Gretchen Rubin (often discusses related concepts)
 
 By exploring these resources and continuing to practice Outcome Independence, you can deepen your understanding and further integrate this powerful mental model into your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

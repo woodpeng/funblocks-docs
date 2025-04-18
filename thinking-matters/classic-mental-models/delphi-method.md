@@ -304,3 +304,7 @@ As you integrate the Delphi Method into your thinking toolkit, remember its limi
 *   **"Forecasting and Management of Technology" by Alan L. Porter et al.:** A broader textbook on technology forecasting that includes a detailed chapter on the Delphi Method within the context of various forecasting techniques.
 *   **Journal of Technological Forecasting and Social Change:** A leading academic journal that frequently publishes research articles using and exploring the Delphi Method in various domains.
 *   **RAND Corporation Reports on Delphi Method:** Explore the RAND Corporation's website for original research reports and publications on the Delphi Method, tracing its historical development and early applications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

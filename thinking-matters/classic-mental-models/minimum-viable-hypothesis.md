@@ -388,3 +388,7 @@ Yes, MVH is particularly useful for complex problems.  Break down the complex pr
     *   Workshops and training programs offered by Lean Startup Co. and Strategyzer.
 
 By exploring these resources and continuing to practice applying the Minimum Viable Hypothesis, you can deepen your understanding and master this powerful mental model for smarter decision-making and continuous learning.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -260,3 +260,7 @@ For deeper reading, consider books like "The Black Swan" and "Fooled by Randomne
     *   Coursera and edX offer courses on network science and complex systems that often cover Power Law Distributions.
     *   arXiv.org is a repository for scientific preprints where you can find research papers on Power Laws.
     *   Wikipedia and Scholarpedia entries on "Power Law" and related topics.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

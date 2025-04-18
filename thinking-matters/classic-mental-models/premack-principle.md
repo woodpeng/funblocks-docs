@@ -291,3 +291,7 @@ For those seeking a deeper understanding of the Premack Principle and related co
     * *Behavioral Processes*
 
 These resources offer a range of perspectives and depths of information, from foundational research to practical applications, allowing you to further explore the fascinating world of behavioral psychology and the Premack Principle.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

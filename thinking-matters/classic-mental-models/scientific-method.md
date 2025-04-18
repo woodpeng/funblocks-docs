@@ -343,3 +343,7 @@ Common mistakes include: not having a clear question, formulating a hypothesis t
     * Khan Academy - Science & Engineering: [https://www.khanacademy.org/science-engineering](https://www.khanacademy.org/science-engineering) (Free educational videos and articles on various scientific topics)
 * **Online Courses:**
     * Coursera & edX offer numerous courses on scientific thinking, research methods, and specific scientific disciplines. Search for keywords like "scientific method," "critical thinking," or "research methods."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -303,3 +303,7 @@ While related, they are distinct concepts. An Availability Cascade describes the
 *   **"Availability Cascades and Risk Regulation" by Timur Kuran and Cass Sunstein (1999):** The original academic paper introducing the concept.
 *   **"Thinking, Fast and Slow" by Daniel Kahneman (2011):**  Explores the availability heuristic and other cognitive biases that underpin the Availability Cascade.
 *   **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard H. Thaler and Cass R. Sunstein (2008):** Discusses behavioral economics and how understanding cognitive biases can inform policy and decision-making, including implications for Availability Cascades.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

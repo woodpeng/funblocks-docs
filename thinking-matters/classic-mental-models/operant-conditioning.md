@@ -244,3 +244,8 @@ For those eager to delve deeper into operant conditioning and related concepts, 
     *   Psychology Today: Offers accessible articles on various psychology topics, including operant conditioning and its applications.
     *   Scientific journals like the *Journal of Applied Behavior Analysis* and the *Journal of the Experimental Analysis of Behavior* (more academic, but valuable for in-depth research).
     *   Simply Psychology: Provides clear and concise explanations of psychological theories, including operant conditioning.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

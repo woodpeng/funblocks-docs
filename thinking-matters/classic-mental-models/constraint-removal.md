@@ -204,3 +204,7 @@ This is why experimentation and iteration are crucial steps.  Start with small e
     * Websites and blogs focused on mental models and critical thinking (e.g., Farnam Street Blog, LessWrong).
 
 By continuously learning and practicing, you can hone your Constraint Removal skills and unlock your full potential for innovation and problem-solving.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

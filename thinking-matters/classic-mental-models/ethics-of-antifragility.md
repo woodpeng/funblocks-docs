@@ -328,3 +328,7 @@ The best starting point is Nassim Nicholas Taleb's book, *Antifragile: Things Th
 *   **Book:** *The Black Swan: The Impact of the Highly Improbable* by Nassim Nicholas Taleb
 *   **Academic Articles:** Search for research papers on "antifragility," "complex systems," "resilience engineering," and "ethical risk management" in databases like JSTOR, Google Scholar, and PubMed.
 *   **Online Communities:** Explore forums and online communities dedicated to systems thinking, complexity science, and Nassim Taleb's work for discussions and diverse perspectives on antifragility.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

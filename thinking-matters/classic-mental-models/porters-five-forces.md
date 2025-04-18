@@ -298,3 +298,7 @@ Common mistakes include: applying the model too rigidly without considering cont
 *   **Industry Analysis Textbooks:**  Many strategic management textbooks provide in-depth explanations and case studies on Porter's Five Forces and industry analysis.
 *   **Online Courses and Workshops:** Platforms like Coursera, edX, and LinkedIn Learning offer courses on strategic analysis and Porter's Five Forces.
 *   **Academic Research Papers:** Search academic databases like JSTOR or Google Scholar for research articles that further explore and refine Porter's Five Forces model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

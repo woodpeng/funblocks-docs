@@ -255,3 +255,7 @@ Yes, mindfulness practices, such as meditation, can be beneficial. Mindfulness c
 
 *   **Books:** "Thinking, Fast and Slow" by Daniel Kahneman, "Predictably Irrational" by Dan Ariely, "Nudge" by Richard Thaler and Cass Sunstein.
 *   **Articles:** Research papers on cognitive biases, attention, and decision-making in journals like *Cognitive Psychology*, *Journal of Behavioral Decision Making*, and *Psychological Science*.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

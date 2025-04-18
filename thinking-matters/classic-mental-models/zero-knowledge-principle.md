@@ -301,3 +301,7 @@ Start with small, everyday decisions. Practice conscious information audits to i
 *   **Websites/Articles:**
     *   Websites and blogs focusing on mental models, decision-making, and cognitive psychology (search for "mental models," "rational thinking," "cognitive biases").
     *   Articles on "information overload" and "digital minimalism" for understanding the challenges of the modern information environment.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

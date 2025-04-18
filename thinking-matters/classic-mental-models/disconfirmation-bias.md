@@ -198,3 +198,7 @@ Teaching others about disconfirmation bias involves a combination of education, 
     * Academic journals related to cognitive psychology and decision-making (search for "confirmation bias," "motivated reasoning," "belief perseverance")
 
 By continuing to learn and practice, you can further refine your understanding and application of the disconfirmation bias mental model, leading to more effective and insightful thinking in all areas of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

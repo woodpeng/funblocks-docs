@@ -288,3 +288,7 @@ By integrating "Function Follows Form" into your thinking processes, you can exp
 
 * **Podcasts & Videos:**
     * Podcasts and video series featuring designers, innovators, and thinkers discussing creative processes and unconventional problem-solving approaches.  Look for content related to design thinking, systems thinking, and innovation strategy.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

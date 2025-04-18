@@ -348,3 +348,7 @@ Use Fear-Setting whenever you are facing a decision or change that evokes signif
 * **Books on Cognitive Behavioral Therapy (CBT):** Learn more about cognitive techniques for managing anxiety and challenging negative thought patterns, which complement Fear-Setting principles.
 * **Articles and Podcasts on Decision-Making and Risk Management:** Explore broader concepts related to rational decision-making and strategies for managing uncertainty in various domains.
 * **Online Communities and Forums on Personal Development and Entrepreneurship:** Engage with others who are using Fear-Setting and share experiences and insights.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

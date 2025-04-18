@@ -234,3 +234,7 @@ Practice is key. Start by consciously looking for patterns at different scales i
 * **Courses/Workshops:** Look for courses or workshops on complexity thinking, systems thinking, or design thinking, which often incorporate elements of fractal thinking.
 
 By exploring these resources and actively practicing, you can deepen your understanding of fractal thinking and harness its power to navigate complexity and make better decisions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

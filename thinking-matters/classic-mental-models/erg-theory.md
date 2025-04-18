@@ -259,3 +259,7 @@ While the underlying theory can be complex, the *application* of Erg Theory as a
 * **"Ergodicity Economics" by Ole Peters:** A seminal work applying ergodicity concepts to economics and decision theory.
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** Explores cognitive biases and decision-making under uncertainty, relevant to understanding the pitfalls of relying solely on ensemble averages.
 * **"Antifragile" by Nassim Nicholas Taleb:** Discusses robustness, resilience, and the importance of considering time averages and individual risk trajectories in complex systems.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

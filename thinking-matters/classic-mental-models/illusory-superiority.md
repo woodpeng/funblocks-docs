@@ -217,3 +217,7 @@ Strategies include: practicing self-reflection, actively seeking and being open 
 * **"Mistakes Were Made (But Not by Me)"** by Carol Tavris and Elliot Aronson:  Examines self-justification and cognitive dissonance, related concepts that contribute to maintaining positive self-views and resisting self-correction.
 * **"Black Box Thinking"** by Matthew Syed: Explores the importance of learning from mistakes and embracing feedback, contrasting "black box" cultures of learning with "blame cultures" that hinder self-improvement and perpetuate biases like illusory superiority.
 * **Articles and Research Papers on "Above-Average Effect" and "Illusory Superiority"** available through academic databases like Google Scholar, JSTOR, and PubMed. Search for keywords like "illusory superiority," "above-average effect," "self-enhancement bias," and "social comparison."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

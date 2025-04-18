@@ -280,3 +280,7 @@ Common mistakes include: falling into hindsight bias, oversimplifying complex si
     * Coursera and edX offer numerous courses on evolution, complexity, and related topics from leading universities. Search for keywords like "evolution," "complex systems," "systems thinking," and "innovation."
 
 By exploring these resources and continuing to practice applying Evolutionary Thinking, you can deepen your understanding and master this powerful mental model for navigating the complexities of our ever-evolving world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

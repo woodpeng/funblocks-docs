@@ -301,3 +301,7 @@ Yes, there are many resources available for deeper learning. Bob Eberle's book "
 * **Book:** "Applied Imagination: Principles and Procedures of Creative Problem-Solving" by Alex F. Osborn (for the foundational work on checklists and brainstorming).
 * **Book:** "SCAMPER: Games for Imagination Development" by Bob Eberle (the definitive guide to the SCAMPER method).
 * **Online Resource:** MindTools website and articles on brainstorming and creative problem-solving techniques (for broader context and related methods).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

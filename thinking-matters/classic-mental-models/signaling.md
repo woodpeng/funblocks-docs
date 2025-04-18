@@ -229,3 +229,7 @@ While it's crucial to be mindful of the limitations and ethical considerations o
 * **Online Resources:**
     * Investopedia: "Signaling Theory" - Provides a concise overview of signaling theory in finance and economics.
     * Stanford Encyclopedia of Philosophy: "Signaling Theory" - A more academic and philosophical perspective on signaling theory.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

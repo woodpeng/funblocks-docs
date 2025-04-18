@@ -354,3 +354,7 @@ A: Absolutely! Reasoning by analogy is a powerful engine for creativity.  By dra
 * **Online Resources:**
     * Stanford Encyclopedia of Philosophy entry on "Analogy and Analogical Reasoning"
     * Articles and blog posts on cognitive science and mental models websites (like Farnam Street, LessWrong, etc.)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

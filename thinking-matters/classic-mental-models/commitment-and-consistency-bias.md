@@ -232,3 +232,7 @@ While related, it's not exactly the same as stubbornness. Stubbornness is a pers
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:**  Provides a broader overview of cognitive biases and heuristics, including related concepts like cognitive ease and framing effects.
 *   **"Predictably Irrational" by Dan Ariely:** Explores various aspects of irrational human behavior, including the influence of commitment and social norms on decision-making.
 *   **Online resources and articles on behavioral economics and cognitive biases:** Websites like "BehavioralEconomics.com" and "Effectiviology.com" offer accessible explanations and examples of Commitment and Consistency Bias and other related mental models.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

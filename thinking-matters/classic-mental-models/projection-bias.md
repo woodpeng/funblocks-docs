@@ -223,3 +223,7 @@ By integrating this mental model into our thinking processes, we can move beyond
 1.  **"Projection Bias in Predicting Future Utility" by Loewenstein, Read, and Rabin (2003):**  The seminal academic paper that formally introduced and defined Projection Bias. (Available through academic databases like JSTOR or Google Scholar).
 2.  **"Thinking, Fast and Slow" by Daniel Kahneman (2011):**  A comprehensive book on behavioral economics and cognitive biases, including discussions of related concepts like heuristics and biases. (Accessible to a general audience).
 3.  **"Predictably Irrational" by Dan Ariely (2008):**  Another excellent book exploring various aspects of irrational human behavior and decision-making, with relevant examples and insights into cognitive biases. (Accessible to a general audience).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

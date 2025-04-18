@@ -289,3 +289,7 @@ The opposite of falsifiability could be considered **untestability** or **dogmat
     * Websites dedicated to critical thinking and skepticism (e.g., Skeptic's Dictionary, Committee for Skeptical Inquiry)
 
 By exploring these resources and continuing to practice applying the principle of falsifiability, you can deepen your understanding of this powerful mental model and enhance your critical thinking abilities even further.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

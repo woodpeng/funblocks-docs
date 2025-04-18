@@ -264,3 +264,7 @@ The duration of the Mere Exposure Effect can vary.  The increased liking can be 
 * **Book:** *Thinking, Fast and Slow* by Daniel Kahneman (Explores related concepts of cognitive ease and fluency in a broader context.)
 * **Book:** *Influence: The Psychology of Persuasion* by Robert Cialdini (Discusses mere exposure as one of the principles of persuasion.)
 * **Journal Articles (Search Databases like PsycINFO or Google Scholar):** Search for "Mere Exposure Effect," "Familiarity and Liking," "Robert Zajonc" to find numerous research articles exploring various aspects of this phenomenon.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

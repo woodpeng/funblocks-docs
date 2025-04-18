@@ -298,3 +298,7 @@ The main limitations stem from its assumptions, particularly the assumption of p
     *   Stanford Encyclopedia of Philosophy (Entry on Game Theory for a detailed philosophical perspective)
     *   Investopedia (Game Theory definition and explanations in a business context)
     *   GameTheory.net (Website with resources, articles, and links related to Game Theory)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

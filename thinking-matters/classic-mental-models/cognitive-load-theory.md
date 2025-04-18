@@ -241,3 +241,7 @@ Measuring cognitive load directly is challenging, but several methods exist. Sub
 * **Websites and Online Resources:**
     * [Instructional Design Fads: Cognitive Load Theory](https://www.learningsolutionsmag.com/articles/instructional-design-fads-cognitive-load-theory) (Accessible overview)
     * [Cognitive Load Theory - UNSW Sydney](https://www.unsw.edu.au/teaching/learning-design/cognitive-load-theory) (University resource with practical tips)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

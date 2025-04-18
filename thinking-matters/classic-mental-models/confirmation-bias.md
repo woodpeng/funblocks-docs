@@ -213,3 +213,7 @@ No, confirmation bias is a universal cognitive bias that affects everyone, regar
     * Platforms like Coursera, edX, and Udemy offer courses on cognitive psychology, behavioral economics, and critical thinking, often covering confirmation bias in detail.
 
 By continuing to learn and explore the nuances of confirmation bias, you can deepen your understanding of this crucial mental model and further refine your strategies for overcoming its limitations.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

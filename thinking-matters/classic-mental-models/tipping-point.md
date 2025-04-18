@@ -328,3 +328,7 @@ Gradual change is incremental and linear over time. A tipping point represents a
 *   **Book:** "Diffusion of Innovations" by Everett Rogers. A more academic but foundational text on the underlying principles of how ideas and technologies spread.
 *   **Articles and Research:** Explore articles and academic papers on network theory, social influence, complexity theory, and systems thinking to deepen your understanding of the concepts underpinning the Tipping Point model.
 *   **Online Courses and Workshops:** Look for online courses or workshops on behavioral economics, marketing, social change, or systems thinking that may incorporate the Tipping Point model and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

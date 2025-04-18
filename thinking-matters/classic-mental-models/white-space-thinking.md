@@ -240,3 +240,7 @@ Yes, White Space Thinking is highly valuable in team settings. Teams can benefit
 *   **Books on Strategic Thinking and Time Management:** Explore works by Peter Drucker, Stephen Covey, and other thought leaders in management and productivity.
 *   **Mindfulness and Meditation Apps:** Apps like Headspace, Calm, and Insight Timer offer guided meditations and mindfulness exercises that can help cultivate mental white space.
 *   **Articles and Blogs on Design Thinking and Creativity:** Resources on design thinking often emphasize the importance of reflection and iteration, which are core components of White Space Thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

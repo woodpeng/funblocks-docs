@@ -240,3 +240,8 @@ Start by consciously practicing the step-by-step guide provided. Practice perspe
     * Articles on Cognitive Flexibility and Perspective-Taking in Psychology journals.
     * Websites and blogs discussing mental models and critical thinking.
     * Online courses on systems thinking and design thinking.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

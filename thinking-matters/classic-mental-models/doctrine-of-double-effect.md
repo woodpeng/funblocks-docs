@@ -275,3 +275,7 @@ For readers interested in delving deeper into the Doctrine of Double Effect and 
     * Journal of Moral Theology:  Academic journal featuring articles that often engage with the Doctrine of Double Effect from theological and philosophical perspectives.
 
 Exploring these resources will provide a more in-depth understanding of the Doctrine of Double Effect, its nuances, and its ongoing relevance in contemporary ethical discourse.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

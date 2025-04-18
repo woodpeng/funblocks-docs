@@ -249,3 +249,7 @@ Start by choosing a specific area you want to learn about.  Begin with the funda
 *   **"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"** by James Clear (Offers practical advice on building consistent habits, crucial for sustained learning).
 *   **"Make It Stick: The Science of Successful Learning"** by Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel (Explores the science of learning and effective study techniques, including active recall and spaced repetition).
 *   **Farnam Street Blog (fs.blog)** (Offers articles and resources on mental models, decision-making, and lifelong learning).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

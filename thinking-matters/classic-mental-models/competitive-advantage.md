@@ -308,3 +308,7 @@ Individuals can analyze their own "value chain" of career activities – from sk
 *   **Websites:**
     *   Michael Porter's website and resources from Harvard Business School.
     *   Strategy consulting firm websites (e.g., McKinsey, BCG, Bain) often publish insights on competitive strategy.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -254,3 +254,7 @@ Practice is key. Start with the practical guide and exercise provided. Actively 
     *   Courses on platforms like Coursera, edX, and Udemy related to creativity, innovation, and design thinking often touch upon principles of Idea Remixing.
 
 By exploring these resources and continuing to practice, you can deepen your understanding of Idea Remixing and further enhance your ability to unlock innovation through creative combination.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

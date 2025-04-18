@@ -289,3 +289,7 @@ As you integrate this mental model into your thinking toolkit, remember that Pav
     * Simply Psychology: Classical Conditioning - [https://www.simplypsychology.org/classical-conditioning.html](https://www.simplypsychology.org/classical-conditioning.html)
     * Khan Academy: Classical Conditioning - [https://www.khanacademy.org/science/health-and-medicine/executive-systems-of-the-brain/emotion-and-motivation/v/classical-conditioning](https://www.khanacademy.org/science/health-and-medicine/executive-systems-of-the-brain/emotion-and-motivation/v/classical-conditioning)
     * Psychology Today: Classical Conditioning - [https://www.psychologytoday.com/us/basics/classical-conditioning](https://www.psychologytoday.com/us/basics/classical-conditioning)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

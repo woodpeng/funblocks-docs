@@ -206,3 +206,7 @@ Yes, to some extent. Factors like cognitive style, level of expertise in a domai
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** This book provides a comprehensive and accessible overview of heuristics and biases, including the Availability Heuristic, by one of its originators.
 *   **"Judgment under Uncertainty: Heuristics and Biases" by Kahneman, Slovic, and Tversky (editors):**  A more academic collection of seminal papers on heuristics and biases, offering deeper insights into the research behind these concepts.
 *   **Online resources:** Websites like the "Decision Lab" and "Behavioral Economics" websites offer articles, videos, and summaries of various cognitive biases and mental models, including the Availability Heuristic.  Search for "Availability Heuristic examples" or "cognitive biases list" to find readily available online resources.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

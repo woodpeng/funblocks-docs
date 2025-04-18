@@ -319,3 +319,7 @@ You can use the theory by first assessing your current job satisfaction in terms
 *   **Journal Article:**  Herzberg, F. (1968). One more time: How do you motivate employees? *Harvard Business Review*, *46*(1), 53-62. (A classic HBR article summarizing the theory in a practical context)
 *   **Research Articles:** Search academic databases (like JSTOR, Google Scholar) for articles discussing "Herzberg Two-Factor Theory" to explore critiques, refinements, and contemporary applications of the model.
 *   **Case Studies:** Look for case studies of organizations that have successfully applied Herzberg's Two-Factor Theory to improve employee motivation and job satisfaction. These can provide practical examples and insights into implementation.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

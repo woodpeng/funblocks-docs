@@ -337,3 +337,7 @@ Principled Negotiation can help mitigate power imbalances by focusing on objecti
 * **University Courses and Workshops:** Many universities and organizations offer courses and workshops on negotiation skills, often based on the principles of Principled Negotiation. Search for programs in your area.
 
 By understanding and applying the principles of Principled Negotiation, and by continuously learning and refining your skills, you can become a more effective and ethical negotiator in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

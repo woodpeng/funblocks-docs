@@ -229,3 +229,7 @@ Effectiveness is subjective, but indicators include: generating genuinely novel 
 * **"Thinking, Fast and Slow" by Daniel Kahneman:** Provides a comprehensive understanding of heuristics and biases, forming the foundation for Heuristic Provocation.
 * **"Lateral Thinking: Creativity Step by Step" by Edward de Bono:** Explores various techniques for creative thinking, including provocation, which is closely related to Heuristic Provocation.
 * **"The Art of Thought" by Graham Wallas:** A classic work exploring the stages of the creative process, providing context for the role of disruptive thinking in innovation.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

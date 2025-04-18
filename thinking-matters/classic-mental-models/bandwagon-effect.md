@@ -271,3 +271,8 @@ While related, the Bandwagon Effect and Groupthink are distinct concepts. The **
     * **Psychology Today:** Search for articles on "Bandwagon Effect," "Social Influence," "Conformity." - Offers accessible articles on psychology concepts.
     * **Behavioral Economics websites/blogs:** (e.g., BehavioralEconomics.com) - Explore articles and research on behavioral biases, including the Bandwagon Effect.
     * **Academic Journals (via university libraries or online databases):** Search for research papers on "Bandwagon Effect," "Social Conformity," "Herd Behavior" in journals like the *Journal of Personality and Social Psychology*, *Psychological Science*, *Journal of Consumer Research*.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

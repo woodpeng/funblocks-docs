@@ -228,3 +228,7 @@ Mastering the mental model of Base Rate Neglect is not about becoming cold and c
 * **"Judgment under Uncertainty: Heuristics and Biases" by Daniel Kahneman, Paul Slovic, and Amos Tversky (Editors):** A collection of seminal papers on heuristics and biases, including the original research on Base Rate Neglect.
 * **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard H. Thaler and Cass R. Sunstein:** Discusses behavioral economics and how understanding cognitive biases, including Base Rate Neglect, can be used to design choice architectures that improve decision-making.
 * **Articles and research papers by Gerd Gigerenzer:** Explores a contrasting perspective, arguing that heuristics can be adaptive and effective in real-world situations, and that focusing solely on biases can be limiting.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

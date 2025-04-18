@@ -228,3 +228,7 @@ We encourage you to actively integrate the mental model of chunking into your da
 *   **Book:** "Thinking, Fast and Slow" by Daniel Kahneman (Explores cognitive biases and system thinking, related to efficient information processing)
 *   **Online Course:** "Learning How to Learn" on Coursera (Features modules on chunking and effective learning strategies)
 *   **Website:** Farnam Street (fs.blog) - Offers articles and resources on mental models, including chunking and cognitive psychology.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

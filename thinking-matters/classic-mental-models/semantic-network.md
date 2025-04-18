@@ -344,3 +344,7 @@ You can use pen and paper, whiteboards, or digital tools. Many mind mapping soft
 
 * **"Semantic Networks in Artificial Intelligence" by Fritz Lehmann (Editor):** A comprehensive collection of articles exploring various aspects of semantic networks in AI.
 * **"Conceptual Structures: Information Processing in Mind and Machine" by John F. Sowa:**  A detailed exploration of conceptual graphs, a formal system based on semantic networks, by one of its key developers.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

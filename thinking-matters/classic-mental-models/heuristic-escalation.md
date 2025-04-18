@@ -240,3 +240,7 @@ Ultimately, mastering Heuristic Escalation is about cultivating critical thinkin
 * **"Judgment in Managerial Decision Making" by Max H. Bazerman and Don A. Moore (Multiple Editions):** A comprehensive textbook on decision-making biases, including detailed chapters on escalation of commitment and sunk costs.
 * **"Thinking, Fast and Slow" by Daniel Kahneman (2011):** Provides a broader understanding of cognitive biases and heuristics that underpin Heuristic Escalation.
 * **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard H. Thaler and Cass R. Sunstein (2008):** Offers insights into behavioral economics and strategies for improving decision-making, relevant to mitigating escalation.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

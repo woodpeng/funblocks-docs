@@ -294,3 +294,7 @@ Effective reframing leads to positive changes in your thoughts, feelings, and ac
     * PositivePsychology.com resources on reframing and positive psychology techniques
 
 By exploring these resources and continuing to practice, you can deepen your understanding and mastery of the powerful mental model of reframing and unlock its full potential in your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

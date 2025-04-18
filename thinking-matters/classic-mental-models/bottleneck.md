@@ -292,3 +292,7 @@ A:  Regularly re-evaluate, especially after implementing changes. The frequency 
     * Platforms like Coursera, Udemy, and LinkedIn Learning often have courses on Operations Management, Lean Management, and related topics that cover the Bottleneck model and Theory of Constraints.
 
 By continuously learning and applying the Bottleneck mental model, you'll sharpen your thinking skills and become a more effective problem-solver and system optimizer.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

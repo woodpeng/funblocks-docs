@@ -313,3 +313,7 @@ Satisficing is a powerful tool for boosting productivity and improving time mana
 * **Online Resources:**
     * Websites and blogs dedicated to mental models and decision-making strategies.
     * Online courses and workshops on productivity, time management, and cognitive biases.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

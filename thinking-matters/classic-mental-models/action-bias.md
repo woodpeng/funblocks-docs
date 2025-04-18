@@ -279,3 +279,7 @@ For deeper understanding, consider exploring resources like:
 * **"The Undoing Project: A Friendship That Changed Our Minds" by Michael Lewis:**  The story of Daniel Kahneman and Amos Tversky's collaboration and their groundbreaking work in behavioral economics, providing deeper context to the field.
 * **"Judgment in Managerial Decision Making" by Max Bazerman and Don Moore:**  A more academic text delving into decision-making processes and cognitive biases in managerial contexts.
 * **Research papers by Michael Bar-Eli:**  Search academic databases for publications by Bar-Eli and his colleagues on Action Bias in sports and decision-making for in-depth research on the topic.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -285,3 +285,7 @@ Both are about unintended consequences, but they are different. Goodhart's Law f
 * **"Seeing Like a State" by James C. Scott (1998):**  While not directly about Goodhart's Law, this book explores the unintended consequences of state simplification and measurement in ways that resonate with the principles of Goodhart's Law.
 * **Nassim Nicholas Taleb's works (e.g., "Antifragile"):** Taleb discusses related concepts like "naive interventionism" and the limitations of top-down control, which connect to the themes of Goodhart's Law.
 * **Articles and blog posts on Farnam Street (fs.blog) and other online resources:** Search for "Goodhart's Law" to find numerous articles and discussions applying this mental model to various domains.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

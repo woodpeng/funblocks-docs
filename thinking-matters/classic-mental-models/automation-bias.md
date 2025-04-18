@@ -215,3 +215,7 @@ If you recognize these signs, it's a good indicator to consciously apply strateg
 *   **"Automation Bias" Wikipedia Page:** (A good starting point for an overview and further links).
 
 By continuing to learn and reflect on Automation Bias, you can equip yourself with a powerful mental model for navigating the complexities of our increasingly automated world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

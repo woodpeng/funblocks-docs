@@ -259,3 +259,7 @@ To avoid analysis paralysis, set realistic boundaries for your investigation. De
 *   **"Poor Charlie's Almanack" edited by Peter Kaufman:** This book, focused on the wisdom of Charlie Munger, indirectly touches upon the principles of Chesterton's Fence through its emphasis on understanding systems and avoiding unintended consequences.
 
 By exploring these resources and continuing to practice applying Chesterton's Fence in your own life, you can deepen your understanding of this powerful mental model and unlock its full potential for wiser decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

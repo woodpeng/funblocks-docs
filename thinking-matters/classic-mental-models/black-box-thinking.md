@@ -185,3 +185,7 @@ Yes, you can still apply Black Box Thinking even with limited data.  While data 
 * **Online Courses:** Explore platforms like Coursera or Udemy for courses on critical thinking, systems thinking, and continuous improvement, which often incorporate principles of Black Box Thinking.
 
 By exploring these resources and actively applying the principles of Black Box Thinking, you can unlock a powerful approach to learning, growth, and continuous improvement in all areas of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

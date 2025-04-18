@@ -271,3 +271,7 @@ Yes. Western individualistic cultures often emphasize and value internal locus o
     *   Wikipedia and other reputable encyclopedic websites for overviews of Locus of Control and related concepts.
     *   Websites and blogs on psychology and mental models that discuss Locus of Control in accessible language.
     *   Online questionnaires and self-assessments for exploring your own locus of control orientation.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

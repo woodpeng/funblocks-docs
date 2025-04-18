@@ -247,3 +247,7 @@ No. Power Law distributions themselves are neither inherently good nor bad. Ineq
 * **Websites/Organizations:**
     * Santa Fe Institute (SFI) - Research in complex systems science
     * Complexity Science Network (various resources and online communities)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

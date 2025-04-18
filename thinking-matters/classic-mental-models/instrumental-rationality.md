@@ -244,3 +244,7 @@ While incredibly useful, it's crucial to remember that Instrumental Rationality 
     * Farnam Street Blog (for articles on mental models, including rationality)
 
 By exploring these resources and continuing to practice the principles of Instrumental Rationality, you can deepen your understanding and enhance your ability to make effective and goal-oriented decisions in all areas of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

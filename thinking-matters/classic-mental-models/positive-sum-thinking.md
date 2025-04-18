@@ -260,3 +260,7 @@ The benefits are numerous and far-reaching. Positive-Sum Thinking fosters strong
 *   **Book:** "Getting to Yes: Negotiating Agreement Without Giving In" by Roger Fisher and William Ury - A classic guide to negotiation based on principled negotiation and creating win-win outcomes.
 *   **Online Course:** "Game Theory" courses on platforms like Coursera or edX - Gain a deeper understanding of the mathematical foundations of positive-sum and zero-sum games.
 *   **Articles and Research Papers:** Search academic databases (like JSTOR, Google Scholar) for articles on "collaborative problem-solving," "win-win negotiation," and "non-zero-sum games" for more in-depth research and theoretical perspectives.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

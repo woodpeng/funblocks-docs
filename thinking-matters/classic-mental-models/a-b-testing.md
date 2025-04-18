@@ -325,3 +325,7 @@ While A-B testing is versatile, it's not a universal solution for every problem.
     *   Many other A-B testing tools available, both free and paid.
 
 By exploring these resources, you can deepen your understanding of A-B testing and become more proficient in applying this valuable mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -230,3 +230,7 @@ Yes, as discussed in the "Critical Thinking" section, excessive focus on uncerta
 * **"The Skeptics Guide to the Universe" Podcast:**  A podcast that promotes critical thinking and skepticism, principles closely aligned with epistemic humility.
 
 By exploring these resources and continuing to reflect on the principles of epistemic humility, you can deepen your understanding and further integrate this powerful mental model into your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

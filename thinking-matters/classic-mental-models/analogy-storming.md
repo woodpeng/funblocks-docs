@@ -331,3 +331,7 @@ Practice is key! The more you practice generating and exploring analogies, the b
 *   **"Synectics: The Development of Creative Capacity" by George M. Prince:**  An in-depth exploration of the Synectics methodology, which heavily relies on analogy for creative problem-solving in groups.
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** While not specifically about analogy, this book provides valuable insights into cognitive biases and heuristics that are relevant to using analogies effectively and avoiding pitfalls.
 *   **"The Design of Everyday Things" by Don Norman:**  Explores principles of intuitive design, which can be related to finding effective analogies for user interfaces and user experiences.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

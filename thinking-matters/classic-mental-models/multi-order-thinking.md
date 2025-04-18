@@ -286,3 +286,7 @@ Practice is key! Start with simple scenarios and gradually work your way up to m
     *   Farnam Street (fs.blog) - Articles on mental models and thinking frameworks
     *   LessWrong (lesswrong.com) - Discussions on rationality and decision-making
     *   Systems Innovation (systemsinnovation.io) - Resources on systems thinking and complexity science
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

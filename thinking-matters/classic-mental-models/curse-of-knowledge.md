@@ -205,3 +205,7 @@ By integrating the Curse of Knowledge mental model into our thinking processes, 
 * **"The Art of Explanation" by Lee LeFever:** A practical guide to creating clear and concise explanations, directly addressing the challenges posed by the Curse of Knowledge.
 * **"Cognitive Bias Cheat Sheet" by Buster Benson:** A visual overview of various cognitive biases, including the Curse of Knowledge, providing a broader context for understanding cognitive limitations in thinking.
 * **Research papers by Baruch Fischhoff on hindsight bias:** For a deeper understanding of the historical and academic roots of the Curse of Knowledge, exploring Fischhoff's original research on hindsight bias is valuable.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

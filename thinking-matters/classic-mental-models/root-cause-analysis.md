@@ -258,3 +258,7 @@ While often used reactively to address existing problems, RCA can also be proact
 *   **Websites and Articles:** Search for "Root Cause Analysis," "5 Whys," "Ishikawa diagram," and "problem-solving techniques" online to find numerous articles, guides, and templates.
 
 ---
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

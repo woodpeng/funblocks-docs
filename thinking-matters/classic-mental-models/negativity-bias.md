@@ -220,3 +220,7 @@ For advanced readers seeking deeper understanding, consider exploring:
 * **Academic databases like PsycINFO and Google Scholar:** Search for keywords "Negativity Bias," "negativity dominance," and related terms to find current research and scholarly articles.
 
 ---
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

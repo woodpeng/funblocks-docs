@@ -255,3 +255,7 @@ Marketers often use emotional appeals in advertising to tap into the Affect Heur
     *   Behavioral Economics websites and blogs: Many resources online explain behavioral economics concepts, including the Affect Heuristic, in an accessible way.
 
 By exploring these resources and continuing to practice emotional awareness and critical thinking, you can deepen your understanding of the Affect Heuristic and its impact on your life and the world around you.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

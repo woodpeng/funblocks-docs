@@ -278,3 +278,7 @@ While "spin" and marketing hype often utilize framing techniques, the Framing Ef
 *   **"Predictably Irrational: The Hidden Forces That Shape Our Decisions" by Dan Ariely:**  A popular science book that delves into various aspects of irrationality in decision-making, including framing and related biases.
 *   **Articles and research papers by Daniel Kahneman and Amos Tversky:**  For a more in-depth understanding of the original research on Prospect Theory and Framing Effects, explore their academic publications. You can find these through academic databases like JSTOR or Google Scholar.
 *   **Websites on Behavioral Economics and Cognitive Biases:** Websites like "BehavioralEconomics.com" and resources from universities with behavioral economics programs offer accessible explanations and further reading on Framing Effects and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

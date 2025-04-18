@@ -230,3 +230,7 @@ No.  While unintended consequences are, by definition, unforeseen at the outset,
     *   Courses on Systems Thinking, Complexity Science, and Decision Making (platforms like Coursera, edX, and Udemy offer relevant courses).
 
 By continuously learning and applying the Law of Unintended Consequences, you can sharpen your thinking, improve your decision-making, and navigate the complexities of the world with greater foresight and wisdom.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

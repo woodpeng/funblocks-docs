@@ -241,3 +241,7 @@ Mental simulation is a powerful tool for creativity and innovation. By mentally 
 *   **Judgment under Uncertainty: Heuristics and Biases** by Daniel Kahneman, Paul Slovic, and Amos Tversky (Editors): A collection of seminal research papers on heuristics and biases, including early work related to mental simulation.
 *   **Virtual Worlds: The Science of Imagination** by Robert Hogenraad: Explores the broader science of imagination and mental simulation, providing deeper insights into the cognitive processes involved.
 *   **Articles and research papers** on cognitive heuristics, mental simulation, and counterfactual thinking available on academic databases like JSTOR, PubMed, and Google Scholar. Search for keywords like "Simulation Heuristic," "Mental Simulation," "Counterfactual Thinking," "Heuristics and Biases."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

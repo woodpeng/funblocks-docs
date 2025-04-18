@@ -287,3 +287,7 @@ Yes!  Even if you recognize that you are not perfectly rational, Utility Maximiz
     *   Stanford Encyclopedia of Philosophy (for deeper dives into Utilitarianism and related philosophical concepts)
 
 By exploring these resources and continuing to practice applying Utility Maximization, you can deepen your understanding and further enhance your decision-making skills.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

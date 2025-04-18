@@ -259,3 +259,7 @@ No, financial leverage is not always a good idea. While it can amplify investmen
     *   Farnam Street Blog ([fs.blog](https://fs.blog)): Offers numerous articles on mental models, including Leverage, and related thinking tools.
     *   LessWrong ([lesswrong.com](https://www.lesswrong.com)):  A community and resource focused on rationality and effective thinking, often discussing concepts related to leverage and optimization.
 *   **Online Courses:**
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

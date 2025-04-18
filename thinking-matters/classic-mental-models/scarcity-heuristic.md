@@ -282,3 +282,7 @@ Educate them about the Scarcity Heuristic and how it works. Use real-life exampl
     * Websites dedicated to mental models and cognitive biases (like Farnam Street Blog, LessWrong).
 
 By exploring these resources and continuing to reflect on your own experiences, you can deepen your understanding of the Scarcity Heuristic and its profound impact on our lives.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

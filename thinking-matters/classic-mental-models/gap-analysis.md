@@ -389,3 +389,7 @@ By integrating Gap Analysis into your thinking processes, you equip yourself wit
 * **Articles & Websites:**
     * Harvard Business Review (HBR.org): Search for articles on "strategic planning," "performance management," and "business analysis."
     * McKinsey & Company (McKinsey.com): Explore insights on "strategy," "operations," and "organizational performance."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

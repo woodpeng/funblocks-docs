@@ -285,3 +285,7 @@ To learn more about Behavioral Economics, you can explore these resources:
 *   **Academic Journals:**  Journals like the "Journal of Behavioral Economics," "Judgment and Decision Making," and "Behavioral and Experimental Economics" (for more advanced readers).
 
 These resources will provide you with a deeper understanding of the theory, research, and applications of Behavioral Economics.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

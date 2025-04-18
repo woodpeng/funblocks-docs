@@ -267,3 +267,7 @@ Yes, several tools can aid in applying Relational Thinking, especially for visua
 * **Concept Mapping Tools (e.g., CmapTools):** Designed for creating and sharing concept maps, which visually represent relationships between concepts.
 
 These tools can help you structure your Relational Thinking process and analyze complex situations more effectively. However, remember that the core of Relational Thinking is a mental shift – the tools are there to support and enhance your cognitive process, not replace it.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

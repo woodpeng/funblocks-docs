@@ -318,3 +318,7 @@ Yes. Cultures that are highly consensus-driven or avoid conflict might be more p
 * **Blog Post:** "Parkinson's Law of Triviality: Why You Should Worry About Bikeshedding" on Farnam Street (or similar reputable mental model blogs).
 * **Online Video:** Search for "Parkinson's Law of Triviality explained" on YouTube for visual explanations and examples.
 * **Mental Model Websites/Databases:** Explore online resources dedicated to mental models, such as Farnam Street's blog or Wikipedia's list of cognitive biases, to find more information on Parkinson's Law of Triviality and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

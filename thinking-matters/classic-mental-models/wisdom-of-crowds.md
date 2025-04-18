@@ -338,3 +338,7 @@ For highly specialized or technical problems requiring deep domain expertise, ex
 *   **Article:** "Collective Intelligence" on Wikipedia (Provides a comprehensive overview of the broader field of collective intelligence).
 *   **Website:** Prediction Markets like Metaculus or Good Judgment Open (Explore real-world examples of prediction markets and their accuracy).
 *   **Online Course:** Consider searching for online courses on behavioral economics, decision-making, or collective intelligence platforms like Coursera or edX.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

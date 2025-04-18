@@ -286,3 +286,8 @@ So, embrace the power of your mind's eye. Start experimenting. Ask "What if?" Ex
 *   **Book:** "Thought Experiments" by Roy A. Sorensen - A comprehensive philosophical exploration of the nature and significance of thought experiments.
 *   **Article:** "Einstein's Thought Experiments" by Paul Davies - A fascinating look at how Einstein used thought experiments to revolutionize physics.
 *   **Online Course:** "Critical Thinking" courses on platforms like Coursera or edX often include sections on thought experiments and hypothetical reasoning.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

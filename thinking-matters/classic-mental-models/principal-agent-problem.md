@@ -360,3 +360,7 @@ Yes, absolutely!  Think about hiring a babysitter (agent) to care for your child
     * Investopedia: Principal Agent Problem
     * Stanford Graduate School of Business: Agency Theory
     * Corporate Finance Institute: Principal-Agent Problem
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -262,3 +262,7 @@ Chronic Information Overload can have significant long-term consequences for bot
     * Websites and blogs focused on mindfulness, productivity, and digital well-being often offer practical tips and strategies for dealing with Information Overload.
 * **Academic Research:**
     * Search for academic articles on "Information Overload," "Cognitive Load," "Attention Deficit," and "Information Management" in databases like Google Scholar and JSTOR for deeper scholarly insights.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

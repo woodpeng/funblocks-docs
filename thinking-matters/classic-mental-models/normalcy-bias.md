@@ -253,3 +253,7 @@ In a world increasingly characterized by rapid change, complex systems, and unpr
 1. **"Thinking, Fast and Slow" by Daniel Kahneman:**  While not specifically focused on Normalcy Bias, this book provides a comprehensive overview of cognitive biases and heuristics, including related concepts that contribute to Normalcy Bias.
 2. **"Disasterology" by Samantha Montano:** This book explores the social science of disasters, including human behavior in crises, and touches upon the role of psychological factors like Normalcy Bias in shaping responses to disasters.
 3. **FEMA (Federal Emergency Management Agency) Website:**  FEMA's website offers resources on disaster preparedness and public awareness campaigns that often implicitly address Normalcy Bias by encouraging proactive planning and risk reduction. Search for resources on "disaster preparedness" and "risk communication."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

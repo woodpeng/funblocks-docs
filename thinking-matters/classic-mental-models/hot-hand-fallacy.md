@@ -266,3 +266,7 @@ To avoid the Hot Hand Fallacy, focus on data and objective analysis rather than 
 *   **Paper:** "The Hot Hand in Basketball: On the Misperception of Random Sequences" by Gilovich, Vallone, and Tversky (1985) - The original research paper that introduced the Hot Hand Fallacy.
 *   **Book:** "Thinking, Fast and Slow" by Daniel Kahneman - A comprehensive exploration of cognitive biases, including heuristics and fallacies related to judgment and decision-making.
 *   **Article:** "The Hot Hand: Cognitive Bias or Real Phenomenon?" by Massimo Piattelli-Palmarini - A more recent discussion exploring the ongoing debate and nuances of the Hot Hand Fallacy.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

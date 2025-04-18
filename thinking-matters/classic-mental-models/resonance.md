@@ -251,3 +251,7 @@ Focus on empathy, active listening, and understanding the other person's perspec
 *   **"Influence: The Psychology of Persuasion" by Robert Cialdini:** Explores psychological principles of persuasion, some of which relate to creating resonant messages.
 *   **"Contagious: Why Things Catch On" by Jonah Berger:**  Analyzes the factors that make ideas and products go viral, highlighting aspects of social resonance.
 *   **Online courses on Systems Thinking and Complexity Science:** Platforms like Coursera, edX, and Complexity Explorer offer courses that delve deeper into system dynamics and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

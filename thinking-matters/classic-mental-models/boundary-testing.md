@@ -262,3 +262,7 @@ You should stop Boundary Testing when you have gathered sufficient data to answe
     * Look for resources on "Design of Experiments" in scientific and engineering fields for a deeper understanding of systematic experimentation principles.
 
 By continuing to explore these resources and practicing Boundary Testing in your own life, you can further develop your skills and unlock the full potential of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

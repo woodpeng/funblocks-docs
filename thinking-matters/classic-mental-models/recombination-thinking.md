@@ -280,3 +280,7 @@ Common mistakes include: just randomly mixing ideas without purpose, forcing com
 4.  **"Lateral Thinking: Creativity Step by Step" by Edward de Bono:**  Explores lateral thinking techniques, providing a broader context for understanding creative problem-solving approaches, including recombination as a method.
 
 5.  **Websites and Articles on Design Thinking and Innovation:** Explore online resources focused on design thinking, innovation methodologies, and creative problem-solving techniques, which often incorporate and emphasize the principles of combining and remixing ideas.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

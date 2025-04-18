@@ -245,3 +245,7 @@ Remember that in Naive Questioning, there are no stupid questions.  Embrace inte
 *   **"A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas" by Warren Berger:** Explores the power of questioning and its role in innovation and creativity.
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** While not directly about Naive Questioning, it delves into cognitive biases and the importance of critical thinking, providing context for why challenging assumptions is crucial.
 *   **"The 5 Whys" Technique (from Lean Manufacturing):** A structured problem-solving method that uses iterative "why" questions to identify root causes, demonstrating a practical application of naive inquiry.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -279,3 +279,7 @@ Practice is key! Start by consciously applying the steps outlined in the "Practi
 * **"The Signal and the Noise: Why So Many Predictions Fail--but Some Don't" by Nate Silver:** Examines the challenges and successes of prediction in various fields, emphasizing probabilistic approaches.
 * **"Bayesian Methods for Hackers" by Cameron Davidson-Pilon:** A practical introduction to Bayesian statistics and [Bayesian Thinking](/thinking-matters/classic-mental-models/bayesian-thinking) using Python.
 * **"Probability Theory: The Logic of Science" by E.T. Jaynes:** A more advanced and comprehensive textbook on probability theory, exploring its foundations and applications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

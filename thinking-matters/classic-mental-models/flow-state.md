@@ -216,3 +216,7 @@ Maintaining flow requires continued focus, engagement, and adaptation to the act
 *   **Book:** "Finding Flow: The Psychology of Engagement with Everyday Life" by Mihaly Csikszentmihalyi
 *   **TED Talk:** Mihaly Csikszentmihalyi: Flow, the secret to happiness: [https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness)
 *   **Website:** Positive Psychology Program - Flow Theory: [https://positivepsychology.com/flow-theory/](https://positivepsychology.com/flow-theory/)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

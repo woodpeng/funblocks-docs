@@ -316,3 +316,7 @@ The benefits are numerous: improved decision-making, better strategic planning, 
     *   Complexity Science websites and journals
 
 By integrating Multi-Order Effects Thinking into your mental toolkit and continuously practicing its application, you will be well-equipped to navigate the complexities of the 21st century and make more impactful and responsible decisions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

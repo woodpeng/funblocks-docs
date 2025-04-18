@@ -321,3 +321,7 @@ While the fundamental principles of Narrative Coherence are likely universal (hu
     *   Stanford Encyclopedia of Philosophy entry on "Narrative"
     *   Articles on Narrative Psychology and Cognitive Psychology websites (e.g., Psychology Today, American Psychological Association)
     *   Online resources on critical thinking and mental models (e.g., Farnam Street Blog, LessWrong)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

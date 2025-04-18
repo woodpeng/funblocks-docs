@@ -285,3 +285,7 @@ Misidentifying a breakpoint is possible.  If you incorrectly assume a breakpoint
 * **Online Resources:**
     * Articles and blogs on systems thinking, mental models, and complexity science.
     * Academic papers on tipping points and phase transitions in various disciplines.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

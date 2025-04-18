@@ -214,3 +214,7 @@ One small action you can take today to start building Optionality is to **learn 
 *   **"Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts" by Annie Duke:** (Explores decision-making under uncertainty and probabilistic thinking, relevant to Optionality)
 *   **Farnam Street Blog (fs.blog):** (Excellent resource for mental models, including articles and discussions on Optionality and related concepts)
 *   **LessWrong (lesswrong.com):** (Online community focused on rationality and effective thinking, with discussions on decision-making and uncertainty)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

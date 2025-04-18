@@ -468,3 +468,7 @@ You can find templates and resources on the Strategyzer website (strategyzer.com
 * **Website:** Strategyzer.com (official website with tools, resources, and training)
 * **Online Courses:** Platforms like Coursera, Udemy, and edX offer courses on business model innovation and using the Business Model Canvas.
 * **Community Forums:** Online forums and communities dedicated to business model innovation and the Business Model Canvas can provide valuable insights and support.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

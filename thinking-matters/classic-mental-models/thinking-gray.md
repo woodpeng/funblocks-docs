@@ -193,3 +193,7 @@ Yes, "Thinking Gray" can be a valuable tool for examining your own beliefs and v
     * Psychology Today (psychologytoday.com): Features articles on cognitive biases, critical thinking, and decision-making, providing insights into the psychological underpinnings of "Thinking Gray."
 
 By exploring these resources and continuing to practice "Thinking Gray," you can deepen your understanding and further develop your ability to navigate the complexities of the world with greater clarity and wisdom.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

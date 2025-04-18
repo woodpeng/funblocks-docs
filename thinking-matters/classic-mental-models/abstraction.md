@@ -307,3 +307,7 @@ A common misconception is that abstraction is about "dumbing things down" or mak
 * **Online courses and articles on "Systems Thinking" and "Mental Models":** Platforms like Coursera, edX, and Farnam Street Blog offer valuable resources for deepening your understanding of abstraction and related mental models.
 
 By exploring these resources and continuing to practice applying abstraction in your own thinking, you can further refine your skills and unlock the full potential of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

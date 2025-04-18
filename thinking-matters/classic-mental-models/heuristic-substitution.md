@@ -314,3 +314,8 @@ By integrating the mental model of heuristic substitution into our thinking tool
 *   **"Judgment under Uncertainty: Heuristics and Biases" by Daniel Kahneman, Paul Slovic & Amos Tversky:** This is a more academic collection of seminal papers by Kahneman and Tversky, providing the foundational research on heuristics and biases.
 
 *   **Websites and Blogs on Behavioral Economics and Cognitive Biases:** Explore online resources like "BehavioralEconomics.com," "Nudge Blog," and university websites specializing in behavioral science for articles and insights on heuristic substitution and related topics.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

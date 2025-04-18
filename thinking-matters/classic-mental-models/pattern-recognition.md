@@ -199,3 +199,7 @@ Yes, here are a few resources for further exploration:
     * Psychology Today and Scientific American often publish articles related to cognitive processes like pattern recognition.
 
 By exploring these resources and continuing to practice, you can deepen your understanding and mastery of pattern recognition, a truly invaluable mental model for navigating the complexities of the modern world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

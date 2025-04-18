@@ -200,3 +200,7 @@ Yes, Authority Bias can be leveraged ethically and positively.  For example, pub
 * **"Thinking, Fast and Slow" by Daniel Kahneman:**  A comprehensive overview of cognitive biases and heuristics, including discussions relevant to Authority Bias, from a Nobel Prize-winning psychologist.
 * **The Skeptics Guide to the Universe Podcast:**  A popular science podcast that frequently discusses cognitive biases, critical thinking, and skepticism, often touching upon Authority Bias in various contexts.
 * **"You Are Not So Smart" Blog and Podcast by David McRaney:**  Explores various cognitive biases and self-delusions in an accessible and engaging way, with episodes and articles relevant to Authority Bias.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

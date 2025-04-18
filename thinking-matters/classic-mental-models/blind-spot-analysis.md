@@ -305,3 +305,7 @@ Blind Spot Analysis is highly valuable for both individuals and teams/organizati
 *   **"Decisive: How to Make Better Choices in Life and Work" by Chip Heath and Dan Heath:** Offers practical strategies for improving decision-making, including techniques to overcome biases and broaden perspectives.
 *   **"The Art of Thinking Clearly" by Rolf Dobelli:** A concise guide to various cognitive biases and thinking errors, providing a broader context for understanding blind spots.
 *   **Johari Window Model (Research papers and articles):**  For a deeper understanding of self-awareness and feedback in interpersonal communication, related to personal blind spots.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

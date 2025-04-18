@@ -201,3 +201,7 @@ Measuring the direct impact can be challenging, but you can assess its effective
 * **Online Courses:**
     * Courses on Systems Thinking and Complexity Science platforms like Coursera, edX, and Complexity Explorer.
 * **Articles and Websites:**
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

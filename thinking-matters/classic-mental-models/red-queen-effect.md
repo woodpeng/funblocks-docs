@@ -213,3 +213,7 @@ In many dynamic systems, the Red Queen Effect is an inherent characteristic.  Tr
     * Platforms like Coursera, edX, and YouTube offer courses and videos on evolutionary biology, game theory, and strategic thinking, which can provide deeper context for understanding the Red Queen Effect.
 
 By exploring these resources and continuing to observe the world through the lens of the Red Queen Effect, you can deepen your understanding and master this valuable mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

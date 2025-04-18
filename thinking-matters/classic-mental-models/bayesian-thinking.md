@@ -293,3 +293,7 @@ For deeper learning, consider exploring resources like:
 * **PyMC3 and TensorFlow Probability (Python Libraries):** Python libraries for probabilistic programming and Bayesian modeling.
 
 By continuously learning and applying Bayesian Thinking, you can significantly enhance your ability to navigate uncertainty, make informed decisions, and understand the world in a more nuanced and evidence-based way.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -277,3 +277,7 @@ A: Yes, but it requires a shift in organizational culture and structure.  Organi
 *   **Book:** *The Black Swan: The Impact of the Highly Improbable* by Nassim Nicholas Taleb
 *   **Article:** "The Logic of Risk Taking" by Nassim Nicholas Taleb (available online)
 *   **Online Courses/Lectures:** Search for "Nassim Nicholas Taleb Antifragile" on platforms like YouTube and university websites for lectures and discussions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

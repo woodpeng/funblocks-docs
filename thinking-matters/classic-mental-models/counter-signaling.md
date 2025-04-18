@@ -214,3 +214,7 @@ Counter-signaling *can* be manipulative if used unethically to deceive or exploi
     * Publications in behavioral economics and strategic communication that discuss subtle signaling strategies.
 
 By delving deeper into these resources and continuing to practice and refine your understanding, you can further enhance your mastery of the powerful mental model of counter-signaling.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

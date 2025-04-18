@@ -190,3 +190,7 @@ Probably not, and striving for perfection is likely counterproductive.  The goal
 * **Article:** "Your Media Diet: How to Choose What You Consume" - Farnam Street
 * **Podcast:** "The Knowledge Project" - Interviews often touch upon related concepts of mental models and information management.
 * **Website/Blog:**  Websites focused on mindfulness, digital wellness, and productivity often discuss aspects of the Information Diet. (Search terms: "digital minimalism," "attention management," "mindful technology use")
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

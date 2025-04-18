@@ -279,3 +279,7 @@ Start by identifying one small area of your life where you want to practice dela
 * **Article: "Delaying Gratification: Implications for Life Success" by Walter Mischel et al. (Journal of Personality and Social Psychology, 1989)** -  A seminal research paper detailing the longitudinal findings of the Stanford Marshmallow Experiment. (Available through academic databases or research repositories).
 * **Podcast: "Hidden Brain" episodes related to self-control and willpower** -  NPR's "Hidden Brain" podcast often covers topics related to behavioral psychology and decision-making, including episodes relevant to delayed gratification. Search their archives for relevant episodes.
 * **Online Courses on Mindfulness and Cognitive Behavioral Therapy (CBT)** -  Platforms like Coursera, edX, and Udemy offer courses on mindfulness and CBT techniques, which can be helpful in developing self-awareness and impulse control, key components of delayed gratification.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

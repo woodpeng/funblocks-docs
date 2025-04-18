@@ -223,3 +223,7 @@ To protect yourself online: be skeptical of overly positive or negative reviews,
 * **"Thinking, Fast and Slow" by Daniel Kahneman:**  Explores cognitive biases and heuristics, including concepts related to Social Proof.
 * **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard H. Thaler and Cass R. Sunstein:** Discusses how to use behavioral insights, including Social Proof, to "nudge" people towards better choices.
 * **Articles and research papers on Social Psychology and Behavioral Economics:** Search academic databases like Google Scholar or JSTOR for scholarly articles on Social Proof, conformity, and related topics.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

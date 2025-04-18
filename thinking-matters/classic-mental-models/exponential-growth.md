@@ -244,3 +244,7 @@ To delve deeper into exponential growth, you can explore resources like:
 
 * **Article:** "Understanding Exponential Growth" by Wait But Why: [https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) (Specifically the section on exponential growth)
 * **Book:** "Thinking in Systems: A Primer" by Donella H. Meadows (Explores systems thinking and feedback loops, relevant to understanding the context of exponential growth).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

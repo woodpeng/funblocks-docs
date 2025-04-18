@@ -321,3 +321,7 @@ No, while presented step-by-step, the Concept Fan is a flexible framework. The p
 *   **Mind Mapping Software:** Tools like MindManager, XMind, or FreeMind can be helpful for visually creating and managing Concept Fans digitally.
 *   **Articles and Blog Posts on Mental Models:** Search online for articles and blogs discussing mental models for decision-making and problem-solving, including the Concept Fan. Websites like Farnam Street (fs.blog) often feature insightful content on mental models.
 *   **Workshops and Courses on Creative Thinking and Problem-Solving:** Consider attending workshops or online courses focused on creative thinking, lateral thinking, and problem-solving techniques to further develop your skills in applying the Concept Fan and related methods.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

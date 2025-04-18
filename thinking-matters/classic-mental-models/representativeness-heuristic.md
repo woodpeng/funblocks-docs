@@ -240,3 +240,7 @@ Real-world consequences are vast. In finance, it can lead to poor investment dec
 *   **Judgment under Uncertainty: Heuristics and Biases by Daniel Kahneman, Paul Slovic, and Amos Tversky (Editors):** A collection of seminal research papers that laid the foundation for the field of behavioral economics, including the original papers on the Representativeness Heuristic. (More academic).
 *   **The Undoing Project: A Friendship That Changed Our Minds by Michael Lewis:** A captivating narrative account of the collaboration and friendship between Daniel Kahneman and Amos Tversky, and the development of their groundbreaking ideas.
 *   **Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard H. Thaler and Cass R. Sunstein:** Explores how understanding cognitive biases, including heuristics, can be used to design "nudges" that improve decision-making in various domains.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

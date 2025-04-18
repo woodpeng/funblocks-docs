@@ -242,3 +242,7 @@ Imagine judging a chef solely on whether you liked the final dish, without consi
 
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:**  A comprehensive exploration of cognitive biases, including the foundations of outcome bias.
 *   **"Judgment in Managerial Decision Making" by Max Bazerman and Don Moore:**  A detailed textbook on decision-making biases and strategies for improvement, with extensive coverage of outcome bias and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -192,3 +192,7 @@ Common mistakes include becoming overly negative or pessimistic, getting stuck i
 * **"Thinking in Systems: A Primer" by Donella H. Meadows:**  Provides a broader understanding of systems thinking, which complements Inversion.
 * **Stoic Philosophy (Works of Seneca, Epictetus, Marcus Aurelius):**  Explore the origins of negative visualization and its connection to Inversion.
 * **"The Black Swan: The Impact of the Highly Improbable" by Nassim Nicholas Taleb:** Discusses the importance of anticipating and preparing for unexpected events, aligning with the principles of Inversion in risk management.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

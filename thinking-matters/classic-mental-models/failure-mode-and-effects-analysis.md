@@ -314,3 +314,7 @@ While RPN (Risk Priority Number) is a common component of FMEA and helpful for p
 *   **Books:** "Failure Mode and Effect Analysis, FMEA from Theory to Execution" by D.H. Stamatis, "The FMEA Pocket Handbook" by Kenneth W. Dailey.
 *   **Standards:**  SAE J1739 (potential Failure Mode and Effects Analysis in Design (Design FMEA), Potential Failure Mode and Effects Analysis in Manufacturing and Assembly Processes (Process FMEA), and Potential Failure Mode and Effects Analysis for Machinery (Machinery FMEA)), MIL-STD-1629A (Procedures for Performing a Failure Mode, Effects and Criticality Analysis).
 *   **Online Courses:** Platforms like Coursera, Udemy, and LinkedIn Learning offer courses on FMEA and related quality management tools.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

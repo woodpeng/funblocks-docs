@@ -198,3 +198,7 @@ By integrating the Mental Sandbox into your thinking processes, you cultivate a 
     * Websites and blogs discussing mental models and thinking frameworks (offer a broader context for the Mental Sandbox and its place within a toolkit of cognitive tools).
 
 By exploring these resources and continuing to practice using your Mental Sandbox, you can further develop your cognitive abilities and unlock its full potential for enhanced thinking and decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

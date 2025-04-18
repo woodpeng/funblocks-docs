@@ -284,3 +284,7 @@ We encourage you to actively experiment with De Bono's Six Action Shoes in your 
 * **Workshops and Courses:**  Consider attending workshops or online courses focused on De Bono's thinking methods, which may include modules on Six Action Shoes.
 
 By engaging with these resources and practicing the model, you can further enhance your understanding and application of De Bono's Six Action Shoes for more effective thinking and action.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

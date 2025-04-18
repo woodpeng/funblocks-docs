@@ -281,3 +281,7 @@ Practice is key! Start by consciously applying the step-by-step guide to everyda
 
 *   **Courses and Workshops:**
     *   Online courses on critical thinking, logic, and problem-solving offered by platforms like Coursera, edX, and Udemy.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

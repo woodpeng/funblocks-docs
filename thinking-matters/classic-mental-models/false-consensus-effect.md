@@ -304,3 +304,7 @@ The False Consensus Effect is a *systematic bias* in how we perceive consensus, 
 * **Ross, L., Greene, D., & House, P. (1977). The "false consensus effect": An egocentric bias in social perception and attribution processes.** *Journal of Experimental Social Psychology, 13*(3), 279-301.* (The original paper introducing the False Consensus Effect)
 * **Marks, G., & Miller, N. (1987). Ten years of research on the false-consensus effect: An empirical and theoretical review.** *Psychological Bulletin, 102*(1), 72–90.* (A comprehensive review of early research on the topic)
 * **Krueger, J. I. (2000). The cognitive infrastructure of social projection.** In J. P. Forgas, K. D. Williams, & L. Wheeler (Eds.), *The social mind: Cognitive and motivational aspects of interpersonal behavior* (pp. 245–262). Cambridge University Press. (Explores the underlying cognitive mechanisms)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

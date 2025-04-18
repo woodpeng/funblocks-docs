@@ -216,3 +216,7 @@ It's common in investment decisions (believing stocks are "due" for corrections)
     * Courses on Behavioral Economics, Cognitive Psychology, and Statistics platforms like Coursera, edX, or Udacity.
 
 By continuing to explore these resources and actively applying the principles discussed, you can deepen your understanding of the Gambler's Fallacy and further refine your critical thinking skills in navigating the complexities of randomness and probability in the world around you.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

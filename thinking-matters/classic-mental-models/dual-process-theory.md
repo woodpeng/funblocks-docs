@@ -238,3 +238,7 @@ Yes, very much so.  System 1 is strongly influenced by emotions, and many emotio
 *   **"Rationality and the Reflective Mind" by Keith Stanovich:** A more in-depth academic exploration of rationality, System 1 and System 2, and individual differences in thinking styles.
 *   **"Strangers to Ourselves: Discovering the Adaptive Unconscious" by Timothy Wilson:** Explores the power and limitations of the unconscious mind, providing a broader context for understanding System 1 processes.
 *   **Journal Articles:** Search for research articles on "Dual Process Theory," "System 1 and System 2," and "Cognitive Reflection Test" in academic databases like PsycINFO or JSTOR for deeper dives into specific aspects of the theory.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

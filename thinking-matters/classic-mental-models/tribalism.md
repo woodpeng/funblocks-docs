@@ -339,3 +339,7 @@ It's unlikely that we can completely eliminate tribalism, as it's deeply rooted 
     *   *Evolution and Human Behavior*
 
 These resources offer deeper dives into the various aspects of tribalism, from its psychological and sociological underpinnings to its practical implications in modern life. Exploring these materials will further enhance your understanding and application of the mental model of Tribalism.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -279,3 +279,7 @@ In a world that constantly pressures us to compromise, adapt, and prioritize sho
     * Websites of ethical organizations and think tanks focused on business ethics, technology ethics, and personal ethics.
 
 By continuing to explore these resources and reflect on the principles of Value Drift, you can deepen your understanding and enhance your ability to apply this powerful mental model in your own life and work.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -254,3 +254,7 @@ Signs of low resilience can include: difficulty bouncing back from setbacks, per
 
 **5. How can I measure my own resilience?**
 While there isn't a single definitive "resilience score," there are self-assessment questionnaires and scales available online and through psychology resources that can provide insights into your resilience levels.  These assessments often focus on areas like coping skills, emotional regulation, social support, and problem-solving abilities.  Reflecting on your past experiences and how you've navigated challenges can also provide valuable self-assessment.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -232,3 +232,7 @@ Actively seek diverse perspectives.  Include team members with varied background
 * **"The Design of Everyday Things" by Don Norman:**  Offers principles of design thinking and iterative improvement, relevant to the application of Idea Stacking in product development and problem-solving.
 * **"Agile Software Development with Scrum" by Ken Schwaber and Jeff Sutherland:**  Explores agile methodologies that embody iterative development, a core principle of Idea Stacking, in a software context.
 * **Articles and resources on "Systems Thinking" and "Complexity Theory":** To deepen your understanding of holistic approaches and how interconnected systems evolve, which provides a broader context for Idea Stacking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -256,3 +256,7 @@ Signs you might be in an echo chamber include: primarily consuming information f
     *   Podcasts discussing media, technology, and society often address the Echo Chamber Effect and related topics. Examples include "On the Media," "The Ezra Klein Show," and "Hidden Brain."
 
 By exploring these resources, you can delve deeper into the Echo Chamber Effect and develop a more comprehensive understanding of its complexities and implications.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

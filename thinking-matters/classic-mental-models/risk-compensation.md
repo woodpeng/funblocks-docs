@@ -279,3 +279,7 @@ While related, Risk Compensation and moral hazard are distinct concepts.  Moral 
 *   **Website:**  The Risk Homeostasis Theory website (if available, search online for "Risk Homeostasis Theory") -  Potentially resources and articles related to Wilde's theory and Risk Compensation.
 *   **Academic Databases:**  Search for articles on "Risk Compensation," "Risk Homeostasis," and "Behavioral Adaptation" in databases like PubMed, PsycINFO, and Google Scholar for current research.
 *   **Online Courses:**  Platforms like Coursera, edX, and Udemy may offer courses on behavioral economics, decision-making, and risk management that touch upon Risk Compensation principles.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

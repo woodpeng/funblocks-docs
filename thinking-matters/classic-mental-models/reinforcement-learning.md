@@ -294,3 +294,7 @@ For a deeper dive, Richard S. Sutton and Andrew G. Barto's book, "Reinforcement 
 * **OpenAI Gym:** A toolkit for developing and comparing reinforcement learning algorithms - [https://gym.openai.com/](https://gym.openai.com/)
 * **TensorFlow Agents:** A library for Reinforcement Learning in TensorFlow - [https://www.tensorflow.org/agents](https://www.tensorflow.org/agents)
 * **Journal of Machine Learning Research (JMLR):** A leading journal publishing research in machine learning, including Reinforcement Learning - [https://www.jmlr.org/](https://www.jmlr.org/)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -229,3 +229,7 @@ Ultimately, the Social Proof Cascade reminds us that while we are social creatur
    * **Online Courses:** Platforms like Coursera, edX, and Khan Academy offer courses on social psychology, behavioral economics, and related topics that delve into social influence and decision-making.
 
 ---
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -287,3 +287,7 @@ If you can answer "yes" to these questions, you are likely engaging in genuine r
     *   LessWrong (LessWrong.com) - Community and resources on rationality and cognitive biases.
     *   Farnam Street (fs.blog) - Blog exploring mental models, including rationality.
     *   Effective Altruism (effectivealtruism.org) - Philosophy and movement focused on using rationality to do the most good.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

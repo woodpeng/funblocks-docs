@@ -238,3 +238,7 @@ While research is ongoing, some brain training apps and games designed to target
     * Workshops and seminars focused on adaptability, resilience, and change management often incorporate principles of mental flexibility.
 
 By exploring these resources and continuing to practice mental flexibility in your daily life, you can deepen your understanding and further enhance your cognitive agility, becoming a more adaptable and effective thinker in all aspects of your journey.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

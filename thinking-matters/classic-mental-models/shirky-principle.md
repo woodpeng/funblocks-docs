@@ -234,3 +234,7 @@ Yes, understanding the Shirky Principle proactively allows you to anticipate pot
 *   **Talk:** Clay Shirky's TED Talk on "Cognitive Surplus"
 *   **Articles and Essays:** Search for articles and essays by Clay Shirky on topics related to the internet, social media, and organizational change.
 *   **Online Communities:** Engage in online discussions and communities focused on mental models, critical thinking, and organizational behavior to explore different perspectives on the Shirky Principle.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

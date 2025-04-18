@@ -235,3 +235,7 @@ For those interested in delving deeper into the False Dichotomy mental model and
     *   Internet Encyclopedia of Philosophy: [https://iep.utm.edu/](https://iep.utm.edu/) - Provides detailed philosophical explanations of logical fallacies and related concepts. Search for "False Dilemma" or "False Dichotomy" for in-depth academic perspectives.
 
 By exploring these resources and continuing to practice critical thinking, you can further refine your understanding of the False Dichotomy mental model and enhance your ability to navigate the complexities of information and decision-making in the modern world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

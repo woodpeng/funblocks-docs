@@ -359,3 +359,7 @@ Numerous resources can deepen your understanding of heuristics.  Books like "Thi
     * Courses on cognitive psychology, behavioral economics, and decision-making on platforms like Coursera, edX, and Khan Academy.
 
 By continuously learning and practicing, you can master Heuristic Layering and unlock its full potential to enhance your thinking and decision-making abilities.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

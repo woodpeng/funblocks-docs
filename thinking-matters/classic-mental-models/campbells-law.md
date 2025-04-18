@@ -285,3 +285,7 @@ By integrating Campbell's Law into your thinking processes, you can become a mor
 * Smith, P. (1995). On the unintended consequences of publishing performance data in the public sector. *International Journal of Public Administration*, *18*(2-3), 277-310.
 * Muller, J. Z. (2018). *The Tyranny of Metrics*. Princeton University Press.
 * Taleb, N. N. (2007). *The Black Swan: The Impact of the Highly Improbable*. Random House. (While not directly about Campbell's Law, it explores related themes of measurement limitations and unintended consequences in complex systems).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

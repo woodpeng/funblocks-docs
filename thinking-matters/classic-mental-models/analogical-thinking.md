@@ -317,3 +317,7 @@ While highly versatile, analogical thinking is not universally applicable or alw
     *   Platforms like Coursera, edX, and Udemy may offer courses related to cognitive psychology, creative thinking, or problem-solving that touch upon analogical thinking.
 
 Explore these resources to delve deeper into the fascinating world of analogical thinking and further enhance your cognitive toolkit.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

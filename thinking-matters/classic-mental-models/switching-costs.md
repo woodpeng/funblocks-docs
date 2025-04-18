@@ -231,3 +231,7 @@ Digital technology has both increased and decreased switching costs.  On one han
 *   **Academic Articles:** Search for articles on "switching costs," "customer loyalty," and "lock-in" in economics and marketing journals.
 *   **Online Resources:** Websites and blogs focusing on mental models, behavioral economics, and decision-making often discuss Switching Costs.  Explore resources from universities and research institutions in economics and business.
 *   **Podcasts:** Podcasts on business strategy, economics, and psychology often touch upon the concept of Switching Costs in various contexts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

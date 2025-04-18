@@ -259,3 +259,7 @@ While Essentialism is a valuable framework, it's not always perfectly applicable
 *   **Article:** "The Power of Less" by Leo Babauta ([zenhabits.net](https://zenhabits.net/less/)) - A classic article on minimalist productivity and focus.
 *   **Podcast:** "The Tim Ferriss Show" - Search for episodes featuring Greg McKeown or discussions on productivity and focus.
 *   **Mental Model:** [First Principles Thinking](/thinking-matters/classic-mental-models/first-principles-thinking) - Complements Essentialism by helping you break down problems to their fundamental truths, aiding in discernment.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

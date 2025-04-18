@@ -323,3 +323,7 @@ While versatile, Open Loop Thinking may not be optimally suited for every single
     *   Articles and resources on Systems Thinking, Cybernetics, Agile Methodologies, and Design Thinking.
     *   Online courses and workshops on Design Thinking and Agile Project Management.
     *   Blogs and articles on mental models and cognitive frameworks for decision-making.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

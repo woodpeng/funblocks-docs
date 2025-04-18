@@ -216,3 +216,7 @@ Organizations or groups that:
 *   **Book:** "The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA" by Diane Vaughan. This is the foundational work on Normalization of Deviance and provides a detailed case study.
 *   **Articles and Research Papers:** Search academic databases (like JSTOR, Google Scholar) for articles and research papers on "Normalization of Deviance" in various fields like organizational safety, healthcare, engineering, and ethics.
 *   **Online Resources:** Websites and blogs focused on mental models, critical thinking, and organizational psychology often discuss Normalization of Deviance. Look for reputable sources and expert commentary.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

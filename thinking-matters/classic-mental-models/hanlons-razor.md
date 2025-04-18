@@ -228,3 +228,7 @@ No, Hanlon's Razor is not about blind trust or naivety.  It's about intellectual
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** Explores cognitive biases and heuristics, providing a broader context for understanding mental models like Hanlon's Razor.
 *   **"Poor Charlie's Almanack" edited by Peter Kaufman:**  A collection of wisdom from Charlie Munger, including discussions of mental models and rational thinking.
 *   **Shane Parrish's Farnam Street Blog (fs.blog):** Offers articles and resources on mental models and decision-making, often featuring discussions of Hanlon's Razor and related concepts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -263,3 +263,7 @@ Ultimately, the Butterfly Effect is a reminder that we are all part of something
     * TED Talks on Complexity and Systems Thinking (TED.com offers numerous talks related to complex systems and interconnectedness)
 
 By exploring these resources and continuing to reflect on the principles of the Butterfly Effect, you can deepen your understanding and further integrate this powerful mental model into your thinking toolkit.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

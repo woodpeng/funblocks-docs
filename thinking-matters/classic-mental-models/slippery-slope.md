@@ -280,3 +280,7 @@ To avoid a negative Slippery Slope:
 * **"The Art of Thinking Clearly" by Rolf Dobelli:** A collection of common thinking errors, including a section on the Slippery Slope fallacy, offering practical advice on avoiding cognitive pitfalls.
 * **"Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life" by Howard Kahane and Nancy Cavender:** A textbook on logic and argumentation, providing a more in-depth analysis of the Slippery Slope argument and fallacy from a logical perspective.
 * **Academic articles on "Slippery Slope Arguments" in philosophy and argumentation theory journals:** For a deeper dive into the philosophical and logical underpinnings of the model and the debate surrounding its validity and fallaciousness.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

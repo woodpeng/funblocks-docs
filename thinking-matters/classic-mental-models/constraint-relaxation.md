@@ -217,3 +217,7 @@ Ready to start applying Constraint Relaxation? Here’s a step-by-step guide to 
 | 2. Identify Constraints  | List all constraints you perceive about coffee mugs (e.g., material, shape, function) | Material is ceramic, must have a handle, cylindrical shape, holds about 12 oz, microwave safe, dishwasher safe, relatively inexpensive to produce. |
 | 3. Categorize Constraints | Categorize constraints as hard/soft, functional/non-functional.                 | Hard: Microwave safe, dishwasher safe. Soft: Ceramic material, cylindrical shape, handle, 12 oz size, inexpensive. Functional: Keeps coffee contained, allows drinking. Non-functional: Ceramic material, cylindrical shape, handle, aesthetic. |
 | 4. Challenge Assumptions | Choose 2-3 soft constraints. Challenge the assumptions behind them. Why are they constraints? | Soft Constraints Challenged: Ceramic Material: Why ceramic? Is it *necessary*?  Cylindrical Shape: Is cylindrical shape the *best* for heat retention or ergonomics? Handle: Is a handle the only or *best* way to hold a mug?
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

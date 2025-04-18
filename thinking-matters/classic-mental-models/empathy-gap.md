@@ -361,3 +361,7 @@ Yes, understanding the Empathy Gap is highly valuable in many careers, especiall
 *   **"Thinking, Fast and Slow"** by Daniel Kahneman (2011) - A broader exploration of cognitive biases and heuristics, providing context for understanding the Empathy Gap within the larger landscape of cognitive limitations.
 *   **"Influence: The Psychology of Persuasion"** by Robert Cialdini (1984) - While not directly about the Empathy Gap, this book provides insights into how visceral factors and emotions can be leveraged in persuasion, highlighting the practical implications of understanding "hot states."
 *   **Research papers by George Loewenstein and his colleagues** - Search academic databases for more recent and specialized research on the Empathy Gap and related topics in behavioral economics and psychology.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -342,3 +342,7 @@ Start by becoming aware of your own thought processes and identifying areas wher
 * **Books on Critical Thinking:** "Thinking, Fast and Slow" by Daniel Kahneman, "The Art of Thinking Clearly" by Rolf Dobelli.
 * **Books on Problem-Solving:** "Algorithms to Live By" by Brian Christian and Tom Griffiths, "Problem Solving 101" by Ken Watanabe.
 * **Articles and Resources on Cognitive Biases:** Explore websites and articles on behavioral economics and cognitive psychology to deepen your understanding of common biases that can "bug" your thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

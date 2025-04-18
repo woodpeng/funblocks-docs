@@ -266,3 +266,7 @@ Ethical considerations are increasingly important for MSPs due to their signific
     * Platform Thinking (blog by Sangeet Paul Choudary): [https://platformthinking.io/](https://platformthinking.io/)
     * Harvard Business Review: [https://hbr.org/](https://hbr.org/) (Search for "Multisided Platforms" or "Platform Strategy")
     * MIT Sloan Management Review: [https://sloanreview.mit.edu/](https://sloanreview.mit.edu/) (Search for "Digital Platforms")
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

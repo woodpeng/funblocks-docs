@@ -336,3 +336,7 @@ Foster a culture of psychological safety where people feel comfortable sharing u
 *   **Websites:**
     *   Creative Education Foundation (CEF): [https://www.creativeeducationfoundation.org/](https://www.creativeeducationfoundation.org/)
     *   Mind Tools: [https://www.mindtools.com/](https://www.mindtools.com/) (Search for "Divergent Thinking" or "Brainstorming")
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

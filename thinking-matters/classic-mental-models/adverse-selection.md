@@ -267,3 +267,7 @@ Examples of successful strategies include:
 * **"Information Rules: A Strategic Guide to the Network Economy" by Carl Shapiro and Hal R. Varian (1998):** A comprehensive book exploring information economics, including adverse selection and its implications in the digital age.
 * **"Thinking, Fast and Slow" by Daniel Kahneman (2011):** While not solely focused on adverse selection, this book provides a broader framework for understanding cognitive biases and decision-making under uncertainty, which is relevant to understanding the psychology behind adverse selection.
 * **Microeconomics textbooks:** Most intermediate and advanced microeconomics textbooks have dedicated chapters on information asymmetry, adverse selection, and related topics like moral hazard and signaling. Look for textbooks by authors like Varian, Mankiw, or Pindyck and Rubinfeld.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

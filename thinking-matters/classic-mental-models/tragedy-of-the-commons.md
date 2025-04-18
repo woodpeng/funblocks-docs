@@ -256,3 +256,7 @@ You can contribute by being mindful of your use of shared resources, practicing 
 * **"Understanding Knowledge as a Commons: From Theory to Practice" edited by Charlotte Hess and Elinor Ostrom (2007):**  Explores the concept of knowledge commons and its implications for intellectual property and information sharing.
 * **"Common Pool Resources and Collective Action: A Grammar of Institutions" by Elinor Ostrom, Roy Gardner, and James Walker (1994):** A more technical and in-depth analysis of common-pool resource management.
 * **"Debt: The First 5,000 Years" by David Graeber (2011):**  While not directly about the Tragedy of the Commons, Graeber's anthropological work explores historical and cultural perspectives on resource sharing, reciprocity, and collective action, offering a broader context for understanding commons dilemmas.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

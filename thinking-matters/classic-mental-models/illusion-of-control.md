@@ -194,3 +194,7 @@ You can't completely eliminate it, as it's a deeply ingrained cognitive bias. Ho
 
 *   **Langer, E. J. (1975). The illusion of control.** *Journal of Personality and Social Psychology, 32*(2), 311–328.* (Original research paper by Ellen Langer)
 *   **Thompson, S. C., Armstrong, W., & Thomas, C. (1998). Illusions of control: A weberian perspective.** In M. Kofta, G. Weary, & G. Sedek (Eds.), *Personal control in action: Cognitive and motivational mechanisms* (pp. 183–208). Plenum Press. (Explores the concept in a broader theoretical context)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

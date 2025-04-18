@@ -217,3 +217,7 @@ Ready to start applying Value Inversion in your own life? Here's a step-by-step 
 **Worksheet:**
 
 | Step                                  | Description                                                                                                                                                                                                                                                              | Your Notes/Answers
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

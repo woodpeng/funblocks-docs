@@ -267,3 +267,7 @@ Practice is key! Start by consciously identifying input spaces and generic space
 *   **Academic Articles:** Search for "Conceptual Blending Theory" or "Integration Networks" on academic databases like JSTOR or Google Scholar for in-depth research papers.
 
 *   **Online Resources:** Explore websites and blogs dedicated to cognitive science, mental models, and creative thinking. Look for articles and discussions specifically on Conceptual Blending. Platforms like Coursera or edX may offer courses related to cognitive linguistics or creative thinking that touch upon blending theory.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

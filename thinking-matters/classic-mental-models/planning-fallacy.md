@@ -257,3 +257,7 @@ The Planning Fallacy was formally introduced by Daniel Kahneman and Amos Tversky
 * **"Project Management Institute (PMI)" Resources:** PMI offers extensive resources, certifications, and publications on project management best practices, including strategies for realistic planning and risk management, which indirectly address the Planning Fallacy.
 * **Research Papers by Daniel Kahneman and Amos Tversky:**  For a deeper dive into the original research, explore their academic publications on judgment under uncertainty and cognitive biases.  Search databases like Google Scholar or JSTOR.
 * **Online Articles and Blogs on Behavioral Economics and Cognitive Biases:**  Numerous websites and blogs dedicated to behavioral economics offer accessible explanations of the Planning Fallacy and related concepts. Search for terms like "Planning Fallacy," "cognitive biases," and "behavioral economics."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

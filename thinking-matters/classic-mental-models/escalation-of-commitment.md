@@ -260,3 +260,7 @@ Escalation of commitment is highly relevant to personal relationships.  As illus
     * Psychology Today (psychologytoday.com) - Articles and information on psychological concepts, including cognitive biases.
 
 By exploring these resources, you can deepen your understanding of Escalation of Commitment and related mental models, further enhancing your ability to make more rational and effective decisions.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

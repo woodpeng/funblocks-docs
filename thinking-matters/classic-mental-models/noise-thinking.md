@@ -318,3 +318,7 @@ For readers seeking a deeper understanding of the concepts underlying Noise Thin
     *   Productivity and time management apps and platforms (Todoist, Asana, Trello)
 
 By exploring these resources, you can further deepen your understanding of the principles and techniques related to Noise Thinking and enhance your ability to apply this powerful mental model in your own life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

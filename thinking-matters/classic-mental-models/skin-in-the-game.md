@@ -206,3 +206,7 @@ Start by asking yourself: "Who has Skin in the Game in this situation?" when mak
 * **Books by Nassim Nicholas Taleb:** *Antifragile: Things That Gain from Disorder* and *Skin in the Game: Hidden Asymmetries in Daily Life*.
 * **Essays and Articles by Nassim Nicholas Taleb:** Available on his website and various online platforms.
 * **Academic papers and articles on incentive theory, agency theory, and risk management.** (Search databases like JSTOR, Google Scholar using keywords like "incentive alignment," "agency costs," "risk sharing").
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

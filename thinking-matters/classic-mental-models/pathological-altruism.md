@@ -205,3 +205,7 @@ Pathological Altruism is not classified as a formal mental disorder in diagnosti
 *   **Article:** "The Dangers of Pathological Altruism" by Barbara Oakley, Scientific American. A concise overview of the concept.
 *   **Website/Organization:**  Prosocial - A group dedicated to applying evolutionary science to improve prosociality and cooperation, often touching upon related concepts.
 *   **Podcast:**  "Hidden Brain" episodes often explore themes related to altruism, motivations, and unintended consequences, which can provide further context.  Search for episodes on "helping" or "good intentions."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -288,3 +288,7 @@ You can use Theory of Mind in countless everyday situations!  In conversations, 
     * Psychology Today articles on "Theory of Mind" - [https://www.psychologytoday.com/us/basics/theory-mind](https://www.psychologytoday.com/us/basics/theory-mind) - Accessible articles on various aspects of Theory of Mind.
 
 By exploring these resources and continuing to practice, you can deepen your understanding of Theory of Mind and unlock its full potential in your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

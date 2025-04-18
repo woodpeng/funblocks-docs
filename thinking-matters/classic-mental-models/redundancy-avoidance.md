@@ -240,3 +240,7 @@ Start by consciously applying it to small, manageable areas of your life or work
     *   "Farnam Street" (fs.blog): Explore articles on mental models, including efficiency and decision-making.
     *   "LessWrong" (lesswrong.com): A community and resource focused on rationality and effective thinking, with discussions related to optimization and efficiency.
     *   "The Minimalists" (theminimalists.com): Offers resources and articles on minimalism, which shares overlapping principles with Redundancy Avoidance in certain contexts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

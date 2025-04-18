@@ -376,3 +376,7 @@ Practice is key!  Actively look for analogies in your daily life.  Try applying 
 
 *   **Online Courses:**
     *   Platforms like Coursera, edX, and Udemy offer courses on design thinking, creativity, and problem-solving, which often touch upon analogical reasoning. Search for keywords like "design thinking," "creative problem solving," or "innovation."
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -237,3 +237,7 @@ There's no single, universal formula to calculate critical mass. The tipping poi
 *   **"Diffusion of Innovations" by Everett Rogers:** A classic work exploring how new ideas and technologies spread through societies, offering valuable insights into early adopters and the process of reaching critical mass in adoption.
 *   **"Linked: How Everything Is Connected to Everything Else and What It Means" by Albert-László Barabási:** Explores network science and the interconnectedness of systems, providing a deeper understanding of network effects and their role in critical mass phenomena.
 *   **"Contagious: Why Things Catch On" by Jonah Berger:**  Delves into the principles of social influence and virality, offering practical insights into how to design ideas and products that are more likely to spread and reach critical mass.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -270,3 +270,7 @@ That's perfectly normal! Scenarios are not predictions, and it's unlikely that r
 *   **"Scenario Planning: Managing in the Face of Uncertainty" by Kees van der Heijden:** Another highly regarded book, offering a more in-depth and academic perspective on Scenario Planning.
 *   **"Thinking in Systems: A Primer" by Donella H. Meadows:** While not specifically about Scenario Planning, this book provides an excellent foundation in Systems Thinking, which is highly complementary to Scenario Planning.
 *   **Global Business Network (GBN):**  A consulting firm with deep expertise in Scenario Planning. Their website and publications offer valuable insights and resources.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

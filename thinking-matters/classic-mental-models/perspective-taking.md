@@ -216,3 +216,8 @@ While generally positive, perspective taking can be misused for manipulation.  I
     * MindTools: Resources on communication, empathy, and interpersonal skills.
 
 * **TED Talks:** Search for TED Talks on "empathy," "perspective taking," or "social cognition" for engaging and insightful presentations.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

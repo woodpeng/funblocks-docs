@@ -323,3 +323,7 @@ In most real-world situations, no.  Decisions are often based on incomplete or u
 *   **Articles and Websites:**
     *   "Type I and Type II Errors" - Statistics By Jim: [https://statisticsbyjim.com/hypothesis-testing/type-i-type-ii-errors/](https://statisticsbyjim.com/hypothesis-testing/type-i-type-ii-errors/)
     *   "Understanding Hypothesis Tests: Significance Levels (Alpha) and P values in Statistics" - ThoughtCo: [https://www.thoughtco.com/significance-levels-alpha-and-p-values-397653](https://www.thoughtco.com/significance-levels-alpha-and-p-values-397653)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

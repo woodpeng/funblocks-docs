@@ -280,3 +280,7 @@ Beyond the examples discussed in the article, consider:
     * Stanford Encyclopedia of Philosophy: Search for "Agency" for a broader philosophical perspective on agency (though less directly related to the economic agency problem).
 
 By exploring these resources and continuing to apply the Agency Problem mental model in your daily life, you can deepen your understanding and become more adept at navigating the complexities of delegated relationships.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

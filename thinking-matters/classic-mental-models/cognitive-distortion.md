@@ -248,3 +248,7 @@ For those seeking a deeper understanding of cognitive distortions and related co
     *   Behavior Therapy
 
 These resources offer further exploration into the theoretical underpinnings, research findings, and practical applications of cognitive distortions, catering to those who wish to delve deeper into this fascinating and impactful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

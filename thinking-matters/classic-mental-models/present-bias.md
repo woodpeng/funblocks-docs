@@ -208,3 +208,7 @@ You can teach children about Present Bias through simple examples and games. The
 * **"Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions" by Dan Ariely:** Explores various aspects of irrationality in decision-making, including time preferences and Present Bias, with engaging real-world examples.
 * **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard H. Thaler and Cass R. Sunstein:**  Focuses on the practical application of behavioral economics, including Present Bias, to design "nudges" that improve decision-making in various domains.
 * **"Golden Eggs and Hyperbolic Discounting" by David Laibson (1997):** The seminal academic paper that formalized the concept of hyperbolic discounting and Present Bias. (Requires academic database access).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

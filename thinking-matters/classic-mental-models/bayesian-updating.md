@@ -295,3 +295,7 @@ By integrating Bayesian Updating into your thinking toolkit, you equip yourself 
 *   **Academic Papers:** Search for research papers on Bayesian methods in your specific field of interest on platforms like JSTOR, Google Scholar, and arXiv.
 
 By continuously learning and practicing, you can deepen your understanding and application of Bayesian Updating, enhancing your ability to make smarter decisions and navigate uncertainty in all aspects of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

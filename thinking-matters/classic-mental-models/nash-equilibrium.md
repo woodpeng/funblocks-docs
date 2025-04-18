@@ -296,3 +296,7 @@ No. While Nash Equilibrium originated in game theory and economics, its applicat
 *   **Websites:**
     *   Stanford Encyclopedia of Philosophy: Entry on Game Theory
     *   Investopedia: Explanation of Nash Equilibrium in finance and economics
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

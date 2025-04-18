@@ -287,3 +287,7 @@ As you move forward, remember to ask yourself: "What am I truly giving up when I
     * Research papers on Austrian Economics and the subjective theory of value, focusing on the works of Friedrich von Wieser and Ludwig von Mises. (Search academic databases like JSTOR or Google Scholar).
 
 By exploring these resources and continuing to practice applying the mental model of Opportunity Cost, you can deepen your understanding and further enhance your decision-making skills.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

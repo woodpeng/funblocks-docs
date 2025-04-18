@@ -324,3 +324,7 @@ For those seeking a deeper understanding of Brainwriting and related creativity 
     * **Online Brainwriting Tools and Platforms:** Explore digital tools like Miro, Mural, Stormboard, or MindMeister, which often have built-in Brainwriting templates and functionalities. Experimenting with these tools can provide practical experience and insights.
 
 By exploring these resources, you can deepen your knowledge of Brainwriting, understand its theoretical underpinnings, and discover advanced techniques and variations to further enhance your application of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

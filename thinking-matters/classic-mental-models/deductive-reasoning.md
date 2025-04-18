@@ -411,3 +411,7 @@ Practice is key! Start by consciously applying the step-by-step guide outlined i
     *   Stanford Encyclopedia of Philosophy (SEP): Search for entries on "Deductive Reasoning," "Logic," "Syllogism," etc. for in-depth philosophical perspectives.
     *   Internet Encyclopedia of Philosophy (IEP): Similar to SEP, offering accessible explanations of philosophical concepts related to logic and reasoning.
     *   Websites dedicated to logic puzzles and brain teasers (search for "logic puzzles," "deductive reasoning games").
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

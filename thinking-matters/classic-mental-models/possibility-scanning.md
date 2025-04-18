@@ -319,3 +319,7 @@ Categorization, evaluation, and filtering are crucial steps to manage informatio
     * MindTools (mindtools.com) - Provides practical resources and articles on various thinking and problem-solving techniques.
 
 By continuing to explore these resources and practicing Possibility Scanning, you can further refine your ability to navigate complexity, unlock opportunities, and make more informed decisions in all areas of your life.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

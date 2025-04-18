@@ -272,3 +272,7 @@ Advanced techniques to mitigate selection bias include:
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** While not solely focused on selection bias, this book provides a comprehensive overview of cognitive biases and heuristics, providing a broader context for understanding selection bias within the landscape of cognitive errors.
 *   **"Naked Statistics: Stripping the Dread from the Data" by Charles Wheelan:**  An engaging and accessible introduction to statistical concepts, including sampling and bias, for a general audience.
 *   **"Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Richard McElreath:** A more advanced textbook that covers Bayesian statistical methods and addresses issues of bias and model misspecification in a comprehensive way.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

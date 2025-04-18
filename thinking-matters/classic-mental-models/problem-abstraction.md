@@ -237,3 +237,7 @@ The concept is relatively straightforward, but mastering its application takes p
 * **Articles & Online Resources:**
     * Farnam Street Blog (fs.blog) - Offers numerous articles on mental models, including related concepts.
     * LessWrong Wiki (lesswrong.com) -  A community focused on rationality and cognitive science, with discussions on abstraction and related topics.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

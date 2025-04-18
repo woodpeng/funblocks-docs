@@ -372,3 +372,7 @@ For those seeking a deeper understanding of mental simulation and related concep
     * Websites and blogs dedicated to mental models and thinking tools, offering articles, guides, and resources on mental simulation and its applications.
 
 By delving into these resources, you can further expand your knowledge and refine your understanding of mental simulation, unlocking even greater potential for its application in your life and work.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

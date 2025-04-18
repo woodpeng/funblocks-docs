@@ -243,3 +243,7 @@ Group Polarization can contribute to radicalization, as it can drive groups towa
     * Research papers on Group Polarization (search databases like Google Scholar or JSTOR for academic articles)
 
 By exploring these resources and continuing to observe group dynamics in your own life, you can deepen your understanding of Group Polarization and its profound influence on human behavior.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

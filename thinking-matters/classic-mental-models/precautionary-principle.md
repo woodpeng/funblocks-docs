@@ -236,3 +236,7 @@ For deeper understanding, consider exploring these resources:
     * United Nations Environment Programme (UNEP) - works on international environmental governance and often incorporates precautionary approaches.
 
 By exploring these resources, you can gain a more nuanced and comprehensive understanding of the Precautionary Principle and its application in various fields.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -222,3 +222,8 @@ While it can still have a subtle influence, the Rhyme-as-Reason Effect is genera
 
 * **Articles and Research Papers:**
     * Search for academic articles on "Rhyme-as-Reason Effect," "cognitive fluency," "processing ease," and "persuasion" on platforms like Google Scholar or JSTOR.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

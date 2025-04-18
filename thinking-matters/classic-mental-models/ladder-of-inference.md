@@ -293,3 +293,7 @@ A5: Start by reflecting on everyday misunderstandings or disagreements. Try to t
     * Search online for "Ladder of Inference" – many articles and blog posts explain the model in various contexts.
     * Websites focusing on mental models and cognitive biases often include explanations of the Ladder of Inference.
 * **Workshops & Courses:**
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

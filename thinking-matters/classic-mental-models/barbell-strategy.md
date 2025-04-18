@@ -252,3 +252,7 @@ In an increasingly unpredictable world, the ability to navigate uncertainty is p
 *   **Articles and Essays by Nassim Nicholas Taleb:** Search online for his essays and interviews on risk, uncertainty, and antifragility.
 *   **Websites and Blogs discussing Mental Models:** Explore resources like Farnam Street (fs.blog), LessWrong, and others that delve into various mental models, including the Barbell Strategy.
 *   **Academic Research on Risk Management and Decision-Making under Uncertainty:** Explore academic databases for research papers on topics related to risk management, decision theory, and behavioral economics, which provide deeper theoretical context for the Barbell Strategy.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

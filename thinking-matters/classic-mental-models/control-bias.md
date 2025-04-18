@@ -286,3 +286,7 @@ While research is ongoing, it's generally believed that control bias can affect 
 *   **Kahneman, D. (2011). *Thinking, fast and slow*.** Farrar, Straus and Giroux. (Comprehensive overview of cognitive biases).
 *   **Whitson, J. A., & Galinsky, A. D. (2008). Lacking control increases illusory pattern perception.** *Science, 322*(5898), 115–117.* (Research on the link between lack of control and pattern seeking).
 *   **Press, M. I., & Corrigan, J. D. (2010). Illusion of control in everyday life: A review.** *Journal of Applied Social Psychology, 40*(8), 1923–1951.* (A review article summarizing research on control bias).
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

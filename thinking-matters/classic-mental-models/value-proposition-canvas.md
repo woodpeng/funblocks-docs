@@ -370,3 +370,7 @@ You can learn more from:
 *   **Templates and Tools:**
     *   Strategyzer provides downloadable VPC templates and online collaborative tools.
     *   Miro and Mural offer digital whiteboard templates for collaborative VPC workshops.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

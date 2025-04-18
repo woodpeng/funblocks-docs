@@ -353,3 +353,7 @@ Like any skill, proficiency in Socratic Questioning develops with practice.  You
 * **"Critical Thinking: Tools for Taking Charge of Your Learning and Your Life" by Richard Paul and Linda Elder:** A comprehensive guide to critical thinking, incorporating Socratic Questioning as a central element.
 * **"Asking the Right Questions: A Guide to Critical Thinking" by M. Neil Browne and Stuart M. Keeley:** A practical guide to developing critical thinking skills through question-asking, with examples across various domains.
 * **"Socratic Seminars in the Classroom: Fostering Critical Thinking and Collaboration in Middle and High School" by Matt Copeland:**  Focuses on the educational applications of Socratic Questioning, providing practical strategies for classroom implementation.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -188,3 +188,7 @@ Embrace the lessons of the Cargo Cult.  Don't build straw runways hoping for air
 * **Websites and Blogs:**
     * Farnam Street (fs.blog)
     * LessWrong (lesswrong.com)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -305,3 +305,7 @@ Mastering framing is not about manipulation, but about understanding the psychol
 * **Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*.** Penguin. (Explores applications of behavioral economics, including framing, in policy and everyday life)
 * **Lakoff, G. (2004). *Don't think of an elephant!: Know your values and frame the debate--The essential guide for progressives*.** Chelsea Green Publishing. (Focuses on political framing and communication strategies)
 * **Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm.** *Journal of communication*, *43*(4), 51-58. (Academic article analyzing framing in communication studies)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

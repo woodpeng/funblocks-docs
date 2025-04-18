@@ -253,3 +253,7 @@ Practice metaphorical awareness by identifying metaphors in everyday language an
     * Online courses and lectures on cognitive linguistics and metaphor studies
 
 By exploring these resources and continuing to practice metaphorical awareness, you can deepen your understanding and application of the conceptual metaphor mental model, further enhancing your cognitive abilities and critical thinking skills.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

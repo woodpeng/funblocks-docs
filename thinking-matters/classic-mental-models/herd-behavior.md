@@ -214,3 +214,7 @@ Yes, herd behavior can be beneficial. In situations where individual information
 * **"Irrational Exuberance" by Robert Shiller:**  Analyzes the psychological and social factors behind market bubbles, highlighting the role of herd behavior in financial markets.
 * **"The Wisdom of Crowds" by James Surowiecki:** Explores the conditions under which collective intelligence can be accurate and when crowds can go wrong, offering a nuanced perspective on collective decision-making.
 * **Research papers on "Agent-Based Modeling of Herd Behavior" in fields like economics, sociology, and computer science:** For those interested in a more technical and mathematical understanding of herd behavior dynamics.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

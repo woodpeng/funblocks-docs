@@ -361,3 +361,7 @@ For those seeking a deeper understanding of Abstraction Laddering and related co
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** While not directly about Abstraction Laddering, this book explores cognitive biases and systems of thinking, providing a broader context for understanding how mental models like Abstraction Laddering can improve our thinking.
 *   **"The Great Mental Models: General Thinking Concepts" by Shane Parrish and Rhiannon Beaubien:** A comprehensive overview of various mental models, including related concepts like First Principles Thinking and Systems Thinking, providing a broader framework for understanding Abstraction Laddering within a larger toolkit of mental models.
 *   **Articles and resources on General Semantics:** Explore websites and articles dedicated to General Semantics for further insights into the field that originated the concepts behind Abstraction Laddering. Search for "Institute of General Semantics" for more information.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

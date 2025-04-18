@@ -296,3 +296,7 @@ Yes, the principles of Trust Dynamics can be applied to self-trust.  You can ana
 *   **Academic Articles:** Search Google Scholar for articles on "trust," "social trust," "organizational trust," "trust repair," and related keywords to delve into the academic research underpinning Trust Dynamics.
 *   **Online Courses and Platforms:** Platforms like Coursera, edX, and LinkedIn Learning offer courses on leadership, communication, and interpersonal skills, many of which touch upon aspects of trust building and relationship management.
 *   **Websites and Blogs:** Search for blogs and websites focused on leadership, psychology, and social dynamics that discuss trust-related topics.  Websites related to negotiation and conflict resolution often contain valuable insights into trust dynamics in those contexts.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

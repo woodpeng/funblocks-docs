@@ -204,3 +204,7 @@ Yes, mind mapping is highly effective for team collaboration, especially with di
 * **Online Courses:** Platforms like Udemy, Coursera, and Skillshare offer courses on mind mapping techniques and applications.
 * **Mind Mapping Software Websites:** Explore websites of mind mapping software providers for tutorials, templates, and resources.
 * **Mind Mapping Blogs and Communities:** Online communities and blogs dedicated to mind mapping offer tips, inspiration, and examples of mind map usage.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

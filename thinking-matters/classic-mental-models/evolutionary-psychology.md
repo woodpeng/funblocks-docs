@@ -187,3 +187,7 @@ Yes! Understanding Evolutionary Psychology can improve your self-awareness, rela
 * *Journal of Evolutionary Psychology*
 
 These resources can provide a deeper dive into the fascinating world of Evolutionary Psychology and further enhance your understanding of this powerful mental model.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

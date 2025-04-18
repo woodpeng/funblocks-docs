@@ -218,3 +218,7 @@ For advanced readers seeking a deeper understanding of balancing loops and relat
     *   MIT System Dynamics Group website ([https://sysdyn.mit.edu/](https://sysdyn.mit.edu/))
 
 By exploring these resources and continuing to practice applying the balancing loop mental model, you can deepen your understanding and unlock even greater insights into the systems that shape our world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

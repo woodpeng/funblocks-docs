@@ -327,3 +327,8 @@ The frequency depends on your context and the pace of change in your industry.  
 *   **IDEO U Courses:** IDEO U offers online courses on design thinking and innovation, which often incorporate or complement the Ten Types framework.
 *   **Harvard Business Review and MIT Sloan Management Review:** Search these publications for articles on innovation strategy and business model innovation, which often reference or align with the principles of the Ten Types model.
 *   **Online Articles and Blogs:** Numerous articles and blog posts online discuss and apply the Ten Types of Innovation. Search for "Ten Types of Innovation examples," "Doblin Ten Types," etc., to find further resources and perspectives.
+
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

@@ -343,3 +343,7 @@ Relevance Mapping is a component of critical thinking, but it's not the same thi
     * Websites and blogs dedicated to mental models and thinking frameworks (search for "mental models list" or "thinking tools").
 
 By exploring these resources and continuing to practice Relevance Mapping, you can deepen your understanding and master this invaluable mental model for navigating the complexities of our information-rich world.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

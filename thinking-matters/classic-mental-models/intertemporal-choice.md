@@ -288,3 +288,7 @@ Yes! For deeper dives, explore books on behavioral economics like "Thinking, Fas
     *   BehavioralEconomics.com
     *   The Decision Lab
     *   NBER (National Bureau of Economic Research) working papers on behavioral economics
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

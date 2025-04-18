@@ -167,3 +167,7 @@ Yes, there's individual variation in Temporal Bias. Factors like personality tra
     * BehavioralEconomics.com
     * The Decision Lab
     * Farnam Street (FS.blog) (for broader mental models context)
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

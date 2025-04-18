@@ -250,3 +250,7 @@ Numerous resources are available online and in print. Books like "And Suddenly t
     *   Various online TRIZ matrix and principle databases (available through the websites listed above)
 *   **Training and Workshops:**
     *   Numerous organizations and consultants offer TRIZ training courses and workshops at various levels, from introductory to advanced certification programs.  Search online for "TRIZ training" in your region.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

@@ -264,3 +264,7 @@ While Design Thinking is versatile, it's not a universal solution for every prob
 **Online Courses:**
 
 *   **"Design Thinking" on Coursera (University of Virginia):** A highly-rated introductory course to Design Thinking principles and methods. ([https://www.coursera.org/specializations/design-thinking](https://www.coursera.org/specializations/design-thinking))
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/index)**

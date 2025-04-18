@@ -383,3 +383,7 @@ Yes, the Problem Solving model is highly effective for team problem-solving.  In
 * **Book:** "Thinking, Fast and Slow" by Daniel Kahneman - Explores cognitive biases and decision-making processes, relevant to critical thinking in problem-solving.
 * **Online Course:** "Learning How to Learn" on Coursera - Provides insights into learning and problem-solving strategies based on neuroscience and cognitive psychology.
 * **Website:** MindTools - Offers a wealth of resources and articles on problem-solving techniques, decision-making, and critical thinking.
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**

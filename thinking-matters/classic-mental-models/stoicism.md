@@ -308,3 +308,7 @@ No, Stoicism is a philosophy, not a religion. While some Stoic philosophers disc
 *   **Podcasts:**
     *   The Daily Stoic Podcast
     *   Practical Stoicism Podcast
+
+---
+
+Think better with **AI + Mental Models** – Try **[AIFlow](/)**
